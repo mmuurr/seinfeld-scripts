@@ -6,7 +6,6 @@ Quick repo TOC:
 - Schema (JSON) for each episode: [episode-script.schema.json]
 - Main (Python) script/deps to generate the archive: [tools]
 - Additional tool documentation: [dataset-tooling.md]
-  **TODO: clean up the docs being split across these two files**
 - Raw source (input) snapshots: [data/raw](data/raw)
 - Output: [data/processed/episodes](data/processed/episodes)
 - Coverage manifest: [data/processed/manifest.json](data/processed/manifest.json)
@@ -207,3 +206,11 @@ If the raw snapshots are already present and you do not want to re-fetch them:
 ```bash
 python3 tools/generate_archive.py
 ```
+
+## TODOs
+
+- Docs are spread across this README and [dataset-tooling.md] ... maybe consolidate?
+- There are still many pieces of 'action' text 'dialogue' entries. Improve the parsing to detect these (possibly with confidence). Then, for a dialogue entry like, "foo bar (George gets irritated) baz qux" decide on:
+  - Splitting the entry into three entries: `dialogue: "foo bar"`, `action (or maybe "direction"?): George gets irritated`, `dialogue: "baz qux"`
+	- Add another 'action'-like prop to dialogue entries and strip the action/direction from the dialogue?
+	- Or just ignore ... look through all dialogue parenthetical text blocks and if they are always direction, then they can be removed from `text` (while retaining in `raw_text`).
