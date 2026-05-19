@@ -1,0 +1,3166 @@
+{
+  "episode": {
+    "series_title": "Seinfeld",
+    "episode_number_overall": 74,
+    "title": "The Cigar Store Indian",
+    "season": 5,
+    "episode_number_in_season": 10,
+    "air_date": "1993-12-09",
+    "written_by": [],
+    "directed_by": [],
+    "source_title": "The Cigar Store Indian Script",
+    "source_dataset": "yregelman/unprocessed-seinfeld-scripts"
+  },
+  "entries": [
+    {
+      "entry_id": 1,
+      "type": "scene_heading",
+      "text": "[Setting: Comedy club]",
+      "raw_text": "(Comedy club)",
+      "confidence": 0.9,
+      "location": "Comedy club",
+      "normalized_location": "comedy_club"
+    },
+    {
+      "entry_id": 2,
+      "type": "action",
+      "text": "Jerry's standup piece.",
+      "raw_text": "Jerry's standup piece.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 3,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You can always tell what was the best year of your father's life, because they seem to just freeze that clothing style and just ride it out to the end, don't they? And it's not like they don't continue shopping, it's just they somehow manage to find new old clothes. Every father is like this fashion time capsule, you know what I mean. It's like they should be on a pedestal, with someone next to 'em going 'This was nineteen sixty-five'. To me the worst thing is shopping for pants. I hate dressing and undressing in that little room. What men need is a place to shop where you go in, you check your pants at the door, and you just walk around the store in your underwear. That would be the best way. Then you'd really have to lie to the salesman. 'Need some help?' 'No, just getting some air.'",
+      "raw_text": "You can always tell what was the best year of your father's life, because they seem to just freeze that clothing style and just ride it out to the end, don't they? And it's not like they don't continue shopping, it's just they somehow manage to find new old clothes. Every father is like this fashion time capsule, you know what I mean. It's like they should be on a pedestal, with someone next to 'em going 'This was nineteen sixty-five'. To me the worst thing is shopping for pants. I hate dressing and undressing in that little room. What men need is a place to shop where you go in, you check your pants at the door, and you just walk around the store in your underwear. That would be the best way. Then you'd really have to lie to the salesman. 'Need some help?' 'No, just getting some air.'"
+    },
+    {
+      "entry_id": 4,
+      "type": "scene_heading",
+      "text": "[Setting: George's parents' house]",
+      "raw_text": "(George's parents' house)",
+      "confidence": 0.9,
+      "location": "George's parents' house",
+      "normalized_location": "george_s_parents_house"
+    },
+    {
+      "entry_id": 5,
+      "type": "action",
+      "text": "Elaine and Jerry in the living room.",
+      "raw_text": "Elaine and Jerry in the living room.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 6,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "How would you describe the smell in this house?",
+      "raw_text": "How would you describe the smell in this house?"
+    },
+    {
+      "entry_id": 7,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Dandruff?",
+      "raw_text": "(sniffing) Dandruff?",
+      "parenthetical": "sniffing"
+    },
+    {
+      "entry_id": 8,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah, that's part of it. (sniffs) Kasha?",
+      "raw_text": "Yeah, that's part of it. (sniffs) Kasha?"
+    },
+    {
+      "entry_id": 9,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "There's some kasha.",
+      "raw_text": "There's some kasha."
+    },
+    {
+      "entry_id": 10,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah. Dandruff, kasha, mothballs, cheap carpeting. It's pot pourri, really. George enters from the kitchen (?).",
+      "raw_text": "Yeah. Dandruff, kasha, mothballs, cheap carpeting. It's pot pourri, really. George enters from the kitchen (?)."
+    },
+    {
+      "entry_id": 11,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Alright, let's go, come on.",
+      "raw_text": "Alright, let's go, come on."
+    },
+    {
+      "entry_id": 12,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Wha... you're going?",
+      "raw_text": "Wha... you're going?"
+    },
+    {
+      "entry_id": 13,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah. You know we shouldn't have bowled that last game, I'm gonna be late. Kramer enters from bathroom. He's holding some brightly coloured objects in his hand and obviously has an unpleasant taste in his mouth.",
+      "raw_text": "Yeah. You know we shouldn't have bowled that last game, I'm gonna be late. Kramer enters from bathroom. He's holding some brightly coloured objects in his hand and obviously has an unpleasant taste in his mouth."
+    },
+    {
+      "entry_id": 14,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Egh. These aren't candies.",
+      "raw_text": "Egh. These aren't candies."
+    },
+    {
+      "entry_id": 15,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Kramer. did you use those? These are guest soaps! (he grabs the soaps and begins examining them for damage)",
+      "raw_text": "Kramer. did you use those? These are guest soaps! (he grabs the soaps and begins examining them for damage)"
+    },
+    {
+      "entry_id": 16,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well I'm a guest.",
+      "raw_text": "Well I'm a guest."
+    },
+    {
+      "entry_id": 17,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Now my parents are gonna know I had people over.",
+      "raw_text": "Now my parents are gonna know I had people over."
+    },
+    {
+      "entry_id": 18,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You're not allowed to have people over?",
+      "raw_text": "You're not allowed to have people over?"
+    },
+    {
+      "entry_id": 19,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I can't have any parties while they're out of town. (he leaves to return the soaps)",
+      "raw_text": "I can't have any parties while they're out of town. (he leaves to return the soaps)"
+    },
+    {
+      "entry_id": 20,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What, this is a party?",
+      "raw_text": "What, this is a party?"
+    },
+    {
+      "entry_id": 21,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Not any more. Come on, get your ball, we're leaving. Let's go, let's go. Jerry, Elaine and Kramer begin to leave. George re-enters and notices Jerry's mug on the coffee table.",
+      "raw_text": "Not any more. Come on, get your ball, we're leaving. Let's go, let's go. Jerry, Elaine and Kramer begin to leave. George re-enters and notices Jerry's mug on the coffee table."
+    },
+    {
+      "entry_id": 22,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Wow! Who put this cup right on the new table!",
+      "raw_text": "(yells) Wow! Who put this cup right on the new table!",
+      "parenthetical": "yells"
+    },
+    {
+      "entry_id": 23,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I was having coffee, I put it on the coffee table.",
+      "raw_text": "(picks it up) I was having coffee, I put it on the coffee table.",
+      "parenthetical": "picks it up"
+    },
+    {
+      "entry_id": 24,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "But you didn't use a coaster, Jerry, you left a stain! (he runs to kitchen)",
+      "raw_text": "But you didn't use a coaster, Jerry, you left a stain! (he runs to kitchen)"
+    },
+    {
+      "entry_id": 25,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Whoah boy. There's always one at every party, huh? George returns with a cloth and begins wiping at the stain.",
+      "raw_text": "Whoah boy. There's always one at every party, huh? George returns with a cloth and begins wiping at the stain."
+    },
+    {
+      "entry_id": 26,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Come on!",
+      "raw_text": "(impatient) Come on!",
+      "parenthetical": "impatient"
+    },
+    {
+      "entry_id": 27,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What's the big rush?",
+      "raw_text": "What's the big rush?"
+    },
+    {
+      "entry_id": 28,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I'm having people over.",
+      "raw_text": "I'm having people over."
+    },
+    {
+      "entry_id": 29,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Who?",
+      "raw_text": "Who?"
+    },
+    {
+      "entry_id": 30,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "The girls for poker night. You know, Joanne, Renee, Winona...",
+      "raw_text": "The girls for poker night. You know, Joanne, Renee, Winona..."
+    },
+    {
+      "entry_id": 31,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Eh, eh, ah. Winona's gonna be there?",
+      "raw_text": "Eh, eh, ah. Winona's gonna be there?"
+    },
+    {
+      "entry_id": 32,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah. And she broke up with the vitamin guy.",
+      "raw_text": "Yeah. And she broke up with the vitamin guy."
+    },
+    {
+      "entry_id": 33,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Really?",
+      "raw_text": "(interested) Really?",
+      "parenthetical": "interested"
+    },
+    {
+      "entry_id": 34,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I'll put in a good word for you.",
+      "raw_text": "I'll put in a good word for you."
+    },
+    {
+      "entry_id": 35,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Thanks, because I would really like... (distractedly puts coffee cup back on the table)",
+      "raw_text": "Thanks, because I would really like... (distractedly puts coffee cup back on the table)"
+    },
+    {
+      "entry_id": 36,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Aaahh!!",
+      "raw_text": "(screaming) Aaahh!!",
+      "parenthetical": "screaming"
+    },
+    {
+      "entry_id": 37,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Alright, I'm sorry. I'm sorry. (picks it up again)",
+      "raw_text": "Alright, I'm sorry. I'm sorry. (picks it up again)"
+    },
+    {
+      "entry_id": 38,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "But Jerry, this is not coming out!",
+      "raw_text": "But Jerry, this is not coming out!"
+    },
+    {
+      "entry_id": 39,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Just put a coffee table book over it.",
+      "raw_text": "Just put a coffee table book over it."
+    },
+    {
+      "entry_id": 40,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "My parents don't read! They're gonna wonder what a book is doing on the table!",
+      "raw_text": "My parents don't read! They're gonna wonder what a book is doing on the table!"
+    },
+    {
+      "entry_id": 41,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey, hey, hey, hey. You know what would make a great coffee table book? A coffee table book about coffee tables! Get it?",
+      "raw_text": "Hey, hey, hey, hey. You know what would make a great coffee table book? A coffee table book about coffee tables! Get it?"
+    },
+    {
+      "entry_id": 42,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Got it! C'mon, let's go, let's go. Bye George.",
+      "raw_text": "Got it! C'mon, let's go, let's go. Bye George."
+    },
+    {
+      "entry_id": 43,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Wait, wait wait, not so fast. Jerry, you gotta take me to get this thing refinished.",
+      "raw_text": "Wait, wait wait, not so fast. Jerry, you gotta take me to get this thing refinished."
+    },
+    {
+      "entry_id": 44,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Now?!",
+      "raw_text": "Now?!"
+    },
+    {
+      "entry_id": 45,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yes, now. It's gonna take a few days and my parents are gonna be back. I gotta have it back before them!",
+      "raw_text": "Yes, now. It's gonna take a few days and my parents are gonna be back. I gotta have it back before them!"
+    },
+    {
+      "entry_id": 46,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Jerry, you promised you'd get me home by seven.",
+      "raw_text": "Jerry, you promised you'd get me home by seven."
+    },
+    {
+      "entry_id": 47,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Alright, we'll take the subway.",
+      "raw_text": "Alright, we'll take the subway."
+    },
+    {
+      "entry_id": 48,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "There you go. That'll get you home in time.",
+      "raw_text": "There you go. That'll get you home in time."
+    },
+    {
+      "entry_id": 49,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh! The subway? From Queens?",
+      "raw_text": "Oh! The subway? From Queens?"
+    },
+    {
+      "entry_id": 50,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Alright, Jerry, I'm gonna get my coat.",
+      "raw_text": "Alright, Jerry, I'm gonna get my coat."
+    },
+    {
+      "entry_id": 51,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I'm sorry Elaine, I'll make it up to you.",
+      "raw_text": "I'm sorry Elaine, I'll make it up to you."
+    },
+    {
+      "entry_id": 52,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I need something to read on the subway.",
+      "raw_text": "I need something to read on the subway."
+    },
+    {
+      "entry_id": 53,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Here, read this.",
+      "raw_text": "(handing her a magazine) Here, read this.",
+      "parenthetical": "handing her a magazine"
+    },
+    {
+      "entry_id": 54,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "TV Guide?",
+      "raw_text": "(looks at it) TV Guide?",
+      "parenthetical": "looks at it"
+    },
+    {
+      "entry_id": 55,
+      "type": "scene_heading",
+      "text": "[Setting: Subway train]",
+      "raw_text": "(Subway train)",
+      "confidence": 0.9,
+      "location": "Subway train",
+      "normalized_location": "subway_train"
+    },
+    {
+      "entry_id": 56,
+      "type": "action",
+      "text": "Elaine and Kramer sit together. Elaine is reading TV Guide, Kramer is expanding on his book concept.",
+      "raw_text": "Elaine and Kramer sit together. Elaine is reading TV Guide, Kramer is expanding on his book concept.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 57,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I got history of coffee tables, celebrities and their coffee tables. It's a natural. This is a story that must be told.",
+      "raw_text": "I got history of coffee tables, celebrities and their coffee tables. It's a natural. This is a story that must be told."
+    },
+    {
+      "entry_id": 58,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hmm-mmm.",
+      "raw_text": "(engrossed in magazine) Hmm-mmm.",
+      "parenthetical": "engrossed in magazine"
+    },
+    {
+      "entry_id": 59,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "So, you're gonna talk to your boss about it, huh?",
+      "raw_text": "So, you're gonna talk to your boss about it, huh?"
+    },
+    {
+      "entry_id": 60,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hmm-mmm. First thing in the morning.",
+      "raw_text": "(still paying no attention) Hmm-mmm. First thing in the morning.",
+      "parenthetical": "still paying no attention"
+    },
+    {
+      "entry_id": 61,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yes indeed.",
+      "raw_text": "(claps hands) Yes indeed.",
+      "parenthetical": "claps hands"
+    },
+    {
+      "entry_id": 62,
+      "type": "dialogue",
+      "speaker": "TANNOY",
+      "normalized_speaker": "tannoy",
+      "text": "Next stop, Queensboro Plaza.",
+      "raw_text": "Next stop, Queensboro Plaza."
+    },
+    {
+      "entry_id": 63,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, Queensboro Plaza. (reties his shoelaces) This stop is famous for its gyros, you want one?",
+      "raw_text": "Oh, Queensboro Plaza. (reties his shoelaces) This stop is famous for its gyros, you want one?"
+    },
+    {
+      "entry_id": 64,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "How are you gonna get something and get back on the train in time?",
+      "raw_text": "How are you gonna get something and get back on the train in time?"
+    },
+    {
+      "entry_id": 65,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, they got a stand right out on the platform. Gyros are cooked, and wrapped, and ready to go. (he pulls money from his pocket) Three dollars, no change. You want one?",
+      "raw_text": "Well, they got a stand right out on the platform. Gyros are cooked, and wrapped, and ready to go. (he pulls money from his pocket) Three dollars, no change. You want one?"
+    },
+    {
+      "entry_id": 66,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No thanks.",
+      "raw_text": "(laughing) No thanks.",
+      "parenthetical": "laughing"
+    },
+    {
+      "entry_id": 67,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Alright, but no bites. Kramer goes to the door, where he stands jostling with a couple of other guys waiting for it to open. When it does, they all exit in a hurry. Elaine continues to study the TV Guide. A guy sitting opposite (bald, glasses, anorak inside and out) proffers a pen.",
+      "raw_text": "Alright, but no bites. Kramer goes to the door, where he stands jostling with a couple of other guys waiting for it to open. When it does, they all exit in a hurry. Elaine continues to study the TV Guide. A guy sitting opposite (bald, glasses, anorak inside and out) proffers a pen."
+    },
+    {
+      "entry_id": 68,
+      "type": "dialogue",
+      "speaker": "RICKY",
+      "normalized_speaker": "ricky",
+      "text": "Highlighter?",
+      "raw_text": "Highlighter?"
+    },
+    {
+      "entry_id": 69,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Excuse me?",
+      "raw_text": "Excuse me?"
+    },
+    {
+      "entry_id": 70,
+      "type": "dialogue",
+      "speaker": "RICKY",
+      "normalized_speaker": "ricky",
+      "text": "To highlight the programmes you plan to watch.",
+      "raw_text": "To highlight the programmes you plan to watch."
+    },
+    {
+      "entry_id": 71,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Ah. Uh, look really (looks about to try and avoid contact) I'm just trying to read.",
+      "raw_text": "Ah. Uh, look really (looks about to try and avoid contact) I'm just trying to read."
+    },
+    {
+      "entry_id": 72,
+      "type": "dialogue",
+      "speaker": "RICKY",
+      "normalized_speaker": "ricky",
+      "text": "Fine, okay. It's just, I've never seen a beautiful lady reading 'the Guide' so far away from a TV. You must really like television. The train about to leave, the doors begin to close. As they do, Kramer tries to enter. The door closes, trapping his arm at the shoulder, leaving him holding his gyro into the carriage.",
+      "raw_text": "Fine, okay. It's just, I've never seen a beautiful lady reading 'the Guide' so far away from a TV. You must really like television. The train about to leave, the doors begin to close. As they do, Kramer tries to enter. The door closes, trapping his arm at the shoulder, leaving him holding his gyro into the carriage."
+    },
+    {
+      "entry_id": 73,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Elaine! A passenger walking down the carriage grabs the gyro from Kramer's hand and sits down to eat it. Kramer extracts his arm and the doors slam closed.",
+      "raw_text": "(yells) Elaine! A passenger walking down the carriage grabs the gyro from Kramer's hand and sits down to eat it. Kramer extracts his arm and the doors slam closed.",
+      "parenthetical": "yells"
+    },
+    {
+      "entry_id": 74,
+      "type": "dialogue",
+      "speaker": "RICKY",
+      "normalized_speaker": "ricky",
+      "text": "Guess your boyfriend'll have to catch the next train.",
+      "raw_text": "Guess your boyfriend'll have to catch the next train."
+    },
+    {
+      "entry_id": 75,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "He's not my boyfriend.",
+      "raw_text": "He's not my boyfriend."
+    },
+    {
+      "entry_id": 76,
+      "type": "dialogue",
+      "speaker": "RICKY",
+      "normalized_speaker": "ricky",
+      "text": "He's not? (thoughtful) Interesting.",
+      "raw_text": "He's not? (thoughtful) Interesting."
+    },
+    {
+      "entry_id": 77,
+      "type": "scene_heading",
+      "text": "[Setting: Furniture refinishers]",
+      "raw_text": "(Furniture refinishers)",
+      "confidence": 0.9,
+      "location": "Furniture refinishers",
+      "normalized_location": "furniture_refinishers"
+    },
+    {
+      "entry_id": 78,
+      "type": "action",
+      "text": "Gepetto, the store owner is assessing the state of the coffee table.",
+      "raw_text": "Gepetto, the store owner is assessing the state of the coffee table.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 79,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey, maybe I should get Elaine something.",
+      "raw_text": "Hey, maybe I should get Elaine something."
+    },
+    {
+      "entry_id": 80,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Why?",
+      "raw_text": "Why?"
+    },
+    {
+      "entry_id": 81,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Ah, you know, I didn't drive her home. Plus, I give her a gift in front of Winona, how does that hurt me?",
+      "raw_text": "Ah, you know, I didn't drive her home. Plus, I give her a gift in front of Winona, how does that hurt me?"
+    },
+    {
+      "entry_id": 82,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Can't hurt you.",
+      "raw_text": "Can't hurt you."
+    },
+    {
+      "entry_id": 83,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What about, what about this thing?",
+      "raw_text": "What about, what about this thing?"
+    },
+    {
+      "entry_id": 84,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "The Indian?",
+      "raw_text": "The Indian?"
+    },
+    {
+      "entry_id": 85,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah. You know, kind of a peace offering. Cute.",
+      "raw_text": "Yeah. You know, kind of a peace offering. Cute."
+    },
+    {
+      "entry_id": 86,
+      "type": "dialogue",
+      "speaker": "GEPETTO",
+      "normalized_speaker": "gepetto",
+      "text": "Well, I can have the table ready for you on Monday.",
+      "raw_text": "Well, I can have the table ready for you on Monday."
+    },
+    {
+      "entry_id": 87,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Alright, but no later, because my parents are coming back.",
+      "raw_text": "Alright, but no later, because my parents are coming back."
+    },
+    {
+      "entry_id": 88,
+      "type": "dialogue",
+      "speaker": "GEPETTO",
+      "normalized_speaker": "gepetto",
+      "text": "They left you home alone, huh?",
+      "raw_text": "They left you home alone, huh?"
+    },
+    {
+      "entry_id": 89,
+      "type": "scene_heading",
+      "text": "[Setting: Subway train]",
+      "raw_text": "(Subway train)",
+      "confidence": 0.9,
+      "location": "Subway train",
+      "normalized_location": "subway_train"
+    },
+    {
+      "entry_id": 90,
+      "type": "action",
+      "text": "Elaine still sits with Ricky the TV anorak. He's poring over the TV Guide. Elaine is looking like she'd rather be anywhere else.",
+      "raw_text": "Elaine still sits with Ricky the TV anorak. He's poring over the TV Guide. Elaine is looking like she'd rather be anywhere else.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 91,
+      "type": "dialogue",
+      "speaker": "RICKY",
+      "normalized_speaker": "ricky",
+      "text": "Oh, 'kay, see. On this particular Tuesday (he swaps seats and sits beside Elaine) you could've watched six hours of Lucy. There's I Love Lucy, The Lucy Show, Here's Lucy. The brakes come on as the train pulls into a stop.",
+      "raw_text": "Oh, 'kay, see. On this particular Tuesday (he swaps seats and sits beside Elaine) you could've watched six hours of Lucy. There's I Love Lucy, The Lucy Show, Here's Lucy. The brakes come on as the train pulls into a stop."
+    },
+    {
+      "entry_id": 92,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, (nervous laugh) my stop. (making her escape) Bye-bye.",
+      "raw_text": "Oh, (nervous laugh) my stop. (making her escape) Bye-bye."
+    },
+    {
+      "entry_id": 93,
+      "type": "dialogue",
+      "speaker": "RICKY",
+      "normalized_speaker": "ricky",
+      "text": "Hey miss! (waving TV Guide) You forgot this! Elaine has gone. Ricky looks at the cover of the magazine, and sees the address label, upon which is printed F. COSTANZA, 1344 QUEENS BLVD, FLUSHING",
+      "raw_text": "(after Elaine) Hey miss! (waving TV Guide) You forgot this! Elaine has gone. Ricky looks at the cover of the magazine, and sees the address label, upon which is printed F. COSTANZA, 1344 QUEENS BLVD, FLUSHING",
+      "parenthetical": "after Elaine"
+    },
+    {
+      "entry_id": 94,
+      "type": "dialogue",
+      "speaker": "NY 11353",
+      "normalized_speaker": "ny_11353",
+      "text": "Gepetto explaining the Indian to Jerry. George sits waiting.",
+      "raw_text": "Gepetto explaining the Indian to Jerry. George sits waiting.",
+      "parenthetical": "Furniture refinishers"
+    },
+    {
+      "entry_id": 95,
+      "type": "dialogue",
+      "speaker": "GEPETTO",
+      "normalized_speaker": "gepetto",
+      "text": "They don't make these any more. The work is, is all done by hand. (Sylvia enters the store behind him) Takes years, and years, and... (notices) Sylvia! For crying out, you're forty-five minutes late!",
+      "raw_text": "They don't make these any more. The work is, is all done by hand. (Sylvia enters the store behind him) Takes years, and years, and... (notices) Sylvia! For crying out, you're forty-five minutes late!"
+    },
+    {
+      "entry_id": 96,
+      "type": "dialogue",
+      "speaker": "SYLVIA",
+      "normalized_speaker": "sylvia",
+      "text": "Yeah, yeah. (to George, smiling) Is that your car out there?",
+      "raw_text": "Yeah, yeah. (to George, smiling) Is that your car out there?"
+    },
+    {
+      "entry_id": 97,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No, it's, it's his. (indicates Jerry)",
+      "raw_text": "No, it's, it's his. (indicates Jerry)"
+    },
+    {
+      "entry_id": 98,
+      "type": "dialogue",
+      "speaker": "SYLVIA",
+      "normalized_speaker": "sylvia",
+      "text": "Oh, nice. You guys are obviously from Manhattan.",
+      "raw_text": "Oh, nice. You guys are obviously from Manhattan."
+    },
+    {
+      "entry_id": 99,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, he is. I, uh, I live around the corner.",
+      "raw_text": "Well, he is. I, uh, I live around the corner."
+    },
+    {
+      "entry_id": 100,
+      "type": "dialogue",
+      "speaker": "SYLVIA",
+      "normalized_speaker": "sylvia",
+      "text": "Really? Ah, I didn't think any cool guys lived in this neighbourhood.",
+      "raw_text": "Really? Ah, I didn't think any cool guys lived in this neighbourhood."
+    },
+    {
+      "entry_id": 101,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, they do now. Neighbourhood's changing.",
+      "raw_text": "(sensing his chance) Well, they do now. Neighbourhood's changing.",
+      "parenthetical": "sensing his chance"
+    },
+    {
+      "entry_id": 102,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Alright, I'll take it.",
+      "raw_text": "Alright, I'll take it."
+    },
+    {
+      "entry_id": 103,
+      "type": "dialogue",
+      "speaker": "GEPETTO",
+      "normalized_speaker": "gepetto",
+      "text": "Smart choice.",
+      "raw_text": "Smart choice."
+    },
+    {
+      "entry_id": 104,
+      "type": "dialogue",
+      "speaker": "SYLVIA",
+      "normalized_speaker": "sylvia",
+      "text": "Wow, you bought the Indian? Oh, you guys have great taste.",
+      "raw_text": "Wow, you bought the Indian? Oh, you guys have great taste."
+    },
+    {
+      "entry_id": 105,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, we're collectors. We, uh, see objects of great beauty and, uh, we must have them.",
+      "raw_text": "Well, we're collectors. We, uh, see objects of great beauty and, uh, we must have them."
+    },
+    {
+      "entry_id": 106,
+      "type": "scene_heading",
+      "text": "[Setting: Elaine's apartment]",
+      "raw_text": "(Elaine's apartment)",
+      "confidence": 0.9,
+      "location": "Elaine's apartment",
+      "normalized_location": "elaine_s_apartment"
+    },
+    {
+      "entry_id": 107,
+      "type": "action",
+      "text": "Elaine and the girls are sitting at a table playing poker.",
+      "raw_text": "Elaine and the girls are sitting at a table playing poker.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 108,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Knocked you out Jack. Pair of deuces",
+      "raw_text": "Knocked you out Jack. Pair of deuces"
+    },
+    {
+      "entry_id": 109,
+      "type": "dialogue",
+      "speaker": "THE GIRLS",
+      "normalized_speaker": "the_girls",
+      "text": "Oh/Aah. (and similar comments)",
+      "raw_text": "Oh/Aah. (and similar comments)"
+    },
+    {
+      "entry_id": 110,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Ha, ha, ha ha! There's a knock at the door.",
+      "raw_text": "(triumphant) Ha, ha, ha ha! There's a knock at the door.",
+      "parenthetical": "triumphant"
+    },
+    {
+      "entry_id": 111,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Who is it?",
+      "raw_text": "Who is it?"
+    },
+    {
+      "entry_id": 112,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "It's Jerry. Elaine gets up and opens the door, revealing Jerry standing beside a large object (the Indian) half-covered with a black plastic bag.",
+      "raw_text": "It's Jerry. Elaine gets up and opens the door, revealing Jerry standing beside a large object (the Indian) half-covered with a black plastic bag."
+    },
+    {
+      "entry_id": 113,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Jerry!",
+      "raw_text": "Jerry!"
+    },
+    {
+      "entry_id": 114,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Surprise! (he carries in the object)",
+      "raw_text": "Surprise! (he carries in the object)"
+    },
+    {
+      "entry_id": 115,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What is this?",
+      "raw_text": "What is this?"
+    },
+    {
+      "entry_id": 116,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, I felt bad about this afternoon, so I got you something.",
+      "raw_text": "Well, I felt bad about this afternoon, so I got you something."
+    },
+    {
+      "entry_id": 117,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, you did? (to girls) Oh, do you guys all know Jerry?",
+      "raw_text": "Oh, you did? (to girls) Oh, do you guys all know Jerry?"
+    },
+    {
+      "entry_id": 118,
+      "type": "dialogue",
+      "speaker": "THE GIRLS",
+      "normalized_speaker": "the_girls",
+      "text": "Hi Jerry/Hello. (etc)",
+      "raw_text": "Hi Jerry/Hello. (etc)"
+    },
+    {
+      "entry_id": 119,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hi. Hi Winona. Nice to see you again.",
+      "raw_text": "Hi. Hi Winona. Nice to see you again."
+    },
+    {
+      "entry_id": 120,
+      "type": "dialogue",
+      "speaker": "GIRL",
+      "normalized_speaker": "girl",
+      "text": "Elaine, is it your birthday?",
+      "raw_text": "Elaine, is it your birthday?"
+    },
+    {
+      "entry_id": 121,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No.",
+      "raw_text": "No."
+    },
+    {
+      "entry_id": 122,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't need a reason to give gifts, it's my nature. I love to make people happy.",
+      "raw_text": "I don't need a reason to give gifts, it's my nature. I love to make people happy."
+    },
+    {
+      "entry_id": 123,
+      "type": "dialogue",
+      "speaker": "THE GIRLS",
+      "normalized_speaker": "the_girls",
+      "text": "Aww/That's so sweet. (general murmur of approval)",
+      "raw_text": "Aww/That's so sweet. (general murmur of approval)"
+    },
+    {
+      "entry_id": 124,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Are you ready?",
+      "raw_text": "Are you ready?"
+    },
+    {
+      "entry_id": 125,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 126,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Ta-da! There is a deathly hush.",
+      "raw_text": "(whips off bag to reveal Indian) Ta-da! There is a deathly hush.",
+      "parenthetical": "whips off bag to reveal Indian"
+    },
+    {
+      "entry_id": 127,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "It's a cigar store Indian. (to Elaine) Read the card.",
+      "raw_text": "It's a cigar store Indian. (to Elaine) Read the card."
+    },
+    {
+      "entry_id": 128,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "(embarrassed) That's very nice. Thank you very much.",
+      "raw_text": "(examines card) (embarrassed) That's very nice. Thank you very much.",
+      "parenthetical": "examines card"
+    },
+    {
+      "entry_id": 129,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Read it out loud.",
+      "raw_text": "Read it out loud."
+    },
+    {
+      "entry_id": 130,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I, I don't think so.",
+      "raw_text": "I, I don't think so."
+    },
+    {
+      "entry_id": 131,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "We had a little fight this afternoon. (reading from card) Let's bury the hatchet. We smoke um peace pipe.",
+      "raw_text": "(takes the card from Elaine) We had a little fight this afternoon. (reading from card) Let's bury the hatchet. We smoke um peace pipe.",
+      "parenthetical": "takes the card from Elaine"
+    },
+    {
+      "entry_id": 132,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "Hey, you know, it's late. I really should go.",
+      "raw_text": "(gathering her stuff) Hey, you know, it's late. I really should go.",
+      "parenthetical": "gathering her stuff"
+    },
+    {
+      "entry_id": 133,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I, uh, I don't blame you Winona. I, uh... Jerry begins rocking the Indian back and forth, making the stereotypical movie Indian chant.",
+      "raw_text": "I, uh, I don't blame you Winona. I, uh... Jerry begins rocking the Indian back and forth, making the stereotypical movie Indian chant."
+    },
+    {
+      "entry_id": 134,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey-yah, ho-ah, hey-yah, ho-ah. Winona leaves, looking offended.",
+      "raw_text": "Hey-yah, ho-ah, hey-yah, ho-ah. Winona leaves, looking offended."
+    },
+    {
+      "entry_id": 135,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Are you out of your mind?!",
+      "raw_text": "Are you out of your mind?!"
+    },
+    {
+      "entry_id": 136,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "...ho-ah. It's, it's, it's kitschy.",
+      "raw_text": "...ho-ah. It's, it's, it's kitschy."
+    },
+    {
+      "entry_id": 137,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Winona is a Native American.",
+      "raw_text": "Winona is a Native American."
+    },
+    {
+      "entry_id": 138,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "She is?",
+      "raw_text": "She is?"
+    },
+    {
+      "entry_id": 139,
+      "type": "scene_heading",
+      "text": "[Setting: George's parents' house]",
+      "raw_text": "(George's parents' house)",
+      "confidence": 0.9,
+      "location": "George's parents' house",
+      "normalized_location": "george_s_parents_house"
+    },
+    {
+      "entry_id": 140,
+      "type": "action",
+      "text": "Sylvia is looking round the living room. Some cheesy male harmony singing can be heard in the background.",
+      "raw_text": "Sylvia is looking round the living room. Some cheesy male harmony singing can be heard in the background.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 141,
+      "type": "dialogue",
+      "speaker": "SYLVIA",
+      "normalized_speaker": "sylvia",
+      "text": "You got very unusual taste.",
+      "raw_text": "You got very unusual taste."
+    },
+    {
+      "entry_id": 142,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I hope prune juice is alright. It's the only thing I had that was chilled.",
+      "raw_text": "(proffering glasses) I hope prune juice is alright. It's the only thing I had that was chilled.",
+      "parenthetical": "proffering glasses"
+    },
+    {
+      "entry_id": 143,
+      "type": "dialogue",
+      "speaker": "SYLVIA",
+      "normalized_speaker": "sylvia",
+      "text": "Fine.",
+      "raw_text": "Fine."
+    },
+    {
+      "entry_id": 144,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I'm sorry about that lock on the liquor cabinet. The combination musta just flown outta my head. It's a mental block.",
+      "raw_text": "I'm sorry about that lock on the liquor cabinet. The combination musta just flown outta my head. It's a mental block."
+    },
+    {
+      "entry_id": 145,
+      "type": "dialogue",
+      "speaker": "SYLVIA",
+      "normalized_speaker": "sylvia",
+      "text": "Ahh! Is this your son in the bubble bath?",
+      "raw_text": "(regarding photo) Ahh! Is this your son in the bubble bath?",
+      "parenthetical": "regarding photo"
+    },
+    {
+      "entry_id": 146,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No, that's me.",
+      "raw_text": "(bashful) No, that's me.",
+      "parenthetical": "bashful"
+    },
+    {
+      "entry_id": 147,
+      "type": "dialogue",
+      "speaker": "SYLVIA",
+      "normalized_speaker": "sylvia",
+      "text": "Oh. You don't see many guys your age who keep baby pictures of themselves around. (laughs) I like it. Consistent with the rest of the house.",
+      "raw_text": "Oh. You don't see many guys your age who keep baby pictures of themselves around. (laughs) I like it. Consistent with the rest of the house."
+    },
+    {
+      "entry_id": 148,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yes, it is consistent. I've, uh, I've tried to maintain a consistent feel throughout the house.",
+      "raw_text": "Yes, it is consistent. I've, uh, I've tried to maintain a consistent feel throughout the house."
+    },
+    {
+      "entry_id": 149,
+      "type": "dialogue",
+      "speaker": "SYLVIA",
+      "normalized_speaker": "sylvia",
+      "text": "What is this we're listening to?",
+      "raw_text": "What is this we're listening to?"
+    },
+    {
+      "entry_id": 150,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "The Ray Conniff Singers. (nervous chuckle)",
+      "raw_text": "The Ray Conniff Singers. (nervous chuckle)"
+    },
+    {
+      "entry_id": 151,
+      "type": "dialogue",
+      "speaker": "SYLVIA",
+      "normalized_speaker": "sylvia",
+      "text": "Mmmm, what's that smell? Kasha?",
+      "raw_text": "Mmmm, what's that smell? Kasha?"
+    },
+    {
+      "entry_id": 152,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "It's a pot pourri. May I, uh, may I show you the master bedroom? (they leave together) Jerry, downstairs at Winona's building. He's talking on the buzzer.",
+      "raw_text": "It's a pot pourri. May I, uh, may I show you the master bedroom? (they leave together) Jerry, downstairs at Winona's building. He's talking on the buzzer."
+    },
+    {
+      "entry_id": 153,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "Who is it?",
+      "raw_text": "Who is it?"
+    },
+    {
+      "entry_id": 154,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Uh, Winona, it's Jerry Seinfeld.",
+      "raw_text": "Uh, Winona, it's Jerry Seinfeld."
+    },
+    {
+      "entry_id": 155,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "Yeah?",
+      "raw_text": "(unimpressed) Yeah?",
+      "parenthetical": "unimpressed"
+    },
+    {
+      "entry_id": 156,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Uhm, listen, I really felt bad about what happened, and I, I, I'd really like to apologise. Can I come up?",
+      "raw_text": "Uhm, listen, I really felt bad about what happened, and I, I, I'd really like to apologise. Can I come up?"
+    },
+    {
+      "entry_id": 157,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "I'll come down.",
+      "raw_text": "I'll come down."
+    },
+    {
+      "entry_id": 158,
+      "type": "scene_heading",
+      "text": "[Setting: Elaine's apartment]",
+      "raw_text": "(Elaine's apartment)",
+      "confidence": 0.9,
+      "location": "Elaine's apartment",
+      "normalized_location": "elaine_s_apartment"
+    },
+    {
+      "entry_id": 159,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I came by to get my ball.",
+      "raw_text": "I came by to get my ball."
+    },
+    {
+      "entry_id": 160,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "It's right over there.",
+      "raw_text": "It's right over there."
+    },
+    {
+      "entry_id": 161,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, yeah, thanks. (gets ball) Yeah, it's got the magic grip. How d'you think I bowled that two-twenty today, huh? (sees Indian) Yo! Where did this come from?",
+      "raw_text": "Oh, yeah, thanks. (gets ball) Yeah, it's got the magic grip. How d'you think I bowled that two-twenty today, huh? (sees Indian) Yo! Where did this come from?"
+    },
+    {
+      "entry_id": 162,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You want it?",
+      "raw_text": "You want it?"
+    },
+    {
+      "entry_id": 163,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I can have this?!",
+      "raw_text": "(unbelieving) I can have this?!",
+      "parenthetical": "unbelieving"
+    },
+    {
+      "entry_id": 164,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yuh! You wanna lug it uptown, it's yours.",
+      "raw_text": "Yuh! You wanna lug it uptown, it's yours."
+    },
+    {
+      "entry_id": 165,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh. I'll lug.",
+      "raw_text": "Oh. I'll lug."
+    },
+    {
+      "entry_id": 166,
+      "type": "scene_heading",
+      "text": "[Setting: Street outside Winona's]",
+      "raw_text": "(Street outside Winona's)",
+      "confidence": 0.9,
+      "location": "Street outside Winona's",
+      "normalized_location": "street_outside_winona_s"
+    },
+    {
+      "entry_id": 167,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "It's just that it's a very sensitive issue for me.",
+      "raw_text": "It's just that it's a very sensitive issue for me."
+    },
+    {
+      "entry_id": 168,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "And well it should be. I think if you spent any time with me at all, you'd see I'm very sensitive to these matters as well. You wouldn't be hungry by any chance, wouldya?",
+      "raw_text": "And well it should be. I think if you spent any time with me at all, you'd see I'm very sensitive to these matters as well. You wouldn't be hungry by any chance, wouldya?"
+    },
+    {
+      "entry_id": 169,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "I guess I could go for a bite.",
+      "raw_text": "(smiling) I guess I could go for a bite.",
+      "parenthetical": "smiling"
+    },
+    {
+      "entry_id": 170,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You like Chinese food, 'cos I once went to a great Szechwan restaurant in this neighbourhood. I don't remember the exact address... (he spots a mailman crouched emptying a box) Uh, excuse me, you must know where the Chinese restaurant is around here. The mailman stands, turns and is revealed as Chinese. He takes offence.",
+      "raw_text": "You like Chinese food, 'cos I once went to a great Szechwan restaurant in this neighbourhood. I don't remember the exact address... (he spots a mailman crouched emptying a box) Uh, excuse me, you must know where the Chinese restaurant is around here. The mailman stands, turns and is revealed as Chinese. He takes offence."
+    },
+    {
+      "entry_id": 171,
+      "type": "dialogue",
+      "speaker": "MAILMAN",
+      "normalized_speaker": "mailman",
+      "text": "Why must I know? Because I'm Chinese? You think I know where all the Chinese restaurants are? (adopts hackneyed Chinese accent) Oh, ask honolable Chinaman for rocation of lestaulant.",
+      "raw_text": "Why must I know? Because I'm Chinese? You think I know where all the Chinese restaurants are? (adopts hackneyed Chinese accent) Oh, ask honolable Chinaman for rocation of lestaulant."
+    },
+    {
+      "entry_id": 172,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I asked because you were the mailman, you would know the neighbourhood.",
+      "raw_text": "I asked because you were the mailman, you would know the neighbourhood."
+    },
+    {
+      "entry_id": 173,
+      "type": "dialogue",
+      "speaker": "MAILMAN",
+      "normalized_speaker": "mailman",
+      "text": "Oh, hello American Joe. Which way to hamburger, hotdog stand? (storms away)",
+      "raw_text": "Oh, hello American Joe. Which way to hamburger, hotdog stand? (storms away)"
+    },
+    {
+      "entry_id": 174,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I didn't know that...",
+      "raw_text": "I didn't know that..."
+    },
+    {
+      "entry_id": 175,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "You know, it's late. I should probably just go home.",
+      "raw_text": "You know, it's late. I should probably just go home."
+    },
+    {
+      "entry_id": 176,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I, I had no idea. A cab drives by. Kramer leans out the window, along with the top of the Indian.",
+      "raw_text": "I, I had no idea. A cab drives by. Kramer leans out the window, along with the top of the Indian."
+    },
+    {
+      "entry_id": 177,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey Jerry! (thumps cab door with his palm) Look what I got!",
+      "raw_text": "(yells) Hey Jerry! (thumps cab door with his palm) Look what I got!",
+      "parenthetical": "yells"
+    },
+    {
+      "entry_id": 178,
+      "type": "action",
+      "text": "begins doing war-whoops",
+      "raw_text": "(begins doing war-whoops)"
+    },
+    {
+      "entry_id": 179,
+      "type": "action",
+      "text": "Winona looks offended again. Jerry is mortified, and can find nothing to say. Winona storms back into her building.",
+      "raw_text": "Winona looks offended again. Jerry is mortified, and can find nothing to say. Winona storms back into her building.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 180,
+      "type": "scene_heading",
+      "text": "[Setting: George's parent's house]",
+      "raw_text": "(George's parent's house)",
+      "confidence": 0.9,
+      "location": "George's parent's house",
+      "normalized_location": "george_s_parent_s_house"
+    },
+    {
+      "entry_id": 181,
+      "type": "action",
+      "text": "George and Jerry are returning the table.",
+      "raw_text": "George and Jerry are returning the table.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 182,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Looks pretty good.",
+      "raw_text": "Looks pretty good."
+    },
+    {
+      "entry_id": 183,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah, did a good job. They put the various ornaments back on the table.",
+      "raw_text": "Yeah, did a good job. They put the various ornaments back on the table."
+    },
+    {
+      "entry_id": 184,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah. I don't think they'll be able to tell.",
+      "raw_text": "Yeah. I don't think they'll be able to tell."
+    },
+    {
+      "entry_id": 185,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You know, I don't get it. Not allowed to ask a Chinese person where the Chinese restaurant is! I mean, aren't we all getting a little too sensitive? I mean, someone asks me which way's Israel, I don't fly off the handle.",
+      "raw_text": "You know, I don't get it. Not allowed to ask a Chinese person where the Chinese restaurant is! I mean, aren't we all getting a little too sensitive? I mean, someone asks me which way's Israel, I don't fly off the handle."
+    },
+    {
+      "entry_id": 186,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So, anyway, what's uh, what's the status with, uh...",
+      "raw_text": "So, anyway, what's uh, what's the status with, uh..."
+    },
+    {
+      "entry_id": 187,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Ah, she kinda calmed down. I talked to her today. In fact I'm gonna see her tonight.",
+      "raw_text": "Ah, she kinda calmed down. I talked to her today. In fact I'm gonna see her tonight."
+    },
+    {
+      "entry_id": 188,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh, great.",
+      "raw_text": "Oh, great."
+    },
+    {
+      "entry_id": 189,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah, but I'm a little uncomfortable. I'm afraid of making another mistake.",
+      "raw_text": "Yeah, but I'm a little uncomfortable. I'm afraid of making another mistake."
+    },
+    {
+      "entry_id": 190,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Aw c'mon. The front door opens and George's parents enter.",
+      "raw_text": "Aw c'mon. The front door opens and George's parents enter."
+    },
+    {
+      "entry_id": 191,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Hello, hello!",
+      "raw_text": "Hello, hello!"
+    },
+    {
+      "entry_id": 192,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Ahh, hey you're home. Hi.",
+      "raw_text": "(insincerely) Ahh, hey you're home. Hi.",
+      "parenthetical": "insincerely"
+    },
+    {
+      "entry_id": 193,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Oh, the house looks very nice.",
+      "raw_text": "Oh, the house looks very nice."
+    },
+    {
+      "entry_id": 194,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah, huh.",
+      "raw_text": "Yeah, huh."
+    },
+    {
+      "entry_id": 195,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Where's the mail?",
+      "raw_text": "Where's the mail?"
+    },
+    {
+      "entry_id": 196,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Hello Jerry.",
+      "raw_text": "Hello Jerry."
+    },
+    {
+      "entry_id": 197,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hello.",
+      "raw_text": "Hello."
+    },
+    {
+      "entry_id": 198,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So, how was the trip?",
+      "raw_text": "So, how was the trip?"
+    },
+    {
+      "entry_id": 199,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Ah, your father...",
+      "raw_text": "Ah, your father..."
+    },
+    {
+      "entry_id": 200,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Is there anything wrong with getting a receipt at a toll booth?",
+      "raw_text": "Is there anything wrong with getting a receipt at a toll booth?"
+    },
+    {
+      "entry_id": 201,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "I'm going upstairs. (she leaves for the bedroom)",
+      "raw_text": "I'm going upstairs. (she leaves for the bedroom)"
+    },
+    {
+      "entry_id": 202,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "This stack should be bigger, where's the TV Guide?",
+      "raw_text": "(examining mail) This stack should be bigger, where's the TV Guide?",
+      "parenthetical": "examining mail"
+    },
+    {
+      "entry_id": 203,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What TV Guide?",
+      "raw_text": "What TV Guide?"
+    },
+    {
+      "entry_id": 204,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "I'm missing TV Guide volume forty-one, number thirty-one.",
+      "raw_text": "I'm missing TV Guide volume forty-one, number thirty-one."
+    },
+    {
+      "entry_id": 205,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Uh, Elaine took it to read on the subway.",
+      "raw_text": "Uh, Elaine took it to read on the subway."
+    },
+    {
+      "entry_id": 206,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Elaine took it?",
+      "raw_text": "Elaine took it?"
+    },
+    {
+      "entry_id": 207,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I didn't know she took it!",
+      "raw_text": "I didn't know she took it!"
+    },
+    {
+      "entry_id": 208,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Wa, it's two weeks old.",
+      "raw_text": "Wa, it's two weeks old."
+    },
+    {
+      "entry_id": 209,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "How could you let her take the TV Guide?!",
+      "raw_text": "(shouting) How could you let her take the TV Guide?!",
+      "parenthetical": "shouting"
+    },
+    {
+      "entry_id": 210,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "He collects them.",
+      "raw_text": "(to Jerry) He collects them.",
+      "parenthetical": "to Jerry"
+    },
+    {
+      "entry_id": 211,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You collect TV Guide?",
+      "raw_text": "You collect TV Guide?"
+    },
+    {
+      "entry_id": 212,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "The nerve of that woman. Walking into my house, stealing my collectible!",
+      "raw_text": "The nerve of that woman. Walking into my house, stealing my collectible!"
+    },
+    {
+      "entry_id": 213,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Oh my God! (she enters holding a small packet) This was in our bed.",
+      "raw_text": "(screaming) Oh my God! (she enters holding a small packet) This was in our bed.",
+      "parenthetical": "screaming"
+    },
+    {
+      "entry_id": 214,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "What is this? (accusingly to George) A prophylactic wrapper?!",
+      "raw_text": "(taking the packet) What is this? (accusingly to George) A prophylactic wrapper?!",
+      "parenthetical": "taking the packet"
+    },
+    {
+      "entry_id": 215,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "What is this doing on my bed?!",
+      "raw_text": "What is this doing on my bed?!"
+    },
+    {
+      "entry_id": 216,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I don't know, uh...",
+      "raw_text": "I don't know, uh..."
+    },
+    {
+      "entry_id": 217,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I'll see you later. (he leaves with unseemly haste)",
+      "raw_text": "I'll see you later. (he leaves with unseemly haste)"
+    },
+    {
+      "entry_id": 218,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "You were having sex on our bed?!",
+      "raw_text": "You were having sex on our bed?!"
+    },
+    {
+      "entry_id": 219,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yes!",
+      "raw_text": "Yes!"
+    },
+    {
+      "entry_id": 220,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Who told you you could have sex in our bed?",
+      "raw_text": "Who told you you could have sex in our bed?"
+    },
+    {
+      "entry_id": 221,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, my bed is too small.",
+      "raw_text": "(pleading) Well, my bed is too small.",
+      "parenthetical": "pleading"
+    },
+    {
+      "entry_id": 222,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Your bed is too small? I'm gone two weeks and you turn our house into, into Bourbon Street!",
+      "raw_text": "Your bed is too small? I'm gone two weeks and you turn our house into, into Bourbon Street!"
+    },
+    {
+      "entry_id": 223,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Where am I going to sleep?",
+      "raw_text": "Where am I going to sleep?"
+    },
+    {
+      "entry_id": 224,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What're you talking about?",
+      "raw_text": "What're you talking about?"
+    },
+    {
+      "entry_id": 225,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "I can't sleep in there!",
+      "raw_text": "I can't sleep in there!"
+    },
+    {
+      "entry_id": 226,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Of course you can.",
+      "raw_text": "Of course you can."
+    },
+    {
+      "entry_id": 227,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "I can't! (screams) I can't!",
+      "raw_text": "I can't! (screams) I can't!"
+    },
+    {
+      "entry_id": 228,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "That's it! You're grounded!",
+      "raw_text": "That's it! You're grounded!"
+    },
+    {
+      "entry_id": 229,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You can't ground me, I'm a grown man.",
+      "raw_text": "(incredulous) You can't ground me, I'm a grown man.",
+      "parenthetical": "incredulous"
+    },
+    {
+      "entry_id": 230,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "You wanna live here? You respect the rules of our house. (yells) You're grounded!",
+      "raw_text": "You wanna live here? You respect the rules of our house. (yells) You're grounded!"
+    },
+    {
+      "entry_id": 231,
+      "type": "scene_heading",
+      "text": "[Setting: Winona's apartment]",
+      "raw_text": "(Winona's apartment)",
+      "confidence": 0.9,
+      "location": "Winona's apartment",
+      "normalized_location": "winona_s_apartment"
+    },
+    {
+      "entry_id": 232,
+      "type": "action",
+      "text": "Jerry sits on the couch. Winona enters with their jackets.",
+      "raw_text": "Jerry sits on the couch. Winona enters with their jackets.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 233,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "So, where are we gonna go eat?",
+      "raw_text": "So, where are we gonna go eat?"
+    },
+    {
+      "entry_id": 234,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I thought we'd eat at the Gentle Harvest.",
+      "raw_text": "I thought we'd eat at the Gentle Harvest."
+    },
+    {
+      "entry_id": 235,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "Ooh, I love that place, but it's usually so crowded. Can we get a table?",
+      "raw_text": "Ooh, I love that place, but it's usually so crowded. Can we get a table?"
+    },
+    {
+      "entry_id": 236,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Ah, don't worry. I made reser... (catches himself)",
+      "raw_text": "Ah, don't worry. I made reser... (catches himself)"
+    },
+    {
+      "entry_id": 237,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "You made what?",
+      "raw_text": "You made what?"
+    },
+    {
+      "entry_id": 238,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I uh, I uh, I arranged for the appropriate accommodation. And then, Knick tickets, floor seats.",
+      "raw_text": "I uh, I uh, I arranged for the appropriate accommodation. And then, Knick tickets, floor seats."
+    },
+    {
+      "entry_id": 239,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "How did you get these?",
+      "raw_text": "How did you get these?"
+    },
+    {
+      "entry_id": 240,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Got 'em on the street, from a scal... (catches himself again) A uh, one of those guys.",
+      "raw_text": "Got 'em on the street, from a scal... (catches himself again) A uh, one of those guys."
+    },
+    {
+      "entry_id": 241,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "What guys?",
+      "raw_text": "What guys?"
+    },
+    {
+      "entry_id": 242,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You know, the guys, that uh, they sell the tickets for the sold-out events.",
+      "raw_text": "You know, the guys, that uh, they sell the tickets for the sold-out events."
+    },
+    {
+      "entry_id": 243,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "Oh.",
+      "raw_text": "Oh."
+    },
+    {
+      "entry_id": 244,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Wait a second, you got the Mark McEwan TV Guide.",
+      "raw_text": "Wait a second, you got the Mark McEwan TV Guide."
+    },
+    {
+      "entry_id": 245,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "That's Al Roker.",
+      "raw_text": "That's Al Roker."
+    },
+    {
+      "entry_id": 246,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh well, they're both chubby weathermen. I get Dom Deluise and Paul Prudhoe mixed up too. Could I have this?",
+      "raw_text": "Oh well, they're both chubby weathermen. I get Dom Deluise and Paul Prudhoe mixed up too. Could I have this?"
+    },
+    {
+      "entry_id": 247,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "Sure, take it.",
+      "raw_text": "Sure, take it."
+    },
+    {
+      "entry_id": 248,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Thanks.",
+      "raw_text": "Thanks."
+    },
+    {
+      "entry_id": 249,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's apartment]",
+      "raw_text": "(Jerry's apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 250,
+      "type": "action",
+      "text": "Jerry enters with the TV Guide.",
+      "raw_text": "Jerry enters with the TV Guide.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 251,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So, Winona had the TV Guide. Told you I'd make it up to you.",
+      "raw_text": "So, Winona had the TV Guide. Told you I'd make it up to you."
+    },
+    {
+      "entry_id": 252,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Aah, so Mr Costanza was pretty mad, huh?",
+      "raw_text": "Aah, so Mr Costanza was pretty mad, huh?"
+    },
+    {
+      "entry_id": 253,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah. You almost ruined his life's work.",
+      "raw_text": "Yeah. You almost ruined his life's work."
+    },
+    {
+      "entry_id": 254,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "He collects (holds up magazine) these?",
+      "raw_text": "He collects (holds up magazine) these?"
+    },
+    {
+      "entry_id": 255,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 256,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Wow! Alright, well I will personally go out to Queens and deliver his Al Roker TV Guide to him.",
+      "raw_text": "Wow! Alright, well I will personally go out to Queens and deliver his Al Roker TV Guide to him."
+    },
+    {
+      "entry_id": 257,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What'ya do with the one you took?",
+      "raw_text": "What'ya do with the one you took?"
+    },
+    {
+      "entry_id": 258,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I dunno.",
+      "raw_text": "I dunno."
+    },
+    {
+      "entry_id": 259,
+      "type": "scene_heading",
+      "text": "[Setting: Ricky's apartment (?)]",
+      "raw_text": "(Ricky's apartment (?))",
+      "confidence": 0.9,
+      "location": "Ricky's apartment (?)",
+      "normalized_location": "ricky_s_apartment"
+    },
+    {
+      "entry_id": 260,
+      "type": "action",
+      "text": "Ricky sits at a table, in a room which looks like that of a messy teenager. He's cutting away at the TV Guide with a pair of scissors. He's humming the theme to I Love Lucy to himself as he does so.",
+      "raw_text": "Ricky sits at a table, in a room which looks like that of a messy teenager. He's cutting away at the TV Guide with a pair of scissors. He's humming the theme to I Love Lucy to himself as he does so.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 261,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's apartment]",
+      "raw_text": "(Jerry's apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 262,
+      "type": "action",
+      "text": "Kramer enters.",
+      "raw_text": "Kramer enters.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 263,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hi.",
+      "raw_text": "Hi."
+    },
+    {
+      "entry_id": 264,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah uh, Elaine uh, what'd he say?",
+      "raw_text": "Yeah uh, Elaine uh, what'd he say?"
+    },
+    {
+      "entry_id": 265,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What did who say?",
+      "raw_text": "What did who say?"
+    },
+    {
+      "entry_id": 266,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Your boss. Didn't you tell him about the coffee table book?",
+      "raw_text": "Your boss. Didn't you tell him about the coffee table book?"
+    },
+    {
+      "entry_id": 267,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Uhmm...",
+      "raw_text": "Uhmm..."
+    },
+    {
+      "entry_id": 268,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, you didn't tell him didya?",
+      "raw_text": "Yeah, you didn't tell him didya?"
+    },
+    {
+      "entry_id": 269,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Kramer, it is such a dumb idea. I would be (raising her voice as Kramer speaks his line) totally embarrassed to bring it...",
+      "raw_text": "Kramer, it is such a dumb idea. I would be (raising her voice as Kramer speaks his line) totally embarrassed to bring it..."
+    },
+    {
+      "entry_id": 270,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Wait a minute, on the cover I'm...",
+      "raw_text": "(simultaneous) Wait a minute, on the cover I'm...",
+      "parenthetical": "simultaneous"
+    },
+    {
+      "entry_id": 271,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I would be embarrassed to bring it up.",
+      "raw_text": "I would be embarrassed to bring it up."
+    },
+    {
+      "entry_id": 272,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I thought it was a pretty good idea. It's about coffee tables, it's on a coffee table.",
+      "raw_text": "I thought it was a pretty good idea. It's about coffee tables, it's on a coffee table."
+    },
+    {
+      "entry_id": 273,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, right, right, and on the cover is a built-in coaster. (clicks tongue) Alright, well I'm gonna go.",
+      "raw_text": "Yeah, right, right, and on the cover is a built-in coaster. (clicks tongue) Alright, well I'm gonna go."
+    },
+    {
+      "entry_id": 274,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Where you going?",
+      "raw_text": "Where you going?"
+    },
+    {
+      "entry_id": 275,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, I'm gonna go to the cigar stores. I'm gonna see if I can sell that Indian.",
+      "raw_text": "Well, I'm gonna go to the cigar stores. I'm gonna see if I can sell that Indian."
+    },
+    {
+      "entry_id": 276,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "My Indian?",
+      "raw_text": "My Indian?"
+    },
+    {
+      "entry_id": 277,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You know, I think it's worth something. It's kitschy. (tongue click) He leaves.",
+      "raw_text": "You know, I think it's worth something. It's kitschy. (tongue click) He leaves."
+    },
+    {
+      "entry_id": 278,
+      "type": "scene_heading",
+      "text": "[Setting: George's parents' house]",
+      "raw_text": "(George's parents' house)",
+      "confidence": 0.9,
+      "location": "George's parents' house",
+      "normalized_location": "george_s_parents_house"
+    },
+    {
+      "entry_id": 279,
+      "type": "action",
+      "text": "George and Frank in front of the TV. Frank is still bothered by the TV Guide incident. George is slumped in the sofa, looking long-suffering.",
+      "raw_text": "George and Frank in front of the TV. Frank is still bothered by the TV Guide incident. George is slumped in the sofa, looking long-suffering.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 280,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "How do you just walk into a house and take a TV Guide? How does she expect you to watch TV? (doorbell rings) Am I just supposed to turn it on and wander aimlessly around the dial? Estelle answers the door. Opening it, she finds Ricky outside, holding what looks like a bouquet of flowers.",
+      "raw_text": "How do you just walk into a house and take a TV Guide? How does she expect you to watch TV? (doorbell rings) Am I just supposed to turn it on and wander aimlessly around the dial? Estelle answers the door. Opening it, she finds Ricky outside, holding what looks like a bouquet of flowers."
+    },
+    {
+      "entry_id": 281,
+      "type": "dialogue",
+      "speaker": "RICKY",
+      "normalized_speaker": "ricky",
+      "text": "Hello. Is Elaine home?",
+      "raw_text": "Hello. Is Elaine home?"
+    },
+    {
+      "entry_id": 282,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Elaine Benes? Oh, she's my son's friend.",
+      "raw_text": "Elaine Benes? Oh, she's my son's friend."
+    },
+    {
+      "entry_id": 283,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "And she's not welcome in this house!",
+      "raw_text": "(shouting) And she's not welcome in this house!",
+      "parenthetical": "shouting"
+    },
+    {
+      "entry_id": 284,
+      "type": "dialogue",
+      "speaker": "RICKY",
+      "normalized_speaker": "ricky",
+      "text": "Oh, 'cos I made her this very special gift. 'Kay, it's a bouquet of paper from her TV Guide.",
+      "raw_text": "(entering) Oh, 'cos I made her this very special gift. 'Kay, it's a bouquet of paper from her TV Guide.",
+      "parenthetical": "entering"
+    },
+    {
+      "entry_id": 285,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "That's my TV Guide! Ripped to shreds! She gave that to you?!",
+      "raw_text": "(yelling) That's my TV Guide! Ripped to shreds! She gave that to you?!",
+      "parenthetical": "yelling"
+    },
+    {
+      "entry_id": 286,
+      "type": "dialogue",
+      "speaker": "RICKY",
+      "normalized_speaker": "ricky",
+      "text": "Hey, is that the Twilight Zone you're watching?",
+      "raw_text": "(seeing TV) Hey, is that the Twilight Zone you're watching?",
+      "parenthetical": "seeing TV"
+    },
+    {
+      "entry_id": 287,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 288,
+      "type": "dialogue",
+      "speaker": "RICKY",
+      "normalized_speaker": "ricky",
+      "text": "Oh, this is a good one.",
+      "raw_text": "Oh, this is a good one."
+    },
+    {
+      "entry_id": 289,
+      "type": "scene_heading",
+      "text": "[Setting: Subway train]",
+      "raw_text": "(Subway train)",
+      "confidence": 0.9,
+      "location": "Subway train",
+      "normalized_location": "subway_train"
+    },
+    {
+      "entry_id": 290,
+      "type": "action",
+      "text": "Elaine riding the subway to Queens.",
+      "raw_text": "Elaine riding the subway to Queens.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 291,
+      "type": "dialogue",
+      "speaker": "TANNOY",
+      "normalized_speaker": "tannoy",
+      "text": "Next stop, Queensboro Plaza. A thought occurs to Elaine.",
+      "raw_text": "Next stop, Queensboro Plaza. A thought occurs to Elaine."
+    },
+    {
+      "entry_id": 292,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Mmm, gyro. She jumps up and goes to the door. She sizes up the woman next to her at the exit. When the doors open, she barges the woman aside and rushes out first.",
+      "raw_text": "Mmm, gyro. She jumps up and goes to the door. She sizes up the woman next to her at the exit. When the doors open, she barges the woman aside and rushes out first."
+    },
+    {
+      "entry_id": 293,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's apartment]",
+      "raw_text": "(Jerry's apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 294,
+      "type": "action",
+      "text": "Jerry is pouring glasses of Perrier in the kitchen while Winona looks around.",
+      "raw_text": "Jerry is pouring glasses of Perrier in the kitchen while Winona looks around.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 295,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "I like your place. It's very unassuming.",
+      "raw_text": "I like your place. It's very unassuming."
+    },
+    {
+      "entry_id": 296,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, why would I assume. I never assume. Leads to assumptions.",
+      "raw_text": "Well, why would I assume. I never assume. Leads to assumptions."
+    },
+    {
+      "entry_id": 297,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "Oh, by the way. That TV Guide I gave you, I need it back.",
+      "raw_text": "(laughs) Oh, by the way. That TV Guide I gave you, I need it back.",
+      "parenthetical": "laughs"
+    },
+    {
+      "entry_id": 298,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Why?",
+      "raw_text": "Why?"
+    },
+    {
+      "entry_id": 299,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "Well, I'm doing a report on minorities in the media, and I wanted to use that interview with Al Roker.",
+      "raw_text": "Well, I'm doing a report on minorities in the media, and I wanted to use that interview with Al Roker."
+    },
+    {
+      "entry_id": 300,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, it's too late. I gave it to Elaine, and she's already on her way to give it to George's father.",
+      "raw_text": "Well, it's too late. I gave it to Elaine, and she's already on her way to give it to George's father."
+    },
+    {
+      "entry_id": 301,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "Jerry, I really need it back. It, it is mine.",
+      "raw_text": "Jerry, I really need it back. It, it is mine."
+    },
+    {
+      "entry_id": 302,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You can't give something and then take it back. I mean, what are you...",
+      "raw_text": "You can't give something and then take it back. I mean, what are you..."
+    },
+    {
+      "entry_id": 303,
+      "type": "action",
+      "text": "catches himself",
+      "raw_text": "(catches himself)"
+    },
+    {
+      "entry_id": 304,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 305,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "A uh, a person that uh...",
+      "raw_text": "A uh, a person that uh..."
+    },
+    {
+      "entry_id": 306,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "A person that what?",
+      "raw_text": "A person that what?"
+    },
+    {
+      "entry_id": 307,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, a person that gives something and then they're dissatisfied and they wish they had, had never uh...",
+      "raw_text": "Well, a person that gives something and then they're dissatisfied and they wish they had, had never uh..."
+    },
+    {
+      "entry_id": 308,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "And?",
+      "raw_text": "And?"
+    },
+    {
+      "entry_id": 309,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "...give, given it to the person that they originally gave it to.",
+      "raw_text": "...give, given it to the person that they originally gave it to."
+    },
+    {
+      "entry_id": 310,
+      "type": "dialogue",
+      "speaker": "WINONA",
+      "normalized_speaker": "winona",
+      "text": "You mean like, an Indian giver?!",
+      "raw_text": "You mean like, an Indian giver?!"
+    },
+    {
+      "entry_id": 311,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I'm sorry, I'm not familiar with that term.",
+      "raw_text": "I'm sorry, I'm not familiar with that term."
+    },
+    {
+      "entry_id": 312,
+      "type": "scene_heading",
+      "text": "[Setting: Subway train]",
+      "raw_text": "(Subway train)",
+      "confidence": 0.9,
+      "location": "Subway train",
+      "normalized_location": "subway_train"
+    },
+    {
+      "entry_id": 313,
+      "type": "action",
+      "text": "Elaine is eating her gyro. As she does, unseen by her, juices from her sandwich are dripping onto the TV Guide in her bag.",
+      "raw_text": "Elaine is eating her gyro. As she does, unseen by her, juices from her sandwich are dripping onto the TV Guide in her bag.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 314,
+      "type": "scene_heading",
+      "text": "[Setting: George's parents' house]",
+      "raw_text": "(George's parents' house)",
+      "confidence": 0.9,
+      "location": "George's parents' house",
+      "normalized_location": "george_s_parents_house"
+    },
+    {
+      "entry_id": 315,
+      "type": "action",
+      "text": "Frank and Ricky are going through Frank's TV Guide collection. The coffee table is covered in boxes of the magazine.",
+      "raw_text": "Frank and Ricky are going through Frank's TV Guide collection. The coffee table is covered in boxes of the magazine.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 316,
+      "type": "dialogue",
+      "speaker": "RICKY",
+      "normalized_speaker": "ricky",
+      "text": "I like the special fall preview issues the best.",
+      "raw_text": "I like the special fall preview issues the best."
+    },
+    {
+      "entry_id": 317,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Those. I've been saving those from the beginning. The doorbell rings.",
+      "raw_text": "Those. I've been saving those from the beginning. The doorbell rings."
+    },
+    {
+      "entry_id": 318,
+      "type": "dialogue",
+      "speaker": "RICKY",
+      "normalized_speaker": "ricky",
+      "text": "These are worth like, a lot of money. Estelle opens the door, to find Elaine.",
+      "raw_text": "These are worth like, a lot of money. Estelle opens the door, to find Elaine."
+    },
+    {
+      "entry_id": 319,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Oh, hello Elaine!",
+      "raw_text": "Oh, hello Elaine!"
+    },
+    {
+      "entry_id": 320,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hello. (she enters)",
+      "raw_text": "Hello. (she enters)"
+    },
+    {
+      "entry_id": 321,
+      "type": "dialogue",
+      "speaker": "RICKY",
+      "normalized_speaker": "ricky",
+      "text": "Elaine! Hello! You look scrumptious. Elaine looks nervous and surprised.",
+      "raw_text": "(jumping to his feet) Elaine! Hello! You look scrumptious. Elaine looks nervous and surprised.",
+      "parenthetical": "jumping to his feet"
+    },
+    {
+      "entry_id": 322,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Why'd you take my TV Guide?",
+      "raw_text": "Why'd you take my TV Guide?"
+    },
+    {
+      "entry_id": 323,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "(placatory) I'm so sorry about that Mr Costanza, but look. Look, I brought you another one. (hands it over)",
+      "raw_text": "(placatory) I'm so sorry about that Mr Costanza, but look. Look, I brought you another one. (hands it over)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 324,
+      "type": "dialogue",
+      "speaker": "RICKY",
+      "normalized_speaker": "ricky",
+      "text": "I made this for you.",
+      "raw_text": "I made this for you."
+    },
+    {
+      "entry_id": 325,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, thank you.",
+      "raw_text": "(accepts reluctantly) Oh, thank you.",
+      "parenthetical": "accepts reluctantly"
+    },
+    {
+      "entry_id": 326,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "What is this? You got stains all over it! What the hell'd you do?",
+      "raw_text": "(examining magazine) What is this? You got stains all over it! What the hell'd you do?",
+      "parenthetical": "examining magazine"
+    },
+    {
+      "entry_id": 327,
+      "type": "dialogue",
+      "speaker": "RICKY",
+      "normalized_speaker": "ricky",
+      "text": "Hey, you can't talk to her like that.",
+      "raw_text": "Hey, you can't talk to her like that."
+    },
+    {
+      "entry_id": 328,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "I'll talk to her any way I want!",
+      "raw_text": "(yelling) I'll talk to her any way I want!",
+      "parenthetical": "yelling"
+    },
+    {
+      "entry_id": 329,
+      "type": "dialogue",
+      "speaker": "RICKY",
+      "normalized_speaker": "ricky",
+      "text": "Come on Elaine, let's go. As Ricky strides over to Elaine, he catches the coffee table with his leg. It tips up with the weight of the TV Guide collection and falls over with a crash.",
+      "raw_text": "Come on Elaine, let's go. As Ricky strides over to Elaine, he catches the coffee table with his leg. It tips up with the weight of the TV Guide collection and falls over with a crash."
+    },
+    {
+      "entry_id": 330,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "My coffee table!",
+      "raw_text": "My coffee table!"
+    },
+    {
+      "entry_id": 331,
+      "type": "scene_heading",
+      "text": "[Setting: Gus' Smoke Shop]",
+      "raw_text": "(Gus' Smoke Shop)",
+      "confidence": 0.9,
+      "location": "Gus' Smoke Shop",
+      "normalized_location": "gus_smoke_shop"
+    },
+    {
+      "entry_id": 332,
+      "type": "action",
+      "text": "Kramer is stands beside the Indian in the cigar store, trying to do a job of salesmanship. The guy behind the counter doesn't look impressed. In the background, Mr Lippman is browsing.",
+      "raw_text": "Kramer is stands beside the Indian in the cigar store, trying to do a job of salesmanship. The guy behind the counter doesn't look impressed. In the background, Mr Lippman is browsing.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 333,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I don't understand. How can you have a cigar store, without an Indian? It's unseemly.",
+      "raw_text": "I don't understand. How can you have a cigar store, without an Indian? It's unseemly."
+    },
+    {
+      "entry_id": 334,
+      "type": "dialogue",
+      "speaker": "SPIKE",
+      "normalized_speaker": "spike",
+      "text": "I'll give you a box of Coronas for it.",
+      "raw_text": "I'll give you a box of Coronas for it."
+    },
+    {
+      "entry_id": 335,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Forget it.",
+      "raw_text": "Forget it."
+    },
+    {
+      "entry_id": 336,
+      "type": "dialogue",
+      "speaker": "LIPPMAN",
+      "normalized_speaker": "lippman",
+      "text": "Uh, excuse me. Are you uh, selling this Indian?",
+      "raw_text": "Uh, excuse me. Are you uh, selling this Indian?"
+    },
+    {
+      "entry_id": 337,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh yeah, yeah.",
+      "raw_text": "Oh yeah, yeah."
+    },
+    {
+      "entry_id": 338,
+      "type": "dialogue",
+      "speaker": "LIPPMAN",
+      "normalized_speaker": "lippman",
+      "text": "Uh, I'm just uh, redecorating my office in a south-western motif and this'd be perfect. Give you five hundred dollars for it?",
+      "raw_text": "Uh, I'm just uh, redecorating my office in a south-western motif and this'd be perfect. Give you five hundred dollars for it?"
+    },
+    {
+      "entry_id": 339,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Giddyup.",
+      "raw_text": "Giddyup."
+    },
+    {
+      "entry_id": 340,
+      "type": "dialogue",
+      "speaker": "LIPPMAN",
+      "normalized_speaker": "lippman",
+      "text": "Yeah? Could you help me bring it up to my office, I'm right next door. Pendant Publishing.",
+      "raw_text": "Yeah? Could you help me bring it up to my office, I'm right next door. Pendant Publishing."
+    },
+    {
+      "entry_id": 341,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Pendant Publishing? Giddyup again.",
+      "raw_text": "Pendant Publishing? Giddyup again."
+    },
+    {
+      "entry_id": 342,
+      "type": "scene_heading",
+      "text": "[Setting: Lippman's office]",
+      "raw_text": "(Lippman's office)",
+      "confidence": 0.9,
+      "location": "Lippman's office",
+      "normalized_location": "lippman_s_office"
+    },
+    {
+      "entry_id": 343,
+      "type": "action",
+      "text": "Kramer is sitting in a chair before the desk, smoking a cigar. Elaine enters.",
+      "raw_text": "Kramer is sitting in a chair before the desk, smoking a cigar. Elaine enters.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 344,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Mr Lippman. I'm sorry, I was in Queens uh... (sees Kramer) Kramer!",
+      "raw_text": "Mr Lippman. I'm sorry, I was in Queens uh... (sees Kramer) Kramer!"
+    },
+    {
+      "entry_id": 345,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, hi Elaine.",
+      "raw_text": "Yeah, hi Elaine."
+    },
+    {
+      "entry_id": 346,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What are you doing in here with that?",
+      "raw_text": "What are you doing in here with that?"
+    },
+    {
+      "entry_id": 347,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Ah, well, it's a business transaction.",
+      "raw_text": "Ah, well, it's a business transaction."
+    },
+    {
+      "entry_id": 348,
+      "type": "dialogue",
+      "speaker": "LIPPMAN",
+      "normalized_speaker": "lippman",
+      "text": "Listen uh, petty cash just had tens and twenties. (hands cash to Kramer) Go ahead, count it.",
+      "raw_text": "(entering, smoking a cigar and with a handful of cash) Listen uh, petty cash just had tens and twenties. (hands cash to Kramer) Go ahead, count it.",
+      "parenthetical": "entering, smoking a cigar and with a handful of cash"
+    },
+    {
+      "entry_id": 349,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, I'm sure it's all here. (puts in in his pocket) You know I was just admiring your coffee table, out there in the hall.",
+      "raw_text": "Yeah, I'm sure it's all here. (puts in in his pocket) You know I was just admiring your coffee table, out there in the hall."
+    },
+    {
+      "entry_id": 350,
+      "type": "dialogue",
+      "speaker": "LIPPMAN",
+      "normalized_speaker": "lippman",
+      "text": "You like that, huh? I had that custom made for me in Santa Fe.",
+      "raw_text": "You like that, huh? I had that custom made for me in Santa Fe."
+    },
+    {
+      "entry_id": 351,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You mind if I use it in my book?",
+      "raw_text": "You mind if I use it in my book?"
+    },
+    {
+      "entry_id": 352,
+      "type": "dialogue",
+      "speaker": "LIPPMAN",
+      "normalized_speaker": "lippman",
+      "text": "What book?",
+      "raw_text": "What book?"
+    },
+    {
+      "entry_id": 353,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, I'm doing a coffee table book on coffee tables.",
+      "raw_text": "Well, I'm doing a coffee table book on coffee tables."
+    },
+    {
+      "entry_id": 354,
+      "type": "dialogue",
+      "speaker": "LIPPMAN",
+      "normalized_speaker": "lippman",
+      "text": "About coffee tables? Elaine is pulling skeptical faces.",
+      "raw_text": "About coffee tables? Elaine is pulling skeptical faces."
+    },
+    {
+      "entry_id": 355,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Uh huh.",
+      "raw_text": "Uh huh."
+    },
+    {
+      "entry_id": 356,
+      "type": "dialogue",
+      "speaker": "LIPPMAN",
+      "normalized_speaker": "lippman",
+      "text": "That's fantastic. (Elaine looks gobsmacked) Who's your publisher?",
+      "raw_text": "That's fantastic. (Elaine looks gobsmacked) Who's your publisher?"
+    },
+    {
+      "entry_id": 357,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, I'm still shopping it around.",
+      "raw_text": "Well, I'm still shopping it around."
+    },
+    {
+      "entry_id": 358,
+      "type": "dialogue",
+      "speaker": "LIPPMAN",
+      "normalized_speaker": "lippman",
+      "text": "Yeah? (to Elaine) You see, this is the kind of idea you should be coming in with. What the hell do you do round here all day anyway?",
+      "raw_text": "Yeah? (to Elaine) You see, this is the kind of idea you should be coming in with. What the hell do you do round here all day anyway?"
+    },
+    {
+      "entry_id": 359,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well I (indistinct) ...manuscript that",
+      "raw_text": "Well I (indistinct) ...manuscript that"
+    },
+    {
+      "entry_id": 360,
+      "type": "dialogue",
+      "speaker": "LIPPMAN",
+      "normalized_speaker": "lippman",
+      "text": "God, that Indian really completes the room. Don't you think? Elaine looks sick.",
+      "raw_text": "(ignoring Elaine) God, that Indian really completes the room. Don't you think? Elaine looks sick.",
+      "parenthetical": "ignoring Elaine"
+    },
+    {
+      "entry_id": 361,
+      "type": "scene_heading",
+      "text": "[Setting: Furniture refinishers]",
+      "raw_text": "(Furniture refinishers)",
+      "confidence": 0.9,
+      "location": "Furniture refinishers",
+      "normalized_location": "furniture_refinishers"
+    },
+    {
+      "entry_id": 362,
+      "type": "action",
+      "text": "Estelle is showing the table to Sylvia.",
+      "raw_text": "Estelle is showing the table to Sylvia.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 363,
+      "type": "dialogue",
+      "speaker": "SYLVIA",
+      "normalized_speaker": "sylvia",
+      "text": "I know this coffee table, it's George Costanza's.",
+      "raw_text": "I know this coffee table, it's George Costanza's."
+    },
+    {
+      "entry_id": 364,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "It's mine. I'm his mother.",
+      "raw_text": "It's mine. I'm his mother."
+    },
+    {
+      "entry_id": 365,
+      "type": "dialogue",
+      "speaker": "SYLVIA",
+      "normalized_speaker": "sylvia",
+      "text": "Oh, I haven't seen George for a while. He must be working very hard.",
+      "raw_text": "Oh, I haven't seen George for a while. He must be working very hard."
+    },
+    {
+      "entry_id": 366,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "George doesn't work. He's a bum. That's why he lives at home with us.",
+      "raw_text": "George doesn't work. He's a bum. That's why he lives at home with us."
+    },
+    {
+      "entry_id": 367,
+      "type": "dialogue",
+      "speaker": "SYLVIA",
+      "normalized_speaker": "sylvia",
+      "text": "He does?",
+      "raw_text": "He does?"
+    },
+    {
+      "entry_id": 368,
+      "type": "scene_heading",
+      "text": "[Setting: Subway train]",
+      "raw_text": "(Subway train)",
+      "confidence": 0.9,
+      "location": "Subway train",
+      "normalized_location": "subway_train"
+    },
+    {
+      "entry_id": 369,
+      "type": "action",
+      "text": "Jerry and Elaine sit together on the train. Elaine still looks unhappy. Jerry has a copy of the TV Guide.",
+      "raw_text": "Jerry and Elaine sit together on the train. Elaine still looks unhappy. Jerry has a copy of the TV Guide.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 370,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't know why we didn't think of this before. We just could call TV Guide.",
+      "raw_text": "I don't know why we didn't think of this before. We just could call TV Guide."
+    },
+    {
+      "entry_id": 371,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I dunno.",
+      "raw_text": "I dunno."
+    },
+    {
+      "entry_id": 372,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, it's gonna make Mr Costanza very happy. (he hands the magazine to Elaine)",
+      "raw_text": "Well, it's gonna make Mr Costanza very happy. (he hands the magazine to Elaine)"
+    },
+    {
+      "entry_id": 373,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I guess.",
+      "raw_text": "I guess."
+    },
+    {
+      "entry_id": 374,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What's the matter?",
+      "raw_text": "What's the matter?"
+    },
+    {
+      "entry_id": 375,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What d'you think is the matter? I've been assigned to work on Kramer's coffee table book.",
+      "raw_text": "What d'you think is the matter? I've been assigned to work on Kramer's coffee table book."
+    },
+    {
+      "entry_id": 376,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "It is a good idea, Elaine.",
+      "raw_text": "It is a good idea, Elaine."
+    },
+    {
+      "entry_id": 377,
+      "type": "dialogue",
+      "speaker": "TANNOY",
+      "normalized_speaker": "tannoy",
+      "text": "Next stop, Queensboro Plaza.",
+      "raw_text": "Next stop, Queensboro Plaza."
+    },
+    {
+      "entry_id": 378,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You want a gyro?",
+      "raw_text": "You want a gyro?"
+    },
+    {
+      "entry_id": 379,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I don't think so. Jerry jumps up and rushes out of the door, pushing his way past other commuters. moments later) Elaine sits alone in her seat. Jerry tries to enter the carriage just as the doors close. They close on his arm, trapping it.",
+      "raw_text": "I don't think so. Jerry jumps up and rushes out of the door, pushing his way past other commuters. moments later) Elaine sits alone in her seat. Jerry tries to enter the carriage just as the doors close. They close on his arm, trapping it."
+    },
+    {
+      "entry_id": 380,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Elaine! A guy walking through the carriage picks the gyro out of Jerry's hand, just as Jerry pulls his arm free. He sits down opposite Elaine, preparing to eat.",
+      "raw_text": "Elaine! A guy walking through the carriage picks the gyro out of Jerry's hand, just as Jerry pulls his arm free. He sits down opposite Elaine, preparing to eat."
+    },
+    {
+      "entry_id": 381,
+      "type": "dialogue",
+      "speaker": "AL ROKER",
+      "normalized_speaker": "al_roker",
+      "text": "Guess your boyfriend's gonna have to catch the next train.",
+      "raw_text": "Guess your boyfriend's gonna have to catch the next train."
+    },
+    {
+      "entry_id": 382,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "He's not my boyfriend.",
+      "raw_text": "He's not my boyfriend."
+    },
+    {
+      "entry_id": 383,
+      "type": "dialogue",
+      "speaker": "AL ROKER",
+      "normalized_speaker": "al_roker",
+      "text": "He's not? Interesting. (gives a big grin) Elaine gets a flicker of recognition. She lifts up the TV Guide and finds the guy opposite her is the same guy pictured on the cover, Al Roker. She looks up at the real guy again and he has the exact expression as the picture on the cover.",
+      "raw_text": "He's not? Interesting. (gives a big grin) Elaine gets a flicker of recognition. She lifts up the TV Guide and finds the guy opposite her is the same guy pictured on the cover, Al Roker. She looks up at the real guy again and he has the exact expression as the picture on the cover."
+    },
+    {
+      "entry_id": 384,
+      "type": "scene_heading",
+      "text": "[Setting: Nightclub]",
+      "raw_text": "(Nightclub)",
+      "confidence": 0.9,
+      "location": "Nightclub",
+      "normalized_location": "nightclub"
+    },
+    {
+      "entry_id": 385,
+      "type": "action",
+      "text": "More Jerry standup.",
+      "raw_text": "More Jerry standup.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 386,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I was always excited as a kid, when that new TV Guide would come. Somehow when that front cover's nice and flat, seems like there's good fresh TV shows in. Then, as the weeks go by you start to hate the TV Guide. All the shows stink. Everything's getting all crumpled and ripped from being sat on, thrown across the room. TV Guide is always thrown, never handed, to another person. It's the world's most thrown reading material. 'Where's TV Guide?' (mimes throwing) 'There it is.' You know in the back of the TV Guide, they have a phone number, ninety-five cents a minute, they will give you the answers to the TV Guide crossword puzzle? My question is, if you can't do the TV Guide crossword puzzle, where are you coming across ninety-five cents?",
+      "raw_text": "I was always excited as a kid, when that new TV Guide would come. Somehow when that front cover's nice and flat, seems like there's good fresh TV shows in. Then, as the weeks go by you start to hate the TV Guide. All the shows stink. Everything's getting all crumpled and ripped from being sat on, thrown across the room. TV Guide is always thrown, never handed, to another person. It's the world's most thrown reading material. 'Where's TV Guide?' (mimes throwing) 'There it is.' You know in the back of the TV Guide, they have a phone number, ninety-five cents a minute, they will give you the answers to the TV Guide crossword puzzle? My question is, if you can't do the TV Guide crossword puzzle, where are you coming across ninety-five cents?"
+    },
+    {
+      "entry_id": 387,
+      "type": "end_marker",
+      "text": "THE END",
+      "raw_text": "THE END"
+    },
+    {
+      "entry_id": 388,
+      "type": "action",
+      "text": ">",
+      "raw_text": ">",
+      "confidence": 0.6
+    }
+  ]
+}

@@ -1,0 +1,2511 @@
+{
+  "episode": {
+    "series_title": "Seinfeld",
+    "episode_number_overall": 137,
+    "title": "The Package",
+    "season": 8,
+    "episode_number_in_season": 5,
+    "air_date": "1996-10-17",
+    "written_by": [],
+    "directed_by": [],
+    "source_title": "The Package Script",
+    "source_dataset": "yregelman/unprocessed-seinfeld-scripts"
+  },
+  "entries": [
+    {
+      "entry_id": 1,
+      "type": "scene_heading",
+      "text": "[Setting: Elaine at the doctor's]",
+      "raw_text": "(Elaine at the doctor's)",
+      "confidence": 0.9,
+      "location": "Elaine at the doctor's",
+      "normalized_location": "elaine_at_the_doctor_s"
+    },
+    {
+      "entry_id": 2,
+      "type": "dialogue",
+      "speaker": "ATTENDANT",
+      "normalized_speaker": "attendant",
+      "text": "The doctor will be with you in a moment.",
+      "raw_text": "The doctor will be with you in a moment."
+    },
+    {
+      "entry_id": 3,
+      "type": "scene_heading",
+      "text": "[Setting: Elaine looking at her chart]",
+      "raw_text": "(Elaine looking at her chart)",
+      "confidence": 0.9,
+      "location": "Elaine looking at her chart",
+      "normalized_location": "elaine_looking_at_her_chart"
+    },
+    {
+      "entry_id": 4,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Difficult ?",
+      "raw_text": "Difficult ?"
+    },
+    {
+      "entry_id": 5,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Elaine. You shouldn't be reading that. So tell me about this rash of yours.",
+      "raw_text": "Elaine. You shouldn't be reading that. So tell me about this rash of yours."
+    },
+    {
+      "entry_id": 6,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well it's , it's..... You know I noticed that somebody wrote in my chart that I was difficult in January of 92 and I have to tell you that I remember that appointment exactly. You see this nurse asked me to put a gown on but it was a mole on my shoulder and I specifically wore a tank top so I wouldn't have to put a gown on. You know they're made of paper.",
+      "raw_text": "Well it's , it's..... You know I noticed that somebody wrote in my chart that I was difficult in January of 92 and I have to tell you that I remember that appointment exactly. You see this nurse asked me to put a gown on but it was a mole on my shoulder and I specifically wore a tank top so I wouldn't have to put a gown on. You know they're made of paper."
+    },
+    {
+      "entry_id": 7,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Well that was a long time ago. How about if I just erase it. Now about that rash...",
+      "raw_text": "Well that was a long time ago. How about if I just erase it. Now about that rash..."
+    },
+    {
+      "entry_id": 8,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "But it was in pen. You fake erase.",
+      "raw_text": "But it was in pen. You fake erase."
+    },
+    {
+      "entry_id": 9,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "All right Miss Benes. This doesn't look too serious. You'll be fine.",
+      "raw_text": "All right Miss Benes. This doesn't look too serious. You'll be fine."
+    },
+    {
+      "entry_id": 10,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What are you writing? Doctor. George at Photo Shop",
+      "raw_text": "What are you writing? Doctor. George at Photo Shop"
+    },
+    {
+      "entry_id": 11,
+      "type": "dialogue",
+      "speaker": "SHEILA",
+      "normalized_speaker": "sheila",
+      "text": "Here you go.",
+      "raw_text": "Here you go."
+    },
+    {
+      "entry_id": 12,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Thanks.",
+      "raw_text": "Thanks."
+    },
+    {
+      "entry_id": 13,
+      "type": "dialogue",
+      "speaker": "SHEILA",
+      "normalized_speaker": "sheila",
+      "text": "I hope you got that mustard stain out of your shirt.",
+      "raw_text": "I hope you got that mustard stain out of your shirt."
+    },
+    {
+      "entry_id": 14,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Ohhhhhh Jerry , Kramer , and George at the apartment",
+      "raw_text": "Ohhhhhh Jerry , Kramer , and George at the apartment"
+    },
+    {
+      "entry_id": 15,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No. All you got to do is jiggle it with this screwdriver.",
+      "raw_text": "No. All you got to do is jiggle it with this screwdriver."
+    },
+    {
+      "entry_id": 16,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Smile",
+      "raw_text": "Smile"
+    },
+    {
+      "entry_id": 17,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What are you doing ?",
+      "raw_text": "What are you doing ?"
+    },
+    {
+      "entry_id": 18,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I meet this women , Sheila. She works down at the one hour photo pace. She's got this incredible smile. Like she's got extra teeth or something",
+      "raw_text": "I meet this women , Sheila. She works down at the one hour photo pace. She's got this incredible smile. Like she's got extra teeth or something"
+    },
+    {
+      "entry_id": 19,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Extra teeth. I love that look.",
+      "raw_text": "Extra teeth. I love that look."
+    },
+    {
+      "entry_id": 20,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey check this out. I go to pick up my pictures and she says \" I hope you got that mustard stain out of your shirt.\"",
+      "raw_text": "Hey check this out. I go to pick up my pictures and she says \" I hope you got that mustard stain out of your shirt.\""
+    },
+    {
+      "entry_id": 21,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What mustard stain ?",
+      "raw_text": "What mustard stain ?"
+    },
+    {
+      "entry_id": 22,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Don't you see. She's looking at my pictures.",
+      "raw_text": "Don't you see. She's looking at my pictures."
+    },
+    {
+      "entry_id": 23,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Why did you take a picture of a mustard stain ?",
+      "raw_text": "Why did you take a picture of a mustard stain ?"
+    },
+    {
+      "entry_id": 24,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "That's got nothing to do with it.",
+      "raw_text": "That's got nothing to do with it."
+    },
+    {
+      "entry_id": 25,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I see. She's looking.",
+      "raw_text": "I see. She's looking."
+    },
+    {
+      "entry_id": 26,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yesssss.",
+      "raw_text": "Yesssss."
+    },
+    {
+      "entry_id": 27,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey , you got to get this thing fixed .",
+      "raw_text": "Hey , you got to get this thing fixed ."
+    },
+    {
+      "entry_id": 28,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "They've tried to fix it. But it keeps coming back the same.",
+      "raw_text": "They've tried to fix it. But it keeps coming back the same."
+    },
+    {
+      "entry_id": 29,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Would you like a refund ?",
+      "raw_text": "Would you like a refund ?"
+    },
+    {
+      "entry_id": 30,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well I can't the warranty expired two years ago.",
+      "raw_text": "Well I can't the warranty expired two years ago."
+    },
+    {
+      "entry_id": 31,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Would you be interested ?",
+      "raw_text": "Would you be interested ?"
+    },
+    {
+      "entry_id": 32,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well how are you going.....",
+      "raw_text": "Well how are you going....."
+    },
+    {
+      "entry_id": 33,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Would you ?",
+      "raw_text": "Would you ?"
+    },
+    {
+      "entry_id": 34,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I guess I would.",
+      "raw_text": "I guess I would."
+    },
+    {
+      "entry_id": 35,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah , yeah. Elaine walks in",
+      "raw_text": "Yeah , yeah. Elaine walks in"
+    },
+    {
+      "entry_id": 36,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You are not going to believe what happened to me at the doctors office today.",
+      "raw_text": "You are not going to believe what happened to me at the doctors office today."
+    },
+    {
+      "entry_id": 37,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Not the gown again.",
+      "raw_text": "Not the gown again."
+    },
+    {
+      "entry_id": 38,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No , no. I was looking at my chart and it said I was difficult. Why would they write that ?",
+      "raw_text": "No , no. I was looking at my chart and it said I was difficult. Why would they write that ?"
+    },
+    {
+      "entry_id": 39,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "They have gotten to know you. Kramer leaves with Jerry's stereo",
+      "raw_text": "They have gotten to know you. Kramer leaves with Jerry's stereo"
+    },
+    {
+      "entry_id": 40,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Then the doctor writes more stuff down and doesn't even look at my rash.",
+      "raw_text": "Then the doctor writes more stuff down and doesn't even look at my rash."
+    },
+    {
+      "entry_id": 41,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Why don't you find a doctor that doesn't know your difficult.",
+      "raw_text": "Why don't you find a doctor that doesn't know your difficult."
+    },
+    {
+      "entry_id": 42,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh come on. I'm not difficult. I'm easy.",
+      "raw_text": "Oh come on. I'm not difficult. I'm easy."
+    },
+    {
+      "entry_id": 43,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Why because you dress casual and sleep with a lot of guys.",
+      "raw_text": "Why because you dress casual and sleep with a lot of guys."
+    },
+    {
+      "entry_id": 44,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Listen to me you little shi........",
+      "raw_text": "Listen to me you little shi........"
+    },
+    {
+      "entry_id": 45,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Smile. Elaine at another doctor's office",
+      "raw_text": "Smile. Elaine at another doctor's office"
+    },
+    {
+      "entry_id": 46,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Well Elaine you really didn't have to put on the gown.",
+      "raw_text": "Well Elaine you really didn't have to put on the gown."
+    },
+    {
+      "entry_id": 47,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh it's my pleasure. I love these. In fact I got one at home. It's perfect when you just want to throw something on. Nurse hands the doctor her chart",
+      "raw_text": "Oh it's my pleasure. I love these. In fact I got one at home. It's perfect when you just want to throw something on. Nurse hands the doctor her chart"
+    },
+    {
+      "entry_id": 48,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "All rightly. Let me just review your history before we begin.",
+      "raw_text": "All rightly. Let me just review your history before we begin."
+    },
+    {
+      "entry_id": 49,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Where did you get my chart ?",
+      "raw_text": "Where did you get my chart ?"
+    },
+    {
+      "entry_id": 50,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "From your last doctor. It's a standard procedure.",
+      "raw_text": "From your last doctor. It's a standard procedure."
+    },
+    {
+      "entry_id": 51,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You know I can tell you my whole history . Let's just.......",
+      "raw_text": "You know I can tell you my whole history . Let's just......."
+    },
+    {
+      "entry_id": 52,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Okay. Let's take a look. Well that doesn't look to serious. You'll be fine.",
+      "raw_text": "Okay. Let's take a look. Well that doesn't look to serious. You'll be fine."
+    },
+    {
+      "entry_id": 53,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Please , please. It's really , really itchy. Doctor writes more stuff in her chart Jerry at apartment Knock , knock",
+      "raw_text": "Please , please. It's really , really itchy. Doctor writes more stuff in her chart Jerry at apartment Knock , knock"
+    },
+    {
+      "entry_id": 54,
+      "type": "dialogue",
+      "speaker": "POSTAL WORKER",
+      "normalized_speaker": "postal_worker",
+      "text": "Seinfeld ?",
+      "raw_text": "Seinfeld ?"
+    },
+    {
+      "entry_id": 55,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 56,
+      "type": "dialogue",
+      "speaker": "POSTAL WORKER",
+      "normalized_speaker": "postal_worker",
+      "text": "I got a package for you. Sign here .",
+      "raw_text": "I got a package for you. Sign here ."
+    },
+    {
+      "entry_id": 57,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Who's it from ?",
+      "raw_text": "Who's it from ?"
+    },
+    {
+      "entry_id": 58,
+      "type": "dialogue",
+      "speaker": "POSTAL WORKER",
+      "normalized_speaker": "postal_worker",
+      "text": "No return address.",
+      "raw_text": "No return address."
+    },
+    {
+      "entry_id": 59,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What if I don't want it ?",
+      "raw_text": "What if I don't want it ?"
+    },
+    {
+      "entry_id": 60,
+      "type": "dialogue",
+      "speaker": "POSTAL WORKER",
+      "normalized_speaker": "postal_worker",
+      "text": "Are you refusing delivery ?",
+      "raw_text": "Are you refusing delivery ?"
+    },
+    {
+      "entry_id": 61,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Maybe I am.",
+      "raw_text": "Maybe I am."
+    },
+    {
+      "entry_id": 62,
+      "type": "dialogue",
+      "speaker": "POSTAL WORKER",
+      "normalized_speaker": "postal_worker",
+      "text": "Why would you do that ?",
+      "raw_text": "Why would you do that ?"
+    },
+    {
+      "entry_id": 63,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I've never done it before.",
+      "raw_text": "I've never done it before."
+    },
+    {
+      "entry_id": 64,
+      "type": "dialogue",
+      "speaker": "POSTAL WORKER",
+      "normalized_speaker": "postal_worker",
+      "text": "Why start now ?",
+      "raw_text": "Why start now ?"
+    },
+    {
+      "entry_id": 65,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Why not ?",
+      "raw_text": "Why not ?"
+    },
+    {
+      "entry_id": 66,
+      "type": "dialogue",
+      "speaker": "POSTAL WORKER",
+      "normalized_speaker": "postal_worker",
+      "text": "All right. George walks in",
+      "raw_text": "All right. George walks in"
+    },
+    {
+      "entry_id": 67,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Why did you refuse the package. Everybody loves a package.",
+      "raw_text": "Why did you refuse the package. Everybody loves a package."
+    },
+    {
+      "entry_id": 68,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't know it was weird. Crazy printing . I don't know who it was from.",
+      "raw_text": "I don't know it was weird. Crazy printing . I don't know who it was from."
+    },
+    {
+      "entry_id": 69,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What do you think it's a bomb ?",
+      "raw_text": "What do you think it's a bomb ?"
+    },
+    {
+      "entry_id": 70,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "It's not totally impossible.",
+      "raw_text": "It's not totally impossible."
+    },
+    {
+      "entry_id": 71,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh the ego on you.",
+      "raw_text": "Oh the ego on you."
+    },
+    {
+      "entry_id": 72,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Why can't I be bombable ?",
+      "raw_text": "Why can't I be bombable ?"
+    },
+    {
+      "entry_id": 73,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Who's going to bomb you. An airline for all the stupid little peanut jokes.",
+      "raw_text": "Who's going to bomb you. An airline for all the stupid little peanut jokes."
+    },
+    {
+      "entry_id": 74,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I suppose you think your bombable.",
+      "raw_text": "I suppose you think your bombable."
+    },
+    {
+      "entry_id": 75,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey. There is a couple of people that wouldn't mind having me out of the way.",
+      "raw_text": "Hey. There is a couple of people that wouldn't mind having me out of the way."
+    },
+    {
+      "entry_id": 76,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "There's more than a couple.",
+      "raw_text": "There's more than a couple."
+    },
+    {
+      "entry_id": 77,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey. Check these out. I just picked them up from Sheila. She must have loved these.",
+      "raw_text": "Hey. Check these out. I just picked them up from Sheila. She must have loved these."
+    },
+    {
+      "entry_id": 78,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You don't have a Mercedes.",
+      "raw_text": "You don't have a Mercedes."
+    },
+    {
+      "entry_id": 79,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I know. I just sort of leaned on it so it would look like it was mine.",
+      "raw_text": "I know. I just sort of leaned on it so it would look like it was mine."
+    },
+    {
+      "entry_id": 80,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "The driver seems a little put out.",
+      "raw_text": "The driver seems a little put out."
+    },
+    {
+      "entry_id": 81,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No. He was fine with it. Check that out.",
+      "raw_text": "No. He was fine with it. Check that out."
+    },
+    {
+      "entry_id": 82,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Is that Burt Reynolds ?",
+      "raw_text": "Is that Burt Reynolds ?"
+    },
+    {
+      "entry_id": 83,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Wax Museum.",
+      "raw_text": "Wax Museum."
+    },
+    {
+      "entry_id": 84,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh.",
+      "raw_text": "Oh."
+    },
+    {
+      "entry_id": 85,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh. What is this ?",
+      "raw_text": "Oh. What is this ?"
+    },
+    {
+      "entry_id": 86,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "That's a lot of skin.",
+      "raw_text": "That's a lot of skin."
+    },
+    {
+      "entry_id": 87,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "This must be Sheila from the photo place .",
+      "raw_text": "This must be Sheila from the photo place ."
+    },
+    {
+      "entry_id": 88,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You can barely see her face.",
+      "raw_text": "You can barely see her face."
+    },
+    {
+      "entry_id": 89,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "She must have slipped it in here. Kramer walks in",
+      "raw_text": "She must have slipped it in here. Kramer walks in"
+    },
+    {
+      "entry_id": 90,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Photo store Sheila.",
+      "raw_text": "Photo store Sheila."
+    },
+    {
+      "entry_id": 91,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well hello Photo store Sheila.",
+      "raw_text": "Well hello Photo store Sheila."
+    },
+    {
+      "entry_id": 92,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "All right. I will see you boys later .",
+      "raw_text": "All right. I will see you boys later ."
+    },
+    {
+      "entry_id": 93,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Where are you going ?",
+      "raw_text": "Where are you going ?"
+    },
+    {
+      "entry_id": 94,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "To ask her out.",
+      "raw_text": "To ask her out."
+    },
+    {
+      "entry_id": 95,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "No , no. Your not playing the game .",
+      "raw_text": "No , no. Your not playing the game ."
+    },
+    {
+      "entry_id": 96,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What game ?",
+      "raw_text": "What game ?"
+    },
+    {
+      "entry_id": 97,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "She goes to these lengths to entice you and your only response is \" Gee I really like your picture. Would you like to go out on a date with me please. \"",
+      "raw_text": "She goes to these lengths to entice you and your only response is \" Gee I really like your picture. Would you like to go out on a date with me please. \""
+    },
+    {
+      "entry_id": 98,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No good ?",
+      "raw_text": "No good ?"
+    },
+    {
+      "entry_id": 99,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "George. It's the timeless art of seduction . You got to join in the dance. She sends you an enticing photo , you send her one right back.",
+      "raw_text": "George. It's the timeless art of seduction . You got to join in the dance. She sends you an enticing photo , you send her one right back."
+    },
+    {
+      "entry_id": 100,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh , I don't know.",
+      "raw_text": "Oh , I don't know."
+    },
+    {
+      "entry_id": 101,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well as you know I've always been something of a photog.",
+      "raw_text": "Well as you know I've always been something of a photog."
+    },
+    {
+      "entry_id": 102,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh yeah I like this idea. Outside Uncle Leo's apartment",
+      "raw_text": "Oh yeah I like this idea. Outside Uncle Leo's apartment"
+    },
+    {
+      "entry_id": 103,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "Hey Danny. Hello. How are you ?",
+      "raw_text": "Hey Danny. Hello. How are you ?"
+    },
+    {
+      "entry_id": 104,
+      "type": "dialogue",
+      "speaker": "POSTAL WORKER DANNY",
+      "normalized_speaker": "postal_worker_danny",
+      "text": "Hey Leo. Leo what's up with your nephew. He wouldn't except his package.",
+      "raw_text": "Hey Leo. Leo what's up with your nephew. He wouldn't except his package."
+    },
+    {
+      "entry_id": 105,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "Oh He wants it. He's just trying to be funny. Yeah I'll sign it . George and Elaine in taxi",
+      "raw_text": "Oh He wants it. He's just trying to be funny. Yeah I'll sign it . George and Elaine in taxi"
+    },
+    {
+      "entry_id": 106,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "And then he starts writing on my chart .",
+      "raw_text": "And then he starts writing on my chart ."
+    },
+    {
+      "entry_id": 107,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well why don't you get a hold of it and change what you don't like.",
+      "raw_text": "Well why don't you get a hold of it and change what you don't like."
+    },
+    {
+      "entry_id": 108,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You can't change your chart. It's your chart.",
+      "raw_text": "You can't change your chart. It's your chart."
+    },
+    {
+      "entry_id": 109,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I am in and out of my personnel file at work all the time.",
+      "raw_text": "I am in and out of my personnel file at work all the time."
+    },
+    {
+      "entry_id": 110,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You are !?!",
+      "raw_text": "You are !?!"
+    },
+    {
+      "entry_id": 111,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey. I've kept the same job for more than two years. It's not luck . Elaine , have you ever sent a racy photograph of yourself to anyone ?",
+      "raw_text": "Hey. I've kept the same job for more than two years. It's not luck . Elaine , have you ever sent a racy photograph of yourself to anyone ?"
+    },
+    {
+      "entry_id": 112,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah. I sent one to everyone I know . Remember my Christmas card.",
+      "raw_text": "Yeah. I sent one to everyone I know . Remember my Christmas card."
+    },
+    {
+      "entry_id": 113,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh yeah the nipple. But besides that . How did you feel about Kramer's work ?",
+      "raw_text": "Oh yeah the nipple. But besides that . How did you feel about Kramer's work ?"
+    },
+    {
+      "entry_id": 114,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Actually I thought he was very professional .",
+      "raw_text": "Actually I thought he was very professional ."
+    },
+    {
+      "entry_id": 115,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So it was a good experience.",
+      "raw_text": "So it was a good experience."
+    },
+    {
+      "entry_id": 116,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh yeah. In fact I like the picture so much I cropped out the nipple and am using as my health club ID.",
+      "raw_text": "Oh yeah. In fact I like the picture so much I cropped out the nipple and am using as my health club ID."
+    },
+    {
+      "entry_id": 117,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Nice.",
+      "raw_text": "Nice."
+    },
+    {
+      "entry_id": 118,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah it is nice actually. Elaine at another doctors",
+      "raw_text": "Yeah it is nice actually. Elaine at another doctors"
+    },
+    {
+      "entry_id": 119,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I need to see Dr. Burke right away. This rash is spreading.",
+      "raw_text": "I need to see Dr. Burke right away. This rash is spreading."
+    },
+    {
+      "entry_id": 120,
+      "type": "dialogue",
+      "speaker": "ATTENDANT",
+      "normalized_speaker": "attendant",
+      "text": "He can't see you Miss Benes , he's busy .",
+      "raw_text": "He can't see you Miss Benes , he's busy ."
+    },
+    {
+      "entry_id": 121,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh come on. Have some compassion. Okay well I hope it's contagious Elaine rubs the attendants phone on her neck. Soon after Elaine finds her chart and runs to the elevator",
+      "raw_text": "Oh come on. Have some compassion. Okay well I hope it's contagious Elaine rubs the attendants phone on her neck. Soon after Elaine finds her chart and runs to the elevator"
+    },
+    {
+      "entry_id": 122,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Come on. Move. Oh hi Dr. Burke. I didn't know if uh....",
+      "raw_text": "Come on. Move. Oh hi Dr. Burke. I didn't know if uh...."
+    },
+    {
+      "entry_id": 123,
+      "type": "dialogue",
+      "speaker": "DR. BURKE",
+      "normalized_speaker": "dr_burke",
+      "text": "The chart Miss Benes.",
+      "raw_text": "The chart Miss Benes."
+    },
+    {
+      "entry_id": 124,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh please no more. The doctor writes more stuff in it Jerry at his apartment George walks in",
+      "raw_text": "Oh please no more. The doctor writes more stuff in it Jerry at his apartment George walks in"
+    },
+    {
+      "entry_id": 125,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey",
+      "raw_text": "Hey"
+    },
+    {
+      "entry_id": 126,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Where's Kramer ?",
+      "raw_text": "Where's Kramer ?"
+    },
+    {
+      "entry_id": 127,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "He went to get some steak sauce. Why ?",
+      "raw_text": "He went to get some steak sauce. Why ?"
+    },
+    {
+      "entry_id": 128,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Personal matter. Phone rings",
+      "raw_text": "Personal matter. Phone rings"
+    },
+    {
+      "entry_id": 129,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hello",
+      "raw_text": "Hello"
+    },
+    {
+      "entry_id": 130,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "Jerry ! It's your Uncle Leo ! Hello !",
+      "raw_text": "Jerry ! It's your Uncle Leo ! Hello !"
+    },
+    {
+      "entry_id": 131,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hello Leo. You don't have to yell.",
+      "raw_text": "Hello Leo. You don't have to yell."
+    },
+    {
+      "entry_id": 132,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "I got your package.",
+      "raw_text": "I got your package."
+    },
+    {
+      "entry_id": 133,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "How did you get my package ?",
+      "raw_text": "How did you get my package ?"
+    },
+    {
+      "entry_id": 134,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "What should I do with it ?",
+      "raw_text": "What should I do with it ?"
+    },
+    {
+      "entry_id": 135,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't know what you should do with it.",
+      "raw_text": "I don't know what you should do with it."
+    },
+    {
+      "entry_id": 136,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Tell him to open it.",
+      "raw_text": "Tell him to open it."
+    },
+    {
+      "entry_id": 137,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I am not going to treat my uncle like a bomb defusing robot.",
+      "raw_text": "I am not going to treat my uncle like a bomb defusing robot."
+    },
+    {
+      "entry_id": 138,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "Jerry , Your cousin Jeffrey is in the Parks Production of The Macardo. I want you to go see it with me.",
+      "raw_text": "Jerry , Your cousin Jeffrey is in the Parks Production of The Macardo. I want you to go see it with me."
+    },
+    {
+      "entry_id": 139,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Open the package Leo.",
+      "raw_text": "Open the package Leo."
+    },
+    {
+      "entry_id": 140,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "Okay. Opening.",
+      "raw_text": "Okay. Opening."
+    },
+    {
+      "entry_id": 141,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Opening. BOOM !!! Elaine and Jerry at apartment",
+      "raw_text": "Opening. BOOM !!! Elaine and Jerry at apartment"
+    },
+    {
+      "entry_id": 142,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "So it wasn't a bomb.",
+      "raw_text": "So it wasn't a bomb."
+    },
+    {
+      "entry_id": 143,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No , No bomb.",
+      "raw_text": "No , No bomb."
+    },
+    {
+      "entry_id": 144,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well then what ?",
+      "raw_text": "Well then what ?"
+    },
+    {
+      "entry_id": 145,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh stupid Leo was using one of those oven cleaners. He left the canister in there and the pilot light was on. The whole thing blew up.",
+      "raw_text": "Oh stupid Leo was using one of those oven cleaners. He left the canister in there and the pilot light was on. The whole thing blew up."
+    },
+    {
+      "entry_id": 146,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "But he's okay ?",
+      "raw_text": "But he's okay ?"
+    },
+    {
+      "entry_id": 147,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah but the explosion singed off his eyebrows , mustache everything. He's all smooth now. Look's like a seal. Elaine on phone",
+      "raw_text": "Yeah but the explosion singed off his eyebrows , mustache everything. He's all smooth now. Look's like a seal. Elaine on phone"
+    },
+    {
+      "entry_id": 148,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah I am still holding. Jerry opens his package",
+      "raw_text": "Yeah I am still holding. Jerry opens his package"
+    },
+    {
+      "entry_id": 149,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Is this my stereo ? Kramer walks in",
+      "raw_text": "Is this my stereo ? Kramer walks in"
+    },
+    {
+      "entry_id": 150,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey you got it.",
+      "raw_text": "Hey you got it."
+    },
+    {
+      "entry_id": 151,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What happened to my stereo ? It's all smashed up.",
+      "raw_text": "What happened to my stereo ? It's all smashed up."
+    },
+    {
+      "entry_id": 152,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "That's right. Now it looks like it was broken during shipping and I insured it for $400.",
+      "raw_text": "That's right. Now it looks like it was broken during shipping and I insured it for $400."
+    },
+    {
+      "entry_id": 153,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "But you were supposed to get me a refund .",
+      "raw_text": "But you were supposed to get me a refund ."
+    },
+    {
+      "entry_id": 154,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You can't get a refund. Your warranty expired two years ago.",
+      "raw_text": "You can't get a refund. Your warranty expired two years ago."
+    },
+    {
+      "entry_id": 155,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So were going to make the Post Office pay for my new stereo ?",
+      "raw_text": "So were going to make the Post Office pay for my new stereo ?"
+    },
+    {
+      "entry_id": 156,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "It's just a write off for them.",
+      "raw_text": "It's just a write off for them."
+    },
+    {
+      "entry_id": 157,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "How is it a write off ?",
+      "raw_text": "How is it a write off ?"
+    },
+    {
+      "entry_id": 158,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "They just write it off.",
+      "raw_text": "They just write it off."
+    },
+    {
+      "entry_id": 159,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Write it off what ?",
+      "raw_text": "Write it off what ?"
+    },
+    {
+      "entry_id": 160,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Jerry all these big companies they write off everything",
+      "raw_text": "Jerry all these big companies they write off everything"
+    },
+    {
+      "entry_id": 161,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You don't even know what a write off is.",
+      "raw_text": "You don't even know what a write off is."
+    },
+    {
+      "entry_id": 162,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Do you ?",
+      "raw_text": "Do you ?"
+    },
+    {
+      "entry_id": 163,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No. I don't.",
+      "raw_text": "No. I don't."
+    },
+    {
+      "entry_id": 164,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "But they do and they are the ones writing it off.",
+      "raw_text": "But they do and they are the ones writing it off."
+    },
+    {
+      "entry_id": 165,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I wish I just had the last twenty seconds of my life back. Elaine still on phone",
+      "raw_text": "I wish I just had the last twenty seconds of my life back. Elaine still on phone"
+    },
+    {
+      "entry_id": 166,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What ?!? He doesn't have one appointment this whole month !?! Oh come on. I am dying here man. Hello , hello.",
+      "raw_text": "What ?!? He doesn't have one appointment this whole month !?! Oh come on. I am dying here man. Hello , hello."
+    },
+    {
+      "entry_id": 167,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Still no luck Kramer leaves with a fan",
+      "raw_text": "Still no luck Kramer leaves with a fan"
+    },
+    {
+      "entry_id": 168,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Jerry I am at doctor Zimmerman. I am at the end of the alphabet.",
+      "raw_text": "Jerry I am at doctor Zimmerman. I am at the end of the alphabet."
+    },
+    {
+      "entry_id": 169,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "There's no Zorn or Zoutraph.",
+      "raw_text": "There's no Zorn or Zoutraph."
+    },
+    {
+      "entry_id": 170,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "There on vacation. Every doctor in this city seems to know who I am .",
+      "raw_text": "There on vacation. Every doctor in this city seems to know who I am ."
+    },
+    {
+      "entry_id": 171,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey what about Dr. Resnick My Uncle Leo is going to see him tomorrow .",
+      "raw_text": "Hey what about Dr. Resnick My Uncle Leo is going to see him tomorrow ."
+    },
+    {
+      "entry_id": 172,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Dr. Resnick. He's not listed.",
+      "raw_text": "Dr. Resnick. He's not listed."
+    },
+    {
+      "entry_id": 173,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "He's not that good. Kramer and George at Kramer's apartment",
+      "raw_text": "He's not that good. Kramer and George at Kramer's apartment"
+    },
+    {
+      "entry_id": 174,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Elaine said your pretty good at this stuff.",
+      "raw_text": "Elaine said your pretty good at this stuff."
+    },
+    {
+      "entry_id": 175,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh yeah. Elaine was a fun project. I enjoyed working with her.",
+      "raw_text": "Oh yeah. Elaine was a fun project. I enjoyed working with her."
+    },
+    {
+      "entry_id": 176,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You don't have your own camera.",
+      "raw_text": "You don't have your own camera."
+    },
+    {
+      "entry_id": 177,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Uh no. Look at this. Okay yeah this looks good and I like what your wearing.",
+      "raw_text": "Uh no. Look at this. Okay yeah this looks good and I like what your wearing."
+    },
+    {
+      "entry_id": 178,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I feel fat.",
+      "raw_text": "I feel fat."
+    },
+    {
+      "entry_id": 179,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "No, no. You're stoked. The camera loves stokedness. Look were not going to do anything that makes you feel uncomfortable. The key word is tasteful. Now I want you to relax and have fun because your a fun guy. All right let's do it. Okay come on. Feel the beat. Feel the beat . You know you got some real strong pecks but it's hard to tell under that T-shirt.",
+      "raw_text": "No, no. You're stoked. The camera loves stokedness. Look were not going to do anything that makes you feel uncomfortable. The key word is tasteful. Now I want you to relax and have fun because your a fun guy. All right let's do it. Okay come on. Feel the beat. Feel the beat . You know you got some real strong pecks but it's hard to tell under that T-shirt."
+    },
+    {
+      "entry_id": 180,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well do you want me to take it off ?",
+      "raw_text": "Well do you want me to take it off ?"
+    },
+    {
+      "entry_id": 181,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I don't know it's up to you.",
+      "raw_text": "I don't know it's up to you."
+    },
+    {
+      "entry_id": 182,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Do you think it would be better if I did ?",
+      "raw_text": "Do you think it would be better if I did ?"
+    },
+    {
+      "entry_id": 183,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "It might be. I mean whatever you want .",
+      "raw_text": "It might be. I mean whatever you want ."
+    },
+    {
+      "entry_id": 184,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "ALL RIGHT !! Kramer ; That's it George. Come on , come on. Give it to me . Come on ,work it. Work it. Yeah be a man , be a man. Jerry leaving apartment",
+      "raw_text": "ALL RIGHT !! Kramer ; That's it George. Come on , come on. Give it to me . Come on ,work it. Work it. Yeah be a man , be a man. Jerry leaving apartment"
+    },
+    {
+      "entry_id": 185,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You are a lover boy !!",
+      "raw_text": "You are a lover boy !!"
+    },
+    {
+      "entry_id": 186,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh yeah. This can't miss. Elaine sleeping in bed Phone rings",
+      "raw_text": "Oh yeah. This can't miss. Elaine sleeping in bed Phone rings"
+    },
+    {
+      "entry_id": 187,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hello.",
+      "raw_text": "Hello."
+    },
+    {
+      "entry_id": 188,
+      "type": "dialogue",
+      "speaker": "GUY",
+      "normalized_speaker": "guy",
+      "text": "Is this Elaine Marie Benes ?",
+      "raw_text": "Is this Elaine Marie Benes ?"
+    },
+    {
+      "entry_id": 189,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yes. Who it this ?",
+      "raw_text": "Yes. Who it this ?"
+    },
+    {
+      "entry_id": 190,
+      "type": "dialogue",
+      "speaker": "GUY",
+      "normalized_speaker": "guy",
+      "text": "We are with the American Medical Association . Can you confirm the correct spelling of your last name ? Is it B-e-n-e-s.",
+      "raw_text": "We are with the American Medical Association . Can you confirm the correct spelling of your last name ? Is it B-e-n-e-s."
+    },
+    {
+      "entry_id": 191,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah. What is this all about",
+      "raw_text": "Yeah. What is this all about"
+    },
+    {
+      "entry_id": 192,
+      "type": "dialogue",
+      "speaker": "GUY",
+      "normalized_speaker": "guy",
+      "text": "Good bye.",
+      "raw_text": "Good bye."
+    },
+    {
+      "entry_id": 193,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hello , hello.",
+      "raw_text": "Hello , hello."
+    },
+    {
+      "entry_id": 194,
+      "type": "dialogue",
+      "speaker": "GUY",
+      "normalized_speaker": "guy",
+      "text": "What ?",
+      "raw_text": "What ?"
+    },
+    {
+      "entry_id": 195,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh uh uh...",
+      "raw_text": "Oh uh uh..."
+    },
+    {
+      "entry_id": 196,
+      "type": "dialogue",
+      "speaker": "GUY",
+      "normalized_speaker": "guy",
+      "text": "Get off the line. Were trying to make another call. Uncle Leo and Elaine at Dr. Resnick's office",
+      "raw_text": "Get off the line. Were trying to make another call. Uncle Leo and Elaine at Dr. Resnick's office"
+    },
+    {
+      "entry_id": 197,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "Elaine. Hello. What are you doing here ?",
+      "raw_text": "Elaine. Hello. What are you doing here ?"
+    },
+    {
+      "entry_id": 198,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Leo. Has the doctor been in yet ?",
+      "raw_text": "Leo. Has the doctor been in yet ?"
+    },
+    {
+      "entry_id": 199,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "No. I am going to ask him about my eyebrows.",
+      "raw_text": "No. I am going to ask him about my eyebrows."
+    },
+    {
+      "entry_id": 200,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Okay listen Leo. Your hairless , your scared. When the doctor comes in let me do the talking. Okay. Dr. Resnick walks in",
+      "raw_text": "Okay listen Leo. Your hairless , your scared. When the doctor comes in let me do the talking. Okay. Dr. Resnick walks in"
+    },
+    {
+      "entry_id": 201,
+      "type": "dialogue",
+      "speaker": "DR. RESNICK",
+      "normalized_speaker": "dr_resnick",
+      "text": "Leo. I heard you had a little mishap .",
+      "raw_text": "Leo. I heard you had a little mishap ."
+    },
+    {
+      "entry_id": 202,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "It was a fireball.",
+      "raw_text": "It was a fireball."
+    },
+    {
+      "entry_id": 203,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I should have never left him alone.",
+      "raw_text": "I should have never left him alone."
+    },
+    {
+      "entry_id": 204,
+      "type": "dialogue",
+      "speaker": "DR. RESNICK",
+      "normalized_speaker": "dr_resnick",
+      "text": "And who are you ?",
+      "raw_text": "And who are you ?"
+    },
+    {
+      "entry_id": 205,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I am his nurse... Poloma.",
+      "raw_text": "I am his nurse... Poloma."
+    },
+    {
+      "entry_id": 206,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "You're not my nurse.",
+      "raw_text": "You're not my nurse."
+    },
+    {
+      "entry_id": 207,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "He has good days and bad.",
+      "raw_text": "He has good days and bad."
+    },
+    {
+      "entry_id": 208,
+      "type": "dialogue",
+      "speaker": "DR. RESNICK",
+      "normalized_speaker": "dr_resnick",
+      "text": "What seems to be the problem ?",
+      "raw_text": "What seems to be the problem ?"
+    },
+    {
+      "entry_id": 209,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "Are my eyebrows going to grow back ?",
+      "raw_text": "Are my eyebrows going to grow back ?"
+    },
+    {
+      "entry_id": 210,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "And he's has a bit of a rash.",
+      "raw_text": "And he's has a bit of a rash."
+    },
+    {
+      "entry_id": 211,
+      "type": "dialogue",
+      "speaker": "DR. RESNICK",
+      "normalized_speaker": "dr_resnick",
+      "text": "Really.",
+      "raw_text": "Really."
+    },
+    {
+      "entry_id": 212,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 213,
+      "type": "dialogue",
+      "speaker": "DR. RESNICK",
+      "normalized_speaker": "dr_resnick",
+      "text": "Well there's been a bit of that going around lately. Will you excuse me Poloma. I just need to get some ointment.",
+      "raw_text": "Well there's been a bit of that going around lately. Will you excuse me Poloma. I just need to get some ointment."
+    },
+    {
+      "entry_id": 214,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I don't like this , it is to easy.",
+      "raw_text": "I don't like this , it is to easy."
+    },
+    {
+      "entry_id": 215,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "Elaine...",
+      "raw_text": "Elaine..."
+    },
+    {
+      "entry_id": 216,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Shut up ! I think he's on to us.",
+      "raw_text": "Shut up ! I think he's on to us."
+    },
+    {
+      "entry_id": 217,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "Elaine what about my eyebrows ?",
+      "raw_text": "Elaine what about my eyebrows ?"
+    },
+    {
+      "entry_id": 218,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Shhhhhh. Here. Elaine draws fake eyebrows on him Kramer and Jerry at Post Office",
+      "raw_text": "Shhhhhh. Here. Elaine draws fake eyebrows on him Kramer and Jerry at Post Office"
+    },
+    {
+      "entry_id": 219,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't like this Kramer. Will it be much longer ?",
+      "raw_text": "I don't like this Kramer. Will it be much longer ?"
+    },
+    {
+      "entry_id": 220,
+      "type": "dialogue",
+      "speaker": "ATTENDANT",
+      "normalized_speaker": "attendant",
+      "text": "I am sorry. It looks like the claim has been red flagged. Your under investigation.",
+      "raw_text": "I am sorry. It looks like the claim has been red flagged. Your under investigation."
+    },
+    {
+      "entry_id": 221,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Investigation ?",
+      "raw_text": "Investigation ?"
+    },
+    {
+      "entry_id": 222,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Hello Jerry.",
+      "raw_text": "Hello Jerry."
+    },
+    {
+      "entry_id": 223,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hello Newman.",
+      "raw_text": "Hello Newman."
+    },
+    {
+      "entry_id": 224,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Kramer you might as well run along. Jerry might be a while. Suspicion of mail fraud.",
+      "raw_text": "Kramer you might as well run along. Jerry might be a while. Suspicion of mail fraud."
+    },
+    {
+      "entry_id": 225,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Mail fraud. Your in a lot of trouble buddy. Uncle Leo at Dr. Resnick's office",
+      "raw_text": "Mail fraud. Your in a lot of trouble buddy. Uncle Leo at Dr. Resnick's office"
+    },
+    {
+      "entry_id": 226,
+      "type": "dialogue",
+      "speaker": "DR. RESNICK",
+      "normalized_speaker": "dr_resnick",
+      "text": "I got your ointment. Where's your nurse ?",
+      "raw_text": "I got your ointment. Where's your nurse ?"
+    },
+    {
+      "entry_id": 227,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "She left.",
+      "raw_text": "She left."
+    },
+    {
+      "entry_id": 228,
+      "type": "dialogue",
+      "speaker": "DR. RESNICK",
+      "normalized_speaker": "dr_resnick",
+      "text": "No need to get angry. Calm down.",
+      "raw_text": "No need to get angry. Calm down."
+    },
+    {
+      "entry_id": 229,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "I am calm.",
+      "raw_text": "I am calm."
+    },
+    {
+      "entry_id": 230,
+      "type": "dialogue",
+      "speaker": "DR. RESNICK",
+      "normalized_speaker": "dr_resnick",
+      "text": "Leo I don't care for your demeanor.",
+      "raw_text": "Leo I don't care for your demeanor."
+    },
+    {
+      "entry_id": 231,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "Demeanor ?",
+      "raw_text": "Demeanor ?"
+    },
+    {
+      "entry_id": 232,
+      "type": "dialogue",
+      "speaker": "DR. RESNICK",
+      "normalized_speaker": "dr_resnick",
+      "text": "Now your just being difficult.",
+      "raw_text": "Now your just being difficult."
+    },
+    {
+      "entry_id": 233,
+      "type": "dialogue",
+      "speaker": "UNCLE LEO",
+      "normalized_speaker": "uncle_leo",
+      "text": "What are you writing ? George at photo store",
+      "raw_text": "What are you writing ? George at photo store"
+    },
+    {
+      "entry_id": 234,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So I really liked the pictures I picked up here yesterday.",
+      "raw_text": "So I really liked the pictures I picked up here yesterday."
+    },
+    {
+      "entry_id": 235,
+      "type": "dialogue",
+      "speaker": "SHEILA",
+      "normalized_speaker": "sheila",
+      "text": "I am glad George.",
+      "raw_text": "I am glad George."
+    },
+    {
+      "entry_id": 236,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "And here's a roll that I think you may enjoy.",
+      "raw_text": "And here's a roll that I think you may enjoy."
+    },
+    {
+      "entry_id": 237,
+      "type": "dialogue",
+      "speaker": "SHEILA",
+      "normalized_speaker": "sheila",
+      "text": "Great.",
+      "raw_text": "Great."
+    },
+    {
+      "entry_id": 238,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Shall we say an hour. George leaves",
+      "raw_text": "Shall we say an hour. George leaves"
+    },
+    {
+      "entry_id": 239,
+      "type": "dialogue",
+      "speaker": "SHEILA",
+      "normalized_speaker": "sheila",
+      "text": "Hey Ron I got to go to lunch. Can you do a roll ?",
+      "raw_text": "Hey Ron I got to go to lunch. Can you do a roll ?"
+    },
+    {
+      "entry_id": 240,
+      "type": "dialogue",
+      "speaker": "RON",
+      "normalized_speaker": "ron",
+      "text": "No problem.",
+      "raw_text": "No problem."
+    },
+    {
+      "entry_id": 241,
+      "type": "dialogue",
+      "speaker": "SHEILA",
+      "normalized_speaker": "sheila",
+      "text": "By the way. You know that model that is always in here. She's missing one of her lingerie shots. Have you seen it ?",
+      "raw_text": "By the way. You know that model that is always in here. She's missing one of her lingerie shots. Have you seen it ?"
+    },
+    {
+      "entry_id": 242,
+      "type": "dialogue",
+      "speaker": "RON",
+      "normalized_speaker": "ron",
+      "text": "No. Jerry and Newman at the Post Office",
+      "raw_text": "No. Jerry and Newman at the Post Office"
+    },
+    {
+      "entry_id": 243,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "All right. Then let me ask you this . Didn't you find it interesting that your friend had the foresight to purchase postal insurance for your stereo. Huh. I mean parcels are rarely damaged during shipping .",
+      "raw_text": "All right. Then let me ask you this . Didn't you find it interesting that your friend had the foresight to purchase postal insurance for your stereo. Huh. I mean parcels are rarely damaged during shipping ."
+    },
+    {
+      "entry_id": 244,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Define rarely.",
+      "raw_text": "Define rarely."
+    },
+    {
+      "entry_id": 245,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Frequently.",
+      "raw_text": "Frequently."
+    },
+    {
+      "entry_id": 246,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Are we about throw here Newman ?",
+      "raw_text": "Are we about throw here Newman ?"
+    },
+    {
+      "entry_id": 247,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "It's pretty hot under these lights huh Seinfeld. Pretty....... Hot .",
+      "raw_text": "It's pretty hot under these lights huh Seinfeld. Pretty....... Hot ."
+    },
+    {
+      "entry_id": 248,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Actually I am quite comfortable.",
+      "raw_text": "Actually I am quite comfortable."
+    },
+    {
+      "entry_id": 249,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Can I have a sip ?",
+      "raw_text": "Can I have a sip ?"
+    },
+    {
+      "entry_id": 250,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No.",
+      "raw_text": "No."
+    },
+    {
+      "entry_id": 251,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Not going to play ball. Huh all right . Admit it that stereo was all ready busted.",
+      "raw_text": "Not going to play ball. Huh all right . Admit it that stereo was all ready busted."
+    },
+    {
+      "entry_id": 252,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You can't prove anything.",
+      "raw_text": "You can't prove anything."
+    },
+    {
+      "entry_id": 253,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Is this or is this not your signature ?",
+      "raw_text": "Is this or is this not your signature ?"
+    },
+    {
+      "entry_id": 254,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No in a matter of fact it isn't.",
+      "raw_text": "No in a matter of fact it isn't."
+    },
+    {
+      "entry_id": 255,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Uncle Leo ? This case is closed pending further evidence. Jerry. Kramer and Elaine at doctor's",
+      "raw_text": "Uncle Leo ? This case is closed pending further evidence. Jerry. Kramer and Elaine at doctor's"
+    },
+    {
+      "entry_id": 256,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Get in there. Get chart. Get out. You got it.",
+      "raw_text": "Get in there. Get chart. Get out. You got it."
+    },
+    {
+      "entry_id": 257,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah let me borrow your scarf.",
+      "raw_text": "Yeah let me borrow your scarf."
+    },
+    {
+      "entry_id": 258,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "This.",
+      "raw_text": "This."
+    },
+    {
+      "entry_id": 259,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah. All right one chart coming up .",
+      "raw_text": "Yeah. All right one chart coming up ."
+    },
+    {
+      "entry_id": 260,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Okay.",
+      "raw_text": "Okay."
+    },
+    {
+      "entry_id": 261,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Bennette right ?",
+      "raw_text": "Bennette right ?"
+    },
+    {
+      "entry_id": 262,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Benes. My last name is Benes you jackass . Yeah. Newman walking down the street",
+      "raw_text": "Benes. My last name is Benes you jackass . Yeah. Newman walking down the street"
+    },
+    {
+      "entry_id": 263,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Jerry , Jerry , Jerry , Jerry , Jerry , Jerry , Jerry , Jerry , Jerry . Kramer at doctor's",
+      "raw_text": "Jerry , Jerry , Jerry , Jerry , Jerry , Jerry , Jerry , Jerry , Jerry . Kramer at doctor's"
+    },
+    {
+      "entry_id": 264,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I like what you've done with that.",
+      "raw_text": "I like what you've done with that."
+    },
+    {
+      "entry_id": 265,
+      "type": "dialogue",
+      "speaker": "ATTENDANT",
+      "normalized_speaker": "attendant",
+      "text": "May I help you ?",
+      "raw_text": "May I help you ?"
+    },
+    {
+      "entry_id": 266,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yes , yes. I am Dr. Vanostran from the clinic. I need Elaine Benes chart. She's a patient of mine and she's not going to make it . It's uh very bad very messy.",
+      "raw_text": "Yes , yes. I am Dr. Vanostran from the clinic. I need Elaine Benes chart. She's a patient of mine and she's not going to make it . It's uh very bad very messy."
+    },
+    {
+      "entry_id": 267,
+      "type": "dialogue",
+      "speaker": "ATTENDANT",
+      "normalized_speaker": "attendant",
+      "text": "I see and what clinic is that again ?",
+      "raw_text": "I see and what clinic is that again ?"
+    },
+    {
+      "entry_id": 268,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "That's correct.",
+      "raw_text": "That's correct."
+    },
+    {
+      "entry_id": 269,
+      "type": "dialogue",
+      "speaker": "ATTENDANT",
+      "normalized_speaker": "attendant",
+      "text": "Excuse me.",
+      "raw_text": "Excuse me."
+    },
+    {
+      "entry_id": 270,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "From The Hoffer-Mandale Clinic in Belgium .",
+      "raw_text": "From The Hoffer-Mandale Clinic in Belgium ."
+    },
+    {
+      "entry_id": 271,
+      "type": "dialogue",
+      "speaker": "ATTENDANT",
+      "normalized_speaker": "attendant",
+      "text": "Really ?",
+      "raw_text": "Really ?"
+    },
+    {
+      "entry_id": 272,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "The Netherlands ?",
+      "raw_text": "The Netherlands ?"
+    },
+    {
+      "entry_id": 273,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Where's my chart ? Did you get it ?",
+      "raw_text": "Where's my chart ? Did you get it ?"
+    },
+    {
+      "entry_id": 274,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "No.",
+      "raw_text": "No."
+    },
+    {
+      "entry_id": 275,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What ? What happened ?",
+      "raw_text": "What ? What happened ?"
+    },
+    {
+      "entry_id": 276,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I don't know. But now they got a chart on me. George at photo store",
+      "raw_text": "I don't know. But now they got a chart on me. George at photo store"
+    },
+    {
+      "entry_id": 277,
+      "type": "dialogue",
+      "speaker": "SHEILA",
+      "normalized_speaker": "sheila",
+      "text": "I don't know where they could be.",
+      "raw_text": "I don't know where they could be."
+    },
+    {
+      "entry_id": 278,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Can't find them. That's marvelous. The dance continues.",
+      "raw_text": "Can't find them. That's marvelous. The dance continues."
+    },
+    {
+      "entry_id": 279,
+      "type": "dialogue",
+      "speaker": "SHEILA",
+      "normalized_speaker": "sheila",
+      "text": "Well if I find them I'll call you.",
+      "raw_text": "Well if I find them I'll call you."
+    },
+    {
+      "entry_id": 280,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "And maybe we could go out and do something .",
+      "raw_text": "And maybe we could go out and do something ."
+    },
+    {
+      "entry_id": 281,
+      "type": "dialogue",
+      "speaker": "SHEILA",
+      "normalized_speaker": "sheila",
+      "text": "Sure.",
+      "raw_text": "Sure."
+    },
+    {
+      "entry_id": 282,
+      "type": "dialogue",
+      "speaker": "RON",
+      "normalized_speaker": "ron",
+      "text": "Hello.",
+      "raw_text": "Hello."
+    },
+    {
+      "entry_id": 283,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hi. George leaves",
+      "raw_text": "Hi. George leaves"
+    },
+    {
+      "entry_id": 284,
+      "type": "dialogue",
+      "speaker": "SHEILA",
+      "normalized_speaker": "sheila",
+      "text": "So the little guy finally asked me out .",
+      "raw_text": "So the little guy finally asked me out ."
+    },
+    {
+      "entry_id": 285,
+      "type": "dialogue",
+      "speaker": "RON",
+      "normalized_speaker": "ron",
+      "text": "Really ?",
+      "raw_text": "Really ?"
+    },
+    {
+      "entry_id": 286,
+      "type": "dialogue",
+      "speaker": "SHEILA",
+      "normalized_speaker": "sheila",
+      "text": "Hey I can't find his photo's anywhere .",
+      "raw_text": "Hey I can't find his photo's anywhere ."
+    },
+    {
+      "entry_id": 287,
+      "type": "dialogue",
+      "speaker": "RON",
+      "normalized_speaker": "ron",
+      "text": "Oh you know what happened. Some guy from the Post Office confiscated them. He left his card.",
+      "raw_text": "Oh you know what happened. Some guy from the Post Office confiscated them. He left his card."
+    },
+    {
+      "entry_id": 288,
+      "type": "dialogue",
+      "speaker": "SHEILA",
+      "normalized_speaker": "sheila",
+      "text": "Newman ? George and Jerry at Post Office",
+      "raw_text": "Newman ? George and Jerry at Post Office"
+    },
+    {
+      "entry_id": 289,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I don't know what Newman wanted to see me for. Newman ; Gentlemen , gentlemen. I am so happy to see you both. There is just some inconsistencies I'd like to straighten out.",
+      "raw_text": "I don't know what Newman wanted to see me for. Newman ; Gentlemen , gentlemen. I am so happy to see you both. There is just some inconsistencies I'd like to straighten out."
+    },
+    {
+      "entry_id": 290,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I'm clean and you know it.",
+      "raw_text": "I'm clean and you know it."
+    },
+    {
+      "entry_id": 291,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Clean ? Hardly. This looks like a man that isn't happy with his stereo performance.",
+      "raw_text": "Clean ? Hardly. This looks like a man that isn't happy with his stereo performance."
+    },
+    {
+      "entry_id": 292,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Where did you get that ?",
+      "raw_text": "Where did you get that ?"
+    },
+    {
+      "entry_id": 293,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I think that's one of mine.",
+      "raw_text": "I think that's one of mine."
+    },
+    {
+      "entry_id": 294,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "It looks like your breaking into it like an otter breaking into a clam.",
+      "raw_text": "It looks like your breaking into it like an otter breaking into a clam."
+    },
+    {
+      "entry_id": 295,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't know about that but I'm sure there is a explanation.",
+      "raw_text": "I don't know about that but I'm sure there is a explanation."
+    },
+    {
+      "entry_id": 296,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Yes. It's called mail fraud. Oohhhh . How I've longed for this moment Seinfeld. The day when I would have the proof I needed to hall you out of your cushy lair and expose to the light of justice as the monster that you are. A monster so vile.....",
+      "raw_text": "Yes. It's called mail fraud. Oohhhh . How I've longed for this moment Seinfeld. The day when I would have the proof I needed to hall you out of your cushy lair and expose to the light of justice as the monster that you are. A monster so vile....."
+    },
+    {
+      "entry_id": 297,
+      "type": "dialogue",
+      "speaker": "GUY",
+      "normalized_speaker": "guy",
+      "text": "NEWMAN !!",
+      "raw_text": "NEWMAN !!"
+    },
+    {
+      "entry_id": 298,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "There will be a small fine.",
+      "raw_text": "There will be a small fine."
+    },
+    {
+      "entry_id": 299,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Okay.",
+      "raw_text": "Okay."
+    },
+    {
+      "entry_id": 300,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Can we go now ?",
+      "raw_text": "Can we go now ?"
+    },
+    {
+      "entry_id": 301,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Not so fast pretty boy. There is more to this sorted little affair.",
+      "raw_text": "Not so fast pretty boy. There is more to this sorted little affair."
+    },
+    {
+      "entry_id": 302,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh my god !!",
+      "raw_text": "Oh my god !!"
+    },
+    {
+      "entry_id": 303,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "This photo clearly indicates your involvement in some ill-conceived mail order pornography ring. As does this one found in the same disturbing packet. Newman holds up a picture of Ron",
+      "raw_text": "This photo clearly indicates your involvement in some ill-conceived mail order pornography ring. As does this one found in the same disturbing packet. Newman holds up a picture of Ron"
+    },
+    {
+      "entry_id": 304,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "OH MY GOD !!!",
+      "raw_text": "OH MY GOD !!!"
+    },
+    {
+      "entry_id": 305,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "We have some questions we'd like you to answer.",
+      "raw_text": "We have some questions we'd like you to answer."
+    },
+    {
+      "entry_id": 306,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I have some questions of my own. Sheila walks in",
+      "raw_text": "I have some questions of my own. Sheila walks in"
+    },
+    {
+      "entry_id": 307,
+      "type": "dialogue",
+      "speaker": "SHEILA",
+      "normalized_speaker": "sheila",
+      "text": "Hi. One of your mailmen....... Oh my god , George !?!",
+      "raw_text": "Hi. One of your mailmen....... Oh my god , George !?!"
+    },
+    {
+      "entry_id": 308,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Listen Sheila it's not what you think . I put my trust into the wrong person. He said the key word was tasteful.",
+      "raw_text": "Listen Sheila it's not what you think . I put my trust into the wrong person. He said the key word was tasteful."
+    },
+    {
+      "entry_id": 309,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "The timeless art of seduction.",
+      "raw_text": "The timeless art of seduction."
+    },
+    {
+      "entry_id": 310,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "SHEILA !!!",
+      "raw_text": "SHEILA !!!"
+    },
+    {
+      "entry_id": 311,
+      "type": "end_marker",
+      "text": "THE END",
+      "raw_text": "THE END"
+    },
+    {
+      "entry_id": 312,
+      "type": "action",
+      "text": ">",
+      "raw_text": ">",
+      "confidence": 0.6
+    }
+  ]
+}

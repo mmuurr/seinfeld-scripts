@@ -1,0 +1,2953 @@
+{
+  "episode": {
+    "series_title": "Seinfeld",
+    "episode_number_overall": 148,
+    "title": "The Pothole",
+    "season": 8,
+    "episode_number_in_season": 16,
+    "air_date": "1997-02-20",
+    "written_by": [],
+    "directed_by": [],
+    "source_title": "The Pothole Script",
+    "source_dataset": "yregelman/unprocessed-seinfeld-scripts"
+  },
+  "entries": [
+    {
+      "entry_id": 1,
+      "type": "scene_heading",
+      "text": "[Setting: Bathroom]",
+      "raw_text": "(Bathroom)",
+      "confidence": 0.9,
+      "location": "Bathroom",
+      "normalized_location": "bathroom"
+    },
+    {
+      "entry_id": 2,
+      "type": "action",
+      "text": "Jerry is standing by the sink, preparing to brush his teeth. Jenna (his latest ladyfriend) enters.",
+      "raw_text": "Jerry is standing by the sink, preparing to brush his teeth. Jenna (his latest ladyfriend) enters.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 3,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "Morning.",
+      "raw_text": "Morning."
+    },
+    {
+      "entry_id": 4,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Morning. She hands him a tube of toothpaste.",
+      "raw_text": "Morning. She hands him a tube of toothpaste."
+    },
+    {
+      "entry_id": 5,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "Hope you don't mind baking soda flavour.",
+      "raw_text": "Hope you don't mind baking soda flavour."
+    },
+    {
+      "entry_id": 6,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Ah, baking soda. Annoying little product. 'I can do this. I can do that.' Why doesn't this stuff just shut up?",
+      "raw_text": "(applying paste to brush) Ah, baking soda. Annoying little product. 'I can do this. I can do that.' Why doesn't this stuff just shut up?",
+      "parenthetical": "applying paste to brush"
+    },
+    {
+      "entry_id": 7,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "I'm gonna grab you a towel. Jenna leaves the bathroom. Jerry brushes his teeth. He clearly doesn't like the taste of the baking soda, and leans over the sink to spit. He puts his hand on the counter and knocks Jenna's toothbrush off the edge. The brush falls into the toilet bowl. There is a shot from beneath the water in the toilet, looking up. Jerry's face looking down into the bowl, with an expression of shock and horror. Jerry looks behind him, to see if Jenna has spotted him. He rolls up the sleeve of his dressing gown, grimaces, and plunges his hand into the toilet. He grabs the brush out, drops it on a shelf beside the mirror and immediately begins frantically washing his hands. As he completes this task, he raises his head and finds Jenna has returned. She is standing behind him, smiling as she brushes her teeth with the brush he just retrieved from the toilet.",
+      "raw_text": "I'm gonna grab you a towel. Jenna leaves the bathroom. Jerry brushes his teeth. He clearly doesn't like the taste of the baking soda, and leans over the sink to spit. He puts his hand on the counter and knocks Jenna's toothbrush off the edge. The brush falls into the toilet bowl. There is a shot from beneath the water in the toilet, looking up. Jerry's face looking down into the bowl, with an expression of shock and horror. Jerry looks behind him, to see if Jenna has spotted him. He rolls up the sleeve of his dressing gown, grimaces, and plunges his hand into the toilet. He grabs the brush out, drops it on a shelf beside the mirror and immediately begins frantically washing his hands. As he completes this task, he raises his head and finds Jenna has returned. She is standing behind him, smiling as she brushes her teeth with the brush he just retrieved from the toilet."
+    },
+    {
+      "entry_id": 8,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Ooh-ooh",
+      "raw_text": "Ooh-ooh"
+    },
+    {
+      "entry_id": 9,
+      "type": "scene_heading",
+      "text": "[Setting: Monk's]",
+      "raw_text": "(Monk's)",
+      "confidence": 0.9,
+      "location": "Monk's",
+      "normalized_location": "monk_s"
+    },
+    {
+      "entry_id": 10,
+      "type": "action",
+      "text": "Jerry and George in a booth, as per usual.",
+      "raw_text": "Jerry and George in a booth, as per usual.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 11,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So?",
+      "raw_text": "So?"
+    },
+    {
+      "entry_id": 12,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So? She used the toothbrush!",
+      "raw_text": "So? She used the toothbrush!"
+    },
+    {
+      "entry_id": 13,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You said you grabbed it outta there real fast, right?",
+      "raw_text": "You said you grabbed it outta there real fast, right?"
+    },
+    {
+      "entry_id": 14,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 15,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So I'm sure whatever germs it landed on were knocked out, and by the time the rest of them realised what was going on, you had already grabbed it out.",
+      "raw_text": "So I'm sure whatever germs it landed on were knocked out, and by the time the rest of them realised what was going on, you had already grabbed it out."
+    },
+    {
+      "entry_id": 16,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "How many years of med school did you have?",
+      "raw_text": "How many years of med school did you have?"
+    },
+    {
+      "entry_id": 17,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Was she mad? Jerry says nothing, but pulls a face.",
+      "raw_text": "Was she mad? Jerry says nothing, but pulls a face."
+    },
+    {
+      "entry_id": 18,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You didn't tell her.",
+      "raw_text": "You didn't tell her."
+    },
+    {
+      "entry_id": 19,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Jenna's like me. She's very... (searches for word)",
+      "raw_text": "Jenna's like me. She's very... (searches for word)"
+    },
+    {
+      "entry_id": 20,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Finicky? Prissy? Fastidious?",
+      "raw_text": "Finicky? Prissy? Fastidious?"
+    },
+    {
+      "entry_id": 21,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I'll take fastidious. George puts his keys on the table. On the ring is a miniature head, clearly a caricature of someone.",
+      "raw_text": "I'll take fastidious. George puts his keys on the table. On the ring is a miniature head, clearly a caricature of someone."
+    },
+    {
+      "entry_id": 22,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What is that?",
+      "raw_text": "What is that?"
+    },
+    {
+      "entry_id": 23,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Ahh, Steinbrenner gave 'em to us, in honour of Phil Rizzuto being inducted into the Hall of Fame. He squeezes the miniature head.",
+      "raw_text": "Ahh, Steinbrenner gave 'em to us, in honour of Phil Rizzuto being inducted into the Hall of Fame. He squeezes the miniature head."
+    },
+    {
+      "entry_id": 24,
+      "type": "dialogue",
+      "speaker": "HEAD",
+      "normalized_speaker": "head",
+      "text": "Holy cow!",
+      "raw_text": "Holy cow!"
+    },
+    {
+      "entry_id": 25,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "They don't actually have to squeeze his head to get him to say 'holy cow', do they?",
+      "raw_text": "They don't actually have to squeeze his head to get him to say 'holy cow', do they?"
+    },
+    {
+      "entry_id": 26,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Just the last few innings of a double-header. Kramer enters. He is carrying a battered sewing machine. He comes over.",
+      "raw_text": "Just the last few innings of a double-header. Kramer enters. He is carrying a battered sewing machine. He comes over."
+    },
+    {
+      "entry_id": 27,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey. Look at this. I'm in the passing lane of the Arthur Berkhardt expressway, going seventy and (makes impact sound - pckergh!) Dragged this thing for five exits. He dumps the machine on the table and sits beside Jerry.",
+      "raw_text": "Hey. Look at this. I'm in the passing lane of the Arthur Berkhardt expressway, going seventy and (makes impact sound - pckergh!) Dragged this thing for five exits. He dumps the machine on the table and sits beside Jerry."
+    },
+    {
+      "entry_id": 28,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Why didn't you pull over?",
+      "raw_text": "Why didn't you pull over?"
+    },
+    {
+      "entry_id": 29,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well I was draughting behind a semi. I didn't wanna lose him. The infrastructure, Jerry, it's crumbling. George squeezes the miniature head.",
+      "raw_text": "Well I was draughting behind a semi. I didn't wanna lose him. The infrastructure, Jerry, it's crumbling. George squeezes the miniature head."
+    },
+    {
+      "entry_id": 30,
+      "type": "dialogue",
+      "speaker": "HEAD",
+      "normalized_speaker": "head",
+      "text": "Holy cow!",
+      "raw_text": "Holy cow!"
+    },
+    {
+      "entry_id": 31,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, look at that. A talking Nixon.",
+      "raw_text": "Well, look at that. A talking Nixon."
+    },
+    {
+      "entry_id": 32,
+      "type": "scene_heading",
+      "text": "[Setting: Elaine's Apartment/Chinese Restaurant]",
+      "raw_text": "(Elaine's Apartment/Chinese Restaurant)",
+      "confidence": 0.9,
+      "location": "Elaine's Apartment/Chinese Restaurant",
+      "normalized_location": "elaine_s_apartment_chinese_restaurant"
+    },
+    {
+      "entry_id": 33,
+      "type": "action",
+      "text": "Elaine is calling for Chinese food. The scene flicks from her at home with the phone and a menu, to the restaurant owner taking the order.",
+      "raw_text": "Elaine is calling for Chinese food. The scene flicks from her at home with the phone and a menu, to the restaurant owner taking the order.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 34,
+      "type": "dialogue",
+      "speaker": "OWNER",
+      "normalized_speaker": "owner",
+      "text": "China Panda.",
+      "raw_text": "China Panda."
+    },
+    {
+      "entry_id": 35,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah, I'd like to place an order.",
+      "raw_text": "Yeah, I'd like to place an order."
+    },
+    {
+      "entry_id": 36,
+      "type": "dialogue",
+      "speaker": "OWNER",
+      "normalized_speaker": "owner",
+      "text": "Ah yes, what you like?",
+      "raw_text": "Ah yes, what you like?"
+    },
+    {
+      "entry_id": 37,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "This Supreme Flounder, it says first time served in America. Is that true?",
+      "raw_text": "This Supreme Flounder, it says first time served in America. Is that true?"
+    },
+    {
+      "entry_id": 38,
+      "type": "dialogue",
+      "speaker": "OWNER",
+      "normalized_speaker": "owner",
+      "text": "What number?",
+      "raw_text": "What number?"
+    },
+    {
+      "entry_id": 39,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Forty-seven.",
+      "raw_text": "Forty-seven."
+    },
+    {
+      "entry_id": 40,
+      "type": "dialogue",
+      "speaker": "OWNER",
+      "normalized_speaker": "owner",
+      "text": "Yeah, first time. What else?",
+      "raw_text": "Yeah, first time. What else?"
+    },
+    {
+      "entry_id": 41,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Uh, that's it.",
+      "raw_text": "Uh, that's it."
+    },
+    {
+      "entry_id": 42,
+      "type": "dialogue",
+      "speaker": "OWNER",
+      "normalized_speaker": "owner",
+      "text": "Address?",
+      "raw_text": "Address?"
+    },
+    {
+      "entry_id": 43,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Seventy-eight, West Eighty-sixth Street. Apartment three E.",
+      "raw_text": "Seventy-eight, West Eighty-sixth Street. Apartment three E."
+    },
+    {
+      "entry_id": 44,
+      "type": "dialogue",
+      "speaker": "OWNER",
+      "normalized_speaker": "owner",
+      "text": "That's southside. Sorry, we don't deliver below Eighty-sixth.",
+      "raw_text": "That's southside. Sorry, we don't deliver below Eighty-sixth."
+    },
+    {
+      "entry_id": 45,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I'm not below.",
+      "raw_text": "I'm not below."
+    },
+    {
+      "entry_id": 46,
+      "type": "dialogue",
+      "speaker": "OWNER",
+      "normalized_speaker": "owner",
+      "text": "Yes you are. Street itself is boundary.",
+      "raw_text": "Yes you are. Street itself is boundary."
+    },
+    {
+      "entry_id": 47,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Your guy can't cross to my side?",
+      "raw_text": "Your guy can't cross to my side?"
+    },
+    {
+      "entry_id": 48,
+      "type": "dialogue",
+      "speaker": "OWNER",
+      "normalized_speaker": "owner",
+      "text": "If we deliver to you, then what? Eighty-fifth Street, Wall Street, Mexico, Eighty-fourth Street.",
+      "raw_text": "If we deliver to you, then what? Eighty-fifth Street, Wall Street, Mexico, Eighty-fourth Street."
+    },
+    {
+      "entry_id": 49,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Alright, fine. I'll just cross and meet him.",
+      "raw_text": "Alright, fine. I'll just cross and meet him."
+    },
+    {
+      "entry_id": 50,
+      "type": "dialogue",
+      "speaker": "OWNER",
+      "normalized_speaker": "owner",
+      "text": "Sorry, food only for those who live within boundary. (slams down phone) Elaine listens to the dial tone for a second. Then she pushes the redial.",
+      "raw_text": "Sorry, food only for those who live within boundary. (slams down phone) Elaine listens to the dial tone for a second. Then she pushes the redial."
+    },
+    {
+      "entry_id": 51,
+      "type": "dialogue",
+      "speaker": "OWNER",
+      "normalized_speaker": "owner",
+      "text": "China Panda.",
+      "raw_text": "(picks up phone) China Panda.",
+      "parenthetical": "picks up phone"
+    },
+    {
+      "entry_id": 52,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Uh, yeah yeah. I'd like to place an order.",
+      "raw_text": "(using silly voice) Uh, yeah yeah. I'd like to place an order.",
+      "parenthetical": "using silly voice"
+    },
+    {
+      "entry_id": 53,
+      "type": "dialogue",
+      "speaker": "OWNER",
+      "normalized_speaker": "owner",
+      "text": "Ah, what you like?",
+      "raw_text": "Ah, what you like?"
+    },
+    {
+      "entry_id": 54,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's Apartment]",
+      "raw_text": "(Jerry's Apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's Apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 55,
+      "type": "action",
+      "text": "Kramer enters. He's smoking a substantial cigar.",
+      "raw_text": "Kramer enters. He's smoking a substantial cigar.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 56,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, I'm a poppa.",
+      "raw_text": "Well, I'm a poppa."
+    },
+    {
+      "entry_id": 57,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Bring it on. Nothing's throwing me at this point.",
+      "raw_text": "Bring it on. Nothing's throwing me at this point."
+    },
+    {
+      "entry_id": 58,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, as of today I am a proud parent of a one-mile stretch of the Arthur Berkhardt Expressway.",
+      "raw_text": "(handing Jerry a cigar) Well, as of today I am a proud parent of a one-mile stretch of the Arthur Berkhardt Expressway.",
+      "parenthetical": "handing Jerry a cigar"
+    },
+    {
+      "entry_id": 59,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh, that adopt-a-highway thing.",
+      "raw_text": "Oh, that adopt-a-highway thing."
+    },
+    {
+      "entry_id": 60,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, I'm part of the solution now Jerry. Yeah, I went down there and I checked it out this morning. Here, take a look. Mile one-fourteen. He gets his wallet from his back pocket and shows Jerry a Polaroid snapshot in it.",
+      "raw_text": "Yeah, I'm part of the solution now Jerry. Yeah, I went down there and I checked it out this morning. Here, take a look. Mile one-fourteen. He gets his wallet from his back pocket and shows Jerry a Polaroid snapshot in it."
+    },
+    {
+      "entry_id": 61,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Aw, looks just like you.",
+      "raw_text": "Aw, looks just like you."
+    },
+    {
+      "entry_id": 62,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Aw, I'm beaming Jerry.",
+      "raw_text": "Aw, I'm beaming Jerry."
+    },
+    {
+      "entry_id": 63,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So what d'you have to do? Pay to keep it clean?",
+      "raw_text": "So what d'you have to do? Pay to keep it clean?"
+    },
+    {
+      "entry_id": 64,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "They try to push you into using their cleaning crew, with all their so-called maintenance equipment.",
+      "raw_text": "They try to push you into using their cleaning crew, with all their so-called maintenance equipment."
+    },
+    {
+      "entry_id": 65,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "That old scam.",
+      "raw_text": "That old scam."
+    },
+    {
+      "entry_id": 66,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, well that's why I'm doing it all myself. This parenting isn't about delegating responsibility, it's about being there.",
+      "raw_text": "Yeah, well that's why I'm doing it all myself. This parenting isn't about delegating responsibility, it's about being there."
+    },
+    {
+      "entry_id": 67,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "At the side of the road, with a pile of garbage.",
+      "raw_text": "At the side of the road, with a pile of garbage."
+    },
+    {
+      "entry_id": 68,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Quality time. George enters looking anxious, maybe borderline panicky. He stalks about the place, looking for something, frustratedly.",
+      "raw_text": "Quality time. George enters looking anxious, maybe borderline panicky. He stalks about the place, looking for something, frustratedly."
+    },
+    {
+      "entry_id": 69,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Keys. I can't find my keys.",
+      "raw_text": "Keys. I can't find my keys."
+    },
+    {
+      "entry_id": 70,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You lost Phil Rizzuto's head?!",
+      "raw_text": "You lost Phil Rizzuto's head?!"
+    },
+    {
+      "entry_id": 71,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Have you seen 'em?",
+      "raw_text": "Have you seen 'em?"
+    },
+    {
+      "entry_id": 72,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No.",
+      "raw_text": "No."
+    },
+    {
+      "entry_id": 73,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Dammit!",
+      "raw_text": "Dammit!"
+    },
+    {
+      "entry_id": 74,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "C'mon, retrace your steps. What d'you do today?",
+      "raw_text": "C'mon, retrace your steps. What d'you do today?"
+    },
+    {
+      "entry_id": 75,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I got up, I was supposed to go to work, I came here instead.",
+      "raw_text": "I got up, I was supposed to go to work, I came here instead."
+    },
+    {
+      "entry_id": 76,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Right.",
+      "raw_text": "Right."
+    },
+    {
+      "entry_id": 77,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, they're not here. You'll have to dig up your spare set.",
+      "raw_text": "Well, they're not here. You'll have to dig up your spare set."
+    },
+    {
+      "entry_id": 78,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I don't have a spare set. All my keys say 'do not duplicate'.",
+      "raw_text": "I don't have a spare set. All my keys say 'do not duplicate'."
+    },
+    {
+      "entry_id": 79,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So?",
+      "raw_text": "So?"
+    },
+    {
+      "entry_id": 80,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So you can't duplicate 'em. At this, Jerry and Kramer exchange a look, and laugh.",
+      "raw_text": "So you can't duplicate 'em. At this, Jerry and Kramer exchange a look, and laugh."
+    },
+    {
+      "entry_id": 81,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Sure you can. (to Jerry) Such a sweet kid.",
+      "raw_text": "Sure you can. (to Jerry) Such a sweet kid."
+    },
+    {
+      "entry_id": 82,
+      "type": "scene_heading",
+      "text": "[Setting: Street]",
+      "raw_text": "(Street)",
+      "confidence": 0.9,
+      "location": "Street",
+      "normalized_location": "street"
+    },
+    {
+      "entry_id": 83,
+      "type": "action",
+      "text": "Elaine stands on the sidewalk, waiting for someone. She looks up the street and sees a Chinese delivery boy approaching with a bag of food. She ducks into the entranceway to the apartment building behind her, and then effects to be coming out of the building as the delivery boy gets there.",
+      "raw_text": "Elaine stands on the sidewalk, waiting for someone. She looks up the street and sees a Chinese delivery boy approaching with a bag of food. She ducks into the entranceway to the apartment building behind her, and then effects to be coming out of the building as the delivery boy gets there.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 84,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh. Oh, hi. China Panda?",
+      "raw_text": "Oh. Oh, hi. China Panda?"
+    },
+    {
+      "entry_id": 85,
+      "type": "dialogue",
+      "speaker": "DELIVERY BOY",
+      "normalized_speaker": "delivery_boy",
+      "text": "Why you waiting on the street and not in your apartment?",
+      "raw_text": "(suspicious) Why you waiting on the street and not in your apartment?",
+      "parenthetical": "suspicious"
+    },
+    {
+      "entry_id": 86,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I... thought that I would meet you halfway. She takes the bag of food.",
+      "raw_text": "I... thought that I would meet you halfway. She takes the bag of food."
+    },
+    {
+      "entry_id": 87,
+      "type": "dialogue",
+      "speaker": "DELIVERY BOY",
+      "normalized_speaker": "delivery_boy",
+      "text": "You really live here?",
+      "raw_text": "You really live here?"
+    },
+    {
+      "entry_id": 88,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh yeah. (handing over money) There you go, keep the change. Bye now. I'll see you. Elaine walks back towards the door to the building. She expects the boy to leave, but he's still suspicious, and waits. Elaine tries the door, but it's locked. She looks, and the boy still waits. Elaine tries the door harder, but it won't yield. She admits defeat and hands the food back, and receives her money. The delivery boy walks off.",
+      "raw_text": "Oh yeah. (handing over money) There you go, keep the change. Bye now. I'll see you. Elaine walks back towards the door to the building. She expects the boy to leave, but he's still suspicious, and waits. Elaine tries the door, but it's locked. She looks, and the boy still waits. Elaine tries the door harder, but it won't yield. She admits defeat and hands the food back, and receives her money. The delivery boy walks off."
+    },
+    {
+      "entry_id": 89,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "This isn't fair. This is address discrimination!",
+      "raw_text": "(at the boy's back) This isn't fair. This is address discrimination!",
+      "parenthetical": "at the boy's back"
+    },
+    {
+      "entry_id": 90,
+      "type": "scene_heading",
+      "text": "[Setting: Another Street]",
+      "raw_text": "(Another Street)",
+      "confidence": 0.9,
+      "location": "Another Street",
+      "normalized_location": "another_street"
+    },
+    {
+      "entry_id": 91,
+      "type": "action",
+      "text": "George is standing outside a store, looking preoccupied. Jerry emerges from the store with a carrier bag full of stuff.",
+      "raw_text": "George is standing outside a store, looking preoccupied. Jerry emerges from the store with a carrier bag full of stuff.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 92,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, I cleaned out their whole dental hygiene shelf.",
+      "raw_text": "Well, I cleaned out their whole dental hygiene shelf."
+    },
+    {
+      "entry_id": 93,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So the plan is to secretly sterilise her mouth? They begin to walk along the street.",
+      "raw_text": "So the plan is to secretly sterilise her mouth? They begin to walk along the street."
+    },
+    {
+      "entry_id": 94,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "By the time I'm through with her mouth, she'll be able to eat off it. Is it safe to drink bleach if you dilute it?",
+      "raw_text": "By the time I'm through with her mouth, she'll be able to eat off it. Is it safe to drink bleach if you dilute it?"
+    },
+    {
+      "entry_id": 95,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No, stings the throat. Anyway, so I was coming along here, and I felt like a piece of cake, you know? But then I thought, it's morning, I should really have a muffin. I like those chocolate chip ones. Then I figured, well, they're really both cake. So I, uh, I sat on that bench for a little while, twenty minutes or an hour, and then I figured, check and see what you were up to. (a thought occurs to him) Wait a minute, wait a minute. The broad jump! The broad jump over the pothole on Eighty-sixth Street! George dashes off excitedly. Jerry follows, with somewhat less enthusiasm.",
+      "raw_text": "No, stings the throat. Anyway, so I was coming along here, and I felt like a piece of cake, you know? But then I thought, it's morning, I should really have a muffin. I like those chocolate chip ones. Then I figured, well, they're really both cake. So I, uh, I sat on that bench for a little while, twenty minutes or an hour, and then I figured, check and see what you were up to. (a thought occurs to him) Wait a minute, wait a minute. The broad jump! The broad jump over the pothole on Eighty-sixth Street! George dashes off excitedly. Jerry follows, with somewhat less enthusiasm."
+    },
+    {
+      "entry_id": 96,
+      "type": "scene_heading",
+      "text": "[Setting: Eighty-sixth Street]",
+      "raw_text": "(Eighty-sixth Street)",
+      "confidence": 0.9,
+      "location": "Eighty-sixth Street",
+      "normalized_location": "eighty_sixth_street"
+    },
+    {
+      "entry_id": 97,
+      "type": "action",
+      "text": "George is still animatedly leading Jerry along in pursuit of his keys.",
+      "raw_text": "George is still animatedly leading Jerry along in pursuit of his keys.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 98,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Now I remember, as I jumped over the hole I heard a, like a jingling sound.",
+      "raw_text": "Now I remember, as I jumped over the hole I heard a, like a jingling sound."
+    },
+    {
+      "entry_id": 99,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You didn't look down?",
+      "raw_text": "You didn't look down?"
+    },
+    {
+      "entry_id": 100,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I was trying to stick the landing. (indistinct) ...was right around here. He peers about at the road surface for the pothole. He finds a patch of fresh tarmac.",
+      "raw_text": "I was trying to stick the landing. (indistinct) ...was right around here. He peers about at the road surface for the pothole. He finds a patch of fresh tarmac."
+    },
+    {
+      "entry_id": 101,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No! No!! A car drives by, running right over the patch.",
+      "raw_text": "No! No!! A car drives by, running right over the patch."
+    },
+    {
+      "entry_id": 102,
+      "type": "dialogue",
+      "speaker": "HEAD",
+      "normalized_speaker": "head",
+      "text": "Holy, Holy Cow!",
+      "raw_text": "Holy, Holy Cow!"
+    },
+    {
+      "entry_id": 103,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Poor son of a bitch.",
+      "raw_text": "Poor son of a bitch."
+    },
+    {
+      "entry_id": 104,
+      "type": "scene_heading",
+      "text": "[Setting: Jenna's Apartment]",
+      "raw_text": "(Jenna's Apartment)",
+      "confidence": 0.9,
+      "location": "Jenna's Apartment",
+      "normalized_location": "jenna_s_apartment"
+    },
+    {
+      "entry_id": 105,
+      "type": "action",
+      "text": "Jenna is at the sink in her bathroom, using an electric toothbrush which Jerry has bought her. It's loud.",
+      "raw_text": "Jenna is at the sink in her bathroom, using an electric toothbrush which Jerry has bought her. It's loud.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 106,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "It's a hundred thousand revolutions a second. It's the most powerful one they make.",
+      "raw_text": "It's a hundred thousand revolutions a second. It's the most powerful one they make."
+    },
+    {
+      "entry_id": 107,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "It's like I'm holding a blender.",
+      "raw_text": "It's like I'm holding a blender."
+    },
+    {
+      "entry_id": 108,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "The engine's made by McDonnell-Douglas. Jerry begins to wander into the living room. Jenna switches off the brush.",
+      "raw_text": "The engine's made by McDonnell-Douglas. Jerry begins to wander into the living room. Jenna switches off the brush."
+    },
+    {
+      "entry_id": 109,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh no, you keep going. It shuts off automatically.",
+      "raw_text": "Oh no, you keep going. It shuts off automatically."
+    },
+    {
+      "entry_id": 110,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "Really, it does?",
+      "raw_text": "Really, it does?",
+      "parenthetical": "restarting and reapplying the brush"
+    },
+    {
+      "entry_id": 111,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "When the battery runs out.",
+      "raw_text": "(unheard by Jenna) When the battery runs out.",
+      "parenthetical": "unheard by Jenna"
+    },
+    {
+      "entry_id": 112,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "I was really happy with my old toothbrush. In the living room, Jerry is carefully putting the old brush into a plastic bag, being very careful not to touch it with his bare skin. He then seals the bag.",
+      "raw_text": "(shouting to Jerry) I was really happy with my old toothbrush. In the living room, Jerry is carefully putting the old brush into a plastic bag, being very careful not to touch it with his bare skin. He then seals the bag.",
+      "parenthetical": "shouting to Jerry"
+    },
+    {
+      "entry_id": 113,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No, trust me, that one was doing more harm than good. Don't forget to use the Plax too. Jenna takes a sip from a glass as if to gargle.",
+      "raw_text": "No, trust me, that one was doing more harm than good. Don't forget to use the Plax too. Jenna takes a sip from a glass as if to gargle."
+    },
+    {
+      "entry_id": 114,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "That stuff tastes like bleach! Jerry is looking for a place to put the soiled brush.",
+      "raw_text": "That stuff tastes like bleach! Jerry is looking for a place to put the soiled brush."
+    },
+    {
+      "entry_id": 115,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't know anything about that. Just before Jenna emerges from the bathroom, Jerry throws the bag with the brush out of the window.",
+      "raw_text": "I don't know anything about that. Just before Jenna emerges from the bathroom, Jerry throws the bag with the brush out of the window."
+    },
+    {
+      "entry_id": 116,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "Mmm. My mouth feels so clean.",
+      "raw_text": "Mmm. My mouth feels so clean."
+    },
+    {
+      "entry_id": 117,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "That's the idea. Jenna approaches Jerry, clearly intending to kiss him. As Jenna leans toward him, Jerry gets a flashback of the toothbrush plunging into the toilet bowl, in black and white, with portentous music. From his viewpoint, we see Jenna's lips looming toward him. He looks nauseated by the prospect of the kiss, and pulls away.",
+      "raw_text": "That's the idea. Jenna approaches Jerry, clearly intending to kiss him. As Jenna leans toward him, Jerry gets a flashback of the toothbrush plunging into the toilet bowl, in black and white, with portentous music. From his viewpoint, we see Jenna's lips looming toward him. He looks nauseated by the prospect of the kiss, and pulls away."
+    },
+    {
+      "entry_id": 118,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You know, maybe we better not. I, I think I'm getting a little cold. I don't wanna give you any of my germs.",
+      "raw_text": "You know, maybe we better not. I, I think I'm getting a little cold. I don't wanna give you any of my germs."
+    },
+    {
+      "entry_id": 119,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "Aww. Okay. Thanks, I guess.",
+      "raw_text": "Aww. Okay. Thanks, I guess."
+    },
+    {
+      "entry_id": 120,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's Car]",
+      "raw_text": "(Jerry's Car)",
+      "confidence": 0.9,
+      "location": "Jerry's Car",
+      "normalized_location": "jerry_s_car"
+    },
+    {
+      "entry_id": 121,
+      "type": "action",
+      "text": "Jerry driving with Elaine in the passenger seat.",
+      "raw_text": "Jerry driving with Elaine in the passenger seat.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 122,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You still couldn't kiss her?",
+      "raw_text": "You still couldn't kiss her?"
+    },
+    {
+      "entry_id": 123,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "She has a taint. I can't see it, but I know it's there.",
+      "raw_text": "She has a taint. I can't see it, but I know it's there."
+    },
+    {
+      "entry_id": 124,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, so now you're finding fault on a sub-atomic level.",
+      "raw_text": "Oh, so now you're finding fault on a sub-atomic level."
+    },
+    {
+      "entry_id": 125,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Maybe if I could shrink myself down, like in Fantastic Voyage, and get inside a microscopic submarine, I could be sure. Although if there was something there, it might be pretty scary. Course, I would have that laser.",
+      "raw_text": "Maybe if I could shrink myself down, like in Fantastic Voyage, and get inside a microscopic submarine, I could be sure. Although if there was something there, it might be pretty scary. Course, I would have that laser."
+    },
+    {
+      "entry_id": 126,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Jer, do you see where this is going?",
+      "raw_text": "Jer, do you see where this is going?"
+    },
+    {
+      "entry_id": 127,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Being really clean and happy?",
+      "raw_text": "Being really clean and happy?"
+    },
+    {
+      "entry_id": 128,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Jerry, you have tendencies. They're always annoying, but they were just tendencies. But now, if you can't kiss this girl, I'm afraid we're talking disorder.",
+      "raw_text": "Jerry, you have tendencies. They're always annoying, but they were just tendencies. But now, if you can't kiss this girl, I'm afraid we're talking disorder."
+    },
+    {
+      "entry_id": 129,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Disorder?",
+      "raw_text": "Disorder?"
+    },
+    {
+      "entry_id": 130,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "And from disorder, you're a quirk or two away from full-on dementia.",
+      "raw_text": "And from disorder, you're a quirk or two away from full-on dementia."
+    },
+    {
+      "entry_id": 131,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hmm, that could hurt me. (pointing out of window) Hey, there it is. We see Jerry and Elaine's view of the road signs. 'Mile 114' 'Adopt-a-Highway' and 'Litter removal next 1 Mile KRAMER'.",
+      "raw_text": "(thoughtful) Hmm, that could hurt me. (pointing out of window) Hey, there it is. We see Jerry and Elaine's view of the road signs. 'Mile 114' 'Adopt-a-Highway' and 'Litter removal next 1 Mile KRAMER'.",
+      "parenthetical": "thoughtful"
+    },
+    {
+      "entry_id": 132,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Shall we stop and say hi?",
+      "raw_text": "Shall we stop and say hi?"
+    },
+    {
+      "entry_id": 133,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Nah, we've seen it.",
+      "raw_text": "Nah, we've seen it."
+    },
+    {
+      "entry_id": 134,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 135,
+      "type": "scene_heading",
+      "text": "[Setting: Mile 114]",
+      "raw_text": "(Mile 114)",
+      "confidence": 0.9,
+      "location": "Mile 114",
+      "normalized_location": "mile_114"
+    },
+    {
+      "entry_id": 136,
+      "type": "action",
+      "text": "Kramer is standing on the verge beside a large pile of plastic bags full of trash, a couple of brooms lean against the crash barrier. He has an armful of assorted garbage. Jerry's car passes in the traffic, and a brief beep of the horn is heard.",
+      "raw_text": "Kramer is standing on the verge beside a large pile of plastic bags full of trash, a couple of brooms lean against the crash barrier. He has an armful of assorted garbage. Jerry's car passes in the traffic, and a brief beep of the horn is heard.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 137,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey Jerry! Yeah, I'll see you back at the house! He drops the last handful of trash into a bag.",
+      "raw_text": "(shouting after car) Hey Jerry! Yeah, I'll see you back at the house! He drops the last handful of trash into a bag.",
+      "parenthetical": "shouting after car"
+    },
+    {
+      "entry_id": 138,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Mile one-fourteen, clean as a whistle. He claps his hands in satisfaction, and looks out at 'his' road. He notices something. In the middle of the road is a Coke can, crushed by traffic. Kramer makes a decision, and dashes out into the traffic to retrieve the can. His progress to the can is accompanied by the squeal of brakes and the blare of horns as the traffic passes him. As he reaches the can, one car has to come to a complete stop. Kramer grabs the can and hurries back to the side of the road, where he leans on the barrier.",
+      "raw_text": "Mile one-fourteen, clean as a whistle. He claps his hands in satisfaction, and looks out at 'his' road. He notices something. In the middle of the road is a Coke can, crushed by traffic. Kramer makes a decision, and dashes out into the traffic to retrieve the can. His progress to the can is accompanied by the squeal of brakes and the blare of horns as the traffic passes him. As he reaches the can, one car has to come to a complete stop. Kramer grabs the can and hurries back to the side of the road, where he leans on the barrier."
+    },
+    {
+      "entry_id": 139,
+      "type": "scene_heading",
+      "text": "[Setting: Apartment Building]",
+      "raw_text": "(Apartment Building)",
+      "confidence": 0.9,
+      "location": "Apartment Building",
+      "normalized_location": "apartment_building"
+    },
+    {
+      "entry_id": 140,
+      "type": "action",
+      "text": "Elaine is in the hallway of a building, outside Apartment 1A. She knocks at the door and a guy opens it.",
+      "raw_text": "Elaine is in the hallway of a building, outside Apartment 1A. She knocks at the door and a guy opens it.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 141,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "Yeah?",
+      "raw_text": "Yeah?"
+    },
+    {
+      "entry_id": 142,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hi. I'm your neighbour, uh, fr... from across the street. And uh, (coughs nervously) I was wondering, if it wouldn't be too much trouble, if I could use your apartment to order some food?",
+      "raw_text": "Hi. I'm your neighbour, uh, fr... from across the street. And uh, (coughs nervously) I was wondering, if it wouldn't be too much trouble, if I could use your apartment to order some food?"
+    },
+    {
+      "entry_id": 143,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "Wha? What d'you want?",
+      "raw_text": "Wha? What d'you want?"
+    },
+    {
+      "entry_id": 144,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You see, there's this certain flounder and they won't deliver it to my side of the street.",
+      "raw_text": "You see, there's this certain flounder and they won't deliver it to my side of the street."
+    },
+    {
+      "entry_id": 145,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "Wh, when is that?",
+      "raw_text": "Wh, when is that?"
+    },
+    {
+      "entry_id": 146,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No, I just need them to deliver it here and I have to be kinda inside is all.",
+      "raw_text": "No, I just need them to deliver it here and I have to be kinda inside is all."
+    },
+    {
+      "entry_id": 147,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "Who are you with?",
+      "raw_text": "Who are you with?"
+    },
+    {
+      "entry_id": 148,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No, actually I'm... I'm just kind of hungry.",
+      "raw_text": "No, actually I'm... I'm just kind of hungry."
+    },
+    {
+      "entry_id": 149,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "Who let you in?",
+      "raw_text": "Who let you in?"
+    },
+    {
+      "entry_id": 150,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well, the lock was broken. You just have to jiggle it, actually. But, I just need like a half an hour to an hour. The man shuts the door in her face. Elaine turns to leave, and as she does she sees an unmarked door opposite which stands open. She crosses over for a closer look. It's clearly a janitor's closet, with the usual fixings. A thought occurs to Elaine, and a smile comes to her face.",
+      "raw_text": "Well, the lock was broken. You just have to jiggle it, actually. But, I just need like a half an hour to an hour. The man shuts the door in her face. Elaine turns to leave, and as she does she sees an unmarked door opposite which stands open. She crosses over for a closer look. It's clearly a janitor's closet, with the usual fixings. A thought occurs to Elaine, and a smile comes to her face."
+    },
+    {
+      "entry_id": 151,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's Apartment]",
+      "raw_text": "(Jerry's Apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's Apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 152,
+      "type": "action",
+      "text": "Jerry has just entered and is removing his coat. Kramer is in the kitchen cleaning highway signs in the sink.",
+      "raw_text": "Jerry has just entered and is removing his coat. Kramer is in the kitchen cleaning highway signs in the sink.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 153,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What's with the signs?",
+      "raw_text": "What's with the signs?"
+    },
+    {
+      "entry_id": 154,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey, you should see the Berkhardt, Jerry. My mile is spotless. I mean the big stuff was easy. Cinderblocks, air-conditioners, shopping carts (makes sound - fzup!), I just rolled 'em into the woods.",
+      "raw_text": "Hey, you should see the Berkhardt, Jerry. My mile is spotless. I mean the big stuff was easy. Cinderblocks, air-conditioners, shopping carts (makes sound - fzup!), I just rolled 'em into the woods."
+    },
+    {
+      "entry_id": 155,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah, that stuff's all natural anyway.",
+      "raw_text": "Yeah, that stuff's all natural anyway."
+    },
+    {
+      "entry_id": 156,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Speed limit, one hundred and sixty-five miles per hour. See? They slipped a one in there. (laughing) Those kids with the spray paint, God love 'em. George enters.",
+      "raw_text": "(holding up a sign) Speed limit, one hundred and sixty-five miles per hour. See? They slipped a one in there. (laughing) Those kids with the spray paint, God love 'em. George enters.",
+      "parenthetical": "holding up a sign"
+    },
+    {
+      "entry_id": 157,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey. So, keys?",
+      "raw_text": "Hey. So, keys?"
+    },
+    {
+      "entry_id": 158,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No keys. And I been calling the city all day. Course there's not really a number to call if you wanna make a pothole.",
+      "raw_text": "No keys. And I been calling the city all day. Course there's not really a number to call if you wanna make a pothole."
+    },
+    {
+      "entry_id": 159,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I guess they leave that up to the general population.",
+      "raw_text": "I guess they leave that up to the general population."
+    },
+    {
+      "entry_id": 160,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I tell you this. If the real Phil Rizzuto was down there, this wouldn't be happening!",
+      "raw_text": "I tell you this. If the real Phil Rizzuto was down there, this wouldn't be happening!"
+    },
+    {
+      "entry_id": 161,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hard to say.",
+      "raw_text": "Hard to say."
+    },
+    {
+      "entry_id": 162,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey, you need some roadwork done? 'Cos I met some maintenance guys today on the highway, they could probably help you out.",
+      "raw_text": "Hey, you need some roadwork done? 'Cos I met some maintenance guys today on the highway, they could probably help you out."
+    },
+    {
+      "entry_id": 163,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Really?",
+      "raw_text": "Really?"
+    },
+    {
+      "entry_id": 164,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh yeah, yeah. I borrowed some cones from them when I was sweeping my car-pool lane. The buzzer buzzes.",
+      "raw_text": "Oh yeah, yeah. I borrowed some cones from them when I was sweeping my car-pool lane. The buzzer buzzes."
+    },
+    {
+      "entry_id": 165,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah?",
+      "raw_text": "Yeah?"
+    },
+    {
+      "entry_id": 166,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "It's Jenna. Jerry buzzes Jenna in, opens the door and indicates to George and Kramer that their presence is no longer required.",
+      "raw_text": "It's Jenna. Jerry buzzes Jenna in, opens the door and indicates to George and Kramer that their presence is no longer required."
+    },
+    {
+      "entry_id": 167,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "If you guys wouldn't mind, I would like to ward off dementia. George and Kramer leave, still discussing the maintenance guys.",
+      "raw_text": "If you guys wouldn't mind, I would like to ward off dementia. George and Kramer leave, still discussing the maintenance guys."
+    },
+    {
+      "entry_id": 168,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You think you could hook me up with these guys?",
+      "raw_text": "You think you could hook me up with these guys?"
+    },
+    {
+      "entry_id": 169,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh yeah, yeah. Give me a ring tomorrow. I'm gonna be at emergency callbox seven-eight-four.",
+      "raw_text": "Oh yeah, yeah. Give me a ring tomorrow. I'm gonna be at emergency callbox seven-eight-four."
+    },
+    {
+      "entry_id": 170,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Seven-eight-four. Jenna enters.",
+      "raw_text": "Seven-eight-four. Jenna enters."
+    },
+    {
+      "entry_id": 171,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "Hey.",
+      "raw_text": "Hey."
+    },
+    {
+      "entry_id": 172,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hi.",
+      "raw_text": "Hi."
+    },
+    {
+      "entry_id": 173,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "How you feeling?",
+      "raw_text": "How you feeling?"
+    },
+    {
+      "entry_id": 174,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Good. My cold's gone, and I've been looking forwards to kissing you, which I'm ready to do now, if you are ready. Jenna moves in for the kiss. As she leans towards Jerry, he gets that revolted look on his again and turns his face away.",
+      "raw_text": "Good. My cold's gone, and I've been looking forwards to kissing you, which I'm ready to do now, if you are ready. Jenna moves in for the kiss. As she leans towards Jerry, he gets that revolted look on his again and turns his face away."
+    },
+    {
+      "entry_id": 175,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "What?!",
+      "raw_text": "What?!"
+    },
+    {
+      "entry_id": 176,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Nothing. I just, I uh, I bruised my lip. I was drinking a Celray, and I brought it up too fast and I banged it into my lip, (lower voice and hurriedly) and then I knocked your toothbrush into the toilet and I wasn't able to tell you before you could use it.",
+      "raw_text": "Nothing. I just, I uh, I bruised my lip. I was drinking a Celray, and I brought it up too fast and I banged it into my lip, (lower voice and hurriedly) and then I knocked your toothbrush into the toilet and I wasn't able to tell you before you could use it."
+    },
+    {
+      "entry_id": 177,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 178,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I'm sorry.",
+      "raw_text": "I'm sorry."
+    },
+    {
+      "entry_id": 179,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "When were you gonna tell me this?!",
+      "raw_text": "When were you gonna tell me this?!"
+    },
+    {
+      "entry_id": 180,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Obviously never. The door opens and Kramer enters.",
+      "raw_text": "Obviously never. The door opens and Kramer enters."
+    },
+    {
+      "entry_id": 181,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I need the yield sign. Kramer goes and begins to gather the signs from the kitchen.",
+      "raw_text": "I need the yield sign. Kramer goes and begins to gather the signs from the kitchen."
+    },
+    {
+      "entry_id": 182,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Kramer, I'm kind of in the middle of something. Would you get these signs out of here, please? Kramer brings his signs from the kitchen and Jerry picks up those which were on his table. Together they carry them across the hall to Kramer's apartment.",
+      "raw_text": "Kramer, I'm kind of in the middle of something. Would you get these signs out of here, please? Kramer brings his signs from the kitchen and Jerry picks up those which were on his table. Together they carry them across the hall to Kramer's apartment."
+    },
+    {
+      "entry_id": 183,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You could've introduced me.",
+      "raw_text": "You could've introduced me."
+    },
+    {
+      "entry_id": 184,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I wouldn't know where to start. As Jerry is about to return to his apartment, the door is slammed shut. He tries to open it, but it has been locked.",
+      "raw_text": "I wouldn't know where to start. As Jerry is about to return to his apartment, the door is slammed shut. He tries to open it, but it has been locked."
+    },
+    {
+      "entry_id": 185,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey, Jenna. Hey! Jenna opens the door, she has her jacket in her hand and is ready to leave.",
+      "raw_text": "(knocking) Hey, Jenna. Hey! Jenna opens the door, she has her jacket in her hand and is ready to leave.",
+      "parenthetical": "knocking"
+    },
+    {
+      "entry_id": 186,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "There. Now something of yours has been in the toilet.",
+      "raw_text": "There. Now something of yours has been in the toilet."
+    },
+    {
+      "entry_id": 187,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What?! Wha... what'd you put in there?",
+      "raw_text": "What?! Wha... what'd you put in there?"
+    },
+    {
+      "entry_id": 188,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "Gotta run. Jenna departs, leaving Jerry looking around him. He's wide-eyed, looking panicky and disgusted.",
+      "raw_text": "Gotta run. Jenna departs, leaving Jerry looking around him. He's wide-eyed, looking panicky and disgusted."
+    },
+    {
+      "entry_id": 189,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh, man!",
+      "raw_text": "Oh, man!"
+    },
+    {
+      "entry_id": 190,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's Apartment]",
+      "raw_text": "(Jerry's Apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's Apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 191,
+      "type": "action",
+      "text": "Jerry is on the phone. His table is covered with bottles of cleaning fluids, disinfectants, etc.. He is wearing a rubber glove to hold a spatula. Elaine is eating an apple and watching him.",
+      "raw_text": "Jerry is on the phone. His table is covered with bottles of cleaning fluids, disinfectants, etc.. He is wearing a rubber glove to hold a spatula. Elaine is eating an apple and watching him.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 192,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hello, Jenna, did you dunk the spatula? Was it the spatula? Hello? Dammit! Frustrated, he throws the spatula into the waste bin.",
+      "raw_text": "(into phone) Hello, Jenna, did you dunk the spatula? Was it the spatula? Hello? Dammit! Frustrated, he throws the spatula into the waste bin.",
+      "parenthetical": "into phone"
+    },
+    {
+      "entry_id": 193,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "She won't even give you a hint?",
+      "raw_text": "She won't even give you a hint?"
+    },
+    {
+      "entry_id": 194,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No. Could be anything. The whole apartment's a biohazard.",
+      "raw_text": "No. Could be anything. The whole apartment's a biohazard."
+    },
+    {
+      "entry_id": 195,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You know what I bet it is? (points) Your remote.",
+      "raw_text": "You know what I bet it is? (points) Your remote."
+    },
+    {
+      "entry_id": 196,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yes, that is a definite possibility. He picks up the remote control and drops it into a waste bin.",
+      "raw_text": "Yes, that is a definite possibility. He picks up the remote control and drops it into a waste bin."
+    },
+    {
+      "entry_id": 197,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Or, could be your walkman there. Jerry picks up the walkman and begins to deposit it in the trash, then a thought occurs to him. Elaine sits on the couch and picks up the phone.",
+      "raw_text": "(walking to the couch) Or, could be your walkman there. Jerry picks up the walkman and begins to deposit it in the trash, then a thought occurs to him. Elaine sits on the couch and picks up the phone.",
+      "parenthetical": "walking to the couch"
+    },
+    {
+      "entry_id": 198,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Are you just screwing with me?",
+      "raw_text": "Are you just screwing with me?"
+    },
+    {
+      "entry_id": 199,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah, I am. Jerry thinks for a second, then he throws the walkman in the garbage anyway. Kramer enters carrying a box.",
+      "raw_text": "Yeah, I am. Jerry thinks for a second, then he throws the walkman in the garbage anyway. Kramer enters carrying a box."
+    },
+    {
+      "entry_id": 200,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey ah.",
+      "raw_text": "Hey ah."
+    },
+    {
+      "entry_id": 201,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey, how's life on the road?",
+      "raw_text": "Hey, how's life on the road?"
+    },
+    {
+      "entry_id": 202,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, I'm making a difference Jerry.",
+      "raw_text": "Oh, I'm making a difference Jerry."
+    },
+    {
+      "entry_id": 203,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't doubt it. Kramer puts his box on the kitchen counter.",
+      "raw_text": "I don't doubt it. Kramer puts his box on the kitchen counter."
+    },
+    {
+      "entry_id": 204,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You should see the smiles on the drivers' faces. I mean, you gotta look quick, but they're there. From the box, Kramer picks up square orange reflective objects.",
+      "raw_text": "You should see the smiles on the drivers' faces. I mean, you gotta look quick, but they're there. From the box, Kramer picks up square orange reflective objects."
+    },
+    {
+      "entry_id": 205,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What's this?",
+      "raw_text": "What's this?"
+    },
+    {
+      "entry_id": 206,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, you know, those annoying little bumps on the lane-lines? (makes noise - bum, bum, bum, bum, bump)",
+      "raw_text": "Well, you know, those annoying little bumps on the lane-lines? (makes noise - bum, bum, bum, bum, bump)"
+    },
+    {
+      "entry_id": 207,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Isn't that some kind of safety thing?",
+      "raw_text": "Isn't that some kind of safety thing?"
+    },
+    {
+      "entry_id": 208,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, I had to pull 'em up if I'm gonna widen the lanes.",
+      "raw_text": "Well, I had to pull 'em up if I'm gonna widen the lanes."
+    },
+    {
+      "entry_id": 209,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What the hell are you talking about?",
+      "raw_text": "What the hell are you talking about?"
+    },
+    {
+      "entry_id": 210,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Ah, you know how in planes they got first class? More leg room, better ride? Well, I'm bringing that concept to mile one-fourteen. Elaine has the receiver from the phone held to her ear.",
+      "raw_text": "Ah, you know how in planes they got first class? More leg room, better ride? Well, I'm bringing that concept to mile one-fourteen. Elaine has the receiver from the phone held to her ear."
+    },
+    {
+      "entry_id": 211,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "How are you gonna widen the lanes?",
+      "raw_text": "How are you gonna widen the lanes?"
+    },
+    {
+      "entry_id": 212,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well you black out lane-lines one and three, and a four-lane highway becomes a two-lane comfort cruise. (to Jerry) So, you got any black paint?",
+      "raw_text": "Well you black out lane-lines one and three, and a four-lane highway becomes a two-lane comfort cruise. (to Jerry) So, you got any black paint?"
+    },
+    {
+      "entry_id": 213,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah, in my toolshed, next to the riding mower.",
+      "raw_text": "(sarcasm) Yeah, in my toolshed, next to the riding mower.",
+      "parenthetical": "sarcasm"
+    },
+    {
+      "entry_id": 214,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yuh, I'd like an order of supreme flounder, number forty-seven. Yeah, apartment one-Q.",
+      "raw_text": "(into phone) Yuh, I'd like an order of supreme flounder, number forty-seven. Yeah, apartment one-Q.",
+      "parenthetical": "into phone"
+    },
+    {
+      "entry_id": 215,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "One-Q? Whose apartment is that?",
+      "raw_text": "One-Q? Whose apartment is that?"
+    },
+    {
+      "entry_id": 216,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "That's the janitor closet, across the street.",
+      "raw_text": "That's the janitor closet, across the street."
+    },
+    {
+      "entry_id": 217,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You're pretending to live in a janitor's closet, just to get this flounder?",
+      "raw_text": "You're pretending to live in a janitor's closet, just to get this flounder?"
+    },
+    {
+      "entry_id": 218,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "It's better than eating it alone in the restaurant, like some loser. Kramer is applying something from Jerry's table of cleaning fluids, etc, to his neck, like a cologne.",
+      "raw_text": "It's better than eating it alone in the restaurant, like some loser. Kramer is applying something from Jerry's table of cleaning fluids, etc, to his neck, like a cologne."
+    },
+    {
+      "entry_id": 219,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "That stuff is unbelievable. I'd eat it out of a dumpster.",
+      "raw_text": "That stuff is unbelievable. I'd eat it out of a dumpster."
+    },
+    {
+      "entry_id": 220,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "How do you know about it? You're not in the delivery zone.",
+      "raw_text": "(heading to door) How do you know about it? You're not in the delivery zone.",
+      "parenthetical": "heading to door"
+    },
+    {
+      "entry_id": 221,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, Newman uses his mail truck to run fish for China Panda on the weekends.",
+      "raw_text": "Well, Newman uses his mail truck to run fish for China Panda on the weekends."
+    },
+    {
+      "entry_id": 222,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well, mine's coming in ten, so... see you boys. Elaine leaves.",
+      "raw_text": "Well, mine's coming in ten, so... see you boys. Elaine leaves."
+    },
+    {
+      "entry_id": 223,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Now, where's that tool shed of yours?",
+      "raw_text": "Now, where's that tool shed of yours?"
+    },
+    {
+      "entry_id": 224,
+      "type": "scene_heading",
+      "text": "[Setting: Apartment Building]",
+      "raw_text": "(Apartment Building)",
+      "confidence": 0.9,
+      "location": "Apartment Building",
+      "normalized_location": "apartment_building"
+    },
+    {
+      "entry_id": 225,
+      "type": "action",
+      "text": "The delivery boy from China Panda in the hallway. He knocks at the door to the janitor's closet. He looks at the label on the door, which is a piece of tape with '1Q' crudely written in magic marker. He waits for a couple of seconds then knocks again. Elaine opens the door, with a towel wrapped around her head, as if her hair is wet.",
+      "raw_text": "The delivery boy from China Panda in the hallway. He knocks at the door to the janitor's closet. He looks at the label on the door, which is a piece of tape with '1Q' crudely written in magic marker. He waits for a couple of seconds then knocks again. Elaine opens the door, with a towel wrapped around her head, as if her hair is wet.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 226,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hi. Sorry, I didn't hear you. I was in the shower. She takes the bag with her order and hands over some money. The delivery boy is trying to see past her into the 'apartment'.",
+      "raw_text": "Hi. Sorry, I didn't hear you. I was in the shower. She takes the bag with her order and hands over some money. The delivery boy is trying to see past her into the 'apartment'."
+    },
+    {
+      "entry_id": 227,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I'll see you. She shuts the door, leaving the delivery boy looking a tad bemused.",
+      "raw_text": "I'll see you. She shuts the door, leaving the delivery boy looking a tad bemused."
+    },
+    {
+      "entry_id": 228,
+      "type": "scene_heading",
+      "text": "[Setting: Eighty-sixth Street]",
+      "raw_text": "(Eighty-sixth Street)",
+      "confidence": 0.9,
+      "location": "Eighty-sixth Street",
+      "normalized_location": "eighty_sixth_street"
+    },
+    {
+      "entry_id": 229,
+      "type": "action",
+      "text": "George stands by the filled pothole. A highway maintenance truck is parked next to it. A trio of workers approach George, and the senior man speaks.",
+      "raw_text": "George stands by the filled pothole. A highway maintenance truck is parked next to it. A trio of workers approach George, and the senior man speaks.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 230,
+      "type": "dialogue",
+      "speaker": "RALPH",
+      "normalized_speaker": "ralph",
+      "text": "You Costanza?",
+      "raw_text": "You Costanza?"
+    },
+    {
+      "entry_id": 231,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah. Thanks for, thanks for coming by fellas. Eh, got a set of keys, buried in the pothole.",
+      "raw_text": "Yeah. Thanks for, thanks for coming by fellas. Eh, got a set of keys, buried in the pothole."
+    },
+    {
+      "entry_id": 232,
+      "type": "dialogue",
+      "speaker": "RALPH",
+      "normalized_speaker": "ralph",
+      "text": "What're the keys doing in there?",
+      "raw_text": "What're the keys doing in there?"
+    },
+    {
+      "entry_id": 233,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Just need to uh, to dig 'em up.",
+      "raw_text": "Just need to uh, to dig 'em up."
+    },
+    {
+      "entry_id": 234,
+      "type": "dialogue",
+      "speaker": "RALPH",
+      "normalized_speaker": "ralph",
+      "text": "You put 'em in there?",
+      "raw_text": "You put 'em in there?"
+    },
+    {
+      "entry_id": 235,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Nah, nah, it's uh, it's a long story. Just uh, try to get it up.",
+      "raw_text": "Nah, nah, it's uh, it's a long story. Just uh, try to get it up."
+    },
+    {
+      "entry_id": 236,
+      "type": "dialogue",
+      "speaker": "RALPH",
+      "normalized_speaker": "ralph",
+      "text": "Bad place to put your keys.",
+      "raw_text": "Bad place to put your keys."
+    },
+    {
+      "entry_id": 237,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah, I know that. (clears throat) Could you start, working?",
+      "raw_text": "Yeah, I know that. (clears throat) Could you start, working?"
+    },
+    {
+      "entry_id": 238,
+      "type": "dialogue",
+      "speaker": "RALPH",
+      "normalized_speaker": "ralph",
+      "text": "Difficult job. You want those keys, we're gonna have to dig this up.",
+      "raw_text": "Difficult job. You want those keys, we're gonna have to dig this up."
+    },
+    {
+      "entry_id": 239,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh, uh, wait a minute, wait a minute. (snorts) Is this about money?",
+      "raw_text": "(penny drops) Oh, uh, wait a minute, wait a minute. (snorts) Is this about money?",
+      "parenthetical": "penny drops"
+    },
+    {
+      "entry_id": 240,
+      "type": "dialogue",
+      "speaker": "RALPH",
+      "normalized_speaker": "ralph",
+      "text": "Yeah. (snorts) It's about money.",
+      "raw_text": "Yeah. (snorts) It's about money."
+    },
+    {
+      "entry_id": 241,
+      "type": "scene_heading",
+      "text": "[Setting: Mile 114]",
+      "raw_text": "(Mile 114)",
+      "confidence": 0.9,
+      "location": "Mile 114",
+      "normalized_location": "mile_114"
+    },
+    {
+      "entry_id": 242,
+      "type": "action",
+      "text": "Kramer is driving his car slowly along the Expressway. On either side of his boot is balanced an orange road cone. The traffic is passing him, and the blare of horns is regularly heard. Kramer opens the driver side door. He picks up a paint roller, and loads it with black paint from a tray on the passenger seat. Then he leans out of the door and rolls the paint over the lane markers, still steering the car with his other hand.",
+      "raw_text": "Kramer is driving his car slowly along the Expressway. On either side of his boot is balanced an orange road cone. The traffic is passing him, and the blare of horns is regularly heard. Kramer opens the driver side door. He picks up a paint roller, and loads it with black paint from a tray on the passenger seat. Then he leans out of the door and rolls the paint over the lane markers, still steering the car with his other hand.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 243,
+      "type": "scene_heading",
+      "text": "[Setting: Apartment Building]",
+      "raw_text": "(Apartment Building)",
+      "confidence": 0.9,
+      "location": "Apartment Building",
+      "normalized_location": "apartment_building"
+    },
+    {
+      "entry_id": 244,
+      "type": "action",
+      "text": "Elaine emerges from the janitor's closet. She's wiping her lips, following the flounder repast. As she does so, a woman walking along the hall notices her.",
+      "raw_text": "Elaine emerges from the janitor's closet. She's wiping her lips, following the flounder repast. As she does so, a woman walking along the hall notices her.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 245,
+      "type": "dialogue",
+      "speaker": "MRS ALLISTER",
+      "normalized_speaker": "mrs_allister",
+      "text": "'Scuse me, what are you doing in there?",
+      "raw_text": "'Scuse me, what are you doing in there?"
+    },
+    {
+      "entry_id": 246,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Uhm, nothing. I was just uhm... I wasn't in there.",
+      "raw_text": "Uhm, nothing. I was just uhm... I wasn't in there."
+    },
+    {
+      "entry_id": 247,
+      "type": "dialogue",
+      "speaker": "MRS ALLISTER",
+      "normalized_speaker": "mrs_allister",
+      "text": "You were hanging around in there, lazing on the job. When you shoulda been downstairs in the basement, cleaning out those old carpets and scrap wood.",
+      "raw_text": "You were hanging around in there, lazing on the job. When you shoulda been downstairs in the basement, cleaning out those old carpets and scrap wood."
+    },
+    {
+      "entry_id": 248,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Right, because... I'm the janitor. (picks teeth with fingernail)",
+      "raw_text": "Right, because... I'm the janitor. (picks teeth with fingernail)"
+    },
+    {
+      "entry_id": 249,
+      "type": "dialogue",
+      "speaker": "MRS ALLISTER",
+      "normalized_speaker": "mrs_allister",
+      "text": "Don't get smart with me.",
+      "raw_text": "Don't get smart with me."
+    },
+    {
+      "entry_id": 250,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yes ma'am.",
+      "raw_text": "(meek) Yes ma'am.",
+      "parenthetical": "meek"
+    },
+    {
+      "entry_id": 251,
+      "type": "scene_heading",
+      "text": "[Setting: Kramer's Apartment]",
+      "raw_text": "(Kramer's Apartment)",
+      "confidence": 0.9,
+      "location": "Kramer's Apartment",
+      "normalized_location": "kramer_s_apartment"
+    },
+    {
+      "entry_id": 252,
+      "type": "action",
+      "text": "Kramer is in bed. His alarm goes off, and the radio comes on in the middle of the traffic report. Kramer wakes up and listens.",
+      "raw_text": "Kramer is in bed. His alarm goes off, and the radio comes on in the middle of the traffic report. Kramer wakes up and listens.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 253,
+      "type": "dialogue",
+      "speaker": "RADIO",
+      "normalized_speaker": "radio",
+      "text": "Hey, and if you're heading north on the Arthur Berkhardt, whoah Nelly, for some reason four lanes are converging into two, instantaneously right at mile-marker one-fourteen. I don't know what that is, but the A-B's a parking lot out there. Somebody screwed up on that one. By the end of the report, Kramer looks slightly worried.",
+      "raw_text": "Hey, and if you're heading north on the Arthur Berkhardt, whoah Nelly, for some reason four lanes are converging into two, instantaneously right at mile-marker one-fourteen. I don't know what that is, but the A-B's a parking lot out there. Somebody screwed up on that one. By the end of the report, Kramer looks slightly worried."
+    },
+    {
+      "entry_id": 254,
+      "type": "scene_heading",
+      "text": "[Setting: Janitor's Closet]",
+      "raw_text": "(Janitor's Closet)",
+      "confidence": 0.9,
+      "location": "Janitor's Closet",
+      "normalized_location": "janitor_s_closet"
+    },
+    {
+      "entry_id": 255,
+      "type": "action",
+      "text": "Elaine stands waiting in the closet. There's the usual paraphernalia - buckets, brooms, cleaning materials, stepladder, boxes, etc.. There's a knock at the door. Elaine opens it to find Jerry.",
+      "raw_text": "Elaine stands waiting in the closet. There's the usual paraphernalia - buckets, brooms, cleaning materials, stepladder, boxes, etc.. There's a knock at the door. Elaine opens it to find Jerry.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 256,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh it's you.",
+      "raw_text": "Oh it's you."
+    },
+    {
+      "entry_id": 257,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Is the flounder here yet?",
+      "raw_text": "Is the flounder here yet?"
+    },
+    {
+      "entry_id": 258,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No, it's not here yet. You want the tour? Jerry enters, and Elaine closes the door.",
+      "raw_text": "No, it's not here yet. You want the tour? Jerry enters, and Elaine closes the door."
+    },
+    {
+      "entry_id": 259,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "There's this.",
+      "raw_text": "(gesturing) There's this.",
+      "parenthetical": "gesturing"
+    },
+    {
+      "entry_id": 260,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Nice. French doors'd really open this place up. Oh, but you have a slop-bucket. There's another knock at the door.",
+      "raw_text": "Nice. French doors'd really open this place up. Oh, but you have a slop-bucket. There's another knock at the door."
+    },
+    {
+      "entry_id": 261,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "The fish! She opens the door to find George. He's wearing a tartan workshirt.",
+      "raw_text": "(gleeful) The fish! She opens the door to find George. He's wearing a tartan workshirt.",
+      "parenthetical": "gleeful"
+    },
+    {
+      "entry_id": 262,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Ah, what're you doing here?",
+      "raw_text": "Ah, what're you doing here?"
+    },
+    {
+      "entry_id": 263,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey.",
+      "raw_text": "Hey."
+    },
+    {
+      "entry_id": 264,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey. George joins Jerry and Elaine in the closet. It's getting a bit cramped.",
+      "raw_text": "Hey. George joins Jerry and Elaine in the closet. It's getting a bit cramped."
+    },
+    {
+      "entry_id": 265,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh, I was uh, I was waiting downstairs for the jackhammer, thought I'd drop by.",
+      "raw_text": "Oh, I was uh, I was waiting downstairs for the jackhammer, thought I'd drop by."
+    },
+    {
+      "entry_id": 266,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Kramer's guys?",
+      "raw_text": "Kramer's guys?"
+    },
+    {
+      "entry_id": 267,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah. I got 'em down to fifty bucks. I just have to do all the jackhammering myself.",
+      "raw_text": "Yeah. I got 'em down to fifty bucks. I just have to do all the jackhammering myself."
+    },
+    {
+      "entry_id": 268,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh that's nice, kind of a hard-labour fantasy camp. The door is pushed open from the outside. It thumps into George who is pushed into Elaine, who stumbles into Jerry.",
+      "raw_text": "Oh that's nice, kind of a hard-labour fantasy camp. The door is pushed open from the outside. It thumps into George who is pushed into Elaine, who stumbles into Jerry."
+    },
+    {
+      "entry_id": 269,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Ow!",
+      "raw_text": "Ow!"
+    },
+    {
+      "entry_id": 270,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Uh, man! Kramer enters the now crowded closet.",
+      "raw_text": "Uh, man! Kramer enters the now crowded closet."
+    },
+    {
+      "entry_id": 271,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Huh, yeah. (looks round) Oh, sweet setup. Elaine, d'you have any paint thinner? I need like uh, forty gallons.",
+      "raw_text": "Huh, yeah. (looks round) Oh, sweet setup. Elaine, d'you have any paint thinner? I need like uh, forty gallons."
+    },
+    {
+      "entry_id": 272,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I'm plumb out.",
+      "raw_text": "I'm plumb out."
+    },
+    {
+      "entry_id": 273,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh man, if I don't get that black paint off the City's gonna go ape. I don't wanna lose my baby! There's yet another knock at the door. More strident.",
+      "raw_text": "Oh man, if I don't get that black paint off the City's gonna go ape. I don't wanna lose my baby! There's yet another knock at the door. More strident."
+    },
+    {
+      "entry_id": 274,
+      "type": "dialogue",
+      "speaker": "MRS ALLISTER",
+      "normalized_speaker": "mrs_allister",
+      "text": "Janitor?",
+      "raw_text": "Janitor?"
+    },
+    {
+      "entry_id": 275,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah, uh, just coming Mrs Allister. (to guys) Okay, I've gotta get out. Elaine struggle to squeeze past George, and then Kramer to reach the door. The she has to make room to swing the door inwards.",
+      "raw_text": "Yeah, uh, just coming Mrs Allister. (to guys) Okay, I've gotta get out. Elaine struggle to squeeze past George, and then Kramer to reach the door. The she has to make room to swing the door inwards.",
+      "parenthetical": "to the guys) Uh, Mrs Allister. (louder"
+    },
+    {
+      "entry_id": 276,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Here, can you move, you gotta move from the door. She succeeds in squeezing out, and stumbles into the hallway. The crush behind her slams the door shut.",
+      "raw_text": "Here, can you move, you gotta move from the door. She succeeds in squeezing out, and stumbles into the hallway. The crush behind her slams the door shut."
+    },
+    {
+      "entry_id": 277,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hi, I uhm... What can I do for you?",
+      "raw_text": "Hi, I uhm... What can I do for you?"
+    },
+    {
+      "entry_id": 278,
+      "type": "dialogue",
+      "speaker": "MRS ALLISTER",
+      "normalized_speaker": "mrs_allister",
+      "text": "I told you yesterday to haul that trash outta the basement.",
+      "raw_text": "I told you yesterday to haul that trash outta the basement."
+    },
+    {
+      "entry_id": 279,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah, I am so sorry.",
+      "raw_text": "Yeah, I am so sorry."
+    },
+    {
+      "entry_id": 280,
+      "type": "dialogue",
+      "speaker": "MRS ALLISTER",
+      "normalized_speaker": "mrs_allister",
+      "text": "Some of the children have been playing near it and putting it in their mouths.",
+      "raw_text": "Some of the children have been playing near it and putting it in their mouths."
+    },
+    {
+      "entry_id": 281,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well, a lot of it is vegetable... In the closet, the guys are struggling together with equipment and supplies in the cramped space. The thumps of their movements can be heard in the hallway.",
+      "raw_text": "Well, a lot of it is vegetable... In the closet, the guys are struggling together with equipment and supplies in the cramped space. The thumps of their movements can be heard in the hallway."
+    },
+    {
+      "entry_id": 282,
+      "type": "dialogue",
+      "speaker": "MRS ALLISTER",
+      "normalized_speaker": "mrs_allister",
+      "text": "Get that stuff outta there today, or you'll be outta here. Understand?",
+      "raw_text": "Get that stuff outta there today, or you'll be outta here. Understand?"
+    },
+    {
+      "entry_id": 283,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yes ma'am. The janitor's closet door opens and the guys stumble out.",
+      "raw_text": "(meekly) Yes ma'am. The janitor's closet door opens and the guys stumble out.",
+      "parenthetical": "meekly"
+    },
+    {
+      "entry_id": 284,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "...stop pushing. (to Elaine) Kramer spilled ammonia.",
+      "raw_text": "...stop pushing. (to Elaine) Kramer spilled ammonia."
+    },
+    {
+      "entry_id": 285,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't feel like eating.",
+      "raw_text": "I don't feel like eating."
+    },
+    {
+      "entry_id": 286,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I'm gonna borrow this, huh?",
+      "raw_text": "(holding up a set of heavy chains) I'm gonna borrow this, huh?",
+      "parenthetical": "holding up a set of heavy chains"
+    },
+    {
+      "entry_id": 287,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Janitor's meeting.",
+      "raw_text": "(to Mrs Allister) Janitor's meeting.",
+      "parenthetical": "to Mrs Allister"
+    },
+    {
+      "entry_id": 288,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's Apartment]",
+      "raw_text": "(Jerry's Apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's Apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 289,
+      "type": "action",
+      "text": "Jenna enters and sits, Jerry closes the door behind her. It is clear that Jerry has gone overboard in his efforts to dispose of whatever was contaminated - his kitchen shelves are bare, and most other surfaces are free of the usual knick-knacks.",
+      "raw_text": "Jenna enters and sits, Jerry closes the door behind her. It is clear that Jerry has gone overboard in his efforts to dispose of whatever was contaminated - his kitchen shelves are bare, and most other surfaces are free of the usual knick-knacks.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 290,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "So Jerry, why'd you call me?",
+      "raw_text": "So Jerry, why'd you call me?"
+    },
+    {
+      "entry_id": 291,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, I thought it's about time we put aside all this silliness. I know now you didn't put anything in my toilet bowl. (pause) Did you?",
+      "raw_text": "Well, I thought it's about time we put aside all this silliness. I know now you didn't put anything in my toilet bowl. (pause) Did you?"
+    },
+    {
+      "entry_id": 292,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "Yes, I did.",
+      "raw_text": "Yes, I did."
+    },
+    {
+      "entry_id": 293,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, whatever. So, how've you been?",
+      "raw_text": "Well, whatever. So, how've you been?"
+    },
+    {
+      "entry_id": 294,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "Good.",
+      "raw_text": "Good."
+    },
+    {
+      "entry_id": 295,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Good. (pause) Steak knife?",
+      "raw_text": "Good. (pause) Steak knife?"
+    },
+    {
+      "entry_id": 296,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "Just eating away at you isn't it?",
+      "raw_text": "Just eating away at you isn't it?"
+    },
+    {
+      "entry_id": 297,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Nah. The door opens and Elaine enters.",
+      "raw_text": "Nah. The door opens and Elaine enters."
+    },
+    {
+      "entry_id": 298,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hi.",
+      "raw_text": "Hi."
+    },
+    {
+      "entry_id": 299,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "Hi.",
+      "raw_text": "Hi."
+    },
+    {
+      "entry_id": 300,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hi.",
+      "raw_text": "Hi."
+    },
+    {
+      "entry_id": 301,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hi. Jerry, can I borrow your car?",
+      "raw_text": "Hi. Jerry, can I borrow your car?"
+    },
+    {
+      "entry_id": 302,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "For what?",
+      "raw_text": "For what?"
+    },
+    {
+      "entry_id": 303,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I have to haul some dirty garbage to the dump.",
+      "raw_text": "I have to haul some dirty garbage to the dump."
+    },
+    {
+      "entry_id": 304,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Dirt? That's alright, (for Jenna's benefit) because there's nothing wrong with dirt.",
+      "raw_text": "Dirt? That's alright, (for Jenna's benefit) because there's nothing wrong with dirt."
+    },
+    {
+      "entry_id": 305,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well, actually it's pretty grimy.",
+      "raw_text": "Well, actually it's pretty grimy."
+    },
+    {
+      "entry_id": 306,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Grime, grease, filth, funk, ooze. Whatever it is, you take that stuff and put it right on my leather upholstery. He hands the keys to Elaine.",
+      "raw_text": "Grime, grease, filth, funk, ooze. Whatever it is, you take that stuff and put it right on my leather upholstery. He hands the keys to Elaine."
+    },
+    {
+      "entry_id": 307,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well, I don't know who you are, but thanks for the car.",
+      "raw_text": "Well, I don't know who you are, but thanks for the car."
+    },
+    {
+      "entry_id": 308,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Sure. Bye.",
+      "raw_text": "Sure. Bye."
+    },
+    {
+      "entry_id": 309,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Bye.",
+      "raw_text": "Bye."
+    },
+    {
+      "entry_id": 310,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "Bye.",
+      "raw_text": "Bye."
+    },
+    {
+      "entry_id": 311,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Bye. Elaine leaves.",
+      "raw_text": "Bye. Elaine leaves."
+    },
+    {
+      "entry_id": 312,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "There, you see? I just leant her my car, and she's gonna fill it with all sorts of... (he cracks) Alright! You win! That car was my last germ-free sanctuary. I slept there last night! Now, for the love of God, please, what is it? What is it?!",
+      "raw_text": "There, you see? I just leant her my car, and she's gonna fill it with all sorts of... (he cracks) Alright! You win! That car was my last germ-free sanctuary. I slept there last night! Now, for the love of God, please, what is it? What is it?!"
+    },
+    {
+      "entry_id": 313,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "Toilet brush.",
+      "raw_text": "Toilet brush."
+    },
+    {
+      "entry_id": 314,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Toilet brush, oh (he pulls a 'Damn, shoulda guessed!' face). Alright, I can replace that.",
+      "raw_text": "Toilet brush, oh (he pulls a 'Damn, shoulda guessed!' face). Alright, I can replace that."
+    },
+    {
+      "entry_id": 315,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "You wanna order dinner?",
+      "raw_text": "You wanna order dinner?"
+    },
+    {
+      "entry_id": 316,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah. Let's uh, go to your place. Because I, threw out all my dishes.",
+      "raw_text": "Yeah. Let's uh, go to your place. Because I, threw out all my dishes."
+    },
+    {
+      "entry_id": 317,
+      "type": "scene_heading",
+      "text": "[Setting: Eighty-sixth Street]",
+      "raw_text": "(Eighty-sixth Street)",
+      "confidence": 0.9,
+      "location": "Eighty-sixth Street",
+      "normalized_location": "eighty_sixth_street"
+    },
+    {
+      "entry_id": 318,
+      "type": "action",
+      "text": "Elaine strides along the sidewalk looking very blue-collar in overalls and cap, grimy face, etc. She has some old carpet slung over one shoulder and some paint cans in her hand. A jackhammer can be heard. As she walks along, she passes George who is holding the jackhammer. She nods acknowledgment and he touches the peak of his hardhat. George gives the pothole a burst from the jackhammer.",
+      "raw_text": "Elaine strides along the sidewalk looking very blue-collar in overalls and cap, grimy face, etc. She has some old carpet slung over one shoulder and some paint cans in her hand. A jackhammer can be heard. As she walks along, she passes George who is holding the jackhammer. She nods acknowledgment and he touches the peak of his hardhat. George gives the pothole a burst from the jackhammer.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 319,
+      "type": "scene_heading",
+      "text": "[Setting: Street]",
+      "raw_text": "(Street)",
+      "confidence": 0.9,
+      "location": "Street",
+      "normalized_location": "street"
+    },
+    {
+      "entry_id": 320,
+      "type": "action",
+      "text": "Kramer struggles to lift a forty-gallon drum into the boot of his car. He eventually heaves it in.",
+      "raw_text": "Kramer struggles to lift a forty-gallon drum into the boot of his car. He eventually heaves it in.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 321,
+      "type": "scene_heading",
+      "text": "[Setting: Jenna's Apartment]",
+      "raw_text": "(Jenna's Apartment)",
+      "confidence": 0.9,
+      "location": "Jenna's Apartment",
+      "normalized_location": "jenna_s_apartment"
+    },
+    {
+      "entry_id": 322,
+      "type": "action",
+      "text": "Jerry and Jenna, sitting on the couch, eating and conversing (looks like Chinese food).",
+      "raw_text": "Jerry and Jenna, sitting on the couch, eating and conversing (looks like Chinese food).",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 323,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "That's true.",
+      "raw_text": "That's true."
+    },
+    {
+      "entry_id": 324,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "Mm.",
+      "raw_text": "Mm."
+    },
+    {
+      "entry_id": 325,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "But, I'll tell you this much. I am never going to let some silly hygienic mishap get in the way of, what could be, a meaningful, long-lasting relationship.",
+      "raw_text": "But, I'll tell you this much. I am never going to let some silly hygienic mishap get in the way of, what could be, a meaningful, long-lasting relationship."
+    },
+    {
+      "entry_id": 326,
+      "type": "scene_heading",
+      "text": "[Setting: Eighty-sixth Street]",
+      "raw_text": "(Eighty-sixth Street)",
+      "confidence": 0.9,
+      "location": "Eighty-sixth Street",
+      "normalized_location": "eighty_sixth_street"
+    },
+    {
+      "entry_id": 327,
+      "type": "action",
+      "text": "George is giving the street a long burst from the jackhammer. Suddenly, there is a clang. George stops hammering, and listens. There is a deep rumbling sound, from beneath his feet, which seems to be getting louder. He looks around for the source of the noise.",
+      "raw_text": "George is giving the street a long burst from the jackhammer. Suddenly, there is a clang. George stops hammering, and listens. There is a deep rumbling sound, from beneath his feet, which seems to be getting louder. He looks around for the source of the noise.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 328,
+      "type": "scene_heading",
+      "text": "[Setting: Jenna's Apartment]",
+      "raw_text": "(Jenna's Apartment)",
+      "confidence": 0.9,
+      "location": "Jenna's Apartment",
+      "normalized_location": "jenna_s_apartment"
+    },
+    {
+      "entry_id": 329,
+      "type": "action",
+      "text": "Jenna and Jerry are still eating on the couch. The rumbling noise can be heard, though not so loud as outside. Then, in the bathroom, the toilet starts to rattle.",
+      "raw_text": "Jenna and Jerry are still eating on the couch. The rumbling noise can be heard, though not so loud as outside. Then, in the bathroom, the toilet starts to rattle.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 330,
+      "type": "dialogue",
+      "speaker": "JENNA",
+      "normalized_speaker": "jenna",
+      "text": "Do you hear something? They both listen intently. The rumble continues and, in the bathroom, the toilet rattles again, the cistern shaking.",
+      "raw_text": "Do you hear something? They both listen intently. The rumble continues and, in the bathroom, the toilet rattles again, the cistern shaking."
+    },
+    {
+      "entry_id": 331,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't know what that could be. Jenna gets up and goes to the bathroom door.",
+      "raw_text": "I don't know what that could be. Jenna gets up and goes to the bathroom door."
+    },
+    {
+      "entry_id": 332,
+      "type": "scene_heading",
+      "text": "[Setting: Eighty-sixth Street]",
+      "raw_text": "(Eighty-sixth Street)",
+      "confidence": 0.9,
+      "location": "Eighty-sixth Street",
+      "normalized_location": "eighty_sixth_street"
+    },
+    {
+      "entry_id": 333,
+      "type": "action",
+      "text": "There is a rending sound, and a huge jet of water erupts from the ground right in front of George, where he was hammering. There is a shot from above the rising column of water. On the top rises George's keyring.",
+      "raw_text": "There is a rending sound, and a huge jet of water erupts from the ground right in front of George, where he was hammering. There is a shot from above the rising column of water. On the top rises George's keyring.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 334,
+      "type": "dialogue",
+      "speaker": "HEAD",
+      "normalized_speaker": "head",
+      "text": "Holy cow! The plume of water rises high above George, who can be seen looking up at the height of it.",
+      "raw_text": "Holy cow! The plume of water rises high above George, who can be seen looking up at the height of it."
+    },
+    {
+      "entry_id": 335,
+      "type": "scene_heading",
+      "text": "[Setting: Jenna's Apartment]",
+      "raw_text": "(Jenna's Apartment)",
+      "confidence": 0.9,
+      "location": "Jenna's Apartment",
+      "normalized_location": "jenna_s_apartment"
+    },
+    {
+      "entry_id": 336,
+      "type": "action",
+      "text": "In the bathroom, Jenna is peering curiously at her rattling toilet, wondering what's wrong. She leans toward the bowl. Jerry is in the living room, still talking to her.",
+      "raw_text": "In the bathroom, Jenna is peering curiously at her rattling toilet, wondering what's wrong. She leans toward the bowl. Jerry is in the living room, still talking to her.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 337,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Anyway, I'm a new man, and I'm looking towards the future. Clean, dirty, whatever. There is the sound of a wet explosion and splashing water, followed by Jenna screaming in the bathroom. Jerry leaps to his feet and rushes to see what has happened. Jerry enters the bathroom and sees Jenna. Only her forearm is visible to us, but it's enough for us to know that she is wringing wet as the result of a violent eruption from the toilet bowl. Jerry's face registers his obvious distaste. He shrugs, sorry.",
+      "raw_text": "Anyway, I'm a new man, and I'm looking towards the future. Clean, dirty, whatever. There is the sound of a wet explosion and splashing water, followed by Jenna screaming in the bathroom. Jerry leaps to his feet and rushes to see what has happened. Jerry enters the bathroom and sees Jenna. Only her forearm is visible to us, but it's enough for us to know that she is wringing wet as the result of a violent eruption from the toilet bowl. Jerry's face registers his obvious distaste. He shrugs, sorry."
+    },
+    {
+      "entry_id": 338,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Holy cow! Have a nice life. He closes the bathroom door as he leaves.",
+      "raw_text": "Holy cow! Have a nice life. He closes the bathroom door as he leaves."
+    },
+    {
+      "entry_id": 339,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's Car]",
+      "raw_text": "(Jerry's Car)",
+      "confidence": 0.9,
+      "location": "Jerry's Car",
+      "normalized_location": "jerry_s_car"
+    },
+    {
+      "entry_id": 340,
+      "type": "action",
+      "text": "Elaine driving. The passenger seats are piled with the garbage from the basement - old carpets, bits of timber, boxes, etc. An external shot of the car reveals she is driving on Kramer's section of road, as the black-painted lane markers can be seen.",
+      "raw_text": "Elaine driving. The passenger seats are piled with the garbage from the basement - old carpets, bits of timber, boxes, etc. An external shot of the car reveals she is driving on Kramer's section of road, as the black-painted lane markers can be seen.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 341,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hey, look at this. Wide lanes. This is so luxurious. Woo, yeah. We see the Saab weave across the extra wide lanes. From the boot falls a battered sewing machine. It sits in the middle of the carriageway.",
+      "raw_text": "Hey, look at this. Wide lanes. This is so luxurious. Woo, yeah. We see the Saab weave across the extra wide lanes. From the boot falls a battered sewing machine. It sits in the middle of the carriageway."
+    },
+    {
+      "entry_id": 342,
+      "type": "scene_heading",
+      "text": "[Setting: Arthur Berkhardt Expressway]",
+      "raw_text": "(Arthur Berkhardt Expressway)",
+      "confidence": 0.9,
+      "location": "Arthur Berkhardt Expressway",
+      "normalized_location": "arthur_berkhardt_expressway"
+    },
+    {
+      "entry_id": 343,
+      "type": "action",
+      "text": "Kramer is manhandling the forty gallon drum out of his boot. He struggles to heave it clear, and then he drops it. The drum falls onto its side, and the lid comes off, spilling the contents across the road.",
+      "raw_text": "Kramer is manhandling the forty gallon drum out of his boot. He struggles to heave it clear, and then he drops it. The drum falls onto its side, and the lid comes off, spilling the contents across the road.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 344,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Bugger!",
+      "raw_text": "Bugger!"
+    },
+    {
+      "entry_id": 345,
+      "type": "scene_heading",
+      "text": "[Setting: Newman's Truck]",
+      "raw_text": "(Newman's Truck)",
+      "confidence": 0.9,
+      "location": "Newman's Truck",
+      "normalized_location": "newman_s_truck"
+    },
+    {
+      "entry_id": 346,
+      "type": "action",
+      "text": "Newman is singing as he drives. Beside him are a stack of boxes, marked 'Fresh Fish'.",
+      "raw_text": "Newman is singing as he drives. Beside him are a stack of boxes, marked 'Fresh Fish'.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 347,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "You're once. Twice. Three times a lady. There's a loud crash as the truck runs over the sewing machine. Tyres squeal as Newman regains control.",
+      "raw_text": "(sings) You're once. Twice. Three times a lady. There's a loud crash as the truck runs over the sewing machine. Tyres squeal as Newman regains control.",
+      "parenthetical": "sings"
+    },
+    {
+      "entry_id": 348,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "What the hell was that? The truck is travelling along with the sewing machine caught on the front axle. As it scrapes along the road, it leaves a huge trail of sparks behind.",
+      "raw_text": "What the hell was that? The truck is travelling along with the sewing machine caught on the front axle. As it scrapes along the road, it leaves a huge trail of sparks behind."
+    },
+    {
+      "entry_id": 349,
+      "type": "scene_heading",
+      "text": "[Setting: Arthur Berkhardt Expressway]",
+      "raw_text": "(Arthur Berkhardt Expressway)",
+      "confidence": 0.9,
+      "location": "Arthur Berkhardt Expressway",
+      "normalized_location": "arthur_berkhardt_expressway"
+    },
+    {
+      "entry_id": 350,
+      "type": "action",
+      "text": "Kramer rights the empty drum and does a double-take as he notices the warning labels on the side - 'Paint Thinner' 'Highly Flammable'.",
+      "raw_text": "Kramer rights the empty drum and does a double-take as he notices the warning labels on the side - 'Paint Thinner' 'Highly Flammable'.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 351,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Double bugger!",
+      "raw_text": "Double bugger!"
+    },
+    {
+      "entry_id": 352,
+      "type": "scene_heading",
+      "text": "[Setting: Newman's Truck]",
+      "raw_text": "(Newman's Truck)",
+      "confidence": 0.9,
+      "location": "Newman's Truck",
+      "normalized_location": "newman_s_truck"
+    },
+    {
+      "entry_id": 353,
+      "type": "action",
+      "text": "Newman still singing, although the grinding sound of the sewing machine is almost drowning out his voice. The sewing machine is still producing a shower of sparks under the truck.",
+      "raw_text": "Newman still singing, although the grinding sound of the sewing machine is almost drowning out his voice. The sewing machine is still producing a shower of sparks under the truck.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 354,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Yes, you're once. Twice. Three times... Suddenly, the truck clearly reaches the pool of thinner and the sparks ignite it. Flames shoot up around the truck, and are reflected in the windows. Newman begins screaming and yelling in the midst of the inferno.",
+      "raw_text": "(sings) Yes, you're once. Twice. Three times... Suddenly, the truck clearly reaches the pool of thinner and the sparks ignite it. Flames shoot up around the truck, and are reflected in the windows. Newman begins screaming and yelling in the midst of the inferno.",
+      "parenthetical": "sings"
+    },
+    {
+      "entry_id": 355,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Aaah! Aaagh! Aah-aah. Oh, oh the humanity! Aaagh!",
+      "raw_text": "Aaah! Aaagh! Aah-aah. Oh, oh the humanity! Aaagh!"
+    },
+    {
+      "entry_id": 356,
+      "type": "scene_heading",
+      "text": "[Setting: Arthur Berkhardt Expressway]",
+      "raw_text": "(Arthur Berkhardt Expressway)",
+      "confidence": 0.9,
+      "location": "Arthur Berkhardt Expressway",
+      "normalized_location": "arthur_berkhardt_expressway"
+    },
+    {
+      "entry_id": 357,
+      "type": "action",
+      "text": "Kramer finally manages to get the drum back into his boot and slams the lid down. Then he sees Newman staggering along the road. Newman is walking stiffly, and is singed all over, with blackened patches on his hair and clothing. He's staring ahead, clearly in such a state of shock that he's uncomprehending of his surroundings.",
+      "raw_text": "Kramer finally manages to get the drum back into his boot and slams the lid down. Then he sees Newman staggering along the road. Newman is walking stiffly, and is singed all over, with blackened patches on his hair and clothing. He's staring ahead, clearly in such a state of shock that he's uncomprehending of his surroundings.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 358,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey buddy. What're you doing out here? Newman continues to walk, oblivious of Kramer.",
+      "raw_text": "Hey buddy. What're you doing out here? Newman continues to walk, oblivious of Kramer."
+    },
+    {
+      "entry_id": 359,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Man, did you see that fireball? Woo-hoo-hoo, hoo-hoo. Newman still doesn't respond. In the distance the sound of sirens can be heard. Kramer hears them, looks worried, and moves toward the car.",
+      "raw_text": "Man, did you see that fireball? Woo-hoo-hoo, hoo-hoo. Newman still doesn't respond. In the distance the sound of sirens can be heard. Kramer hears them, looks worried, and moves toward the car."
+    },
+    {
+      "entry_id": 360,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey, I gotta skedaddle. You wanna lift? Kramer has the driver's door open and is impatient to be off. The sirens continue.",
+      "raw_text": "Hey, I gotta skedaddle. You wanna lift? Kramer has the driver's door open and is impatient to be off. The sirens continue."
+    },
+    {
+      "entry_id": 361,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Newman! Newman!! Kramer gets in the car and leans out of the window to call to Newman.",
+      "raw_text": "Newman! Newman!! Kramer gets in the car and leans out of the window to call to Newman."
+    },
+    {
+      "entry_id": 362,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, I'll meet you at the coffee shop. He starts the car, and leaves with a squeal of protesting tyres. Newman continues his walk. As the Castle Rock logo comes up, Newman can be heard screaming 'Aargh!'.",
+      "raw_text": "Well, I'll meet you at the coffee shop. He starts the car, and leaves with a squeal of protesting tyres. Newman continues his walk. As the Castle Rock logo comes up, Newman can be heard screaming 'Aargh!'."
+    },
+    {
+      "entry_id": 363,
+      "type": "end_marker",
+      "text": "THE END",
+      "raw_text": "THE END"
+    },
+    {
+      "entry_id": 364,
+      "type": "action",
+      "text": ">",
+      "raw_text": ">",
+      "confidence": 0.6
+    }
+  ]
+}

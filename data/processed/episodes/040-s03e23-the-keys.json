@@ -1,0 +1,2397 @@
+{
+  "episode": {
+    "series_title": "Seinfeld",
+    "episode_number_overall": 40,
+    "title": "The Keys",
+    "season": 3,
+    "episode_number_in_season": 23,
+    "air_date": "1992-05-06",
+    "written_by": [],
+    "directed_by": [],
+    "source_title": "The Keys Script",
+    "source_dataset": "yregelman/unprocessed-seinfeld-scripts"
+  },
+  "entries": [
+    {
+      "entry_id": 1,
+      "type": "scene_heading",
+      "text": "[Setting: Comedy club]",
+      "raw_text": "(Comedy club)",
+      "confidence": 0.9,
+      "location": "Comedy club",
+      "normalized_location": "comedy_club"
+    },
+    {
+      "entry_id": 2,
+      "type": "action",
+      "text": "So, I fly a lot. I like planes. I was on a plane the other day and I was wondering - are there keys to the plane? Do they need keys to start the plane? Maybe that's what those delays on the ground are sometimes. When you're just sitting there at the gate, maybe the pilot's just up there in the cockpit going (mimics looking for keys) \"Oh, I don't believe this. Oh my god...I did it again.\" They tell you it's something mechanical, because they don't want to come on the PA system...\"Ladies and gentlemen, we're going to be delayed here on the ground for a little while, I uh...Oh God, this is so embarrassing...I - I left the keys to the plane in my apartment.\" You see the technicians all running underneath the plane; you think they're servicing it, but they're actually looking for the magnet \"hide-a-key\" under the wing...\"maybe he left it up there somewhere...\"",
+      "raw_text": "So, I fly a lot. I like planes. I was on a plane the other day and I was wondering - are there keys to the plane? Do they need keys to start the plane? Maybe that's what those delays on the ground are sometimes. When you're just sitting there at the gate, maybe the pilot's just up there in the cockpit going (mimics looking for keys) \"Oh, I don't believe this. Oh my god...I did it again.\" They tell you it's something mechanical, because they don't want to come on the PA system...\"Ladies and gentlemen, we're going to be delayed here on the ground for a little while, I uh...Oh God, this is so embarrassing...I - I left the keys to the plane in my apartment.\" You see the technicians all running underneath the plane; you think they're servicing it, but they're actually looking for the magnet \"hide-a-key\" under the wing...\"maybe he left it up there somewhere...\"",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 3,
+      "type": "dialogue",
+      "speaker": "OPENING SCENE",
+      "normalized_speaker": "opening_scene",
+      "text": "Jerry's apartment in the middle of the night. Jerry comes out of his room. We hear his thoughts.",
+      "raw_text": "Jerry's apartment in the middle of the night. Jerry comes out of his room. We hear his thoughts."
+    },
+    {
+      "entry_id": 4,
+      "type": "dialogue",
+      "speaker": "JERRY'S BRAIN",
+      "normalized_speaker": "jerry_s_brain",
+      "text": "What is it about sleep that makes you so thirsty? Do dreams require liquid? It's not like I'm running a marathon, I'm just lying there.",
+      "raw_text": "What is it about sleep that makes you so thirsty? Do dreams require liquid? It's not like I'm running a marathon, I'm just lying there."
+    },
+    {
+      "entry_id": 5,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry notices his door is open]",
+      "raw_text": "(Jerry notices his door is open.)",
+      "confidence": 0.9,
+      "location": "Jerry notices his door is open",
+      "normalized_location": "jerry_notices_his_door_is_open"
+    },
+    {
+      "entry_id": 6,
+      "type": "dialogue",
+      "speaker": "JERRY'S BRAIN",
+      "normalized_speaker": "jerry_s_brain",
+      "text": "What the hell...? Why is the door open? (Jerry looks out into the hallway, turns back into his apartment, and runs into Kramer in the dark. They both scream. Kramer turns on the light.)",
+      "raw_text": "What the hell...? Why is the door open? (Jerry looks out into the hallway, turns back into his apartment, and runs into Kramer in the dark. They both scream. Kramer turns on the light.)"
+    },
+    {
+      "entry_id": 7,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Kramer, what are you doing here!?",
+      "raw_text": "Kramer, what are you doing here!?"
+    },
+    {
+      "entry_id": 8,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Jerry, now calm down, it's okay. I'm sorry. I didn't want to wake you up! Y'know, I was watching \"Thirty Seconds Over Tokyo,\" and I - y'know, I wanted to get some popcorn, and I, uh...I used the spare keys that you gave me to come into your apartment to get your popper.",
+      "raw_text": "Jerry, now calm down, it's okay. I'm sorry. I didn't want to wake you up! Y'know, I was watching \"Thirty Seconds Over Tokyo,\" and I - y'know, I wanted to get some popcorn, and I, uh...I used the spare keys that you gave me to come into your apartment to get your popper."
+    },
+    {
+      "entry_id": 9,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You scared me!",
+      "raw_text": "You scared me!"
+    },
+    {
+      "entry_id": 10,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "It's just me.",
+      "raw_text": "It's just me."
+    },
+    {
+      "entry_id": 11,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "That's enough!",
+      "raw_text": "That's enough!"
+    },
+    {
+      "entry_id": 12,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Forgot the popper... (goes to the kitchen, grabs the popper, drops the lid, juggles it around, then exits.) New scene. Jerry's apartment, daytime. We hear Jerry hurriedly trying to get in the door.",
+      "raw_text": "Forgot the popper... (goes to the kitchen, grabs the popper, drops the lid, juggles it around, then exits.) New scene. Jerry's apartment, daytime. We hear Jerry hurriedly trying to get in the door."
+    },
+    {
+      "entry_id": 13,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "C'mon...c'mon... (Jerry enters, sheds his jacket, drops his luggage and heads for the bathroom. He opens the door to find Kramer taking a bubble bath in his tub.)",
+      "raw_text": "C'mon...c'mon... (Jerry enters, sheds his jacket, drops his luggage and heads for the bathroom. He opens the door to find Kramer taking a bubble bath in his tub.)"
+    },
+    {
+      "entry_id": 14,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Kramer! What are you doing?!",
+      "raw_text": "Kramer! What are you doing?!"
+    },
+    {
+      "entry_id": 15,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What does it look like I'm doing? What?",
+      "raw_text": "What does it look like I'm doing? What?"
+    },
+    {
+      "entry_id": 16,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Get out! Get out of the bathroom, I gotta go!",
+      "raw_text": "Get out! Get out of the bathroom, I gotta go!"
+    },
+    {
+      "entry_id": 17,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Alright, alright...",
+      "raw_text": "Alright, alright..."
+    },
+    {
+      "entry_id": 18,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "C'mon!",
+      "raw_text": "C'mon!"
+    },
+    {
+      "entry_id": 19,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Sorry.",
+      "raw_text": "Sorry."
+    },
+    {
+      "entry_id": 20,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Move it! Move it! Get going!",
+      "raw_text": "Move it! Move it! Get going!"
+    },
+    {
+      "entry_id": 21,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "My drain's all clogged up! (Comes out of the bathroom in a towel, covered in soap suds.)",
+      "raw_text": "My drain's all clogged up! (Comes out of the bathroom in a towel, covered in soap suds.)"
+    },
+    {
+      "entry_id": 22,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Is that my towel? (Kramer loses the towel in the hallway and throws it on Jerry's floor from the other side of the door.) New scene. Jerry's hallway at night. Jerry approaches his door with a girlfriend.",
+      "raw_text": "Is that my towel? (Kramer loses the towel in the hallway and throws it on Jerry's floor from the other side of the door.) New scene. Jerry's hallway at night. Jerry approaches his door with a girlfriend."
+    },
+    {
+      "entry_id": 23,
+      "type": "dialogue",
+      "speaker": "GIRLFRIEND",
+      "normalized_speaker": "girlfriend",
+      "text": "I'm really happy the movie was sold out.",
+      "raw_text": "I'm really happy the movie was sold out."
+    },
+    {
+      "entry_id": 24,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey, did you ever pretend there's like, murderers chasing you, and you try and see how fast you can get your keys out and get into your apartment?",
+      "raw_text": "Hey, did you ever pretend there's like, murderers chasing you, and you try and see how fast you can get your keys out and get into your apartment?"
+    },
+    {
+      "entry_id": 25,
+      "type": "dialogue",
+      "speaker": "GIRLFRIEND",
+      "normalized_speaker": "girlfriend",
+      "text": "I'm from Witchita, so...",
+      "raw_text": "I'm from Witchita, so..."
+    },
+    {
+      "entry_id": 26,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh. I see. There he is! (Pretends the murderers are coming.)",
+      "raw_text": "Oh. I see. There he is! (Pretends the murderers are coming.)"
+    },
+    {
+      "entry_id": 27,
+      "type": "dialogue",
+      "speaker": "GIRLFRIEND",
+      "normalized_speaker": "girlfriend",
+      "text": "Hurry, Jerry! He's coming! Hurry!",
+      "raw_text": "Hurry, Jerry! He's coming! Hurry!"
+    },
+    {
+      "entry_id": 28,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "The murderers! (Jerry unlocks his door and they both run inside.)",
+      "raw_text": "The murderers! (Jerry unlocks his door and they both run inside.)"
+    },
+    {
+      "entry_id": 29,
+      "type": "dialogue",
+      "speaker": "GIRLFRIEND",
+      "normalized_speaker": "girlfriend",
+      "text": "That was close!",
+      "raw_text": "That was close!"
+    },
+    {
+      "entry_id": 30,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Did you see the look on that guy's face?",
+      "raw_text": "Did you see the look on that guy's face?"
+    },
+    {
+      "entry_id": 31,
+      "type": "dialogue",
+      "speaker": "GIRLFRIEND",
+      "normalized_speaker": "girlfriend",
+      "text": "You were so fast with those keys. (They prepare to kiss, but are interrupted by Kramer and his girlfriend coming out of Jerry's bedroom, laughing and horsing around.)",
+      "raw_text": "You were so fast with those keys. (They prepare to kiss, but are interrupted by Kramer and his girlfriend coming out of Jerry's bedroom, laughing and horsing around.)"
+    },
+    {
+      "entry_id": 32,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Kramer! What the hell are you doing here?!",
+      "raw_text": "Kramer! What the hell are you doing here?!"
+    },
+    {
+      "entry_id": 33,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey, Jerry! How are ya? I thought you were going to the movies.",
+      "raw_text": "Hey, Jerry! How are ya? I thought you were going to the movies."
+    },
+    {
+      "entry_id": 34,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "All right, that's it. Hand 'em over.",
+      "raw_text": "All right, that's it. Hand 'em over."
+    },
+    {
+      "entry_id": 35,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 36,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What, you know what, the keys. I want the keys. You've lost your key privileges.",
+      "raw_text": "What, you know what, the keys. I want the keys. You've lost your key privileges."
+    },
+    {
+      "entry_id": 37,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, come on!",
+      "raw_text": "Oh, come on!"
+    },
+    {
+      "entry_id": 38,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No, come on!",
+      "raw_text": "No, come on!"
+    },
+    {
+      "entry_id": 39,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What, what, I thought you went to the movies!",
+      "raw_text": "What, what, I thought you went to the movies!"
+    },
+    {
+      "entry_id": 40,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "It was sold out!",
+      "raw_text": "It was sold out!"
+    },
+    {
+      "entry_id": 41,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Now how was I supposed to know it was going to be sold out?",
+      "raw_text": "Now how was I supposed to know it was going to be sold out?"
+    },
+    {
+      "entry_id": 42,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "That's the point.",
+      "raw_text": "That's the point."
+    },
+    {
+      "entry_id": 43,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What point?",
+      "raw_text": "What point?"
+    },
+    {
+      "entry_id": 44,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Just, look, just give the keys.",
+      "raw_text": "Just, look, just give the keys."
+    },
+    {
+      "entry_id": 45,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Just give me another chance!",
+      "raw_text": "Just give me another chance!"
+    },
+    {
+      "entry_id": 46,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Don't ask me!",
+      "raw_text": "Don't ask me!"
+    },
+    {
+      "entry_id": 47,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I'm asking you!",
+      "raw_text": "I'm asking you!"
+    },
+    {
+      "entry_id": 48,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I'm telling you.",
+      "raw_text": "I'm telling you."
+    },
+    {
+      "entry_id": 49,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You're joking.",
+      "raw_text": "You're joking."
+    },
+    {
+      "entry_id": 50,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I'm serious!",
+      "raw_text": "I'm serious!"
+    },
+    {
+      "entry_id": 51,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "It's not going to happen again!",
+      "raw_text": "It's not going to happen again!"
+    },
+    {
+      "entry_id": 52,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yes it will, now give me those keys! (Jerry and Kramer begin struggling over the keys. Kramer loses his footing and falls on the floor, taking his girlfriend down with him.)",
+      "raw_text": "Yes it will, now give me those keys! (Jerry and Kramer begin struggling over the keys. Kramer loses his footing and falls on the floor, taking his girlfriend down with him.)"
+    },
+    {
+      "entry_id": 53,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "O.K., fine, go ahead, you take the keys! But you're going to regret this. (He angrily storms out. Kramer then re-enters seconds later when he realizes he's left his girlfriend in Jerry's apartment.) New scene. Jerry's apartment, the next day. Jerry is now giving his spare keys to Elaine.",
+      "raw_text": "O.K., fine, go ahead, you take the keys! But you're going to regret this. (He angrily storms out. Kramer then re-enters seconds later when he realizes he's left his girlfriend in Jerry's apartment.) New scene. Jerry's apartment, the next day. Jerry is now giving his spare keys to Elaine."
+    },
+    {
+      "entry_id": 54,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So put 'em in a safe place.",
+      "raw_text": "So put 'em in a safe place."
+    },
+    {
+      "entry_id": 55,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I will.",
+      "raw_text": "I will."
+    },
+    {
+      "entry_id": 56,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Where?",
+      "raw_text": "Where?"
+    },
+    {
+      "entry_id": 57,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I don't know. I'll hide 'em. So, is Kramer upset?",
+      "raw_text": "I don't know. I'll hide 'em. So, is Kramer upset?"
+    },
+    {
+      "entry_id": 58,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I think so. I mean, he's acting really weird lately...he's different.",
+      "raw_text": "I think so. I mean, he's acting really weird lately...he's different."
+    },
+    {
+      "entry_id": 59,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well, maybe you should just give him the keys back.",
+      "raw_text": "Well, maybe you should just give him the keys back."
+    },
+    {
+      "entry_id": 60,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I can't.",
+      "raw_text": "I can't."
+    },
+    {
+      "entry_id": 61,
+      "type": "scene_heading",
+      "text": "[Setting: There's a gentle knock at the door]",
+      "raw_text": "(There's a gentle knock at the door.)",
+      "confidence": 0.9,
+      "location": "There's a gentle knock at the door",
+      "normalized_location": "there_s_a_gentle_knock_at_the_door"
+    },
+    {
+      "entry_id": 62,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Is that Kramer? (Jerry nods.)",
+      "raw_text": "Is that Kramer? (Jerry nods.)"
+    },
+    {
+      "entry_id": 63,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Who's there?",
+      "raw_text": "Who's there?"
+    },
+    {
+      "entry_id": 64,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Uh, Kramer. (Jerry opens the door, Kramer enters. Elaine waves at Kramer with the keys in her hand.) Oh, hi...uh...you got the...",
+      "raw_text": "Uh, Kramer. (Jerry opens the door, Kramer enters. Elaine waves at Kramer with the keys in her hand.) Oh, hi...uh...you got the..."
+    },
+    {
+      "entry_id": 65,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, I'm not, uh...",
+      "raw_text": "Oh, I'm not, uh..."
+    },
+    {
+      "entry_id": 66,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "No, no, no, it's o.k. I don't care about the keys. It's my fault. I gave the keys away with my stupidity. I broke \"the covenant of the keys.\"",
+      "raw_text": "No, no, no, it's o.k. I don't care about the keys. It's my fault. I gave the keys away with my stupidity. I broke \"the covenant of the keys.\""
+    },
+    {
+      "entry_id": 67,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Jerry, give him the keys back.",
+      "raw_text": "Jerry, give him the keys back."
+    },
+    {
+      "entry_id": 68,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Elaine... (Elaine tries to give the keys to Kramer, but Jerry won't let her. Jerry and Elaine begin struggling over the keys. Kramer breaks it up.)",
+      "raw_text": "Elaine... (Elaine tries to give the keys to Kramer, but Jerry won't let her. Jerry and Elaine begin struggling over the keys. Kramer breaks it up.)"
+    },
+    {
+      "entry_id": 69,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I don't want the keys back! No, I'm glad the way things turned out. I was clingin' to those keys, man! Like a branch on the banks of a raging river. And now I have let go. And I'm free...to go with the current. To float. (To Jerry) And I thank you.",
+      "raw_text": "I don't want the keys back! No, I'm glad the way things turned out. I was clingin' to those keys, man! Like a branch on the banks of a raging river. And now I have let go. And I'm free...to go with the current. To float. (To Jerry) And I thank you."
+    },
+    {
+      "entry_id": 70,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Take the keys.",
+      "raw_text": "Take the keys."
+    },
+    {
+      "entry_id": 71,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I don't want the keys! (Jerry tries to force the keys on Kramer, but Kramer refuses.)",
+      "raw_text": "I don't want the keys! (Jerry tries to force the keys on Kramer, but Kramer refuses.)"
+    },
+    {
+      "entry_id": 72,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "O.K.!",
+      "raw_text": "O.K.!"
+    },
+    {
+      "entry_id": 73,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Now, one more thing - I would like my keys back.",
+      "raw_text": "Now, one more thing - I would like my keys back."
+    },
+    {
+      "entry_id": 74,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Your spare set?",
+      "raw_text": "Your spare set?"
+    },
+    {
+      "entry_id": 75,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "That's right.",
+      "raw_text": "That's right."
+    },
+    {
+      "entry_id": 76,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You want 'em back?",
+      "raw_text": "You want 'em back?"
+    },
+    {
+      "entry_id": 77,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah. Yeah, I think it would be for the best. (Jerry takes a huge ring with hundreds of keys on it out of his drawer, and hands it to Kramer. Kramer begins going through them.) New scene at the coffee shop. Kramer is now giving the huge keyring to George.",
+      "raw_text": "Yeah. Yeah, I think it would be for the best. (Jerry takes a huge ring with hundreds of keys on it out of his drawer, and hands it to Kramer. Kramer begins going through them.) New scene at the coffee shop. Kramer is now giving the huge keyring to George."
+    },
+    {
+      "entry_id": 78,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Gee, Kramer, I uh...I don't know what to say.",
+      "raw_text": "Gee, Kramer, I uh...I don't know what to say."
+    },
+    {
+      "entry_id": 79,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Say yes! Yes, George. Yes!",
+      "raw_text": "Say yes! Yes, George. Yes!"
+    },
+    {
+      "entry_id": 80,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Should I give you my keys, is that the transaction, trading keys...? Because Elaine has my keys.",
+      "raw_text": "Should I give you my keys, is that the transaction, trading keys...? Because Elaine has my keys."
+    },
+    {
+      "entry_id": 81,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, you can get 'em back.",
+      "raw_text": "Well, you can get 'em back."
+    },
+    {
+      "entry_id": 82,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I suppose I could.",
+      "raw_text": "I suppose I could."
+    },
+    {
+      "entry_id": 83,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Because you see, George, having the keys to Jerry's apartment? That kept me in a fantasy world. Every time I went over to his house, it was like I was on vacation. Better food, better view, better TV. And cleaner? Oh - much cleaner. That became my reality. I ignored the squalor in my own life because I'm looking at life, you see, through Jerry's eyes. I was living in twilight, George. Living in the shadows. Living in the darkness...like you.",
+      "raw_text": "Because you see, George, having the keys to Jerry's apartment? That kept me in a fantasy world. Every time I went over to his house, it was like I was on vacation. Better food, better view, better TV. And cleaner? Oh - much cleaner. That became my reality. I ignored the squalor in my own life because I'm looking at life, you see, through Jerry's eyes. I was living in twilight, George. Living in the shadows. Living in the darkness...like you."
+    },
+    {
+      "entry_id": 84,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Me?",
+      "raw_text": "Me?"
+    },
+    {
+      "entry_id": 85,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, yeah. I can barely see you, George.",
+      "raw_text": "Oh, yeah. I can barely see you, George."
+    },
+    {
+      "entry_id": 86,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Alright, stop it Kramer, you're freakin' me out. (The waitress comes over.)",
+      "raw_text": "Alright, stop it Kramer, you're freakin' me out. (The waitress comes over.)"
+    },
+    {
+      "entry_id": 87,
+      "type": "dialogue",
+      "speaker": "WAITRESS",
+      "normalized_speaker": "waitress",
+      "text": "Hi, are you ready to order? (George tries to order, but Kramer interrupts.)",
+      "raw_text": "Hi, are you ready to order? (George tries to order, but Kramer interrupts.)"
+    },
+    {
+      "entry_id": 88,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Do you ever yearn?",
+      "raw_text": "Do you ever yearn?"
+    },
+    {
+      "entry_id": 89,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yearn? Do I yearn?",
+      "raw_text": "Yearn? Do I yearn?"
+    },
+    {
+      "entry_id": 90,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I yearn.",
+      "raw_text": "I yearn."
+    },
+    {
+      "entry_id": 91,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You yearn.",
+      "raw_text": "You yearn."
+    },
+    {
+      "entry_id": 92,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, yes. Yes, I yearn. Often, I...I sit...and yearn. Have you yearned?",
+      "raw_text": "Oh, yes. Yes, I yearn. Often, I...I sit...and yearn. Have you yearned?"
+    },
+    {
+      "entry_id": 93,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, not recently. I craved. I crave all the time, constant craving...but I haven't yearned.",
+      "raw_text": "Well, not recently. I craved. I crave all the time, constant craving...but I haven't yearned."
+    },
+    {
+      "entry_id": 94,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Look at you.",
+      "raw_text": "Look at you."
+    },
+    {
+      "entry_id": 95,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Aw, Kramer, don't start...",
+      "raw_text": "Aw, Kramer, don't start..."
+    },
+    {
+      "entry_id": 96,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You're wasting your life.",
+      "raw_text": "You're wasting your life."
+    },
+    {
+      "entry_id": 97,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I am not! What you call wasting, I call living! I'm living my life!",
+      "raw_text": "I am not! What you call wasting, I call living! I'm living my life!"
+    },
+    {
+      "entry_id": 98,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "O.K., like what? No, tell me! Do you have a job?",
+      "raw_text": "O.K., like what? No, tell me! Do you have a job?"
+    },
+    {
+      "entry_id": 99,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No.",
+      "raw_text": "No."
+    },
+    {
+      "entry_id": 100,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You got money?",
+      "raw_text": "You got money?"
+    },
+    {
+      "entry_id": 101,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No.",
+      "raw_text": "No."
+    },
+    {
+      "entry_id": 102,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Do you have a woman?",
+      "raw_text": "Do you have a woman?"
+    },
+    {
+      "entry_id": 103,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No.",
+      "raw_text": "No."
+    },
+    {
+      "entry_id": 104,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Do you have any prospects?",
+      "raw_text": "Do you have any prospects?"
+    },
+    {
+      "entry_id": 105,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No.",
+      "raw_text": "No."
+    },
+    {
+      "entry_id": 106,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You got anything on the horizon?",
+      "raw_text": "You got anything on the horizon?"
+    },
+    {
+      "entry_id": 107,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Uh...no.",
+      "raw_text": "Uh...no."
+    },
+    {
+      "entry_id": 108,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Do you have any action at all?",
+      "raw_text": "Do you have any action at all?"
+    },
+    {
+      "entry_id": 109,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No.",
+      "raw_text": "No."
+    },
+    {
+      "entry_id": 110,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Do you have any conceivable reason for even getting up in the morning?",
+      "raw_text": "Do you have any conceivable reason for even getting up in the morning?"
+    },
+    {
+      "entry_id": 111,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I like to get the Daily News!",
+      "raw_text": "I like to get the Daily News!"
+    },
+    {
+      "entry_id": 112,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "George, it's time for us to grow up - and be men. Not little boys.",
+      "raw_text": "George, it's time for us to grow up - and be men. Not little boys."
+    },
+    {
+      "entry_id": 113,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Why?",
+      "raw_text": "Why?"
+    },
+    {
+      "entry_id": 114,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I'm goin' to California. You know, I got the bug.",
+      "raw_text": "I'm goin' to California. You know, I got the bug."
+    },
+    {
+      "entry_id": 115,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah, I think I got a touch of something, too.",
+      "raw_text": "Yeah, I think I got a touch of something, too."
+    },
+    {
+      "entry_id": 116,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "No, the acting bug. Ever since I was in that Woody Allen movie.",
+      "raw_text": "No, the acting bug. Ever since I was in that Woody Allen movie."
+    },
+    {
+      "entry_id": 117,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "\"These pretzels are making me thirsty\"? That was one line! You got fired!",
+      "raw_text": "\"These pretzels are making me thirsty\"? That was one line! You got fired!"
+    },
+    {
+      "entry_id": 118,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I know, I know, but man! I never felt so alive! Now, are you coming with me?",
+      "raw_text": "I know, I know, but man! I never felt so alive! Now, are you coming with me?"
+    },
+    {
+      "entry_id": 119,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Uh, no, I'm not.",
+      "raw_text": "Uh, no, I'm not."
+    },
+    {
+      "entry_id": 120,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Alright, suit yourself. But let's keep this between us - we're key brothers now. (Gets up to leave.)",
+      "raw_text": "Alright, suit yourself. But let's keep this between us - we're key brothers now. (Gets up to leave.)"
+    },
+    {
+      "entry_id": 121,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You're not really gonna go to California, are you?",
+      "raw_text": "You're not really gonna go to California, are you?"
+    },
+    {
+      "entry_id": 122,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Up here, I'm already gone. (Kramer exits.) New scene, Elaine's apartment at night. George is picking up his spare keys from Elaine.",
+      "raw_text": "Up here, I'm already gone. (Kramer exits.) New scene, Elaine's apartment at night. George is picking up his spare keys from Elaine."
+    },
+    {
+      "entry_id": 123,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Anyway, so he gave me his spare keys, now he wants to have my keys, so I need mine back from you.",
+      "raw_text": "Anyway, so he gave me his spare keys, now he wants to have my keys, so I need mine back from you."
+    },
+    {
+      "entry_id": 124,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Just 'cause you have his keys? Why does he need yours?",
+      "raw_text": "Just 'cause you have his keys? Why does he need yours?"
+    },
+    {
+      "entry_id": 125,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I don't know. He said he wants to be my \"key brother.\"",
+      "raw_text": "I don't know. He said he wants to be my \"key brother.\""
+    },
+    {
+      "entry_id": 126,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "That's ridiculous.",
+      "raw_text": "That's ridiculous."
+    },
+    {
+      "entry_id": 127,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "That's Kramer.",
+      "raw_text": "That's Kramer."
+    },
+    {
+      "entry_id": 128,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I'll give you back your spare keys - but now I want mine back.",
+      "raw_text": "I'll give you back your spare keys - but now I want mine back."
+    },
+    {
+      "entry_id": 129,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What for?",
+      "raw_text": "What for?"
+    },
+    {
+      "entry_id": 130,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "'Cause. I'll give 'em to Jerry.",
+      "raw_text": "'Cause. I'll give 'em to Jerry."
+    },
+    {
+      "entry_id": 131,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Jerry? Why?",
+      "raw_text": "Jerry? Why?"
+    },
+    {
+      "entry_id": 132,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "'Cause he gave me his.",
+      "raw_text": "'Cause he gave me his."
+    },
+    {
+      "entry_id": 133,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So what?",
+      "raw_text": "So what?"
+    },
+    {
+      "entry_id": 134,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "So, if he has my keys, I should have his.",
+      "raw_text": "So, if he has my keys, I should have his."
+    },
+    {
+      "entry_id": 135,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, I don't see why if you have his, he should have yours.",
+      "raw_text": "Well, I don't see why if you have his, he should have yours."
+    },
+    {
+      "entry_id": 136,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I just said the same thing to you.",
+      "raw_text": "I just said the same thing to you."
+    },
+    {
+      "entry_id": 137,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 138,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 139,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Alright, listen, I'll give you your spare keys, but I don't have them with me. Can I please have mine to give to back to Kramer?",
+      "raw_text": "Alright, listen, I'll give you your spare keys, but I don't have them with me. Can I please have mine to give to back to Kramer?"
+    },
+    {
+      "entry_id": 140,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah, O.K. I'll go get 'em. (George begins to leaf through papers on Elaine's counter.) What are you doing? Would you just put that down? (Takes the papers away from George.) I gotta get some new friends. New scene, Jerry's apartment the next day.",
+      "raw_text": "Yeah, O.K. I'll go get 'em. (George begins to leaf through papers on Elaine's counter.) What are you doing? Would you just put that down? (Takes the papers away from George.) I gotta get some new friends. New scene, Jerry's apartment the next day."
+    },
+    {
+      "entry_id": 141,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Did you bring the keys?",
+      "raw_text": "Did you bring the keys?"
+    },
+    {
+      "entry_id": 142,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yes, but I still don't feel right about letting you into Kramer's apartment without his permission.",
+      "raw_text": "Yes, but I still don't feel right about letting you into Kramer's apartment without his permission."
+    },
+    {
+      "entry_id": 143,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "This could be an emergency!",
+      "raw_text": "This could be an emergency!"
+    },
+    {
+      "entry_id": 144,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You never should have taken away his keys!",
+      "raw_text": "You never should have taken away his keys!"
+    },
+    {
+      "entry_id": 145,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I tried to give 'em back, he wouldn't take 'em. (Jerry and George go out into the hallway to Kramer's apartment.)",
+      "raw_text": "I tried to give 'em back, he wouldn't take 'em. (Jerry and George go out into the hallway to Kramer's apartment.)"
+    },
+    {
+      "entry_id": 146,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "How'd the Mets do?",
+      "raw_text": "How'd the Mets do?"
+    },
+    {
+      "entry_id": 147,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "They lost.",
+      "raw_text": "They lost."
+    },
+    {
+      "entry_id": 148,
+      "type": "action",
+      "text": "Jerry and George open Kramer's door and poke their heads in.",
+      "raw_text": "(Jerry and George open Kramer's door and poke their heads in.)"
+    },
+    {
+      "entry_id": 149,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Kramer?",
+      "raw_text": "Kramer?"
+    },
+    {
+      "entry_id": 150,
+      "type": "action",
+      "text": "Newman walks up behind them.",
+      "raw_text": "(Newman walks up behind them.)"
+    },
+    {
+      "entry_id": 151,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Hello, boys.",
+      "raw_text": "Hello, boys."
+    },
+    {
+      "entry_id": 152,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hello, Newman.",
+      "raw_text": "Hello, Newman."
+    },
+    {
+      "entry_id": 153,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "You lookin' for someone?",
+      "raw_text": "You lookin' for someone?"
+    },
+    {
+      "entry_id": 154,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Don't play coy with me, Newman, I'm not in the mood!",
+      "raw_text": "Don't play coy with me, Newman, I'm not in the mood!"
+    },
+    {
+      "entry_id": 155,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Coy? I'm not being coy.",
+      "raw_text": "Coy? I'm not being coy."
+    },
+    {
+      "entry_id": 156,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Is he being coy?",
+      "raw_text": "Is he being coy?"
+    },
+    {
+      "entry_id": 157,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah, coy.",
+      "raw_text": "Yeah, coy."
+    },
+    {
+      "entry_id": 158,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You're being coy. Now where's Kramer, Newman?",
+      "raw_text": "You're being coy. Now where's Kramer, Newman?"
+    },
+    {
+      "entry_id": 159,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Who?",
+      "raw_text": "Who?"
+    },
+    {
+      "entry_id": 160,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Listen, Tiny. I wanna know where Kramer is and wanna know now!",
+      "raw_text": "Listen, Tiny. I wanna know where Kramer is and wanna know now!"
+    },
+    {
+      "entry_id": 161,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Alright, go ahead and hit me, Seinfeld. I got witnesses.",
+      "raw_text": "Alright, go ahead and hit me, Seinfeld. I got witnesses."
+    },
+    {
+      "entry_id": 162,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Turn around, George.",
+      "raw_text": "Turn around, George."
+    },
+    {
+      "entry_id": 163,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Sure. (Turns around.)",
+      "raw_text": "Sure. (Turns around.)"
+    },
+    {
+      "entry_id": 164,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "George?",
+      "raw_text": "George?"
+    },
+    {
+      "entry_id": 165,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Now, you better tell me where Kramer is, or are we gonna have to do this the hard way? (Hits wall with his fist.)",
+      "raw_text": "Now, you better tell me where Kramer is, or are we gonna have to do this the hard way? (Hits wall with his fist.)"
+    },
+    {
+      "entry_id": 166,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Help! Help!",
+      "raw_text": "Help! Help!"
+    },
+    {
+      "entry_id": 167,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Where's Kramer?",
+      "raw_text": "Where's Kramer?"
+    },
+    {
+      "entry_id": 168,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "HELP! (Elaine enters.)",
+      "raw_text": "HELP! (Elaine enters.)"
+    },
+    {
+      "entry_id": 169,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What's going on?",
+      "raw_text": "What's going on?"
+    },
+    {
+      "entry_id": 170,
+      "type": "scene_heading",
+      "text": "[Setting: Newman grabs Elaine and hides behind her]",
+      "raw_text": "(Newman grabs Elaine and hides behind her.)",
+      "confidence": 0.9,
+      "location": "Newman grabs Elaine and hides behind her",
+      "normalized_location": "newman_grabs_elaine_and_hides_behind_her"
+    },
+    {
+      "entry_id": 171,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "They're gonna beat me up!",
+      "raw_text": "They're gonna beat me up!"
+    },
+    {
+      "entry_id": 172,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No we're not.",
+      "raw_text": "No we're not."
+    },
+    {
+      "entry_id": 173,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "We're trying to find out what happened to Kramer.",
+      "raw_text": "We're trying to find out what happened to Kramer."
+    },
+    {
+      "entry_id": 174,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "You wanna know what happened to Kramer? I'll tell you what happened to Kramer. He was ticked off. About the keys. Yeah, that's right - about the keys. Thought he got a bad rap.",
+      "raw_text": "You wanna know what happened to Kramer? I'll tell you what happened to Kramer. He was ticked off. About the keys. Yeah, that's right - about the keys. Thought he got a bad rap."
+    },
+    {
+      "entry_id": 175,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Bad rap?",
+      "raw_text": "Bad rap?"
+    },
+    {
+      "entry_id": 176,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Yeah. From you.",
+      "raw_text": "Yeah. From you."
+    },
+    {
+      "entry_id": 177,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Me?",
+      "raw_text": "Me?"
+    },
+    {
+      "entry_id": 178,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "You heard me. So he packed it up and split for the coast. La-La Land. L.A.",
+      "raw_text": "You heard me. So he packed it up and split for the coast. La-La Land. L.A."
+    },
+    {
+      "entry_id": 179,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "L.A.? (Cut to Kramer in his car on the highway, listening to rock music. The car's engine starts to fail, then stalls. Kramer can't believe it.) Commercial break. New scene, Jerry's apartment at night (Jerry's at the window, George and Elaine are on the couch).",
+      "raw_text": "L.A.? (Cut to Kramer in his car on the highway, listening to rock music. The car's engine starts to fail, then stalls. Kramer can't believe it.) Commercial break. New scene, Jerry's apartment at night (Jerry's at the window, George and Elaine are on the couch)."
+    },
+    {
+      "entry_id": 180,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I never should have taken his keys away. But he drove me to it! I had no choice! He wouldn't take 'em back. Elaine, you saw it, remember? I said, 'Take the keys back.' He wouldn't do anything. You saw it, didn't you see it?",
+      "raw_text": "I never should have taken his keys away. But he drove me to it! I had no choice! He wouldn't take 'em back. Elaine, you saw it, remember? I said, 'Take the keys back.' He wouldn't do anything. You saw it, didn't you see it?"
+    },
+    {
+      "entry_id": 181,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah, yeah, I saw it. (mutters under her breath) I mean, it's complete bullsh*t.",
+      "raw_text": "Yeah, yeah, I saw it. (mutters under her breath) I mean, it's complete bullsh*t."
+    },
+    {
+      "entry_id": 182,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Huh?",
+      "raw_text": "Huh?"
+    },
+    {
+      "entry_id": 183,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What...?",
+      "raw_text": "What...?"
+    },
+    {
+      "entry_id": 184,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No, what'd you say?",
+      "raw_text": "No, what'd you say?"
+    },
+    {
+      "entry_id": 185,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Nothing. I didn't say anything.",
+      "raw_text": "Nothing. I didn't say anything."
+    },
+    {
+      "entry_id": 186,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh, you didn't see it.",
+      "raw_text": "Oh, you didn't see it."
+    },
+    {
+      "entry_id": 187,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah, I saw it. I saw it! I did, I saw it. Yep.",
+      "raw_text": "Yeah, I saw it. I saw it! I did, I saw it. Yep."
+    },
+    {
+      "entry_id": 188,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I heard you say something, there.",
+      "raw_text": "I heard you say something, there."
+    },
+    {
+      "entry_id": 189,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I didn't say anything.",
+      "raw_text": "I didn't say anything."
+    },
+    {
+      "entry_id": 190,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I'm calling Kramer's mother. (Picks up the phone, dials.) (To Elaine) I don't know what you said. But it was something. I heard something. Hello? Hello, Mrs. Kramer? Mrs. Kramer? Could you turn the music down? Could you turn the music down!",
+      "raw_text": "I'm calling Kramer's mother. (Picks up the phone, dials.) (To Elaine) I don't know what you said. But it was something. I heard something. Hello? Hello, Mrs. Kramer? Mrs. Kramer? Could you turn the music down? Could you turn the music down!"
+    },
+    {
+      "entry_id": 191,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Ask her about Kramer.",
+      "raw_text": "Ask her about Kramer."
+    },
+    {
+      "entry_id": 192,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "She's drunk out of her mind. (Cut back to Kramer with his car broken down on the side of the highway. He tries to thumb a ride.) New scene, Jerry approaching his apartment door. He tries to unlock it, but realizes Elaine has his keys. Jerry goes to the coffee shop to call Elaine.",
+      "raw_text": "She's drunk out of her mind. (Cut back to Kramer with his car broken down on the side of the highway. He tries to thumb a ride.) New scene, Jerry approaching his apartment door. He tries to unlock it, but realizes Elaine has his keys. Jerry goes to the coffee shop to call Elaine."
+    },
+    {
+      "entry_id": 193,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Elaine? Are you there? It's me, I'm locked out of my apartment, I need my spare keys. Where are you? I'm at the coffee shop. New scene. Kramer's managed to hitch a ride on the back of a motorcycle.",
+      "raw_text": "Elaine? Are you there? It's me, I'm locked out of my apartment, I need my spare keys. Where are you? I'm at the coffee shop. New scene. Kramer's managed to hitch a ride on the back of a motorcycle."
+    },
+    {
+      "entry_id": 194,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey! You ever been in an accident?",
+      "raw_text": "Hey! You ever been in an accident?"
+    },
+    {
+      "entry_id": 195,
+      "type": "dialogue",
+      "speaker": "BIKER",
+      "normalized_speaker": "biker",
+      "text": "About five years ago. I was going down this very road. Same time of day, going about the same speed I'm going now...there was a rock in the road. Couldn't have been more than a pebble. Never really saw it! Lost control of the bike, went flyin' about a hundred feet - came down right on my head. Cracked it wide open! Blood and stuff was just splattered all over the road, there...I broke every bone in my face. Hey, you know, when they found me, my eyes were hanging out of their sockets? Yeah, they pronounced me dead at the scene. I was in a coma for...well, they told me about a year...said I'd be a vegetable for life. Yeah, but I showed 'em. Ever since then I always wear a helmet! (The biker goes into a turn.) Lean! (Kramer yells.) New scene. Jerry in a booth at the coffee shop waiting for George. George enters, spare keys in hand.",
+      "raw_text": "About five years ago. I was going down this very road. Same time of day, going about the same speed I'm going now...there was a rock in the road. Couldn't have been more than a pebble. Never really saw it! Lost control of the bike, went flyin' about a hundred feet - came down right on my head. Cracked it wide open! Blood and stuff was just splattered all over the road, there...I broke every bone in my face. Hey, you know, when they found me, my eyes were hanging out of their sockets? Yeah, they pronounced me dead at the scene. I was in a coma for...well, they told me about a year...said I'd be a vegetable for life. Yeah, but I showed 'em. Ever since then I always wear a helmet! (The biker goes into a turn.) Lean! (Kramer yells.) New scene. Jerry in a booth at the coffee shop waiting for George. George enters, spare keys in hand."
+    },
+    {
+      "entry_id": 196,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Georgie Boy! Way to come through with the keys! Sit down, I'm buying you dinner.",
+      "raw_text": "Georgie Boy! Way to come through with the keys! Sit down, I'm buying you dinner."
+    },
+    {
+      "entry_id": 197,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Look, I gotta tell ya...I been thinkin' about it, I just don't feel right about letting you into Elaine's apartment.",
+      "raw_text": "Look, I gotta tell ya...I been thinkin' about it, I just don't feel right about letting you into Elaine's apartment."
+    },
+    {
+      "entry_id": 198,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Don't feel right? What are you talking about?",
+      "raw_text": "Don't feel right? What are you talking about?"
+    },
+    {
+      "entry_id": 199,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, you know, I shouldn't have let you into Kramer's, now you want to go into Elaine's...she entrusted me with her spare keys, how can I just let you in?",
+      "raw_text": "Well, you know, I shouldn't have let you into Kramer's, now you want to go into Elaine's...she entrusted me with her spare keys, how can I just let you in?"
+    },
+    {
+      "entry_id": 200,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What is the big deal?",
+      "raw_text": "What is the big deal?"
+    },
+    {
+      "entry_id": 201,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Just because you have someone's spare keys, it doesn't entitle you to break into their apartment. That's the reason you took away Kramer's keys.",
+      "raw_text": "Just because you have someone's spare keys, it doesn't entitle you to break into their apartment. That's the reason you took away Kramer's keys."
+    },
+    {
+      "entry_id": 202,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "First of all, you're not even supposed to have Elaine's keys. You're supposed to give 'em back to her, so she can give 'em back to me, because she has mine. So technically, those are my keys.",
+      "raw_text": "First of all, you're not even supposed to have Elaine's keys. You're supposed to give 'em back to her, so she can give 'em back to me, because she has mine. So technically, those are my keys."
+    },
+    {
+      "entry_id": 203,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yes, well, if you had never taken your keys back from Kramer, he never would have taken his back from you and given 'em to me, in which case I wouldn't have had to take mine back from her.",
+      "raw_text": "Yes, well, if you had never taken your keys back from Kramer, he never would have taken his back from you and given 'em to me, in which case I wouldn't have had to take mine back from her."
+    },
+    {
+      "entry_id": 204,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, I want those keys. (Tries to grab the keys from George.)",
+      "raw_text": "Well, I want those keys. (Tries to grab the keys from George.)"
+    },
+    {
+      "entry_id": 205,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Nope, no can do.",
+      "raw_text": "Nope, no can do."
+    },
+    {
+      "entry_id": 206,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "George, give them to me, I want these keys. (They struggle over the keys.) I don't want to get physical!",
+      "raw_text": "George, give them to me, I want these keys. (They struggle over the keys.) I don't want to get physical!"
+    },
+    {
+      "entry_id": 207,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Do you wanna fight?",
+      "raw_text": "Do you wanna fight?"
+    },
+    {
+      "entry_id": 208,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Do you wanna fight?",
+      "raw_text": "Do you wanna fight?"
+    },
+    {
+      "entry_id": 209,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I'll fight ya! Not the face! Not the face! (The struggle continues.) New scene. Kramer's managed to hitch another ride, this time with a van full of drugged-out hippies. Kramer is telling them a story as they go down the road...",
+      "raw_text": "I'll fight ya! Not the face! Not the face! (The struggle continues.) New scene. Kramer's managed to hitch another ride, this time with a van full of drugged-out hippies. Kramer is telling them a story as they go down the road..."
+    },
+    {
+      "entry_id": 210,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "And then, the evil ogre took back the magical keys from the handsome young prince. HIPPIE #1 Oh no. He didn't take back the keys, no way.",
+      "raw_text": "And then, the evil ogre took back the magical keys from the handsome young prince. HIPPIE #1 Oh no. He didn't take back the keys, no way."
+    },
+    {
+      "entry_id": 211,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yes! And then the handsome young prince was cast out into the cruel, cruel world. HIPPIE #1 Oh man, what a bummer. That ogre dude's pretty cold, huh?",
+      "raw_text": "Yes! And then the handsome young prince was cast out into the cruel, cruel world. HIPPIE #1 Oh man, what a bummer. That ogre dude's pretty cold, huh?"
+    },
+    {
+      "entry_id": 212,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, he's cold. HIPPIE #1 Lemme tell you something, Kramer. If that ogre dude pulled that crap on me (pulls out a knife) - I'D STAB HIM! I'D CUT HIM IN HALF! I'D GUT HIM LIKE A FISH, MAN! That's what I'd do!",
+      "raw_text": "Oh, he's cold. HIPPIE #1 Lemme tell you something, Kramer. If that ogre dude pulled that crap on me (pulls out a knife) - I'D STAB HIM! I'D CUT HIM IN HALF! I'D GUT HIM LIKE A FISH, MAN! That's what I'd do!"
+    },
+    {
+      "entry_id": 213,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, yeah...that'd be funny. (To driver) Hey, you can drop me here! HIPPIE #1 Hey, what's the rush, man?",
+      "raw_text": "Yeah, yeah...that'd be funny. (To driver) Hey, you can drop me here! HIPPIE #1 Hey, what's the rush, man?"
+    },
+    {
+      "entry_id": 214,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, you know, I gotta be goin' now. HIPPIE #1 Hey, Kramer - have you ever killed a man?",
+      "raw_text": "Well, you know, I gotta be goin' now. HIPPIE #1 Hey, Kramer - have you ever killed a man?"
+    },
+    {
+      "entry_id": 215,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What do you think, junior? You think these hands have been soakin' in Ivory liquid? (mimics choking somebody) HIPPIE #2 Don't leave, Kramer, stay with us. You know so much about the world, we need you, please Kramer! (they all start chanting) Please, Kramer! Please, Kramer! (Scene ends with Kramer trying to escape their clutches.) New scene, Elaine's building at night. Jerry and George approach Elaine's door, still arguing about the keys.",
+      "raw_text": "What do you think, junior? You think these hands have been soakin' in Ivory liquid? (mimics choking somebody) HIPPIE #2 Don't leave, Kramer, stay with us. You know so much about the world, we need you, please Kramer! (they all start chanting) Please, Kramer! Please, Kramer! (Scene ends with Kramer trying to escape their clutches.) New scene, Elaine's building at night. Jerry and George approach Elaine's door, still arguing about the keys."
+    },
+    {
+      "entry_id": 216,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Don't you see? You're just avoiding the middle man. You were gonna give her her spare keys, so she was gonna give 'em to me. So, all that's happening is that instead of giving them to her, you're giving them to me. It's just unfortunate that when she gave you yours, you didn't give her hers. 'Cause then she would have given 'em to me, because she has mine. So then I would have never had to ask you for hers, so that I could get mine.",
+      "raw_text": "Don't you see? You're just avoiding the middle man. You were gonna give her her spare keys, so she was gonna give 'em to me. So, all that's happening is that instead of giving them to her, you're giving them to me. It's just unfortunate that when she gave you yours, you didn't give her hers. 'Cause then she would have given 'em to me, because she has mine. So then I would have never had to ask you for hers, so that I could get mine."
+    },
+    {
+      "entry_id": 217,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You're right, how did I miss that? (Begins unlocking the door, mutters under his breath) Maybe because it's a crock of sh*t.",
+      "raw_text": "You're right, how did I miss that? (Begins unlocking the door, mutters under his breath) Maybe because it's a crock of sh*t."
+    },
+    {
+      "entry_id": 218,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What's that?",
+      "raw_text": "What's that?"
+    },
+    {
+      "entry_id": 219,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Nothing.",
+      "raw_text": "Nothing."
+    },
+    {
+      "entry_id": 220,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I heard something.",
+      "raw_text": "I heard something."
+    },
+    {
+      "entry_id": 221,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Didn't say anything. (They go into Elaine's apartment.) New scene. Kramer's managed to hitch yet another ride, this time with a woman driving an eighteen-wheeler.",
+      "raw_text": "Didn't say anything. (They go into Elaine's apartment.) New scene. Kramer's managed to hitch yet another ride, this time with a woman driving an eighteen-wheeler."
+    },
+    {
+      "entry_id": 222,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "So, how long you been drivin' this thing?",
+      "raw_text": "So, how long you been drivin' this thing?"
+    },
+    {
+      "entry_id": 223,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "Goin' on four years.",
+      "raw_text": "Goin' on four years."
+    },
+    {
+      "entry_id": 224,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, nothin's sexier than a woman behind the wheel of a semi.",
+      "raw_text": "Well, nothin's sexier than a woman behind the wheel of a semi."
+    },
+    {
+      "entry_id": 225,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "Nothin'? (They exchange a glance, then laugh.) Listen to you, you're quite the sweet-talker.",
+      "raw_text": "Nothin'? (They exchange a glance, then laugh.) Listen to you, you're quite the sweet-talker."
+    },
+    {
+      "entry_id": 226,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You know, I always wanted to drive the big rigs. I used to watch those commercials during the reruns of Gomer Pyle.",
+      "raw_text": "You know, I always wanted to drive the big rigs. I used to watch those commercials during the reruns of Gomer Pyle."
+    },
+    {
+      "entry_id": 227,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "You want to give it a try?",
+      "raw_text": "You want to give it a try?"
+    },
+    {
+      "entry_id": 228,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Really?",
+      "raw_text": "Really?"
+    },
+    {
+      "entry_id": 229,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "Do you know how to double-clutch?",
+      "raw_text": "Do you know how to double-clutch?"
+    },
+    {
+      "entry_id": 230,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 231,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "Well, come on! (They trade places and Kramer gets behind the wheel. Kramer turns out to be really rusty on the ol' double-clutch.) New scene, Jerry and George in Elaine's apartment looking for Jerry's spare keys.",
+      "raw_text": "Well, come on! (They trade places and Kramer gets behind the wheel. Kramer turns out to be really rusty on the ol' double-clutch.) New scene, Jerry and George in Elaine's apartment looking for Jerry's spare keys."
+    },
+    {
+      "entry_id": 232,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "They were in here, I saw her put 'em in here!",
+      "raw_text": "They were in here, I saw her put 'em in here!"
+    },
+    {
+      "entry_id": 233,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, this is great.",
+      "raw_text": "Well, this is great."
+    },
+    {
+      "entry_id": 234,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, what do they look like?",
+      "raw_text": "Well, what do they look like?"
+    },
+    {
+      "entry_id": 235,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "They look like keys, George. They look exactly like keys. (In disgust) \"What do they look like.\"",
+      "raw_text": "They look like keys, George. They look exactly like keys. (In disgust) \"What do they look like.\""
+    },
+    {
+      "entry_id": 236,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, they're obviously not here.",
+      "raw_text": "Well, they're obviously not here."
+    },
+    {
+      "entry_id": 237,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, they've gotta be here somewhere.",
+      "raw_text": "Well, they've gotta be here somewhere."
+    },
+    {
+      "entry_id": 238,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Jerry, unless I pull down on this statuette and a hidden wall opens up, we have checked every square inch of this apartment!",
+      "raw_text": "Jerry, unless I pull down on this statuette and a hidden wall opens up, we have checked every square inch of this apartment!"
+    },
+    {
+      "entry_id": 239,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What is this? \"Murphy Brown\"?",
+      "raw_text": "What is this? \"Murphy Brown\"?"
+    },
+    {
+      "entry_id": 240,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 241,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "By Elaine Benes?",
+      "raw_text": "By Elaine Benes?"
+    },
+    {
+      "entry_id": 242,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 243,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Elaine's writing a \"Murphy Brown\"?",
+      "raw_text": "Elaine's writing a \"Murphy Brown\"?"
+    },
+    {
+      "entry_id": 244,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Lemme see this. (Tries to grab the papers.)",
+      "raw_text": "Lemme see this. (Tries to grab the papers.)"
+    },
+    {
+      "entry_id": 245,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Wait a second! (They fight over the paper.)",
+      "raw_text": "Wait a second! (They fight over the paper.)"
+    },
+    {
+      "entry_id": 246,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Gimme half!",
+      "raw_text": "Gimme half!"
+    },
+    {
+      "entry_id": 247,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "All right, here!",
+      "raw_text": "All right, here!"
+    },
+    {
+      "entry_id": 248,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Why didn't she tell us?",
+      "raw_text": "Why didn't she tell us?"
+    },
+    {
+      "entry_id": 249,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Elaine is writing a sitcom...! (Elaine enters the room behind Jerry and George. Jerry spots her and tosses his half of the script at George. George throws it back and paper goes flying everywhere.)",
+      "raw_text": "Elaine is writing a sitcom...! (Elaine enters the room behind Jerry and George. Jerry spots her and tosses his half of the script at George. George throws it back and paper goes flying everywhere.)"
+    },
+    {
+      "entry_id": 250,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You weasels!",
+      "raw_text": "You weasels!"
+    },
+    {
+      "entry_id": 251,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What? What?",
+      "raw_text": "What? What?"
+    },
+    {
+      "entry_id": 252,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "How dare you!",
+      "raw_text": "How dare you!"
+    },
+    {
+      "entry_id": 253,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "We hardly read anything!",
+      "raw_text": "We hardly read anything!"
+    },
+    {
+      "entry_id": 254,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "It was funny!",
+      "raw_text": "It was funny!"
+    },
+    {
+      "entry_id": 255,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Who gave you permission to come into my house and just go through all my things? You thought it was funny?",
+      "raw_text": "Who gave you permission to come into my house and just go through all my things? You thought it was funny?"
+    },
+    {
+      "entry_id": 256,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well... (picks up some of the pages) From what I saw...",
+      "raw_text": "Well... (picks up some of the pages) From what I saw..."
+    },
+    {
+      "entry_id": 257,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well, it's just a first draft!",
+      "raw_text": "Well, it's just a first draft!"
+    },
+    {
+      "entry_id": 258,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I was locked out of my apartment, I'm just trying to get my keys.",
+      "raw_text": "I was locked out of my apartment, I'm just trying to get my keys."
+    },
+    {
+      "entry_id": 259,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Why did you let him in?! (Shoves George.)",
+      "raw_text": "Why did you let him in?! (Shoves George.)"
+    },
+    {
+      "entry_id": 260,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "He forced me to!",
+      "raw_text": "He forced me to!"
+    },
+    {
+      "entry_id": 261,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I did not!",
+      "raw_text": "I did not!"
+    },
+    {
+      "entry_id": 262,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yes you did!",
+      "raw_text": "Yes you did!"
+    },
+    {
+      "entry_id": 263,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You! Get out! Get out! Get out!",
+      "raw_text": "You! Get out! Get out! Get out!"
+    },
+    {
+      "entry_id": 264,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Elaine, wait! I need my spare keys!",
+      "raw_text": "Elaine, wait! I need my spare keys!"
+    },
+    {
+      "entry_id": 265,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Here! Here's your damn keys, you keep 'em! I don't want 'em anymore!",
+      "raw_text": "Here! Here's your damn keys, you keep 'em! I don't want 'em anymore!"
+    },
+    {
+      "entry_id": 266,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Good!",
+      "raw_text": "Good!"
+    },
+    {
+      "entry_id": 267,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "And I want my keys back from you!",
+      "raw_text": "And I want my keys back from you!"
+    },
+    {
+      "entry_id": 268,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What, you don't want me to hold your keys?",
+      "raw_text": "What, you don't want me to hold your keys?"
+    },
+    {
+      "entry_id": 269,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No, you can't be trusted!",
+      "raw_text": "No, you can't be trusted!"
+    },
+    {
+      "entry_id": 270,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Alright, alright, fine. (Gives the keys to Elaine.)",
+      "raw_text": "Alright, alright, fine. (Gives the keys to Elaine.)"
+    },
+    {
+      "entry_id": 271,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "And I don't want you to hold mine!",
+      "raw_text": "And I don't want you to hold mine!"
+    },
+    {
+      "entry_id": 272,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Good! I won't!",
+      "raw_text": "Good! I won't!"
+    },
+    {
+      "entry_id": 273,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Good! Don't! Are these my keys?",
+      "raw_text": "Good! Don't! Are these my keys?"
+    },
+    {
+      "entry_id": 274,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "These aren't my keys!",
+      "raw_text": "These aren't my keys!"
+    },
+    {
+      "entry_id": 275,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Whose are these?",
+      "raw_text": "Whose are these?"
+    },
+    {
+      "entry_id": 276,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I don't know! (Meanwhile, Kramer's finally made it to Los Angeles. He's shown roller-skating through traffic, and nearly running over some guy on a scooter.) Commercial break. New scene, Jerry and Elaine watching \"Murphy Brown\" in Jerry's apartment.",
+      "raw_text": "I don't know! (Meanwhile, Kramer's finally made it to Los Angeles. He's shown roller-skating through traffic, and nearly running over some guy on a scooter.) Commercial break. New scene, Jerry and Elaine watching \"Murphy Brown\" in Jerry's apartment."
+    },
+    {
+      "entry_id": 277,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I just thought I could write it.",
+      "raw_text": "I just thought I could write it."
+    },
+    {
+      "entry_id": 278,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Is that something you want to do?",
+      "raw_text": "Is that something you want to do?"
+    },
+    {
+      "entry_id": 279,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I don't know. Those writers make a lot of money.",
+      "raw_text": "I don't know. Those writers make a lot of money."
+    },
+    {
+      "entry_id": 280,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Elaine, let me tell you something about show business. It's hard work! You don't just write a \"Murphy Brown.\" You gotta watch the show, study it, get a sense of the characters, how they relate to each other.",
+      "raw_text": "Elaine, let me tell you something about show business. It's hard work! You don't just write a \"Murphy Brown.\" You gotta watch the show, study it, get a sense of the characters, how they relate to each other."
+    },
+    {
+      "entry_id": 281,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "O.K., can I just watch the show? (mutters under her breath) God, what an asshole.",
+      "raw_text": "O.K., can I just watch the show? (mutters under her breath) God, what an asshole."
+    },
+    {
+      "entry_id": 282,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What did you say?",
+      "raw_text": "What did you say?"
+    },
+    {
+      "entry_id": 283,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I didn't say anything.",
+      "raw_text": "I didn't say anything."
+    },
+    {
+      "entry_id": 284,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I heard something. (Looks at the TV) Elaine, Elaine! It's Kramer! Kramer's on \"Murphy Brown\"!",
+      "raw_text": "I heard something. (Looks at the TV) Elaine, Elaine! It's Kramer! Kramer's on \"Murphy Brown\"!"
+    },
+    {
+      "entry_id": 285,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Kramer's on \"Murphy Brown\"!",
+      "raw_text": "Kramer's on \"Murphy Brown\"!"
+    },
+    {
+      "entry_id": 286,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Look, there he is, he's sittin' at the desk!",
+      "raw_text": "Look, there he is, he's sittin' at the desk!"
+    },
+    {
+      "entry_id": 287,
+      "type": "scene_heading",
+      "text": "[Setting: Cut to the screen of Jerry's TV]",
+      "raw_text": "(Cut to the screen of Jerry's TV.)",
+      "confidence": 0.9,
+      "location": "Cut to the screen of Jerry's TV",
+      "normalized_location": "cut_to_the_screen_of_jerry_s_tv"
+    },
+    {
+      "entry_id": 288,
+      "type": "dialogue",
+      "speaker": "CANDICE BERGEN",
+      "normalized_speaker": "candice_bergen",
+      "text": "Hi, I'm Murphy Brown, you must be my new secretary.",
+      "raw_text": "Hi, I'm Murphy Brown, you must be my new secretary."
+    },
+    {
+      "entry_id": 289,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, good morning, Miss Brown.",
+      "raw_text": "Oh, good morning, Miss Brown."
+    },
+    {
+      "entry_id": 290,
+      "type": "dialogue",
+      "speaker": "CANDICE BERGEN",
+      "normalized_speaker": "candice_bergen",
+      "text": "And you are...?",
+      "raw_text": "And you are...?"
+    },
+    {
+      "entry_id": 291,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, I'm uh, Steven Snell.",
+      "raw_text": "Oh, I'm uh, Steven Snell."
+    },
+    {
+      "entry_id": 292,
+      "type": "dialogue",
+      "speaker": "CANDICE BERGEN",
+      "normalized_speaker": "candice_bergen",
+      "text": "Snell. Well, hello, Mr. Snell.",
+      "raw_text": "Snell. Well, hello, Mr. Snell."
+    },
+    {
+      "entry_id": 293,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Steven.",
+      "raw_text": "Steven."
+    },
+    {
+      "entry_id": 294,
+      "type": "dialogue",
+      "speaker": "CANDICE BERGEN",
+      "normalized_speaker": "candice_bergen",
+      "text": "Steven. Are you familiar with this computer system?",
+      "raw_text": "Steven. Are you familiar with this computer system?"
+    },
+    {
+      "entry_id": 295,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh - I'm familiar with it.",
+      "raw_text": "Oh - I'm familiar with it."
+    },
+    {
+      "entry_id": 296,
+      "type": "dialogue",
+      "speaker": "CANDICE BERGEN",
+      "normalized_speaker": "candice_bergen",
+      "text": "Steven Snell? I know people...and I have a very good feeling about you.",
+      "raw_text": "Steven Snell? I know people...and I have a very good feeling about you."
+    },
+    {
+      "entry_id": 297,
+      "type": "end_marker",
+      "text": "THE END",
+      "raw_text": "THE END"
+    },
+    {
+      "entry_id": 298,
+      "type": "action",
+      "text": ">",
+      "raw_text": ">",
+      "confidence": 0.6
+    }
+  ]
+}

@@ -1,0 +1,2282 @@
+{
+  "episode": {
+    "series_title": "Seinfeld",
+    "episode_number_overall": 66,
+    "title": "The Puffy Shirt",
+    "season": 5,
+    "episode_number_in_season": 2,
+    "air_date": "1993-09-23",
+    "written_by": [],
+    "directed_by": [],
+    "source_title": "The Puffy Shirt Script",
+    "source_dataset": "yregelman/unprocessed-seinfeld-scripts"
+  },
+  "entries": [
+    {
+      "entry_id": 1,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's apartment]",
+      "raw_text": "(Jerry's apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 2,
+      "type": "action",
+      "text": "Jerry and George are waiting for Kramer, so he can help them move George's stuff back into his parent's house",
+      "raw_text": "(Jerry and George are waiting for Kramer, so he can help them move George's stuff back into his parent's house)"
+    },
+    {
+      "entry_id": 3,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I can't believe this!",
+      "raw_text": "I can't believe this!"
+    },
+    {
+      "entry_id": 4,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh, it won't be for that long.",
+      "raw_text": "Oh, it won't be for that long."
+    },
+    {
+      "entry_id": 5,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "How can I do this?! How can I move back in with those people? Please, tell me! They're insane! You know that.",
+      "raw_text": "How can I do this?! How can I move back in with those people? Please, tell me! They're insane! You know that."
+    },
+    {
+      "entry_id": 6,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey, my parents are just as crazy as your parents.",
+      "raw_text": "Hey, my parents are just as crazy as your parents."
+    },
+    {
+      "entry_id": 7,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "How can you compare you parents to my parents?!",
+      "raw_text": "How can you compare you parents to my parents?!"
+    },
+    {
+      "entry_id": 8,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "My father has never thrown anything out. Ever!",
+      "raw_text": "My father has never thrown anything out. Ever!"
+    },
+    {
+      "entry_id": 9,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "My father wears his sneakers in the pool! Sneakers!",
+      "raw_text": "My father wears his sneakers in the pool! Sneakers!"
+    },
+    {
+      "entry_id": 10,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "My mother has never set foot in a natural body of water.",
+      "raw_text": "My mother has never set foot in a natural body of water."
+    },
+    {
+      "entry_id": 11,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Listen carefully. My mother has never laughed. Ever. Not a giggle, not a chuckle, not a tee-hee.. never went 'Ha!'",
+      "raw_text": "(Showing Jerry up) Listen carefully. My mother has never laughed. Ever. Not a giggle, not a chuckle, not a tee-hee.. never went 'Ha!'",
+      "parenthetical": "Showing Jerry up"
+    },
+    {
+      "entry_id": 12,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "A smirk?",
+      "raw_text": "A smirk?"
+    },
+    {
+      "entry_id": 13,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Maybe!.. And I'm moving back in there!",
+      "raw_text": "Maybe!.. And I'm moving back in there!"
+    },
+    {
+      "entry_id": 14,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I told you I'd lend you the money for the rent.",
+      "raw_text": "I told you I'd lend you the money for the rent."
+    },
+    {
+      "entry_id": 15,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No, no, no, no. Borrowing money from a friend is like having sex. It just completely changes the relationship.",
+      "raw_text": "No, no, no, no. Borrowing money from a friend is like having sex. It just completely changes the relationship."
+    },
+    {
+      "entry_id": 16,
+      "type": "scene_heading",
+      "text": "[Setting: Kramer stumbles in]",
+      "raw_text": "(Kramer stumbles in)",
+      "confidence": 0.9,
+      "location": "Kramer stumbles in",
+      "normalized_location": "kramer_stumbles_in"
+    },
+    {
+      "entry_id": 17,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Alright. I'm ready. (To George) You know, I still don't understand - why do you want to move back in with your parents?",
+      "raw_text": "Alright. I'm ready. (To George) You know, I still don't understand - why do you want to move back in with your parents?"
+    },
+    {
+      "entry_id": 18,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I don't want to! I'm outta money! I got 714 dollars left in the bank.",
+      "raw_text": "I don't want to! I'm outta money! I got 714 dollars left in the bank."
+    },
+    {
+      "entry_id": 19,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, move in here.",
+      "raw_text": "Well, move in here."
+    },
+    {
+      "entry_id": 20,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What's that?",
+      "raw_text": "(Stopping the notion) What's that?",
+      "parenthetical": "Stopping the notion"
+    },
+    {
+      "entry_id": 21,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Why doesn't he just move in here?",
+      "raw_text": "Why doesn't he just move in here?"
+    },
+    {
+      "entry_id": 22,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah, yeah. I'm gonna move in with him. He doesn't even let you use the toilet!",
+      "raw_text": "(Sarcastic) Yeah, yeah. I'm gonna move in with him. He doesn't even let you use the toilet!",
+      "parenthetical": "Sarcastic"
+    },
+    {
+      "entry_id": 23,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You can move in with me, if you want.",
+      "raw_text": "You can move in with me, if you want."
+    },
+    {
+      "entry_id": 24,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Thank you.. I, uh.. that might not work out.",
+      "raw_text": "(Sincerely) Thank you.. I, uh.. that might not work out.",
+      "parenthetical": "Sincerely"
+    },
+    {
+      "entry_id": 25,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 26,
+      "type": "scene_heading",
+      "text": "[Setting: The Costanza's house]",
+      "raw_text": "(The Costanza's house)",
+      "confidence": 0.9,
+      "location": "The Costanza's house",
+      "normalized_location": "the_costanza_s_house"
+    },
+    {
+      "entry_id": 27,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry, George, and Kramer enter carrying George's luggage]",
+      "raw_text": "(Jerry, George, and Kramer enter carrying George's luggage. Kramer clumsily bangs the wall with one of the suitcases)",
+      "confidence": 0.9,
+      "location": "Jerry, George, and Kramer enter carrying George's luggage",
+      "normalized_location": "jerry_george_and_kramer_enter_carrying_george_s_luggage",
+      "inference_notes": [
+        "Scene heading and opening action were split from a single parenthetical source line."
+      ]
+    },
+    {
+      "entry_id": 28,
+      "type": "action",
+      "text": "Kramer clumsily bangs the wall with one of the suitcases",
+      "raw_text": "(Jerry, George, and Kramer enter carrying George's luggage. Kramer clumsily bangs the wall with one of the suitcases)",
+      "confidence": 0.75
+    },
+    {
+      "entry_id": 29,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Careful! Careful with the suitcases! We just painted!",
+      "raw_text": "Careful! Careful with the suitcases! We just painted!"
+    },
+    {
+      "entry_id": 30,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hello, Mrs. Costanza.",
+      "raw_text": "Hello, Mrs. Costanza."
+    },
+    {
+      "entry_id": 31,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Hello, Kramer. Close the door.",
+      "raw_text": "Hello, Kramer. Close the door."
+    },
+    {
+      "entry_id": 32,
+      "type": "scene_heading",
+      "text": "[Setting: They set down George's luggage]",
+      "raw_text": "(They set down George's luggage)",
+      "confidence": 0.9,
+      "location": "They set down George's luggage",
+      "normalized_location": "they_set_down_george_s_luggage"
+    },
+    {
+      "entry_id": 33,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, I gotta bring in more stuff. (Heads for the door)",
+      "raw_text": "Well, I gotta bring in more stuff. (Heads for the door)"
+    },
+    {
+      "entry_id": 34,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "More stuff?!",
+      "raw_text": "More stuff?!"
+    },
+    {
+      "entry_id": 35,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah. (Exits)",
+      "raw_text": "Yeah. (Exits)"
+    },
+    {
+      "entry_id": 36,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "How much is there?!",
+      "raw_text": "(To George) How much is there?!",
+      "parenthetical": "To George"
+    },
+    {
+      "entry_id": 37,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "There's more.",
+      "raw_text": "(Annoyed) There's more.",
+      "parenthetical": "Annoyed"
+    },
+    {
+      "entry_id": 38,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "So, how are ya, Jerry?",
+      "raw_text": "So, how are ya, Jerry?"
+    },
+    {
+      "entry_id": 39,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Fine, Mrs. Costanza. (Attempts to get Estelle to laugh) Hey, I got a terrific joke for you..",
+      "raw_text": "Fine, Mrs. Costanza. (Attempts to get Estelle to laugh) Hey, I got a terrific joke for you.."
+    },
+    {
+      "entry_id": 40,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Nah, not interested.",
+      "raw_text": "(Sits down on the couch) Nah, not interested.",
+      "parenthetical": "Sits down on the couch"
+    },
+    {
+      "entry_id": 41,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No, no. It's really funny. There's these two guys-",
+      "raw_text": "No, no. It's really funny. There's these two guys-"
+    },
+    {
+      "entry_id": 42,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Tell it to the audience. (George gives Jerry an 'I told you so' look) Here, (Picks up a plate full of sandwiches) I made some bologna sandwiches.",
+      "raw_text": "(Interrupting) Tell it to the audience. (George gives Jerry an 'I told you so' look) Here, (Picks up a plate full of sandwiches) I made some bologna sandwiches.",
+      "parenthetical": "Interrupting"
+    },
+    {
+      "entry_id": 43,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Bologna?! No one eats bologna anymore!",
+      "raw_text": "Bologna?! No one eats bologna anymore!"
+    },
+    {
+      "entry_id": 44,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "What are you talking about?! Have a sandwich.",
+      "raw_text": "What are you talking about?! Have a sandwich."
+    },
+    {
+      "entry_id": 45,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No thanks.",
+      "raw_text": "No thanks."
+    },
+    {
+      "entry_id": 46,
+      "type": "action",
+      "text": "Kramer enters with some more suitcases",
+      "raw_text": "(Kramer enters with some more suitcases)"
+    },
+    {
+      "entry_id": 47,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Oh, stop it! You don't want one, Kramer?",
+      "raw_text": "Oh, stop it! You don't want one, Kramer?"
+    },
+    {
+      "entry_id": 48,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Uhh.. no thanks. (Goes back out the door)",
+      "raw_text": "Uhh.. no thanks. (Goes back out the door)"
+    },
+    {
+      "entry_id": 49,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "I think you're all a little touched in the head. (Puts the plate down) You're so worried about your health.. You're young men.",
+      "raw_text": "I think you're all a little touched in the head. (Puts the plate down) You're so worried about your health.. You're young men."
+    },
+    {
+      "entry_id": 50,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I really don't eat it.",
+      "raw_text": "I really don't eat it."
+    },
+    {
+      "entry_id": 51,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "What am I gonna do with all these sandwiches?! Will you take them home? Give them to someone in your building?",
+      "raw_text": "What am I gonna do with all these sandwiches?! Will you take them home? Give them to someone in your building?"
+    },
+    {
+      "entry_id": 52,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't know if I'd feel comfortable handing out bologna sandwiches in the building..",
+      "raw_text": "I don't know if I'd feel comfortable handing out bologna sandwiches in the building.."
+    },
+    {
+      "entry_id": 53,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Alright, that's it. Anything else?",
+      "raw_text": "(Enters with a box) Alright, that's it. Anything else?",
+      "parenthetical": "Enters with a box"
+    },
+    {
+      "entry_id": 54,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No, that's it.",
+      "raw_text": "(Muttering) No, that's it.",
+      "parenthetical": "Muttering"
+    },
+    {
+      "entry_id": 55,
+      "type": "scene_heading",
+      "text": "[Setting: A horn honks from outside the house]",
+      "raw_text": "(A horn honks from outside the house)",
+      "confidence": 0.9,
+      "location": "A horn honks from outside the house",
+      "normalized_location": "a_horn_honks_from_outside_the_house"
+    },
+    {
+      "entry_id": 56,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, I gotta go move the car. (Leaves)",
+      "raw_text": "Oh, I gotta go move the car. (Leaves)"
+    },
+    {
+      "entry_id": 57,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, I guess we'll be going.. (Heads for the door)",
+      "raw_text": "Well, I guess we'll be going.. (Heads for the door)"
+    },
+    {
+      "entry_id": 58,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What? You're going?",
+      "raw_text": "(Runs over to him, not wanting him to leave) What? You're going?",
+      "parenthetical": "Runs over to him, not wanting him to leave"
+    },
+    {
+      "entry_id": 59,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 60,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Wha - what are you doing later?",
+      "raw_text": "Wha - what are you doing later?"
+    },
+    {
+      "entry_id": 61,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh, Elaine and I are going out to dinner with Kramer and his new girlfriend.",
+      "raw_text": "Oh, Elaine and I are going out to dinner with Kramer and his new girlfriend."
+    },
+    {
+      "entry_id": 62,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Really?",
+      "raw_text": "Really?"
+    },
+    {
+      "entry_id": 63,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah, You can't believe this woman. She's one of those low-talkers. You can't hear a word she's saying! You're always going 'excuse me?', 'what was that?'",
+      "raw_text": "Yeah, You can't believe this woman. She's one of those low-talkers. You can't hear a word she's saying! You're always going 'excuse me?', 'what was that?'"
+    },
+    {
+      "entry_id": 64,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah.. may - maybe I'll meet ya?",
+      "raw_text": "Yeah.. may - maybe I'll meet ya?"
+    },
+    {
+      "entry_id": 65,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "No, George. We're going out to eat tonight with your father.",
+      "raw_text": "No, George. We're going out to eat tonight with your father."
+    },
+    {
+      "entry_id": 66,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh.. okay.. talk to you later.",
+      "raw_text": "(Mutters) Oh.. okay.. talk to you later.",
+      "parenthetical": "Mutters"
+    },
+    {
+      "entry_id": 67,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah, take it easy. (Leaves) (George watches his mother sitting contentedly on the couch. She's staring off into space)",
+      "raw_text": "Yeah, take it easy. (Leaves) (George watches his mother sitting contentedly on the couch. She's staring off into space)"
+    },
+    {
+      "entry_id": 68,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh, my God.. (Buries his face into his hands)",
+      "raw_text": "Oh, my God.. (Buries his face into his hands)"
+    },
+    {
+      "entry_id": 69,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 70,
+      "type": "scene_heading",
+      "text": "[Setting: A Restaurant]",
+      "raw_text": "(A Restaurant)",
+      "confidence": 0.9,
+      "location": "A Restaurant",
+      "normalized_location": "a_restaurant"
+    },
+    {
+      "entry_id": 71,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry, Elaine, Kramer, and Leslie are all laughing]",
+      "raw_text": "(Jerry, Elaine, Kramer, and Leslie are all laughing)",
+      "confidence": 0.9,
+      "location": "Jerry, Elaine, Kramer, and Leslie are all laughing",
+      "normalized_location": "jerry_elaine_kramer_and_leslie_are_all_laughing"
+    },
+    {
+      "entry_id": 72,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Okay, well, he had this idea of a pizza place where you make your own pie! (Laughs)",
+      "raw_text": "Okay, well, he had this idea of a pizza place where you make your own pie! (Laughs)"
+    },
+    {
+      "entry_id": 73,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Right.",
+      "raw_text": "Right."
+    },
+    {
+      "entry_id": 74,
+      "type": "dialogue",
+      "speaker": "ELIANE",
+      "normalized_speaker": "eliane",
+      "text": "You remember that?",
+      "raw_text": "You remember that?"
+    },
+    {
+      "entry_id": 75,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, well, that was a good one.",
+      "raw_text": "Yeah, well, that was a good one."
+    },
+    {
+      "entry_id": 76,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well.. (Kramer's girlfriend starts to mumble out some words, but Kramer's the only one who seems to hear her. Jerry and Elaine both bend forward, trying to hear what she's saying)",
+      "raw_text": "Well.. (Kramer's girlfriend starts to mumble out some words, but Kramer's the only one who seems to hear her. Jerry and Elaine both bend forward, trying to hear what she's saying)"
+    },
+    {
+      "entry_id": 77,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What's that?",
+      "raw_text": "What's that?"
+    },
+    {
+      "entry_id": 78,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Excuse me? (She 'talks' some more. Jerry and Elaine still can't hear her. They give up - leaning back in their seats)",
+      "raw_text": "Excuse me? (She 'talks' some more. Jerry and Elaine still can't hear her. They give up - leaning back in their seats)"
+    },
+    {
+      "entry_id": 79,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah.. yeah.",
+      "raw_text": "Yeah.. yeah."
+    },
+    {
+      "entry_id": 80,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yep. Yeah..",
+      "raw_text": "Yep. Yeah.."
+    },
+    {
+      "entry_id": 81,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You know that, uh, Leslie (Points to her) is in the clothing business? She's a designer.",
+      "raw_text": "You know that, uh, Leslie (Points to her) is in the clothing business? She's a designer."
+    },
+    {
+      "entry_id": 82,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh?",
+      "raw_text": "(Interested) Oh?",
+      "parenthetical": "Interested"
+    },
+    {
+      "entry_id": 83,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "In fact, she's come up with a new one that is going to be the big new look in mens fashions.. It's a, a puffy shirt. (Leslie mumbles to Kramer) Well, yeah, it - it's all puffy. Like the pirates used to wear.",
+      "raw_text": "In fact, she's come up with a new one that is going to be the big new look in mens fashions.. It's a, a puffy shirt. (Leslie mumbles to Kramer) Well, yeah, it - it's all puffy. Like the pirates used to wear."
+    },
+    {
+      "entry_id": 84,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, a puffy shirt.",
+      "raw_text": "Oh, a puffy shirt."
+    },
+    {
+      "entry_id": 85,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Puffy.",
+      "raw_text": "Puffy."
+    },
+    {
+      "entry_id": 86,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, see, I think people want to look like pirates. You know, it's the right time for it.. to be all puffy, and devil-may-care.. (Leslie starts 'talking', Kramer laughs. Jerry and Elaine have no clue what she's saying. They lean closer)",
+      "raw_text": "Yeah, see, I think people want to look like pirates. You know, it's the right time for it.. to be all puffy, and devil-may-care.. (Leslie starts 'talking', Kramer laughs. Jerry and Elaine have no clue what she's saying. They lean closer)"
+    },
+    {
+      "entry_id": 87,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "(Still laughing) That's true.. (Gets up) I'll be right back. (Walks off laughing. Jerry and Elaine are left with the low-talker. A moment passes)",
+      "raw_text": "(Still laughing) That's true.. (Gets up) I'll be right back. (Walks off laughing. Jerry and Elaine are left with the low-talker. A moment passes)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 88,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Uh, oh! (Remembers something they could talk about) Jerry's going to be on the \"Today\" show on Friday.",
+      "raw_text": "Uh, oh! (Remembers something they could talk about) Jerry's going to be on the \"Today\" show on Friday."
+    },
+    {
+      "entry_id": 89,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah, that's right!",
+      "raw_text": "Yeah, that's right!"
+    },
+    {
+      "entry_id": 90,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yep.. yep. Um, he's promoting a benefit for Goodwill, you know, they, uh, they clothe the poor, and the homeless..",
+      "raw_text": "Yep.. yep. Um, he's promoting a benefit for Goodwill, you know, they, uh, they clothe the poor, and the homeless.."
+    },
+    {
+      "entry_id": 91,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "And the indigent.",
+      "raw_text": "(Points at Elaine) And the indigent.",
+      "parenthetical": "Points at Elaine"
+    },
+    {
+      "entry_id": 92,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "And the indigent, yeah.. I, I do volunteer work for them. I set the whole thing up, and I got Jerry to do it. (Leslie starts talking. Of course, Jerry and Elaine can't hear her voice)",
+      "raw_text": "And the indigent, yeah.. I, I do volunteer work for them. I set the whole thing up, and I got Jerry to do it. (Leslie starts talking. Of course, Jerry and Elaine can't hear her voice)"
+    },
+    {
+      "entry_id": 93,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Sure.",
+      "raw_text": "Sure."
+    },
+    {
+      "entry_id": 94,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Ohh, yeah. Yeah.. yep.",
+      "raw_text": "Ohh, yeah. Yeah.. yep."
+    },
+    {
+      "entry_id": 95,
+      "type": "scene_heading",
+      "text": "[Setting: Leslie talks some more]",
+      "raw_text": "(Leslie talks some more)",
+      "confidence": 0.9,
+      "location": "Leslie talks some more",
+      "normalized_location": "leslie_talks_some_more"
+    },
+    {
+      "entry_id": 96,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Uh-huh.",
+      "raw_text": "Uh-huh."
+    },
+    {
+      "entry_id": 97,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yep.",
+      "raw_text": "Yep."
+    },
+    {
+      "entry_id": 98,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yep..",
+      "raw_text": "Yep.."
+    },
+    {
+      "entry_id": 99,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Mmm",
+      "raw_text": "Mmm"
+    },
+    {
+      "entry_id": 100,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 101,
+      "type": "scene_heading",
+      "text": "[Setting: A Restaurant]",
+      "raw_text": "(A Restaurant)",
+      "confidence": 0.9,
+      "location": "A Restaurant",
+      "normalized_location": "a_restaurant"
+    },
+    {
+      "entry_id": 102,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Maybe you should take a civil service test.",
+      "raw_text": "Maybe you should take a civil service test."
+    },
+    {
+      "entry_id": 103,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I'm not taking a civil service test.",
+      "raw_text": "(Studying the salt shaker) I'm not taking a civil service test.",
+      "parenthetical": "Studying the salt shaker"
+    },
+    {
+      "entry_id": 104,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Look at this, George. (Takes a coin out of his pocket) You ever seen a silver dollar?",
+      "raw_text": "Look at this, George. (Takes a coin out of his pocket) You ever seen a silver dollar?"
+    },
+    {
+      "entry_id": 105,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yes, I've seen a silver dollar.",
+      "raw_text": "Yes, I've seen a silver dollar."
+    },
+    {
+      "entry_id": 106,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Why don't you want to take a civil service test?",
+      "raw_text": "Why don't you want to take a civil service test?"
+    },
+    {
+      "entry_id": 107,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "To do what?! Work in a post office? Is that what you want me to do?",
+      "raw_text": "To do what?! Work in a post office? Is that what you want me to do?"
+    },
+    {
+      "entry_id": 108,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Would you believe when I was 18, I had a silver dollar collection?",
+      "raw_text": "Would you believe when I was 18, I had a silver dollar collection?"
+    },
+    {
+      "entry_id": 109,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "I don't understand. You get job security - you get a pay check every week..",
+      "raw_text": "I don't understand. You get job security - you get a pay check every week.."
+    },
+    {
+      "entry_id": 110,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I'm a college graduate. You want me to be a mailman?",
+      "raw_text": "I'm a college graduate. You want me to be a mailman?"
+    },
+    {
+      "entry_id": 111,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "You know, I couldn't bring myself to spend one of these. I got some kind of a-a-a-a-a phobia.",
+      "raw_text": "(Still looking at his coin) You know, I couldn't bring myself to spend one of these. I got some kind of a-a-a-a-a phobia.",
+      "parenthetical": "Still looking at his coin"
+    },
+    {
+      "entry_id": 112,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "So what are you gonna do?!",
+      "raw_text": "So what are you gonna do?!"
+    },
+    {
+      "entry_id": 113,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I don't know. I do know that I have some kind of a talent - something to offer. I just don't know what it is yet!",
+      "raw_text": "I don't know. I do know that I have some kind of a talent - something to offer. I just don't know what it is yet!"
+    },
+    {
+      "entry_id": 114,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "I bet that collection would be worth a lot of money today.",
+      "raw_text": "I bet that collection would be worth a lot of money today."
+    },
+    {
+      "entry_id": 115,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh my God..",
+      "raw_text": "(Looks fed up with his parents) Oh my God..",
+      "parenthetical": "Looks fed up with his parents"
+    },
+    {
+      "entry_id": 116,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "I don't like this waiter. (Holds up his hand to get the waiters attention - starts snapping) Look at him.. He sees us.. he doesn't want to come over.",
+      "raw_text": "I don't like this waiter. (Holds up his hand to get the waiters attention - starts snapping) Look at him.. He sees us.. he doesn't want to come over."
+    },
+    {
+      "entry_id": 117,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I need some air..",
+      "raw_text": "(Needing to get away from his parents, he gets up) I need some air..",
+      "parenthetical": "Needing to get away from his parents, he gets up"
+    },
+    {
+      "entry_id": 118,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "George, where are you going?!",
+      "raw_text": "George, where are you going?!"
+    },
+    {
+      "entry_id": 119,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "(Walks off) I got a lot of thinking to do. (Scene cuts to the front of the restaurant. George accidentally runs into a woman - causing her to drop her purse. Items spill out onto the floor)",
+      "raw_text": "(Walks off) I got a lot of thinking to do. (Scene cuts to the front of the restaurant. George accidentally runs into a woman - causing her to drop her purse. Items spill out onto the floor)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 120,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh, I'm sorry. I'm terribly sorry.. (Bends down, and starts picking up her things)",
+      "raw_text": "Oh, I'm sorry. I'm terribly sorry.. (Bends down, and starts picking up her things)"
+    },
+    {
+      "entry_id": 121,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "Look at what you've done! You spilled my bag!",
+      "raw_text": "Look at what you've done! You spilled my bag!"
+    },
+    {
+      "entry_id": 122,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I, I, I, .. here, let me - let me help you..",
+      "raw_text": "(Stuttering) I, I, I, .. here, let me - let me help you..",
+      "parenthetical": "Stuttering"
+    },
+    {
+      "entry_id": 123,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "No, no ,no. It's all right. (Begins helping him pick her things up)",
+      "raw_text": "No, no ,no. It's all right. (Begins helping him pick her things up)"
+    },
+    {
+      "entry_id": 124,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "It - it's just that I'm here with my parents, and my mother wants me to take a civil service test - and to tell you the truth, I don't even think I'd pass it.. So.. (George hands the last of the items to her, she takes them from him, then starts to admire his hand)",
+      "raw_text": "It - it's just that I'm here with my parents, and my mother wants me to take a civil service test - and to tell you the truth, I don't even think I'd pass it.. So.. (George hands the last of the items to her, she takes them from him, then starts to admire his hand)"
+    },
+    {
+      "entry_id": 125,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "Hmm..",
+      "raw_text": "Hmm.."
+    },
+    {
+      "entry_id": 126,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 127,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "Your hands.",
+      "raw_text": "Your hands.",
+      "parenthetical": "Looking at both his hands intensely"
+    },
+    {
+      "entry_id": 128,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What about them?",
+      "raw_text": "What about them?"
+    },
+    {
+      "entry_id": 129,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "They're quite exquisite!",
+      "raw_text": "They're quite exquisite!"
+    },
+    {
+      "entry_id": 130,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "They are?",
+      "raw_text": "They are?"
+    },
+    {
+      "entry_id": 131,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "Extraordinary! Have you ever done any hand modeling?",
+      "raw_text": "(Mesmerized) Extraordinary! Have you ever done any hand modeling?",
+      "parenthetical": "Mesmerized"
+    },
+    {
+      "entry_id": 132,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hand modeling? (Shakes his head 'No')",
+      "raw_text": "Hand modeling? (Shakes his head 'No')"
+    },
+    {
+      "entry_id": 133,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "(George is holding up his hands for Jerry to see)",
+      "raw_text": "(George is holding up his hands for Jerry to see)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 134,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I - I don't get it.",
+      "raw_text": "(Shrugs) I - I don't get it.",
+      "parenthetical": "Shrugs"
+    },
+    {
+      "entry_id": 135,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Me neither!",
+      "raw_text": "Me neither!"
+    },
+    {
+      "entry_id": 136,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What is it?",
+      "raw_text": "What is it?"
+    },
+    {
+      "entry_id": 137,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I don't know.",
+      "raw_text": "I don't know."
+    },
+    {
+      "entry_id": 138,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "They're hands!",
+      "raw_text": "They're hands!"
+    },
+    {
+      "entry_id": 139,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "This woman just set me up for a job!",
+      "raw_text": "This woman just set me up for a job!"
+    },
+    {
+      "entry_id": 140,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, what about my hands? I don't see how your hands are any better than my hands.",
+      "raw_text": "Well, what about my hands? I don't see how your hands are any better than my hands.",
+      "parenthetical": "Gets up, and displays his own hands"
+    },
+    {
+      "entry_id": 141,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What, are you kidding? (Points at the flaws of Jerry's hands) The knuckles are all out of proportion. you got hair over there - where do you get off comparing your hands to my hands?! This is a one-in-a-million hand. (Points to his own hand)",
+      "raw_text": "What, are you kidding? (Points at the flaws of Jerry's hands) The knuckles are all out of proportion. you got hair over there - where do you get off comparing your hands to my hands?! This is a one-in-a-million hand. (Points to his own hand)"
+    },
+    {
+      "entry_id": 142,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, that's what comes from avoiding manual labor your whole life.",
+      "raw_text": "Well, that's what comes from avoiding manual labor your whole life."
+    },
+    {
+      "entry_id": 143,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "This is it! It happened to me, Jerry! I was sitting in the restaurant, the two nut jobs were talking - I couldn't take it any more. I got up, and (Makes a noise) I bop into this woman..",
+      "raw_text": "This is it! It happened to me, Jerry! I was sitting in the restaurant, the two nut jobs were talking - I couldn't take it any more. I got up, and (Makes a noise) I bop into this woman.."
+    },
+    {
+      "entry_id": 144,
+      "type": "scene_heading",
+      "text": "[Setting: Enter Kramer]",
+      "raw_text": "(Enter Kramer)",
+      "confidence": 0.9,
+      "location": "Enter Kramer",
+      "normalized_location": "enter_kramer"
+    },
+    {
+      "entry_id": 145,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey. (He's carrying a suit cover. He hangs it on Jerry's coat hooks)",
+      "raw_text": "Hey. (He's carrying a suit cover. He hangs it on Jerry's coat hooks)"
+    },
+    {
+      "entry_id": 146,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey.",
+      "raw_text": "Hey."
+    },
+    {
+      "entry_id": 147,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey, George! (Holds out his hand. George shakes it - a hand buzzer goes off. George starts freaking out. Kramer laughs)",
+      "raw_text": "Hey, George! (Holds out his hand. George shakes it - a hand buzzer goes off. George starts freaking out. Kramer laughs)"
+    },
+    {
+      "entry_id": 148,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What are you, crazy?! What are you, crazy?!",
+      "raw_text": "What are you, crazy?! What are you, crazy?!"
+    },
+    {
+      "entry_id": 149,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What?!",
+      "raw_text": "What?!"
+    },
+    {
+      "entry_id": 150,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You coulda damaged my hand!",
+      "raw_text": "You coulda damaged my hand!"
+    },
+    {
+      "entry_id": 151,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "But, it's only a toy!",
+      "raw_text": "(Laughing) But, it's only a toy!",
+      "parenthetical": "Laughing"
+    },
+    {
+      "entry_id": 152,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "George has become a hand model.",
+      "raw_text": "(Explaining) George has become a hand model.",
+      "parenthetical": "Explaining"
+    },
+    {
+      "entry_id": 153,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "A hand model?",
+      "raw_text": "A hand model?"
+    },
+    {
+      "entry_id": 154,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yes.",
+      "raw_text": "Yes."
+    },
+    {
+      "entry_id": 155,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Really? Let me look at them..",
+      "raw_text": "(To George) Really? Let me look at them..",
+      "parenthetical": "To George"
+    },
+    {
+      "entry_id": 156,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "(Defensively) You can look at them, but do NOT touch them. (Holds them out. Kramer studies them)",
+      "raw_text": "(Defensively) You can look at them, but do NOT touch them. (Holds them out. Kramer studies them)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 157,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Let's see.. oh, those are nice. You know, I've never noticed this before? They're smooth.. creamy.. delicate, yet (Turns to Jerry) masculine.",
+      "raw_text": "Let's see.. oh, those are nice. You know, I've never noticed this before? They're smooth.. creamy.. delicate, yet (Turns to Jerry) masculine."
+    },
+    {
+      "entry_id": 158,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Alright, (puts them on) I gotta get going.",
+      "raw_text": "(Takes two oven mitts from his back pack) Alright, (puts them on) I gotta get going.",
+      "parenthetical": "Takes two oven mitts from his back pack"
+    },
+    {
+      "entry_id": 159,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oven mitts?",
+      "raw_text": "Oven mitts?"
+    },
+    {
+      "entry_id": 160,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "That's all I could find. (A moment passes) Would you mind getting the door?",
+      "raw_text": "(Embarrassed) That's all I could find. (A moment passes) Would you mind getting the door?",
+      "parenthetical": "Embarrassed"
+    },
+    {
+      "entry_id": 161,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah..",
+      "raw_text": "Yeah.."
+    },
+    {
+      "entry_id": 162,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Alright. (Jerry opens the door for George)",
+      "raw_text": "Alright. (Jerry opens the door for George)"
+    },
+    {
+      "entry_id": 163,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Thank you very much. (Walks out)",
+      "raw_text": "Thank you very much. (Walks out)"
+    },
+    {
+      "entry_id": 164,
+      "type": "action",
+      "text": "Jerry shuts the door, then starts going through his mail",
+      "raw_text": "(Jerry shuts the door, then starts going through his mail)"
+    },
+    {
+      "entry_id": 165,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You're not going to believe what happening with Leslie. You know, ever since you agreed to wear the puffy shirt on the Today show, she's been getting all these orders from boutiques and department stores..",
+      "raw_text": "You're not going to believe what happening with Leslie. You know, ever since you agreed to wear the puffy shirt on the Today show, she's been getting all these orders from boutiques and department stores.."
+    },
+    {
+      "entry_id": 166,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Uh-huh.. (Finally realizes what Kramer said, he looks up) Since I said what?",
+      "raw_text": "Uh-huh.. (Finally realizes what Kramer said, he looks up) Since I said what?"
+    },
+    {
+      "entry_id": 167,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Agreed to wear the puffy shirt. (Starts unzipping the suit cover)",
+      "raw_text": "Agreed to wear the puffy shirt. (Starts unzipping the suit cover)"
+    },
+    {
+      "entry_id": 168,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What are you talking about?",
+      "raw_text": "What are you talking about?"
+    },
+    {
+      "entry_id": 169,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "When you said that you'd agree to wear the puffy shirt on the Today show. (Takes the ridiculous puffy shirt out of the cover)",
+      "raw_text": "When you said that you'd agree to wear the puffy shirt on the Today show. (Takes the ridiculous puffy shirt out of the cover)"
+    },
+    {
+      "entry_id": 170,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "This?",
+      "raw_text": "(Goes up to it) This?",
+      "parenthetical": "Goes up to it"
+    },
+    {
+      "entry_id": 171,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yes!",
+      "raw_text": "Yes!"
+    },
+    {
+      "entry_id": 172,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I agreed to wear this?!",
+      "raw_text": "I agreed to wear this?!"
+    },
+    {
+      "entry_id": 173,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, yeah.",
+      "raw_text": "Yeah, yeah."
+    },
+    {
+      "entry_id": 174,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "But, when did I do that?",
+      "raw_text": "But, when did I do that?"
+    },
+    {
+      "entry_id": 175,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "When we went to dinner the other night.",
+      "raw_text": "When we went to dinner the other night."
+    },
+    {
+      "entry_id": 176,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What are you, crazy?!",
+      "raw_text": "What are you, crazy?!"
+    },
+    {
+      "entry_id": 177,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What were you talking about when I went to the bathroom?",
+      "raw_text": "What were you talking about when I went to the bathroom?"
+    },
+    {
+      "entry_id": 178,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't know! I couldn't understand a word she was saying! I was just nodding!",
+      "raw_text": "I don't know! I couldn't understand a word she was saying! I was just nodding!"
+    },
+    {
+      "entry_id": 179,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "There you go.",
+      "raw_text": "There you go."
+    },
+    {
+      "entry_id": 180,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Where I go? You mean she was asking me to wear this ridiculous shirt on national TV, and I said 'Yes'?!",
+      "raw_text": "Where I go? You mean she was asking me to wear this ridiculous shirt on national TV, and I said 'Yes'?!"
+    },
+    {
+      "entry_id": 181,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yes, yes! You said it!",
+      "raw_text": "Yes, yes! You said it!"
+    },
+    {
+      "entry_id": 182,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "But, I - I didn't know what she was talking about. I couldn't hear her!",
+      "raw_text": "But, I - I didn't know what she was talking about. I couldn't hear her!"
+    },
+    {
+      "entry_id": 183,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, she asked you.",
+      "raw_text": "(Takes it off the hook, and starts walking toward Jerry with it. He backs defensively backs away from it) Well, she asked you.",
+      "parenthetical": "Takes it off the hook, and starts walking toward Jerry with it. He backs defensively backs away from it"
+    },
+    {
+      "entry_id": 184,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I - I can't wear this puffy shirt on TV! I mean, look at it! It looks ridiculous!",
+      "raw_text": "I - I can't wear this puffy shirt on TV! I mean, look at it! It looks ridiculous!"
+    },
+    {
+      "entry_id": 185,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, you gotta wear it now! All those stores are stocking it based on the condition that you're gonna wear this on the TV show! The factory in New Jersey is already makin' them!",
+      "raw_text": "Well, you gotta wear it now! All those stores are stocking it based on the condition that you're gonna wear this on the TV show! The factory in New Jersey is already makin' them!"
+    },
+    {
+      "entry_id": 186,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "They're making these?!",
+      "raw_text": "They're making these?!"
+    },
+    {
+      "entry_id": 187,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yes, yes. This pirate trend that she's come up with, Jerry, - this is gonna be the new look for the 90's. You're gonna be the first pirate!",
+      "raw_text": "Yes, yes. This pirate trend that she's come up with, Jerry, - this is gonna be the new look for the 90's. You're gonna be the first pirate!"
+    },
+    {
+      "entry_id": 188,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "But, I don't want to be a pirate!",
+      "raw_text": "(Like a little kid) But, I don't want to be a pirate!",
+      "parenthetical": "Like a little kid"
+    },
+    {
+      "entry_id": 189,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 190,
+      "type": "scene_heading",
+      "text": "[Setting: The Costanza house]",
+      "raw_text": "(The Costanza house)",
+      "confidence": 0.9,
+      "location": "The Costanza house",
+      "normalized_location": "the_costanza_house"
+    },
+    {
+      "entry_id": 191,
+      "type": "action",
+      "text": "George is giving himself a manicure over a tray. He's carefully primping his fingernails",
+      "raw_text": "(George is giving himself a manicure over a tray. He's carefully primping his fingernails)"
+    },
+    {
+      "entry_id": 192,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "I knew it. I knew it.. I always knew you always had beautiful hands. I used to tell people. Frank, didn't I use to talk about his hands?",
+      "raw_text": "I knew it. I knew it.. I always knew you always had beautiful hands. I used to tell people. Frank, didn't I use to talk about his hands?"
+    },
+    {
+      "entry_id": 193,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Who the hell did'ya ever mention his hands to?",
+      "raw_text": "(Looking up from his paper) Who the hell did'ya ever mention his hands to?",
+      "parenthetical": "Looking up from his paper"
+    },
+    {
+      "entry_id": 194,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "I mentioned his hands to plenty of people!",
+      "raw_text": "(Getting annoyed) I mentioned his hands to plenty of people!",
+      "parenthetical": "Getting annoyed"
+    },
+    {
+      "entry_id": 195,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "You never mentioned them to me!",
+      "raw_text": "You never mentioned them to me!"
+    },
+    {
+      "entry_id": 196,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hand me an Emory board. (Estelle hands an Emory board to George. He takes it, then goes back to his manicure)",
+      "raw_text": "Hand me an Emory board. (Estelle hands an Emory board to George. He takes it, then goes back to his manicure)",
+      "parenthetical": "Snaps, then points to the coffee table"
+    },
+    {
+      "entry_id": 197,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "I always talk about your hands - how they're so soft and milky white..",
+      "raw_text": "I always talk about your hands - how they're so soft and milky white.."
+    },
+    {
+      "entry_id": 198,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "No! You never said milky white!",
+      "raw_text": "No! You never said milky white!"
+    },
+    {
+      "entry_id": 199,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "(Getting angry) I said milky white! (A moment passes as George fights to keep his temper down around his parents)",
+      "raw_text": "(Getting angry) I said milky white! (A moment passes as George fights to keep his temper down around his parents)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 200,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Scissor. (She gets the scissors from the coffee table and hands them to George) Don't hand them to me with the point facing out!",
+      "raw_text": "(To Estelle) Scissor. (She gets the scissors from the coffee table and hands them to George) Don't hand them to me with the point facing out!",
+      "parenthetical": "To Estelle"
+    },
+    {
+      "entry_id": 201,
+      "type": "scene_heading",
+      "text": "[Setting: Estelle, visibly nervous, reacts, flipping the scissors around]",
+      "raw_text": "(Estelle, visibly nervous, reacts, flipping the scissors around)",
+      "confidence": 0.9,
+      "location": "Estelle, visibly nervous, reacts, flipping the scissors around",
+      "normalized_location": "estelle_visibly_nervous_reacts_flipping_the_scissors_around"
+    },
+    {
+      "entry_id": 202,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "I'm sorry.",
+      "raw_text": "I'm sorry."
+    },
+    {
+      "entry_id": 203,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You're sorry?!",
+      "raw_text": "You're sorry?!"
+    },
+    {
+      "entry_id": 204,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "I'll try to be more careful.",
+      "raw_text": "(Apologizing) I'll try to be more careful.",
+      "parenthetical": "Apologizing"
+    },
+    {
+      "entry_id": 205,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "(Another moment passes as George primps his hands)",
+      "raw_text": "(Another moment passes as George primps his hands)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 206,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Georgie.. (Nudges George's arm, disrupting his work) Georgie, would you like some Jell-O?",
+      "raw_text": "Georgie.. (Nudges George's arm, disrupting his work) Georgie, would you like some Jell-O?"
+    },
+    {
+      "entry_id": 207,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Why'd you put the bananas in there?!",
+      "raw_text": "Why'd you put the bananas in there?!",
+      "parenthetical": "To Estelle, referring to the Jell-O"
+    },
+    {
+      "entry_id": 208,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "George likes the bananas!",
+      "raw_text": "(Yelling) George likes the bananas!",
+      "parenthetical": "Yelling"
+    },
+    {
+      "entry_id": 209,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "(Trying to match her tone) So let him have bananas on the side! (George stands up with the manicure tray. He's obviously had enough)",
+      "raw_text": "(Trying to match her tone) So let him have bananas on the side! (George stands up with the manicure tray. He's obviously had enough)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 210,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Alright! Please, please! I cannot have this constant bickering!.. Stress is very damaging to the epidermis! Now, I have an important photo session in the morning - my hands have got to be in tip-top shape, so please - keep the television down, and the conversation to a minimum.",
+      "raw_text": "Alright! Please, please! I cannot have this constant bickering!.. Stress is very damaging to the epidermis! Now, I have an important photo session in the morning - my hands have got to be in tip-top shape, so please - keep the television down, and the conversation to a minimum."
+    },
+    {
+      "entry_id": 211,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "But Georgie.. what about the Jell-O?",
+      "raw_text": "(Meek) But Georgie.. what about the Jell-O?",
+      "parenthetical": "Meek"
+    },
+    {
+      "entry_id": 212,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I'll take it in my room.",
+      "raw_text": "(Definite) I'll take it in my room.",
+      "parenthetical": "Definite"
+    },
+    {
+      "entry_id": 213,
+      "type": "action",
+      "text": "Walks off",
+      "raw_text": "(Walks off)"
+    },
+    {
+      "entry_id": 214,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 215,
+      "type": "scene_heading",
+      "text": "[Setting: A Today Show dressing room]",
+      "raw_text": "(A Today Show dressing room)",
+      "confidence": 0.9,
+      "location": "A Today Show dressing room",
+      "normalized_location": "a_today_show_dressing_room"
+    },
+    {
+      "entry_id": 216,
+      "type": "action",
+      "text": "Jerry's in a back room, getting dressed while Kramer's thumbing through a magazine. There's a knock at the door",
+      "raw_text": "(Jerry's in a back room, getting dressed while Kramer's thumbing through a magazine. There's a knock at the door)"
+    },
+    {
+      "entry_id": 217,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, come in.",
+      "raw_text": "Yeah, come in."
+    },
+    {
+      "entry_id": 218,
+      "type": "action",
+      "text": "A Today Show stagehand enters",
+      "raw_text": "(A Today Show stagehand enters)"
+    },
+    {
+      "entry_id": 219,
+      "type": "dialogue",
+      "speaker": "STAGEHAND",
+      "normalized_speaker": "stagehand",
+      "text": "I just wanted to let you know he's got about five minutes.",
+      "raw_text": "I just wanted to let you know he's got about five minutes."
+    },
+    {
+      "entry_id": 220,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Giddy-Up. (Stagehand leaves) Jerry! Five minutes! (Jerry walks out from the back room wearing the 'puffy' shirt. He has the expression of extreme resentment)",
+      "raw_text": "Giddy-Up. (Stagehand leaves) Jerry! Five minutes! (Jerry walks out from the back room wearing the 'puffy' shirt. He has the expression of extreme resentment)"
+    },
+    {
+      "entry_id": 221,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Now that's a great looking shirt! (Gets up, admiring the shirt) Ayye Captain! (Growls like a pirate) Yeah! I'm glad I ironed it. It's perfect. (Walks around Jerry, inspecting the shirt) Look at it! It's fantastic!",
+      "raw_text": "Now that's a great looking shirt! (Gets up, admiring the shirt) Ayye Captain! (Growls like a pirate) Yeah! I'm glad I ironed it. It's perfect. (Walks around Jerry, inspecting the shirt) Look at it! It's fantastic!"
+    },
+    {
+      "entry_id": 222,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Kramer, how am I gonna wear this?! I can't wear this!",
+      "raw_text": "(Resisting) Kramer, how am I gonna wear this?! I can't wear this!",
+      "parenthetical": "Resisting"
+    },
+    {
+      "entry_id": 223,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey, this look's better than anything you own. You know, in two months time, everybody's gonna be wearing the (imitates a pirate) pirate look. Aye!",
+      "raw_text": "(Reassuring) Hey, this look's better than anything you own. You know, in two months time, everybody's gonna be wearing the (imitates a pirate) pirate look. Aye!",
+      "parenthetical": "Reassuring"
+    },
+    {
+      "entry_id": 224,
+      "type": "action",
+      "text": "A knock at the door, Kramer answers it - it's Elaine",
+      "raw_text": "(A knock at the door, Kramer answers it - it's Elaine)"
+    },
+    {
+      "entry_id": 225,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 226,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hi, Kramer. Guess what - I just saw Bryant Gumbel, he said he might help out at the benefit!",
+      "raw_text": "Hi, Kramer. Guess what - I just saw Bryant Gumbel, he said he might help out at the benefit!"
+    },
+    {
+      "entry_id": 227,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Great. (Elaine stops in her tracks when she sees Jerry in the shirt. Then, bursts out laughing hysterically)",
+      "raw_text": "Great. (Elaine stops in her tracks when she sees Jerry in the shirt. Then, bursts out laughing hysterically)"
+    },
+    {
+      "entry_id": 228,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What is that?!",
+      "raw_text": "(Between laughs) What is that?!",
+      "parenthetical": "Between laughs"
+    },
+    {
+      "entry_id": 229,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "It's the puffy shirt. Look at it, eh? Whatd'ya think? Is it cool or what?",
+      "raw_text": "It's the puffy shirt. Look at it, eh? Whatd'ya think? Is it cool or what?"
+    },
+    {
+      "entry_id": 230,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Why're you wearing that now?",
+      "raw_text": "(To Jerry) Why're you wearing that now?",
+      "parenthetical": "To Jerry"
+    },
+    {
+      "entry_id": 231,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "'Why am I wearing is now?'? I'll tell you why I'm wearing it now - because the lowtalker asked me to, that's why! And I said 'yes'. Do you know why? Because I couldn't HEAR her!",
+      "raw_text": "(Obviously mad at the situation he's in) 'Why am I wearing is now?'? I'll tell you why I'm wearing it now - because the lowtalker asked me to, that's why! And I said 'yes'. Do you know why? Because I couldn't HEAR her!",
+      "parenthetical": "Obviously mad at the situation he's in"
+    },
+    {
+      "entry_id": 232,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "When did she, (Snickers) when did she ask you this?",
+      "raw_text": "When did she, (Snickers) when did she ask you this?"
+    },
+    {
+      "entry_id": 233,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "When we were at dinner, when Kramer went to the bathroom.",
+      "raw_text": "When we were at dinner, when Kramer went to the bathroom."
+    },
+    {
+      "entry_id": 234,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I didn't hear anything.",
+      "raw_text": "I didn't hear anything."
+    },
+    {
+      "entry_id": 235,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Of course not! Nobody hears anything when this woman speaks!",
+      "raw_text": "(Yelling out) Of course not! Nobody hears anything when this woman speaks!",
+      "parenthetical": "Yelling out"
+    },
+    {
+      "entry_id": 236,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well, you can't wear that on the show.",
+      "raw_text": "Well, you can't wear that on the show.",
+      "parenthetical": "Just now making the matter serious"
+    },
+    {
+      "entry_id": 237,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Elaine, you want to stop?",
+      "raw_text": "Elaine, you want to stop?",
+      "parenthetical": "To Elaine, muffled, low, and threatening"
+    },
+    {
+      "entry_id": 238,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Wha- What? No. (Back to Jerry) Jerry, you are promoting a benefit to CLOTHE homeless people. You can't come out dressed like that! You're all puffed up!.. You look like the Count of Monte Cristo!",
+      "raw_text": "(Turning around to Kramer) Wha- What? No. (Back to Jerry) Jerry, you are promoting a benefit to CLOTHE homeless people. You can't come out dressed like that! You're all puffed up!.. You look like the Count of Monte Cristo!",
+      "parenthetical": "Turning around to Kramer"
+    },
+    {
+      "entry_id": 239,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I have to wear it! The woman has orders for this shirt based on me wearing it on TV.. they're producing them as we speak!",
+      "raw_text": "(Arms out, complaining) I have to wear it! The woman has orders for this shirt based on me wearing it on TV.. they're producing them as we speak!",
+      "parenthetical": "Arms out, complaining"
+    },
+    {
+      "entry_id": 240,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah, but you're supposed to be a compassionate person! That cares about poor people! You look like you're gonna.. swing in on a chandelier!",
+      "raw_text": "(Arguing) Yeah, but you're supposed to be a compassionate person! That cares about poor people! You look like you're gonna.. swing in on a chandelier!",
+      "parenthetical": "Arguing"
+    },
+    {
+      "entry_id": 241,
+      "type": "scene_heading",
+      "text": "[Setting: A knock at the door, Jerry answers]",
+      "raw_text": "(A knock at the door, Jerry answers)",
+      "confidence": 0.9,
+      "location": "A knock at the door, Jerry answers",
+      "normalized_location": "a_knock_at_the_door_jerry_answers"
+    },
+    {
+      "entry_id": 242,
+      "type": "dialogue",
+      "speaker": "STAGEHAND",
+      "normalized_speaker": "stagehand",
+      "text": "Okay, let's go. (Looks up, points at Jerry's puffy shirt) Is that what you're wearing?",
+      "raw_text": "Okay, let's go. (Looks up, points at Jerry's puffy shirt) Is that what you're wearing?",
+      "parenthetical": "Looking down at a clipboard, enters"
+    },
+    {
+      "entry_id": 243,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 244,
+      "type": "scene_heading",
+      "text": "[Setting: A photographer's studio]",
+      "raw_text": "(A photographer's studio)",
+      "confidence": 0.9,
+      "location": "A photographer's studio",
+      "normalized_location": "a_photographer_s_studio"
+    },
+    {
+      "entry_id": 245,
+      "type": "action",
+      "text": "George is holding out his hands while a man and woman marvel at them. A photographer is fooling around with a camera towards the right wall",
+      "raw_text": "(George is holding out his hands while a man and woman marvel at them. A photographer is fooling around with a camera towards the right wall)"
+    },
+    {
+      "entry_id": 246,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "I've never seen hands like these before..",
+      "raw_text": "I've never seen hands like these before.."
+    },
+    {
+      "entry_id": 247,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "They're so soft and milky white.",
+      "raw_text": "They're so soft and milky white."
+    },
+    {
+      "entry_id": 248,
+      "type": "dialogue",
+      "speaker": "PHOTOGRAPHER",
+      "normalized_speaker": "photographer",
+      "text": "You know who's hands they remind me of? (Pauses for effect) Ray McKigney.",
+      "raw_text": "You know who's hands they remind me of? (Pauses for effect) Ray McKigney."
+    },
+    {
+      "entry_id": 249,
+      "type": "action",
+      "text": "The woman nods as the man looks off into space",
+      "raw_text": "(The woman nods as the man looks off into space)"
+    },
+    {
+      "entry_id": 250,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "Ugh.. Ray.",
+      "raw_text": "Ugh.. Ray."
+    },
+    {
+      "entry_id": 251,
+      "type": "dialogue",
+      "speaker": "PHOTOGRAPHER",
+      "normalized_speaker": "photographer",
+      "text": "He was it.",
+      "raw_text": "He was it."
+    },
+    {
+      "entry_id": 252,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Who was he?",
+      "raw_text": "Who was he?"
+    },
+    {
+      "entry_id": 253,
+      "type": "dialogue",
+      "speaker": "PHOTOGRAPHER",
+      "normalized_speaker": "photographer",
+      "text": "The most exquisite hands you've ever seen.. Oh, he had it all.",
+      "raw_text": "The most exquisite hands you've ever seen.. Oh, he had it all."
+    },
+    {
+      "entry_id": 254,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "(Hands still out, even though they've stopped looking at them) What happened to him? (Obviously a touchy subject, the woman coyly walks over to the photographer, and they both occupy themselves. The man is left to tell George the answer to his question)",
+      "raw_text": "(Hands still out, even though they've stopped looking at them) What happened to him? (Obviously a touchy subject, the woman coyly walks over to the photographer, and they both occupy themselves. The man is left to tell George the answer to his question)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 255,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "Tragic story, I'm afraid. He could've had any woman in the world.. but none could match the beauty of his own hand.. and that became his one true love..",
+      "raw_text": "(Clears throat) Tragic story, I'm afraid. He could've had any woman in the world.. but none could match the beauty of his own hand.. and that became his one true love..",
+      "parenthetical": "Clears throat"
+    },
+    {
+      "entry_id": 256,
+      "type": "scene_heading",
+      "text": "[Setting: Long pause]",
+      "raw_text": "(Long pause)",
+      "confidence": 0.9,
+      "location": "Long pause",
+      "normalized_location": "long_pause"
+    },
+    {
+      "entry_id": 257,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You mean, uh..?",
+      "raw_text": "You mean, uh..?"
+    },
+    {
+      "entry_id": 258,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "Yes. he was not.. master of his domain.",
+      "raw_text": "Yes. he was not.. master of his domain."
+    },
+    {
+      "entry_id": 259,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "But how.. uh..?",
+      "raw_text": "(Makes a gesture saying he understands. The man nods) But how.. uh..?",
+      "parenthetical": "Makes a gesture saying he understands. The man nods"
+    },
+    {
+      "entry_id": 260,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "The muscles.. became so strained with.. overuse, that eventually the hand locked into a deformed position, and he was left with nothing but a claw. (Holds hand up, displaying a claw-like shape) He traveled the world seeking a cure.. acupuncturists.. herbalists.. swamis.. nothing helped. Towards the end, his hands became so frozen the was unable to manipulate utensils, (Visibly disgusted by this last part) and was dependent on Cub Scouts to feed him. I hadn't seen another pair of hands like Ray McKigney's.. until today. You are his successor. (George looks down at his hands) I.. only hope you have a little more self-control.",
+      "raw_text": "(Quick, to the point) The muscles.. became so strained with.. overuse, that eventually the hand locked into a deformed position, and he was left with nothing but a claw. (Holds hand up, displaying a claw-like shape) He traveled the world seeking a cure.. acupuncturists.. herbalists.. swamis.. nothing helped. Towards the end, his hands became so frozen the was unable to manipulate utensils, (Visibly disgusted by this last part) and was dependent on Cub Scouts to feed him. I hadn't seen another pair of hands like Ray McKigney's.. until today. You are his successor. (George looks down at his hands) I.. only hope you have a little more self-control.",
+      "parenthetical": "Quick, to the point"
+    },
+    {
+      "entry_id": 261,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You don't have to worry about me. (Nodding, gloating) I won a contest.",
+      "raw_text": "(Smiling to himself) You don't have to worry about me. (Nodding, gloating) I won a contest.",
+      "parenthetical": "Smiling to himself"
+    },
+    {
+      "entry_id": 262,
+      "type": "action",
+      "text": "The man nods, unsure of what to say or do",
+      "raw_text": "(The man nods, unsure of what to say or do)"
+    },
+    {
+      "entry_id": 263,
+      "type": "dialogue",
+      "speaker": "PHOTOGRAPHER",
+      "normalized_speaker": "photographer",
+      "text": "Ok, let's get to work.",
+      "raw_text": "Ok, let's get to work."
+    },
+    {
+      "entry_id": 264,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 265,
+      "type": "scene_heading",
+      "text": "[Setting: The Today Show]",
+      "raw_text": "(The Today Show)",
+      "confidence": 0.9,
+      "location": "The Today Show",
+      "normalized_location": "the_today_show"
+    },
+    {
+      "entry_id": 266,
+      "type": "action",
+      "text": "Jerry's in the guest chair, and Bryant Gumbel's in the interviewer's spot. Jerry, visibly, does not want to be there",
+      "raw_text": "(Jerry's in the guest chair, and Bryant Gumbel's in the interviewer's spot. Jerry, visibly, does not want to be there)"
+    },
+    {
+      "entry_id": 267,
+      "type": "dialogue",
+      "speaker": "BRYANT",
+      "normalized_speaker": "bryant",
+      "text": "Back now, 7:46. On Tuesday the 19th here in New York there will be a benefit for the Goodwill Industries - a used clothing organization that provides service to the needy. One of the performers will be comedian Jerry Seinfeld. (Turns to face Jerry) Jerry, good morning.",
+      "raw_text": "(Talking directly to the camera) Back now, 7:46. On Tuesday the 19th here in New York there will be a benefit for the Goodwill Industries - a used clothing organization that provides service to the needy. One of the performers will be comedian Jerry Seinfeld. (Turns to face Jerry) Jerry, good morning.",
+      "parenthetical": "Talking directly to the camera"
+    },
+    {
+      "entry_id": 268,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Thank you, Bryant.",
+      "raw_text": "(Mumbling out) Thank you, Bryant.",
+      "parenthetical": "Mumbling out"
+    },
+    {
+      "entry_id": 269,
+      "type": "dialogue",
+      "speaker": "BRYANT",
+      "normalized_speaker": "bryant",
+      "text": "And speaking of clothing , that is a very, very unusual shirt you have on.",
+      "raw_text": "(Pointing out) And speaking of clothing , that is a very, very unusual shirt you have on.",
+      "parenthetical": "Pointing out"
+    },
+    {
+      "entry_id": 270,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "(Looking down at the shirt) Oh, thank you. (Backstage, Kramer's standing with his girlfriend. She's brimming with pride)",
+      "raw_text": "(Looking down at the shirt) Oh, thank you. (Backstage, Kramer's standing with his girlfriend. She's brimming with pride)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 271,
+      "type": "dialogue",
+      "speaker": "BRYANT",
+      "normalized_speaker": "bryant",
+      "text": "You're all kinda, (Waves his hands around) all kinda \"puffed up\". (Chuckles)",
+      "raw_text": "You're all kinda, (Waves his hands around) all kinda \"puffed up\". (Chuckles)"
+    },
+    {
+      "entry_id": 272,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah, it's a puffy shirt.",
+      "raw_text": "Yeah, it's a puffy shirt."
+    },
+    {
+      "entry_id": 273,
+      "type": "end_marker",
+      "text": "THE END",
+      "raw_text": "THE END"
+    },
+    {
+      "entry_id": 274,
+      "type": "action",
+      "text": ">",
+      "raw_text": ">",
+      "confidence": 0.6
+    }
+  ]
+}

@@ -1,0 +1,3583 @@
+{
+  "episode": {
+    "series_title": "Seinfeld",
+    "episode_number_overall": 164,
+    "title": "The Strike",
+    "season": 9,
+    "episode_number_in_season": 10,
+    "air_date": "1997-12-18",
+    "written_by": [],
+    "directed_by": [],
+    "source_title": "The Strike Script",
+    "source_dataset": "yregelman/unprocessed-seinfeld-scripts"
+  },
+  "entries": [
+    {
+      "entry_id": 1,
+      "type": "scene_heading",
+      "text": "[Setting: Tim Whatley's apartment]",
+      "raw_text": "(Tim Whatley's apartment)",
+      "confidence": 0.9,
+      "location": "Tim Whatley's apartment",
+      "normalized_location": "tim_whatley_s_apartment"
+    },
+    {
+      "entry_id": 2,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "So.. Whatley's still Jewish, huh?",
+      "raw_text": "So.. Whatley's still Jewish, huh?"
+    },
+    {
+      "entry_id": 3,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh, sure. Without the parents, it's a breeze.",
+      "raw_text": "Oh, sure. Without the parents, it's a breeze."
+    },
+    {
+      "entry_id": 4,
+      "type": "action",
+      "text": "Elaine laughs, Whatley enters",
+      "raw_text": "(Elaine laughs, Whatley enters)"
+    },
+    {
+      "entry_id": 5,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "Hey! Happy Chanukah!",
+      "raw_text": "Hey! Happy Chanukah!"
+    },
+    {
+      "entry_id": 6,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey, Tim. Great party.",
+      "raw_text": "Hey, Tim. Great party."
+    },
+    {
+      "entry_id": 7,
+      "type": "scene_heading",
+      "text": "[Setting: Tim holds up a mistletoe]",
+      "raw_text": "(Tim holds up a mistletoe)",
+      "confidence": 0.9,
+      "location": "Tim holds up a mistletoe",
+      "normalized_location": "tim_holds_up_a_mistletoe"
+    },
+    {
+      "entry_id": 8,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "eh?",
+      "raw_text": "(Suggesting a kiss to Elaine) eh?",
+      "parenthetical": "Suggesting a kiss to Elaine"
+    },
+    {
+      "entry_id": 9,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "eh.",
+      "raw_text": "(Shrugging it off) eh.",
+      "parenthetical": "Shrugging it off"
+    },
+    {
+      "entry_id": 10,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "Oh. (Turns to George) Hey, George, thanks again for getting me those Yankee tickets.",
+      "raw_text": "(Accepting) Oh. (Turns to George) Hey, George, thanks again for getting me those Yankee tickets.",
+      "parenthetical": "Accepting"
+    },
+    {
+      "entry_id": 11,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh, yeah. Still in good with the ground crew. (Laghs)",
+      "raw_text": "Oh, yeah. Still in good with the ground crew. (Laghs)"
+    },
+    {
+      "entry_id": 12,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "Oh, hey, listen, I'd better circulate.. (moving over to the woman) Happy Chanukah, Tiffany!",
+      "raw_text": "(Notices a woman walking by) Oh, hey, listen, I'd better circulate.. (moving over to the woman) Happy Chanukah, Tiffany!",
+      "parenthetical": "Notices a woman walking by"
+    },
+    {
+      "entry_id": 13,
+      "type": "action",
+      "text": "they both move off camera",
+      "raw_text": "(they both move off camera)"
+    },
+    {
+      "entry_id": 14,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "This place is like Studio 54 with a menorah.",
+      "raw_text": "This place is like Studio 54 with a menorah."
+    },
+    {
+      "entry_id": 15,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I'm gonna get some more of these kosher cocktail franks.. (leaves)",
+      "raw_text": "I'm gonna get some more of these kosher cocktail franks.. (leaves)"
+    },
+    {
+      "entry_id": 16,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh.. (sees a guy looking at her) I got denim vest checking me out. (laughs) Fake phone number's coming out tonight.",
+      "raw_text": "Oh.. (sees a guy looking at her) I got denim vest checking me out. (laughs) Fake phone number's coming out tonight."
+    },
+    {
+      "entry_id": 17,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You have a standard fake?",
+      "raw_text": "You have a standard fake?"
+    },
+    {
+      "entry_id": 18,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Mm-hmm.",
+      "raw_text": "Mm-hmm."
+    },
+    {
+      "entry_id": 19,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "That's neat.",
+      "raw_text": "(Notices an attractive woman walking by, starts to follow her) That's neat.",
+      "parenthetical": "Notices an attractive woman walking by, starts to follow her"
+    },
+    {
+      "entry_id": 20,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "(Holds onto Jerry's arm) No, please! Denim vest! He's smoothing it! Jerry! God! (Jerry excapes Elaine's grasp, moves over to the woman. The man wearing a denim vest moves over to Elaine.)",
+      "raw_text": "(Holds onto Jerry's arm) No, please! Denim vest! He's smoothing it! Jerry! God! (Jerry excapes Elaine's grasp, moves over to the woman. The man wearing a denim vest moves over to Elaine.)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 21,
+      "type": "dialogue",
+      "speaker": "DENIM VEST",
+      "normalized_speaker": "denim_vest",
+      "text": "Hi!",
+      "raw_text": "Hi!"
+    },
+    {
+      "entry_id": 22,
+      "type": "scene_heading",
+      "text": "[Setting: Scene cuts to Jerry talking to the woman]",
+      "raw_text": "(Scene cuts to Jerry talking to the woman)",
+      "confidence": 0.9,
+      "location": "Scene cuts to Jerry talking to the woman",
+      "normalized_location": "scene_cuts_to_jerry_talking_to_the_woman"
+    },
+    {
+      "entry_id": 23,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hi, I'm Jerry.",
+      "raw_text": "Hi, I'm Jerry."
+    },
+    {
+      "entry_id": 24,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "Hi. JERRY: You might not know it to look at me, but I can run really, really fast.",
+      "raw_text": "Hi. JERRY: You might not know it to look at me, but I can run really, really fast."
+    },
+    {
+      "entry_id": 25,
+      "type": "scene_heading",
+      "text": "[Setting: Scene cuts to Elaine]",
+      "raw_text": "(Scene cuts to Elaine)",
+      "confidence": 0.9,
+      "location": "Scene cuts to Elaine",
+      "normalized_location": "scene_cuts_to_elaine"
+    },
+    {
+      "entry_id": 26,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Nice vest. I like the.. big metal buttons",
+      "raw_text": "Nice vest. I like the.. big metal buttons"
+    },
+    {
+      "entry_id": 27,
+      "type": "dialogue",
+      "speaker": "DENIM VEST",
+      "normalized_speaker": "denim_vest",
+      "text": "They're snaps. Listen, maybe we should, uh, go out some time?",
+      "raw_text": "They're snaps. Listen, maybe we should, uh, go out some time?"
+    },
+    {
+      "entry_id": 28,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Why don't I give you my phone number?",
+      "raw_text": "Why don't I give you my phone number?"
+    },
+    {
+      "entry_id": 29,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 30,
+      "type": "action",
+      "text": "Coffee Shop)",
+      "raw_text": "Coffee Shop)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 31,
+      "type": "action",
+      "text": "George enters",
+      "raw_text": "(George enters)"
+    },
+    {
+      "entry_id": 32,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey.",
+      "raw_text": "Hey."
+    },
+    {
+      "entry_id": 33,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey! How'd it go with the cocktail franks?",
+      "raw_text": "Hey! How'd it go with the cocktail franks?"
+    },
+    {
+      "entry_id": 34,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Great! I ate the entire platter! Had to call in sick today.",
+      "raw_text": "Great! I ate the entire platter! Had to call in sick today."
+    },
+    {
+      "entry_id": 35,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Didn't you call in sick yesterday?",
+      "raw_text": "Didn't you call in sick yesterday?"
+    },
+    {
+      "entry_id": 36,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey, I work for Kruger Industrial Smoothing: \"We don't care, and it shows.\"",
+      "raw_text": "Hey, I work for Kruger Industrial Smoothing: \"We don't care, and it shows.\""
+    },
+    {
+      "entry_id": 37,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You're gonna open your mail here?",
+      "raw_text": "(Notices George brought hhis mail) You're gonna open your mail here?",
+      "parenthetical": "Notices George brought hhis mail"
+    },
+    {
+      "entry_id": 38,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey, at least I'm bringing something to this. (Starts flipping through envelopes, reads one ) \"Have you seen me?\" (Flicks it aside) Nope. (looks at next envelope) Woah, something from Whatley.",
+      "raw_text": "Hey, at least I'm bringing something to this. (Starts flipping through envelopes, reads one ) \"Have you seen me?\" (Flicks it aside) Nope. (looks at next envelope) Woah, something from Whatley."
+    },
+    {
+      "entry_id": 39,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "See? You give, and you get.",
+      "raw_text": "See? You give, and you get."
+    },
+    {
+      "entry_id": 40,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "\"This holiday season a donation has been made in your name to the Children's Alliance.\"?",
+      "raw_text": "(Reading the card from Whatley) \"This holiday season a donation has been made in your name to the Children's Alliance.\"?",
+      "parenthetical": "Reading the card from Whatley"
+    },
+    {
+      "entry_id": 41,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh, that's nice.",
+      "raw_text": "Oh, that's nice."
+    },
+    {
+      "entry_id": 42,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I got him Yankee's tickets! He got me a piece of paper saying \"I've given your gift to someone else!\"",
+      "raw_text": "I got him Yankee's tickets! He got me a piece of paper saying \"I've given your gift to someone else!\""
+    },
+    {
+      "entry_id": 43,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "To a children's charity!",
+      "raw_text": "To a children's charity!"
+    },
+    {
+      "entry_id": 44,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Don't you see how wrong that is?! Where's your Christmas spirit? And eye for an eye!",
+      "raw_text": "Don't you see how wrong that is?! Where's your Christmas spirit? And eye for an eye!"
+    },
+    {
+      "entry_id": 45,
+      "type": "action",
+      "text": "Elaine enters",
+      "raw_text": "(Elaine enters)"
+    },
+    {
+      "entry_id": 46,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hey!",
+      "raw_text": "Hey!"
+    },
+    {
+      "entry_id": 47,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey.",
+      "raw_text": "Hey."
+    },
+    {
+      "entry_id": 48,
+      "type": "scene_heading",
+      "text": "[Setting: Waitress moves tward the table]",
+      "raw_text": "(Waitress moves tward the table)",
+      "confidence": 0.9,
+      "location": "Waitress moves tward the table",
+      "normalized_location": "waitress_moves_tward_the_table"
+    },
+    {
+      "entry_id": 49,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, nothing for me. (Waitress leaves) I'm going to \"Atomic Sub\" later.",
+      "raw_text": "(To waitress) Oh, nothing for me. (Waitress leaves) I'm going to \"Atomic Sub\" later.",
+      "parenthetical": "To waitress"
+    },
+    {
+      "entry_id": 50,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "\"Atomic Sub\"? Why are you eating there?",
+      "raw_text": "\"Atomic Sub\"? Why are you eating there?"
+    },
+    {
+      "entry_id": 51,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I got a card, and they stamp it every time I buy a sub. 24 stamps, and I become a submarine (makes a gesture) captain.",
+      "raw_text": "I got a card, and they stamp it every time I buy a sub. 24 stamps, and I become a submarine (makes a gesture) captain."
+    },
+    {
+      "entry_id": 52,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What does that mean?",
+      "raw_text": "What does that mean?"
+    },
+    {
+      "entry_id": 53,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Free sub.",
+      "raw_text": "(Embarrassed) Free sub.",
+      "parenthetical": "Embarrassed"
+    },
+    {
+      "entry_id": 54,
+      "type": "action",
+      "text": "George lets out a depressed sigh while reading a card",
+      "raw_text": "(George lets out a depressed sigh while reading a card)"
+    },
+    {
+      "entry_id": 55,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 56,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Nothing. It's a card from my dad.",
+      "raw_text": "Nothing. It's a card from my dad."
+    },
+    {
+      "entry_id": 57,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What is it? (Grabs the card from George, he tries to stop her, but fails. She reads it out loud.) \"Dear son, Happy Festivus.\" What is Festivus?",
+      "raw_text": "What is it? (Grabs the card from George, he tries to stop her, but fails. She reads it out loud.) \"Dear son, Happy Festivus.\" What is Festivus?"
+    },
+    {
+      "entry_id": 58,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "It's nothing, stop it..",
+      "raw_text": "It's nothing, stop it.."
+    },
+    {
+      "entry_id": 59,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "When George was growing up..",
+      "raw_text": "When George was growing up.."
+    },
+    {
+      "entry_id": 60,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Jerry, No!",
+      "raw_text": "(Interrupting) Jerry, No!",
+      "parenthetical": "Interrupting"
+    },
+    {
+      "entry_id": 61,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "His father..",
+      "raw_text": "His father.."
+    },
+    {
+      "entry_id": 62,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No!",
+      "raw_text": "No!"
+    },
+    {
+      "entry_id": 63,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hated all the commercial and religious aspects of Christmas, so he made up his own holiday.",
+      "raw_text": "Hated all the commercial and religious aspects of Christmas, so he made up his own holiday."
+    },
+    {
+      "entry_id": 64,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Ohhhh.. and another piece of the puzzle falls into place.",
+      "raw_text": "Ohhhh.. and another piece of the puzzle falls into place."
+    },
+    {
+      "entry_id": 65,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Alright..",
+      "raw_text": "(pleading) Alright..",
+      "parenthetical": "pleading"
+    },
+    {
+      "entry_id": 66,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "And instead of a tree, didn't your father put up an aluminum pole? (Elaine starts laughing uncontrollably - and continues to do so)",
+      "raw_text": "And instead of a tree, didn't your father put up an aluminum pole? (Elaine starts laughing uncontrollably - and continues to do so)"
+    },
+    {
+      "entry_id": 67,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Jerry! Stop it!",
+      "raw_text": "Jerry! Stop it!"
+    },
+    {
+      "entry_id": 68,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "And weren't there a feats of strength that always ended up with you crying?",
+      "raw_text": "And weren't there a feats of strength that always ended up with you crying?"
+    },
+    {
+      "entry_id": 69,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry joins in with Elaine's laughter]",
+      "raw_text": "(Jerry joins in with Elaine's laughter)",
+      "confidence": 0.9,
+      "location": "Jerry joins in with Elaine's laughter",
+      "normalized_location": "jerry_joins_in_with_elaine_s_laughter"
+    },
+    {
+      "entry_id": 70,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I can't take it anymore! I'm going to work! ARe you happy now?! (Gathers his things, and runs out of the coffee shop. Elaine and Jerry laugh hysterically)",
+      "raw_text": "I can't take it anymore! I'm going to work! ARe you happy now?! (Gathers his things, and runs out of the coffee shop. Elaine and Jerry laugh hysterically)"
+    },
+    {
+      "entry_id": 71,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 72,
+      "type": "action",
+      "text": "Jerry's apartment)",
+      "raw_text": "Jerry's apartment)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 73,
+      "type": "scene_heading",
+      "text": "[Setting: Elaine is digging into her purse]",
+      "raw_text": "(Elaine is digging into her purse)",
+      "confidence": 0.9,
+      "location": "Elaine is digging into her purse",
+      "normalized_location": "elaine_is_digging_into_her_purse"
+    },
+    {
+      "entry_id": 74,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, I can't believe it! I've lost my \"Atomic Sub\" card!.. Oh no! I bet I wrote that fake number on the back of it when I gave it to denim vest!",
+      "raw_text": "Oh, I can't believe it! I've lost my \"Atomic Sub\" card!.. Oh no! I bet I wrote that fake number on the back of it when I gave it to denim vest!"
+    },
+    {
+      "entry_id": 75,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So?",
+      "raw_text": "So?"
+    },
+    {
+      "entry_id": 76,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I've eaten 23 bad subs, I just need 1 more! It's like a long, bad movie, but you want to see the end of it!",
+      "raw_text": "I've eaten 23 bad subs, I just need 1 more! It's like a long, bad movie, but you want to see the end of it!"
+    },
+    {
+      "entry_id": 77,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No, you walk out.",
+      "raw_text": "No, you walk out."
+    },
+    {
+      "entry_id": 78,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Alright, then, it's like a boring book, but you gotta finish it.",
+      "raw_text": "Alright, then, it's like a boring book, but you gotta finish it."
+    },
+    {
+      "entry_id": 79,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No, you wait for the movie!",
+      "raw_text": "No, you wait for the movie!"
+    },
+    {
+      "entry_id": 80,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I want that free sub.",
+      "raw_text": "I want that free sub.",
+      "parenthetical": "Irritated, and through clinched teeth"
+    },
+    {
+      "entry_id": 81,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You don't need the card. High-end hoagie outfit like that, it's all computerized! (Snaps) They're cloning sheep now.",
+      "raw_text": "You don't need the card. High-end hoagie outfit like that, it's all computerized! (Snaps) They're cloning sheep now."
+    },
+    {
+      "entry_id": 82,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "No, they're not cloning sheep. It's the same sheep! I saw Harry Blackstone do that trick with two goats and a handkerchief on the old Dean Martin show!",
+      "raw_text": "(Correcting) No, they're not cloning sheep. It's the same sheep! I saw Harry Blackstone do that trick with two goats and a handkerchief on the old Dean Martin show!",
+      "parenthetical": "Correcting"
+    },
+    {
+      "entry_id": 83,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So, why don't you just try your blow-off number and see if he's called it?",
+      "raw_text": "So, why don't you just try your blow-off number and see if he's called it?"
+    },
+    {
+      "entry_id": 84,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "That's a good idea. (Kramer's cordless phone rings, startling him. He digs through his coat, and pulls it out of the pocket)",
+      "raw_text": "That's a good idea. (Kramer's cordless phone rings, startling him. He digs through his coat, and pulls it out of the pocket)"
+    },
+    {
+      "entry_id": 85,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, Go! Wha.. really? Yeah, ok. Yeah! Bye. (Hangs up) Great news! Yeah, the strike has been settled. I'm going back to work.",
+      "raw_text": "(Answering phone) Yeah, Go! Wha.. really? Yeah, ok. Yeah! Bye. (Hangs up) Great news! Yeah, the strike has been settled. I'm going back to work.",
+      "parenthetical": "Answering phone"
+    },
+    {
+      "entry_id": 86,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What strike?",
+      "raw_text": "What strike?"
+    },
+    {
+      "entry_id": 87,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, H&H Bagels. That's where I worked.",
+      "raw_text": "Yeah, H&H Bagels. That's where I worked."
+    },
+    {
+      "entry_id": 88,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You?",
+      "raw_text": "You?"
+    },
+    {
+      "entry_id": 89,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Worked?",
+      "raw_text": "Worked?"
+    },
+    {
+      "entry_id": 90,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Bagels?",
+      "raw_text": "Bagels?"
+    },
+    {
+      "entry_id": 91,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah. Look, see. I still have my business card. (Pulls it out, hands it to Elaine) Yeah, we've been on strike for 12 years.",
+      "raw_text": "Yeah. Look, see. I still have my business card. (Pulls it out, hands it to Elaine) Yeah, we've been on strike for 12 years."
+    },
+    {
+      "entry_id": 92,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, I remember seeing those guys picketing out there, but I haven't seen them in a long time.",
+      "raw_text": "Oh, I remember seeing those guys picketing out there, but I haven't seen them in a long time."
+    },
+    {
+      "entry_id": 93,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, well, H&H wouldn't let us use their bath room while we were picketing. It put a cramp on our solidarity.",
+      "raw_text": "Yeah, well, H&H wouldn't let us use their bath room while we were picketing. It put a cramp on our solidarity."
+    },
+    {
+      "entry_id": 94,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What were your.. demands?",
+      "raw_text": "What were your.. demands?"
+    },
+    {
+      "entry_id": 95,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, 5.35 an hour. And that's what they're paying now.",
+      "raw_text": "Yeah, 5.35 an hour. And that's what they're paying now."
+    },
+    {
+      "entry_id": 96,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I believe that's the new minimum wage.",
+      "raw_text": "I believe that's the new minimum wage."
+    },
+    {
+      "entry_id": 97,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Now you know who to thank for that!.. Alright, I've got to go. (Heads for the door)",
+      "raw_text": "Now you know who to thank for that!.. Alright, I've got to go. (Heads for the door)"
+    },
+    {
+      "entry_id": 98,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Why didn't you ever mention this?",
+      "raw_text": "Why didn't you ever mention this?"
+    },
+    {
+      "entry_id": 99,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Jerry, I didn't want you to know I was out of work. It's embarrassing! (Leaves)",
+      "raw_text": "Jerry, I didn't want you to know I was out of work. It's embarrassing! (Leaves)"
+    },
+    {
+      "entry_id": 100,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 101,
+      "type": "action",
+      "text": "H&H Bagel Shop)",
+      "raw_text": "H&H Bagel Shop)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 102,
+      "type": "action",
+      "text": "Kramer walks through the door",
+      "raw_text": "(Kramer walks through the door)"
+    },
+    {
+      "entry_id": 103,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "All right, everybody! I'm back!",
+      "raw_text": "All right, everybody! I'm back!"
+    },
+    {
+      "entry_id": 104,
+      "type": "dialogue",
+      "speaker": "MANAGER",
+      "normalized_speaker": "manager",
+      "text": "Who are you?",
+      "raw_text": "Who are you?"
+    },
+    {
+      "entry_id": 105,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Cosmo Kramer.. strikes over.",
+      "raw_text": "Cosmo Kramer.. strikes over."
+    },
+    {
+      "entry_id": 106,
+      "type": "dialogue",
+      "speaker": "MANAGER",
+      "normalized_speaker": "manager",
+      "text": "Oh yeah! Kramer.",
+      "raw_text": "Oh yeah! Kramer."
+    },
+    {
+      "entry_id": 107,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Huh.. wha- Didn't any of the guys come back?",
+      "raw_text": "Huh.. wha- Didn't any of the guys come back?"
+    },
+    {
+      "entry_id": 108,
+      "type": "dialogue",
+      "speaker": "MANAGER",
+      "normalized_speaker": "manager",
+      "text": "NO, I\"m sure they all got jobs.. like, ten years ago.",
+      "raw_text": "NO, I\"m sure they all got jobs.. like, ten years ago."
+    },
+    {
+      "entry_id": 109,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, man. Makes you wonder what it was all for..",
+      "raw_text": "Oh, man. Makes you wonder what it was all for.."
+    },
+    {
+      "entry_id": 110,
+      "type": "dialogue",
+      "speaker": "MANAGER",
+      "normalized_speaker": "manager",
+      "text": "I could use someone for the holidays..",
+      "raw_text": "I could use someone for the holidays.."
+    },
+    {
+      "entry_id": 111,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Alright! Toss me an apron, let's bagel! (Takes off his coat, puts it in the display case, then turns to see a plate full of bagels.) What are those?",
+      "raw_text": "Alright! Toss me an apron, let's bagel! (Takes off his coat, puts it in the display case, then turns to see a plate full of bagels.) What are those?"
+    },
+    {
+      "entry_id": 112,
+      "type": "dialogue",
+      "speaker": "MANAGER",
+      "normalized_speaker": "manager",
+      "text": "Those are rasin bagels.",
+      "raw_text": "Those are rasin bagels."
+    },
+    {
+      "entry_id": 113,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I never thought I'd live to see that..",
+      "raw_text": "(Picks one up, he's mesmerized) I never thought I'd live to see that..",
+      "parenthetical": "Picks one up, he's mesmerized"
+    },
+    {
+      "entry_id": 114,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 115,
+      "type": "action",
+      "text": "Horse Track Betting)",
+      "raw_text": "Horse Track Betting)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 116,
+      "type": "scene_heading",
+      "text": "[Setting: Elaine confronts two unattractive bookies]",
+      "raw_text": "(Elaine confronts two unattractive bookies)",
+      "confidence": 0.9,
+      "location": "Elaine confronts two unattractive bookies",
+      "normalized_location": "elaine_confronts_two_unattractive_bookies"
+    },
+    {
+      "entry_id": 117,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "So, anyway, I've been giving out your number as my standard fake.",
+      "raw_text": "So, anyway, I've been giving out your number as my standard fake."
+    },
+    {
+      "entry_id": 118,
+      "type": "dialogue",
+      "speaker": "BOOKIE",
+      "normalized_speaker": "bookie",
+      "text": "So. You're Elaine Benes. We've been getting calls fro you for 5 years.",
+      "raw_text": "So. You're Elaine Benes. We've been getting calls fro you for 5 years."
+    },
+    {
+      "entry_id": 119,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "So, listen, when this guy calls, if you could just give him my real number..",
+      "raw_text": "So, listen, when this guy calls, if you could just give him my real number.."
+    },
+    {
+      "entry_id": 120,
+      "type": "dialogue",
+      "speaker": "BOOKIE",
+      "normalized_speaker": "bookie",
+      "text": "Hey, Charlie! Guess who's here. Elaine Benes.",
+      "raw_text": "(Interrupting) Hey, Charlie! Guess who's here. Elaine Benes.",
+      "parenthetical": "Interrupting"
+    },
+    {
+      "entry_id": 121,
+      "type": "scene_heading",
+      "text": "[Setting: Co-Worker in the back speaks up]",
+      "raw_text": "(Co-Worker in the back speaks up)",
+      "confidence": 0.9,
+      "location": "Co-Worker in the back speaks up",
+      "normalized_location": "co_worker_in_the_back_speaks_up"
+    },
+    {
+      "entry_id": 122,
+      "type": "dialogue",
+      "speaker": "CHARLIE",
+      "normalized_speaker": "charlie",
+      "text": "Elaine Benes?!",
+      "raw_text": "Elaine Benes?!"
+    },
+    {
+      "entry_id": 123,
+      "type": "action",
+      "text": "Various other men in the line behind Elaine say the same thing",
+      "raw_text": "(Various other men in the line behind Elaine say the same thing)"
+    },
+    {
+      "entry_id": 124,
+      "type": "dialogue",
+      "speaker": "BOOKIE",
+      "normalized_speaker": "bookie",
+      "text": "You make a lot of man friends. You know who's a man? Charlie here, he's a man. You know who else? Me. I'm a man.",
+      "raw_text": "You make a lot of man friends. You know who's a man? Charlie here, he's a man. You know who else? Me. I'm a man."
+    },
+    {
+      "entry_id": 125,
+      "type": "dialogue",
+      "speaker": "CHARLIE",
+      "normalized_speaker": "charlie",
+      "text": "I'm a man.",
+      "raw_text": "(faintly) I'm a man.",
+      "parenthetical": "faintly"
+    },
+    {
+      "entry_id": 126,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Ohh.. my..",
+      "raw_text": "Ohh.. my.."
+    },
+    {
+      "entry_id": 127,
+      "type": "dialogue",
+      "speaker": "BOOKIE",
+      "normalized_speaker": "bookie",
+      "text": "I'll have this best guy call your real number. You just, uh, give it to me. And that way, I'll have it. (Slides a pad over to Elaine so she can write it down)",
+      "raw_text": "I'll have this best guy call your real number. You just, uh, give it to me. And that way, I'll have it. (Slides a pad over to Elaine so she can write it down)"
+    },
+    {
+      "entry_id": 128,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "My number? Ohh.. (looks at Kramer's business card) Okay.. Uh, well, there you go. (writes H&H's number down) And, uh, tell you what.. (looks at the board in the back) put a sawbuck on Captain Nemo in the third at Belmont.",
+      "raw_text": "My number? Ohh.. (looks at Kramer's business card) Okay.. Uh, well, there you go. (writes H&H's number down) And, uh, tell you what.. (looks at the board in the back) put a sawbuck on Captain Nemo in the third at Belmont."
+    },
+    {
+      "entry_id": 129,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 130,
+      "type": "action",
+      "text": "classy restaurant)",
+      "raw_text": "classy restaurant)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 131,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry and Tim Whatley meet]",
+      "raw_text": "(Jerry and Tim Whatley meet)",
+      "confidence": 0.9,
+      "location": "Jerry and Tim Whatley meet",
+      "normalized_location": "jerry_and_tim_whatley_meet"
+    },
+    {
+      "entry_id": 132,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "Hey, Jerry.",
+      "raw_text": "Hey, Jerry."
+    },
+    {
+      "entry_id": 133,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey, Tim.",
+      "raw_text": "Hey, Tim."
+    },
+    {
+      "entry_id": 134,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "What's up?",
+      "raw_text": "What's up?"
+    },
+    {
+      "entry_id": 135,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Actually, I'm having dinner with a girl I met at your party.",
+      "raw_text": "Actually, I'm having dinner with a girl I met at your party."
+    },
+    {
+      "entry_id": 136,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "Mazel Tov.",
+      "raw_text": "Mazel Tov."
+    },
+    {
+      "entry_id": 137,
+      "type": "action",
+      "text": "Jerry's date, Gwen, arrives. She's completely unattractive",
+      "raw_text": "(Jerry's date, Gwen, arrives. She's completely unattractive)"
+    },
+    {
+      "entry_id": 138,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "Jerry.. hi.",
+      "raw_text": "Jerry.. hi."
+    },
+    {
+      "entry_id": 139,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Gwen?",
+      "raw_text": "Gwen?"
+    },
+    {
+      "entry_id": 140,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 141,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Really?",
+      "raw_text": "(Not willing to believe how much uglier she is) Really?",
+      "parenthetical": "Not willing to believe how much uglier she is"
+    },
+    {
+      "entry_id": 142,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "Yeah! Come on, our table is ready.",
+      "raw_text": "Yeah! Come on, our table is ready."
+    },
+    {
+      "entry_id": 143,
+      "type": "action",
+      "text": "Tim gives Jerry a face - almost like he feels sorry for Jerry",
+      "raw_text": "(Tim gives Jerry a face - almost like he feels sorry for Jerry)"
+    },
+    {
+      "entry_id": 144,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 145,
+      "type": "action",
+      "text": "Jerry's apartment)",
+      "raw_text": "Jerry's apartment)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 146,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So, attractive one day - not attractive the next?",
+      "raw_text": "So, attractive one day - not attractive the next?"
+    },
+    {
+      "entry_id": 147,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Have you come across this?",
+      "raw_text": "Have you come across this?"
+    },
+    {
+      "entry_id": 148,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yes, I am familiar with this syndrome -- she's a two-face.",
+      "raw_text": "Yes, I am familiar with this syndrome -- she's a two-face."
+    },
+    {
+      "entry_id": 149,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Like the Batman villain?",
+      "raw_text": "(Relating) Like the Batman villain?",
+      "parenthetical": "Relating"
+    },
+    {
+      "entry_id": 150,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "If that helps you..",
+      "raw_text": "(Annoyed) If that helps you..",
+      "parenthetical": "Annoyed"
+    },
+    {
+      "entry_id": 151,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So, if I ask her out again - I don't know who's showing up: The good, the bad, or the ugly.",
+      "raw_text": "So, if I ask her out again - I don't know who's showing up: The good, the bad, or the ugly."
+    },
+    {
+      "entry_id": 152,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Clint Eastwood!",
+      "raw_text": "(Identifying what Jerry said) Clint Eastwood!",
+      "parenthetical": "Identifying what Jerry said"
+    },
+    {
+      "entry_id": 153,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 154,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey, check this out. I gotta give out Christmas presents to everyone down at Kruger, so I'm pulling a Whatley.",
+      "raw_text": "Hey, check this out. I gotta give out Christmas presents to everyone down at Kruger, so I'm pulling a Whatley."
+    },
+    {
+      "entry_id": 155,
+      "type": "scene_heading",
+      "text": "[Setting: Give a Christmas card to Jerry]",
+      "raw_text": "(Give a Christmas card to Jerry)",
+      "confidence": 0.9,
+      "location": "Give a Christmas card to Jerry",
+      "normalized_location": "give_a_christmas_card_to_jerry"
+    },
+    {
+      "entry_id": 156,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "\"A donation has been made in your name to the Human Fund.\" - What is that?",
+      "raw_text": "(Reading it) \"A donation has been made in your name to the Human Fund.\" - What is that?",
+      "parenthetical": "Reading it"
+    },
+    {
+      "entry_id": 157,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Made it up.",
+      "raw_text": "(With pride) Made it up.",
+      "parenthetical": "With pride"
+    },
+    {
+      "entry_id": 158,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "\"The Human Fund. Money for people.\"",
+      "raw_text": "(Continuing reading) \"The Human Fund. Money for people.\"",
+      "parenthetical": "Continuing reading"
+    },
+    {
+      "entry_id": 159,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What do you think?",
+      "raw_text": "What do you think?"
+    },
+    {
+      "entry_id": 160,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "It has a certain understated stupidity.",
+      "raw_text": "It has a certain understated stupidity."
+    },
+    {
+      "entry_id": 161,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "The Outlaw of Josey Whales!",
+      "raw_text": "(Once again, Identifying) The Outlaw of Josey Whales!",
+      "parenthetical": "Once again, Identifying"
+    },
+    {
+      "entry_id": 162,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "..Yeah.",
+      "raw_text": "..Yeah."
+    },
+    {
+      "entry_id": 163,
+      "type": "scene_heading",
+      "text": "[Setting: Enter Kramer]",
+      "raw_text": "(Enter Kramer)",
+      "confidence": 0.9,
+      "location": "Enter Kramer",
+      "normalized_location": "enter_kramer"
+    },
+    {
+      "entry_id": 164,
+      "type": "scene_heading",
+      "text": "[Setting: He is holding a sack full of bagels]",
+      "raw_text": "(He is holding a sack full of bagels)",
+      "confidence": 0.9,
+      "location": "He is holding a sack full of bagels",
+      "normalized_location": "he_is_holding_a_sack_full_of_bagels"
+    },
+    {
+      "entry_id": 165,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Ah, gentlemen.. bagels on the house!",
+      "raw_text": "Ah, gentlemen.. bagels on the house!"
+    },
+    {
+      "entry_id": 166,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "How was your first day?",
+      "raw_text": "How was your first day?"
+    },
+    {
+      "entry_id": 167,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, fantastic! (Jerry and George both pick out a bagel) It felt so good to get my hands back in taht dough.",
+      "raw_text": "Oh, fantastic! (Jerry and George both pick out a bagel) It felt so good to get my hands back in taht dough."
+    },
+    {
+      "entry_id": 168,
+      "type": "action",
+      "text": "Jerry and George stop before they take a bite from their bagels",
+      "raw_text": "(Jerry and George stop before they take a bite from their bagels)"
+    },
+    {
+      "entry_id": 169,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Your hands were in the dough?",
+      "raw_text": "Your hands were in the dough?"
+    },
+    {
+      "entry_id": 170,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "No, I didn't make these bagels. (Jerry and George both take a bite) Yeah, they're day-olds. The homeless won't even touch them. (Jerry and George stop eating) Oh, we try to fool them by putting a few fresh ones on top, but they dig.. they, they test.",
+      "raw_text": "No, I didn't make these bagels. (Jerry and George both take a bite) Yeah, they're day-olds. The homeless won't even touch them. (Jerry and George stop eating) Oh, we try to fool them by putting a few fresh ones on top, but they dig.. they, they test."
+    },
+    {
+      "entry_id": 171,
+      "type": "scene_heading",
+      "text": "[Setting: George spits his bagel out]",
+      "raw_text": "(George spits his bagel out)",
+      "confidence": 0.9,
+      "location": "George spits his bagel out",
+      "normalized_location": "george_spits_his_bagel_out"
+    },
+    {
+      "entry_id": 172,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Alright. Uh, well, I'm out of here.",
+      "raw_text": "Alright. Uh, well, I'm out of here."
+    },
+    {
+      "entry_id": 173,
+      "type": "action",
+      "text": "Gets up to leave",
+      "raw_text": "(Gets up to leave)"
+    },
+    {
+      "entry_id": 174,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Happy Festivus!",
+      "raw_text": "Happy Festivus!"
+    },
+    {
+      "entry_id": 175,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What's Festivus?",
+      "raw_text": "What's Festivus?"
+    },
+    {
+      "entry_id": 176,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "When George was growing up..",
+      "raw_text": "When George was growing up.."
+    },
+    {
+      "entry_id": 177,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No!",
+      "raw_text": "(Interrupting) No!",
+      "parenthetical": "Interrupting"
+    },
+    {
+      "entry_id": 178,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "His father..",
+      "raw_text": "His father.."
+    },
+    {
+      "entry_id": 179,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Stop it! It's nothing. It's a stupid holiday my father invented. It doesn't exist!",
+      "raw_text": "Stop it! It's nothing. It's a stupid holiday my father invented. It doesn't exist!"
+    },
+    {
+      "entry_id": 180,
+      "type": "action",
+      "text": "Elaine enters while George is exiting",
+      "raw_text": "(Elaine enters while George is exiting)"
+    },
+    {
+      "entry_id": 181,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Happy Festivus, Georgie.",
+      "raw_text": "Happy Festivus, Georgie."
+    },
+    {
+      "entry_id": 182,
+      "type": "scene_heading",
+      "text": "[Setting: George leaves yelling out \"God!\"]",
+      "raw_text": "(George leaves yelling out \"God!\")",
+      "confidence": 0.9,
+      "location": "George leaves yelling out \"God!\"",
+      "normalized_location": "george_leaves_yelling_out_god"
+    },
+    {
+      "entry_id": 183,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Frank invented a holiday? He's so prolific!",
+      "raw_text": "Frank invented a holiday? He's so prolific!"
+    },
+    {
+      "entry_id": 184,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Kramer, listen, I got a little phone relay going, so, if a guy calls H&H and he's looking for me, you take a message.",
+      "raw_text": "Kramer, listen, I got a little phone relay going, so, if a guy calls H&H and he's looking for me, you take a message."
+    },
+    {
+      "entry_id": 185,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You're still trying to gget that free sub?",
+      "raw_text": "You're still trying to gget that free sub?"
+    },
+    {
+      "entry_id": 186,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hey! I have spent a lot of time, and I have eaten a lot of crap to get to where I am today. And I am NOT throwing it all away now.",
+      "raw_text": "Hey! I have spent a lot of time, and I have eaten a lot of crap to get to where I am today. And I am NOT throwing it all away now."
+    },
+    {
+      "entry_id": 187,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Is there a captain's hat involved in this?",
+      "raw_text": "Is there a captain's hat involved in this?"
+    },
+    {
+      "entry_id": 188,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Maybe.",
+      "raw_text": "Maybe."
+    },
+    {
+      "entry_id": 189,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 190,
+      "type": "action",
+      "text": "H&H Bagel Shop)",
+      "raw_text": "H&H Bagel Shop)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 191,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Kramer, I got your message. I haven't celebrated Festivus in years! What is your interest?",
+      "raw_text": "Kramer, I got your message. I haven't celebrated Festivus in years! What is your interest?"
+    },
+    {
+      "entry_id": 192,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, just tell me everything, huh?",
+      "raw_text": "Well, just tell me everything, huh?"
+    },
+    {
+      "entry_id": 193,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Many Christmases ago, I went to buy a doll for my son. I reach for the last one they had - but so did another man. As I rained blows opon him, I realized there had to be another way!",
+      "raw_text": "Many Christmases ago, I went to buy a doll for my son. I reach for the last one they had - but so did another man. As I rained blows opon him, I realized there had to be another way!"
+    },
+    {
+      "entry_id": 194,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What happened to the doll?",
+      "raw_text": "What happened to the doll?"
+    },
+    {
+      "entry_id": 195,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "It was destroyed. But out of that, a new holiday was born. \"A Festivus for the rest of us!\"",
+      "raw_text": "It was destroyed. But out of that, a new holiday was born. \"A Festivus for the rest of us!\""
+    },
+    {
+      "entry_id": 196,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "That musta been some kind of doll.",
+      "raw_text": "That musta been some kind of doll."
+    },
+    {
+      "entry_id": 197,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "She was.",
+      "raw_text": "She was."
+    },
+    {
+      "entry_id": 198,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 199,
+      "type": "action",
+      "text": "Kruger Office Building)",
+      "raw_text": "Kruger Office Building)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 200,
+      "type": "action",
+      "text": "George is in the hallway, dispensing his made-up gifts",
+      "raw_text": "(George is in the hallway, dispensing his made-up gifts)"
+    },
+    {
+      "entry_id": 201,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Merry Christmas, Merry Christmas! (Co-worker gives a gift to George) Oh, Sandy! Here is a little something for you.. (hands her a card)",
+      "raw_text": "Merry Christmas, Merry Christmas! (Co-worker gives a gift to George) Oh, Sandy! Here is a little something for you.. (hands her a card)"
+    },
+    {
+      "entry_id": 202,
+      "type": "dialogue",
+      "speaker": "SANDY",
+      "normalized_speaker": "sandy",
+      "text": "..Oh.. thanks.",
+      "raw_text": "(After reading the cheap gift, she's suddenly unimpressed) ..Oh.. thanks.",
+      "parenthetical": "After reading the cheap gift, she's suddenly unimpressed"
+    },
+    {
+      "entry_id": 203,
+      "type": "action",
+      "text": "Walks off",
+      "raw_text": "(Walks off)"
+    },
+    {
+      "entry_id": 204,
+      "type": "scene_heading",
+      "text": "[Setting: George passes an open doorway]",
+      "raw_text": "(George passes an open doorway)",
+      "confidence": 0.9,
+      "location": "George passes an open doorway",
+      "normalized_location": "george_passes_an_open_doorway"
+    },
+    {
+      "entry_id": 205,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Phil, I loved those cigars! Incoming!",
+      "raw_text": "Phil, I loved those cigars! Incoming!"
+    },
+    {
+      "entry_id": 206,
+      "type": "scene_heading",
+      "text": "[Setting: Flicks his card tward Phil]",
+      "raw_text": "(Flicks his card tward Phil)",
+      "confidence": 0.9,
+      "location": "Flicks his card tward Phil",
+      "normalized_location": "flicks_his_card_tward_phil"
+    },
+    {
+      "entry_id": 207,
+      "type": "dialogue",
+      "speaker": "PHIL",
+      "normalized_speaker": "phil",
+      "text": "Ow!",
+      "raw_text": "Ow!"
+    },
+    {
+      "entry_id": 208,
+      "type": "scene_heading",
+      "text": "[Setting: George meets up with Kruger]",
+      "raw_text": "(George meets up with Kruger)",
+      "confidence": 0.9,
+      "location": "George meets up with Kruger",
+      "normalized_location": "george_meets_up_with_kruger"
+    },
+    {
+      "entry_id": 209,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Aw, Mr. Kruger, Sir. Merry Christmas!",
+      "raw_text": "Aw, Mr. Kruger, Sir. Merry Christmas!"
+    },
+    {
+      "entry_id": 210,
+      "type": "scene_heading",
+      "text": "[Setting: Hands him a card]",
+      "raw_text": "(Hands him a card)",
+      "confidence": 0.9,
+      "location": "Hands him a card",
+      "normalized_location": "hands_him_a_card"
+    },
+    {
+      "entry_id": 211,
+      "type": "dialogue",
+      "speaker": "KRUGER",
+      "normalized_speaker": "kruger",
+      "text": "Not if you could see our books.. what's this?",
+      "raw_text": "Not if you could see our books.. what's this?"
+    },
+    {
+      "entry_id": 212,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "The Human Fund.",
+      "raw_text": "The Human Fund."
+    },
+    {
+      "entry_id": 213,
+      "type": "dialogue",
+      "speaker": "KRUGER",
+      "normalized_speaker": "kruger",
+      "text": "Whatever. (Walks off)",
+      "raw_text": "Whatever. (Walks off)"
+    },
+    {
+      "entry_id": 214,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Exactly. (Sees an off-camera co-worker) Erica!",
+      "raw_text": "Exactly. (Sees an off-camera co-worker) Erica!"
+    },
+    {
+      "entry_id": 215,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 216,
+      "type": "action",
+      "text": "H&H Bagel Shop)",
+      "raw_text": "H&H Bagel Shop)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 217,
+      "type": "scene_heading",
+      "text": "[Setting: Frank is still telling Kramer about Festivus]",
+      "raw_text": "(Frank is still telling Kramer about Festivus)",
+      "confidence": 0.9,
+      "location": "Frank is still telling Kramer about Festivus",
+      "normalized_location": "frank_is_still_telling_kramer_about_festivus"
+    },
+    {
+      "entry_id": 218,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "And at the Festivus dinner, you gather your family around, and you tell them all the ways they have disappointed you over the past year.",
+      "raw_text": "And at the Festivus dinner, you gather your family around, and you tell them all the ways they have disappointed you over the past year."
+    },
+    {
+      "entry_id": 219,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Is there a tree?",
+      "raw_text": "Is there a tree?"
+    },
+    {
+      "entry_id": 220,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "No. Instead, there's a pole. It requires not decoration. I find tinsel distracting.",
+      "raw_text": "No. Instead, there's a pole. It requires not decoration. I find tinsel distracting."
+    },
+    {
+      "entry_id": 221,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Frank, this new holiday of yours is scratching me right where I itch.",
+      "raw_text": "Frank, this new holiday of yours is scratching me right where I itch."
+    },
+    {
+      "entry_id": 222,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Let's do it then! Festivus is back! I'll get the pole out of the crawl space.",
+      "raw_text": "Let's do it then! Festivus is back! I'll get the pole out of the crawl space."
+    },
+    {
+      "entry_id": 223,
+      "type": "action",
+      "text": "Turns to leave, meets up with Elaine",
+      "raw_text": "(Turns to leave, meets up with Elaine)"
+    },
+    {
+      "entry_id": 224,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hello, Frank.",
+      "raw_text": "Hello, Frank."
+    },
+    {
+      "entry_id": 225,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Hello, woman. (leaves)",
+      "raw_text": "Hello, woman. (leaves)"
+    },
+    {
+      "entry_id": 226,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Kramer! Kramer.. any word from the vest?",
+      "raw_text": "Kramer! Kramer.. any word from the vest?"
+    },
+    {
+      "entry_id": 227,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "No. (To manager of H&H) Ah, listen, Harry, I need the 23rd off.",
+      "raw_text": "No. (To manager of H&H) Ah, listen, Harry, I need the 23rd off."
+    },
+    {
+      "entry_id": 228,
+      "type": "dialogue",
+      "speaker": "MANAGER",
+      "normalized_speaker": "manager",
+      "text": "Hey! I hired you to work during the holidays. This is the holidays.",
+      "raw_text": "Hey! I hired you to work during the holidays. This is the holidays."
+    },
+    {
+      "entry_id": 229,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "But it's Festivus.",
+      "raw_text": "But it's Festivus."
+    },
+    {
+      "entry_id": 230,
+      "type": "dialogue",
+      "speaker": "MANAGER",
+      "normalized_speaker": "manager",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 231,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You know you're infringing on my right to celebrate new holidays..",
+      "raw_text": "You know you're infringing on my right to celebrate new holidays.."
+    },
+    {
+      "entry_id": 232,
+      "type": "dialogue",
+      "speaker": "MANAGER",
+      "normalized_speaker": "manager",
+      "text": "That's not a right.",
+      "raw_text": "That's not a right."
+    },
+    {
+      "entry_id": 233,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, it's going to be! Because I'm going back on strike. Come on Elaine. (Takes of his apron, and goes for his coat) It's a walk out!",
+      "raw_text": "Well, it's going to be! Because I'm going back on strike. Come on Elaine. (Takes of his apron, and goes for his coat) It's a walk out!"
+    },
+    {
+      "entry_id": 234,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No, I got to stay here and wait for the call.",
+      "raw_text": "No, I got to stay here and wait for the call."
+    },
+    {
+      "entry_id": 235,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What? You're siding with management?!",
+      "raw_text": "What? You're siding with management?!"
+    },
+    {
+      "entry_id": 236,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No, I just..",
+      "raw_text": "No, I just.."
+    },
+    {
+      "entry_id": 237,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Scab! Scab! (pointing at Elaine) Scab!",
+      "raw_text": "(Interrupting) Scab! Scab! (pointing at Elaine) Scab!",
+      "parenthetical": "Interrupting"
+    },
+    {
+      "entry_id": 238,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 239,
+      "type": "action",
+      "text": "Taxi Cab)",
+      "raw_text": "Taxi Cab)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 240,
+      "type": "scene_heading",
+      "text": "[Setting: Gwen joins Jerry in the cab]",
+      "raw_text": "(Gwen joins Jerry in the cab. She's in her attractive state)",
+      "confidence": 0.9,
+      "location": "Gwen joins Jerry in the cab",
+      "normalized_location": "gwen_joins_jerry_in_the_cab",
+      "inference_notes": [
+        "Scene heading and opening action were split from a single parenthetical source line."
+      ]
+    },
+    {
+      "entry_id": 241,
+      "type": "action",
+      "text": "She's in her attractive state",
+      "raw_text": "(Gwen joins Jerry in the cab. She's in her attractive state)",
+      "confidence": 0.75
+    },
+    {
+      "entry_id": 242,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "Hey.",
+      "raw_text": "Hey."
+    },
+    {
+      "entry_id": 243,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Boy, am I glad to see you.",
+      "raw_text": "Boy, am I glad to see you."
+    },
+    {
+      "entry_id": 244,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "You were expecting someone else?",
+      "raw_text": "You were expecting someone else?"
+    },
+    {
+      "entry_id": 245,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You never know.",
+      "raw_text": "You never know."
+    },
+    {
+      "entry_id": 246,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "You know, you might want to take the tunnel.",
+      "raw_text": "(To driver) You know, you might want to take the tunnel.",
+      "parenthetical": "To driver"
+    },
+    {
+      "entry_id": 247,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So, uh, what do you feel like eating? Chinese or Italian?",
+      "raw_text": "So, uh, what do you feel like eating? Chinese or Italian?"
+    },
+    {
+      "entry_id": 248,
+      "type": "scene_heading",
+      "text": "[Setting: All the sudden, Gwen is extremely ugly]",
+      "raw_text": "(All the sudden, Gwen is extremely ugly)",
+      "confidence": 0.9,
+      "location": "All the sudden, Gwen is extremely ugly",
+      "normalized_location": "all_the_sudden_gwen_is_extremely_ugly"
+    },
+    {
+      "entry_id": 249,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "I can go either way.",
+      "raw_text": "I can go either way."
+    },
+    {
+      "entry_id": 250,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You're telling me.",
+      "raw_text": "(Shocked) You're telling me.",
+      "parenthetical": "Shocked"
+    },
+    {
+      "entry_id": 251,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 252,
+      "type": "action",
+      "text": "the Coffee Shop)",
+      "raw_text": "the Coffee Shop)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 253,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So, she was switching? Back and forth?",
+      "raw_text": "So, she was switching? Back and forth?"
+    },
+    {
+      "entry_id": 254,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Actually, the only place she always looked good was in that back booth over there.",
+      "raw_text": "Actually, the only place she always looked good was in that back booth over there."
+    },
+    {
+      "entry_id": 255,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So, just bring her here. This is all you really need.",
+      "raw_text": "So, just bring her here. This is all you really need."
+    },
+    {
+      "entry_id": 256,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I can't just keep bringing her to the coffee shop. I mean, what if things, you know, progress?",
+      "raw_text": "I can't just keep bringing her to the coffee shop. I mean, what if things, you know, progress?"
+    },
+    {
+      "entry_id": 257,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Lights out.",
+      "raw_text": "Lights out."
+    },
+    {
+      "entry_id": 258,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Alright, I'll give it a shot! I do really like this coffee shop. Nice cuff links, by the way.",
+      "raw_text": "Alright, I'll give it a shot! I do really like this coffee shop. Nice cuff links, by the way."
+    },
+    {
+      "entry_id": 259,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Office Christmas gift. I tell you, this Human Fund is a gold mine!",
+      "raw_text": "(Pointing to them) Office Christmas gift. I tell you, this Human Fund is a gold mine!",
+      "parenthetical": "Pointing to them"
+    },
+    {
+      "entry_id": 260,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "That's not a french cuff shirt, you know.",
+      "raw_text": "That's not a french cuff shirt, you know."
+    },
+    {
+      "entry_id": 261,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I know. I cut the button off and poked a hole with a letter opener.",
+      "raw_text": "I know. I cut the button off and poked a hole with a letter opener."
+    },
+    {
+      "entry_id": 262,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh, that's classy.",
+      "raw_text": "Oh, that's classy."
+    },
+    {
+      "entry_id": 263,
+      "type": "scene_heading",
+      "text": "[Setting: Frank and Kramer enter]",
+      "raw_text": "(Frank and Kramer enter. Frank is dragging an aluminum pole)",
+      "confidence": 0.9,
+      "location": "Frank and Kramer enter",
+      "normalized_location": "frank_and_kramer_enter",
+      "inference_notes": [
+        "Scene heading and opening action were split from a single parenthetical source line."
+      ]
+    },
+    {
+      "entry_id": 264,
+      "type": "action",
+      "text": "Frank is dragging an aluminum pole",
+      "raw_text": "(Frank and Kramer enter. Frank is dragging an aluminum pole)",
+      "confidence": 0.75
+    },
+    {
+      "entry_id": 265,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, Happy Festivus.",
+      "raw_text": "Well, Happy Festivus."
+    },
+    {
+      "entry_id": 266,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What is that? Is taht the pole?!",
+      "raw_text": "What is that? Is taht the pole?!"
+    },
+    {
+      "entry_id": 267,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "George, Festivus is your heritage - it's part of who you are.",
+      "raw_text": "George, Festivus is your heritage - it's part of who you are."
+    },
+    {
+      "entry_id": 268,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "That's why I hate it.",
+      "raw_text": "(Sulking) That's why I hate it.",
+      "parenthetical": "Sulking"
+    },
+    {
+      "entry_id": 269,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "There's a big dinner Tuesday night at Frank's house - everyone's invited.",
+      "raw_text": "There's a big dinner Tuesday night at Frank's house - everyone's invited."
+    },
+    {
+      "entry_id": 270,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "George, you're forgetting how much Festivus has meant to us all. I brought one of the casette tapes. (Franks pushes play, George as a child celebrating Festivus is heard)",
+      "raw_text": "George, you're forgetting how much Festivus has meant to us all. I brought one of the casette tapes. (Franks pushes play, George as a child celebrating Festivus is heard)"
+    },
+    {
+      "entry_id": 271,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Read that poem.",
+      "raw_text": "Read that poem."
+    },
+    {
+      "entry_id": 272,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I can't read it. I need my glasses!",
+      "raw_text": "(Complaining) I can't read it. I need my glasses!",
+      "parenthetical": "Complaining"
+    },
+    {
+      "entry_id": 273,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "You don't need glasses, you're just weak! You're weak!",
+      "raw_text": "You don't need glasses, you're just weak! You're weak!"
+    },
+    {
+      "entry_id": 274,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Leave him alone!",
+      "raw_text": "Leave him alone!"
+    },
+    {
+      "entry_id": 275,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Alright, George. It's time for the feats of strength.",
+      "raw_text": "Alright, George. It's time for the feats of strength."
+    },
+    {
+      "entry_id": 276,
+      "type": "scene_heading",
+      "text": "[Setting: George has a break down]",
+      "raw_text": "(George has a break down)",
+      "confidence": 0.9,
+      "location": "George has a break down",
+      "normalized_location": "george_has_a_break_down"
+    },
+    {
+      "entry_id": 277,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No! No! Turn it off! No feats of strength! (Gets up and starts running out of the coffee shop) I hate Festivus!",
+      "raw_text": "No! No! Turn it off! No feats of strength! (Gets up and starts running out of the coffee shop) I hate Festivus!"
+    },
+    {
+      "entry_id": 278,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "We had some good times.",
+      "raw_text": "We had some good times."
+    },
+    {
+      "entry_id": 279,
+      "type": "action",
+      "text": "Gwen walks in, and greets Jerry. She's in her unattractive state",
+      "raw_text": "(Gwen walks in, and greets Jerry. She's in her unattractive state)"
+    },
+    {
+      "entry_id": 280,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "Hey.",
+      "raw_text": "Hey."
+    },
+    {
+      "entry_id": 281,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I there. This is Kramer, and Frank.",
+      "raw_text": "I there. This is Kramer, and Frank."
+    },
+    {
+      "entry_id": 282,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "Hi.",
+      "raw_text": "Hi."
+    },
+    {
+      "entry_id": 283,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hello.",
+      "raw_text": "Hello.",
+      "parenthetical": "Shocked at her ugliness, he stammers"
+    },
+    {
+      "entry_id": 284,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "So, you ready to go?",
+      "raw_text": "So, you ready to go?"
+    },
+    {
+      "entry_id": 285,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Uh, why don't we stay here? The back booth just opened up. (They both walk to the booth and sit down. Suddenly, Gwen is attractive) Now this is a good looking booth.",
+      "raw_text": "Uh, why don't we stay here? The back booth just opened up. (They both walk to the booth and sit down. Suddenly, Gwen is attractive) Now this is a good looking booth."
+    },
+    {
+      "entry_id": 286,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 287,
+      "type": "action",
+      "text": "H&H Bagel Shop)",
+      "raw_text": "H&H Bagel Shop)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 288,
+      "type": "scene_heading",
+      "text": "[Setting: Kramer is picketing out side]",
+      "raw_text": "(Kramer is picketing out side.)",
+      "confidence": 0.9,
+      "location": "Kramer is picketing out side",
+      "normalized_location": "kramer_is_picketing_out_side"
+    },
+    {
+      "entry_id": 289,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Protect Festivus! Hey, no bagels, no bagels, no bagels, (Continues to chant)",
+      "raw_text": "Protect Festivus! Hey, no bagels, no bagels, no bagels, (Continues to chant)"
+    },
+    {
+      "entry_id": 290,
+      "type": "scene_heading",
+      "text": "[Setting: Cut to inside the store]",
+      "raw_text": "(Cut to inside the store)",
+      "confidence": 0.9,
+      "location": "Cut to inside the store",
+      "normalized_location": "cut_to_inside_the_store"
+    },
+    {
+      "entry_id": 291,
+      "type": "dialogue",
+      "speaker": "MANAGER",
+      "normalized_speaker": "manager",
+      "text": "Lady, if you want a sandwich, I'll make you a sandwich.",
+      "raw_text": "(To a waiting Elaine) Lady, if you want a sandwich, I'll make you a sandwich.",
+      "parenthetical": "To a waiting Elaine"
+    },
+    {
+      "entry_id": 292,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I want the one that I earned. (Phone rings) I'll get it. I'll get it! (Into phone) H&H, and Elaine.",
+      "raw_text": "(Whining) I want the one that I earned. (Phone rings) I'll get it. I'll get it! (Into phone) H&H, and Elaine.",
+      "parenthetical": "Whining"
+    },
+    {
+      "entry_id": 293,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Elaine, you should get out of there. I sabotaged the bagel machine last night. It's going down.",
+      "raw_text": "(From a phone booth right outside the store) Elaine, you should get out of there. I sabotaged the bagel machine last night. It's going down.",
+      "parenthetical": "From a phone booth right outside the store"
+    },
+    {
+      "entry_id": 294,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What did you do?",
+      "raw_text": "What did you do?"
+    },
+    {
+      "entry_id": 295,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You've been warned.",
+      "raw_text": "You've been warned."
+    },
+    {
+      "entry_id": 296,
+      "type": "action",
+      "text": "Elaine looks out the window, and sees Kramer at the pay phone",
+      "raw_text": "(Elaine looks out the window, and sees Kramer at the pay phone)"
+    },
+    {
+      "entry_id": 297,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, hi! (Waves at him) (Steam starts coming from a pipe on the machine. Elaine hangs up)",
+      "raw_text": "Oh, hi! (Waves at him) (Steam starts coming from a pipe on the machine. Elaine hangs up)"
+    },
+    {
+      "entry_id": 298,
+      "type": "dialogue",
+      "speaker": "WORKER",
+      "normalized_speaker": "worker",
+      "text": "Hey, the steam valve's broke.",
+      "raw_text": "Hey, the steam valve's broke."
+    },
+    {
+      "entry_id": 299,
+      "type": "dialogue",
+      "speaker": "MANAGER",
+      "normalized_speaker": "manager",
+      "text": "Can we still make bagels?",
+      "raw_text": "Can we still make bagels?"
+    },
+    {
+      "entry_id": 300,
+      "type": "dialogue",
+      "speaker": "WORKER",
+      "normalized_speaker": "worker",
+      "text": "Sure. It's just a little steamy.",
+      "raw_text": "Sure. It's just a little steamy."
+    },
+    {
+      "entry_id": 301,
+      "type": "scene_heading",
+      "text": "[Setting: Kramer knocks on the shop door]",
+      "raw_text": "(Kramer knocks on the shop door)",
+      "confidence": 0.9,
+      "location": "Kramer knocks on the shop door",
+      "normalized_location": "kramer_knocks_on_the_shop_door"
+    },
+    {
+      "entry_id": 302,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey! How do you like your bagels now?! (No one inside seems to care. Kramer waits by the door to see if anyone was affected)",
+      "raw_text": "Hey! How do you like your bagels now?! (No one inside seems to care. Kramer waits by the door to see if anyone was affected)"
+    },
+    {
+      "entry_id": 303,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 304,
+      "type": "action",
+      "text": "Kruger Building)",
+      "raw_text": "Kruger Building)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 305,
+      "type": "dialogue",
+      "speaker": "KRUGER",
+      "normalized_speaker": "kruger",
+      "text": "George, I got something for you. (Pulls a check from his pocket) I'm suppose to find a charity and throw some of the company's money at it. They all seem the same to me, so, what's the difference? (Hands the check to George)",
+      "raw_text": "George, I got something for you. (Pulls a check from his pocket) I'm suppose to find a charity and throw some of the company's money at it. They all seem the same to me, so, what's the difference? (Hands the check to George)"
+    },
+    {
+      "entry_id": 306,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "20 thousand dollars?",
+      "raw_text": "20 thousand dollars?"
+    },
+    {
+      "entry_id": 307,
+      "type": "dialogue",
+      "speaker": "KRUGER",
+      "normalized_speaker": "kruger",
+      "text": "Made out to the Human Fund. (Tries to enter his office, but it's locked) Oh, damn. I've locked myself out of my office again. Oh well. I'm going home.",
+      "raw_text": "Made out to the Human Fund. (Tries to enter his office, but it's locked) Oh, damn. I've locked myself out of my office again. Oh well. I'm going home."
+    },
+    {
+      "entry_id": 308,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 309,
+      "type": "action",
+      "text": "Coffee Shop)",
+      "raw_text": "Coffee Shop)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 310,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "Jerry, how many times do we have to come to this.. place?",
+      "raw_text": "Jerry, how many times do we have to come to this.. place?"
+    },
+    {
+      "entry_id": 311,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Why? It's our place.",
+      "raw_text": "Why? It's our place."
+    },
+    {
+      "entry_id": 312,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "I just found a rubber band in my soup.",
+      "raw_text": "I just found a rubber band in my soup."
+    },
+    {
+      "entry_id": 313,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh.. I know who's cooking today!",
+      "raw_text": "Oh.. I know who's cooking today!"
+    },
+    {
+      "entry_id": 314,
+      "type": "scene_heading",
+      "text": "[Setting: Enter George]",
+      "raw_text": "(Enter George)",
+      "confidence": 0.9,
+      "location": "Enter George",
+      "normalized_location": "enter_george"
+    },
+    {
+      "entry_id": 315,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey! Surprise, surprise!",
+      "raw_text": "Hey! Surprise, surprise!"
+    },
+    {
+      "entry_id": 316,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey, Georgie!",
+      "raw_text": "Hey, Georgie!"
+    },
+    {
+      "entry_id": 317,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "I think I'm just gonna go.",
+      "raw_text": "I think I'm just gonna go."
+    },
+    {
+      "entry_id": 318,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I'll be here.",
+      "raw_text": "I'll be here."
+    },
+    {
+      "entry_id": 319,
+      "type": "scene_heading",
+      "text": "[Setting: Gwen leaves]",
+      "raw_text": "(Gwen leaves)",
+      "confidence": 0.9,
+      "location": "Gwen leaves",
+      "normalized_location": "gwen_leaves"
+    },
+    {
+      "entry_id": 320,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey, soup.",
+      "raw_text": "(Sees Gwen's meal) Hey, soup.",
+      "parenthetical": "Sees Gwen's meal"
+    },
+    {
+      "entry_id": 321,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "She didn't touch it.",
+      "raw_text": "She didn't touch it."
+    },
+    {
+      "entry_id": 322,
+      "type": "action",
+      "text": "George spoons through his soup, and finds a rubber band",
+      "raw_text": "(George spoons through his soup, and finds a rubber band)"
+    },
+    {
+      "entry_id": 323,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Ohh.. Paco! (Flicks rubber band tward the kitchen) Hey, take a look at this.",
+      "raw_text": "Ohh.. Paco! (Flicks rubber band tward the kitchen) Hey, take a look at this."
+    },
+    {
+      "entry_id": 324,
+      "type": "scene_heading",
+      "text": "[Setting: Hands Jerry Kruger's check]",
+      "raw_text": "(Hands Jerry Kruger's check)",
+      "confidence": 0.9,
+      "location": "Hands Jerry Kruger's check",
+      "normalized_location": "hands_jerry_kruger_s_check"
+    },
+    {
+      "entry_id": 325,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "20 thousand dollars from Kruger? You're not keeping this.",
+      "raw_text": "20 thousand dollars from Kruger? You're not keeping this."
+    },
+    {
+      "entry_id": 326,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I don't know.",
+      "raw_text": "I don't know."
+    },
+    {
+      "entry_id": 327,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Excuse me?",
+      "raw_text": "Excuse me?"
+    },
+    {
+      "entry_id": 328,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I've been doing a lot of thinking. This might be my chance to start giving something back.",
+      "raw_text": "I've been doing a lot of thinking. This might be my chance to start giving something back."
+    },
+    {
+      "entry_id": 329,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You want to give something back? Start with the 20 thousand dollars.",
+      "raw_text": "You want to give something back? Start with the 20 thousand dollars."
+    },
+    {
+      "entry_id": 330,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I'm serious.",
+      "raw_text": "I'm serious."
+    },
+    {
+      "entry_id": 331,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You're going to start your own charity?",
+      "raw_text": "You're going to start your own charity?"
+    },
+    {
+      "entry_id": 332,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I think I could be a philanthropist. a kick ass philanthropist! I would have all this money, and people would love me. Then they would come to me.. and beg! And if I felt like it, I would help them out. And then they would owe me big time! (Thinking to himself) .. First thing I'm gonna need is a driver..",
+      "raw_text": "I think I could be a philanthropist. a kick ass philanthropist! I would have all this money, and people would love me. Then they would come to me.. and beg! And if I felt like it, I would help them out. And then they would owe me big time! (Thinking to himself) .. First thing I'm gonna need is a driver.."
+    },
+    {
+      "entry_id": 333,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 334,
+      "type": "action",
+      "text": "Outside H&H Bagels) (Kramer is chanting 'no bagels, no bagels..' Elaine walks out, her make-up is distorted, and her face is pale because of the steam)",
+      "raw_text": "Outside H&H Bagels) (Kramer is chanting 'no bagels, no bagels..' Elaine walks out, her make-up is distorted, and her face is pale because of the steam)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 335,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Kramer, the vest just called.",
+      "raw_text": "Kramer, the vest just called."
+    },
+    {
+      "entry_id": 336,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yama - Hama! It's fright night!",
+      "raw_text": "(Shocked by the way Elaine looks) Yama - Hama! It's fright night!",
+      "parenthetical": "Shocked by the way Elaine looks"
+    },
+    {
+      "entry_id": 337,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, yeah, I got a little steam bath. Listen, in 10 minutes, I'm gonna have my hands on that \"Atomic Sub\" card.",
+      "raw_text": "Oh, yeah, I got a little steam bath. Listen, in 10 minutes, I'm gonna have my hands on that \"Atomic Sub\" card."
+    },
+    {
+      "entry_id": 338,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "And?",
+      "raw_text": "And?"
+    },
+    {
+      "entry_id": 339,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I'll see ya.",
+      "raw_text": "I'll see ya.",
+      "parenthetical": "Embarrassed) Free sub. (Starts to leave"
+    },
+    {
+      "entry_id": 340,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 341,
+      "type": "action",
+      "text": "Gwen walks by, she's in her ugly state",
+      "raw_text": "(Gwen walks by, she's in her ugly state)"
+    },
+    {
+      "entry_id": 342,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "Kramer, Hi!",
+      "raw_text": "Kramer, Hi!"
+    },
+    {
+      "entry_id": 343,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, hello.",
+      "raw_text": "Oh, hello."
+    },
+    {
+      "entry_id": 344,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "It's Gwen.. We met .. at the coffee shop.",
+      "raw_text": "It's Gwen.. We met .. at the coffee shop."
+    },
+    {
+      "entry_id": 345,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Ah-huh.",
+      "raw_text": "Ah-huh."
+    },
+    {
+      "entry_id": 346,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "I'm dating your friend, Jerry..",
+      "raw_text": "I'm dating your friend, Jerry.."
+    },
+    {
+      "entry_id": 347,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Ahh.. I don't know who you really are, but I've seen Jerry's girlfriend, and she's not you. You're much better looking - and like, a foot taller.",
+      "raw_text": "Ahh.. I don't know who you really are, but I've seen Jerry's girlfriend, and she's not you. You're much better looking - and like, a foot taller."
+    },
+    {
+      "entry_id": 348,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "That's why we're always hiding in that coffee shop! He's afraid of getting caught.",
+      "raw_text": "That's why we're always hiding in that coffee shop! He's afraid of getting caught."
+    },
+    {
+      "entry_id": 349,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, he's a tomcat.",
+      "raw_text": "Oh, he's a tomcat."
+    },
+    {
+      "entry_id": 350,
+      "type": "scene_heading",
+      "text": "[Setting: Cut to Elaine]",
+      "raw_text": "(Cut to Elaine)",
+      "confidence": 0.9,
+      "location": "Cut to Elaine",
+      "normalized_location": "cut_to_elaine"
+    },
+    {
+      "entry_id": 351,
+      "type": "action",
+      "text": "She meets up with Denim Vest on the street corner",
+      "raw_text": "(She meets up with Denim Vest on the street corner)"
+    },
+    {
+      "entry_id": 352,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Steve.",
+      "raw_text": "Steve."
+    },
+    {
+      "entry_id": 353,
+      "type": "dialogue",
+      "speaker": "DENIM VEST",
+      "normalized_speaker": "denim_vest",
+      "text": "Hmm?",
+      "raw_text": "Hmm?"
+    },
+    {
+      "entry_id": 354,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "It's Elaine.",
+      "raw_text": "It's Elaine."
+    },
+    {
+      "entry_id": 355,
+      "type": "dialogue",
+      "speaker": "DENIM VEST",
+      "normalized_speaker": "denim_vest",
+      "text": "From Tim Whatley's party?",
+      "raw_text": "From Tim Whatley's party?"
+    },
+    {
+      "entry_id": 356,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 357,
+      "type": "dialogue",
+      "speaker": "DENIM VEST",
+      "normalized_speaker": "denim_vest",
+      "text": "You look.. different.",
+      "raw_text": "You look.. different."
+    },
+    {
+      "entry_id": 358,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I see you're still sticking with the denim. (He's wearing a denim coat) Do you have that card that I gave you?",
+      "raw_text": "I see you're still sticking with the denim. (He's wearing a denim coat) Do you have that card that I gave you?"
+    },
+    {
+      "entry_id": 359,
+      "type": "dialogue",
+      "speaker": "DENIM VEST",
+      "normalized_speaker": "denim_vest",
+      "text": "Well, I had it back at my place, but I can't go there now.. I'll give it to you later, or something.",
+      "raw_text": "Well, I had it back at my place, but I can't go there now.. I'll give it to you later, or something."
+    },
+    {
+      "entry_id": 360,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No, no, no. You give me your number.",
+      "raw_text": "No, no, no. You give me your number."
+    },
+    {
+      "entry_id": 361,
+      "type": "dialogue",
+      "speaker": "DENIM VEST",
+      "normalized_speaker": "denim_vest",
+      "text": "Okay. Sure. (Pulls out a pad, and starts writing a number down) Do you have the mumps?",
+      "raw_text": "Okay. Sure. (Pulls out a pad, and starts writing a number down) Do you have the mumps?"
+    },
+    {
+      "entry_id": 362,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No.",
+      "raw_text": "No."
+    },
+    {
+      "entry_id": 363,
+      "type": "dialogue",
+      "speaker": "DENIM VEST",
+      "normalized_speaker": "denim_vest",
+      "text": "Typhoid?",
+      "raw_text": "Typhoid?"
+    },
+    {
+      "entry_id": 364,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No.",
+      "raw_text": "No."
+    },
+    {
+      "entry_id": 365,
+      "type": "dialogue",
+      "speaker": "DENIM VEST",
+      "normalized_speaker": "denim_vest",
+      "text": "Yama - Hama! (Elaine looks at the number, and sees it's the same as the number on a nearby truck)",
+      "raw_text": "Yama - Hama! (Elaine looks at the number, and sees it's the same as the number on a nearby truck)",
+      "parenthetical": "Hands her the paper, and runs off"
+    },
+    {
+      "entry_id": 366,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "A fake number! Blimey!",
+      "raw_text": "A fake number! Blimey!"
+    },
+    {
+      "entry_id": 367,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 368,
+      "type": "action",
+      "text": "Kruger's office)",
+      "raw_text": "Kruger's office)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 369,
+      "type": "dialogue",
+      "speaker": "KRUGER",
+      "normalized_speaker": "kruger",
+      "text": "George, we have a problem. There's a memo, here, from accounting telling me there's no such thing as the Human Fund.",
+      "raw_text": "George, we have a problem. There's a memo, here, from accounting telling me there's no such thing as the Human Fund."
+    },
+    {
+      "entry_id": 370,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, there could be.",
+      "raw_text": "Well, there could be."
+    },
+    {
+      "entry_id": 371,
+      "type": "dialogue",
+      "speaker": "KRUGER",
+      "normalized_speaker": "kruger",
+      "text": "But there isn't.",
+      "raw_text": "But there isn't."
+    },
+    {
+      "entry_id": 372,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, I - I could, Uh, I could give the money back. Here. (Holds it out)",
+      "raw_text": "Well, I - I could, Uh, I could give the money back. Here. (Holds it out)"
+    },
+    {
+      "entry_id": 373,
+      "type": "dialogue",
+      "speaker": "KRUGER",
+      "normalized_speaker": "kruger",
+      "text": "George, I don't get it. If there's no Human Fund, those donation cards were fake. You better have a damn good reason why you gave me a fake Christmas gift.",
+      "raw_text": "George, I don't get it. If there's no Human Fund, those donation cards were fake. You better have a damn good reason why you gave me a fake Christmas gift."
+    },
+    {
+      "entry_id": 374,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, sir, I - I gave out the fake card, because, um, I don't really celebrate Christmas. I, um, I celebrate Festivus.",
+      "raw_text": "Well, sir, I - I gave out the fake card, because, um, I don't really celebrate Christmas. I, um, I celebrate Festivus."
+    },
+    {
+      "entry_id": 375,
+      "type": "dialogue",
+      "speaker": "KRUGER",
+      "normalized_speaker": "kruger",
+      "text": "Vemonous?",
+      "raw_text": "Vemonous?"
+    },
+    {
+      "entry_id": 376,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Festivus, Sir. And, uh, I was afraid that I would be persecuted for my beliefs. They drove my family out of Bayside, Sir!",
+      "raw_text": "Festivus, Sir. And, uh, I was afraid that I would be persecuted for my beliefs. They drove my family out of Bayside, Sir!"
+    },
+    {
+      "entry_id": 377,
+      "type": "dialogue",
+      "speaker": "KRUGER",
+      "normalized_speaker": "kruger",
+      "text": "Are you making all this up, too?",
+      "raw_text": "Are you making all this up, too?"
+    },
+    {
+      "entry_id": 378,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh, no, Sir. Festivus is all too real. And.. I could prove it - if I had to.",
+      "raw_text": "Oh, no, Sir. Festivus is all too real. And.. I could prove it - if I had to."
+    },
+    {
+      "entry_id": 379,
+      "type": "dialogue",
+      "speaker": "KRUGER",
+      "normalized_speaker": "kruger",
+      "text": "Yeah, you probably should.",
+      "raw_text": "Yeah, you probably should."
+    },
+    {
+      "entry_id": 380,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 381,
+      "type": "action",
+      "text": "The Costanza's house)",
+      "raw_text": "The Costanza's house)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 382,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Happy Festivus!",
+      "raw_text": "Happy Festivus!"
+    },
+    {
+      "entry_id": 383,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "George? This is a surprise. (Looking at Kruger) Who's the suit?",
+      "raw_text": "George? This is a surprise. (Looking at Kruger) Who's the suit?"
+    },
+    {
+      "entry_id": 384,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yo, dad. This is my boss, Mr. Kruger.",
+      "raw_text": "Yo, dad. This is my boss, Mr. Kruger."
+    },
+    {
+      "entry_id": 385,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Have you seen the pole, Kruger?",
+      "raw_text": "Have you seen the pole, Kruger?"
+    },
+    {
+      "entry_id": 386,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Dad, he doesn't need to see the pole.",
+      "raw_text": "Dad, he doesn't need to see the pole."
+    },
+    {
+      "entry_id": 387,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "He's gonna see it.",
+      "raw_text": "He's gonna see it."
+    },
+    {
+      "entry_id": 388,
+      "type": "scene_heading",
+      "text": "[Setting: Enter Jerry and Elaine]",
+      "raw_text": "(Enter Jerry and Elaine. Elaine is still ugly from the steam)",
+      "confidence": 0.9,
+      "location": "Enter Jerry and Elaine",
+      "normalized_location": "enter_jerry_and_elaine",
+      "inference_notes": [
+        "Scene heading and opening action were split from a single parenthetical source line."
+      ]
+    },
+    {
+      "entry_id": 389,
+      "type": "action",
+      "text": "Elaine is still ugly from the steam",
+      "raw_text": "(Enter Jerry and Elaine. Elaine is still ugly from the steam)",
+      "confidence": 0.75
+    },
+    {
+      "entry_id": 390,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Happy Festivus! (Sees Elaine) Yama - Hama!",
+      "raw_text": "Happy Festivus! (Sees Elaine) Yama - Hama!"
+    },
+    {
+      "entry_id": 391,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I didn't have time to go home. What are you doing here?",
+      "raw_text": "I didn't have time to go home. What are you doing here?"
+    },
+    {
+      "entry_id": 392,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Embracing my roots.",
+      "raw_text": "Embracing my roots."
+    },
+    {
+      "entry_id": 393,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "They nailed you on the 20 G's?",
+      "raw_text": "They nailed you on the 20 G's?"
+    },
+    {
+      "entry_id": 394,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Busted cold.",
+      "raw_text": "Busted cold."
+    },
+    {
+      "entry_id": 395,
+      "type": "scene_heading",
+      "text": "[Setting: Cut to Kruger and Frank]",
+      "raw_text": "(Cut to Kruger and Frank)",
+      "confidence": 0.9,
+      "location": "Cut to Kruger and Frank",
+      "normalized_location": "cut_to_kruger_and_frank"
+    },
+    {
+      "entry_id": 396,
+      "type": "scene_heading",
+      "text": "[Setting: They're looking at the Festivus pole]",
+      "raw_text": "(They're looking at the Festivus pole)",
+      "confidence": 0.9,
+      "location": "They're looking at the Festivus pole",
+      "normalized_location": "they_re_looking_at_the_festivus_pole"
+    },
+    {
+      "entry_id": 397,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "It's made from aluminum. Very high strength-to-weight ratio.",
+      "raw_text": "It's made from aluminum. Very high strength-to-weight ratio."
+    },
+    {
+      "entry_id": 398,
+      "type": "dialogue",
+      "speaker": "KRUGER",
+      "normalized_speaker": "kruger",
+      "text": "I find your belief system fascinating.",
+      "raw_text": "I find your belief system fascinating."
+    },
+    {
+      "entry_id": 399,
+      "type": "scene_heading",
+      "text": "[Setting: Enter Kramer]",
+      "raw_text": "(Enter Kramer)",
+      "confidence": 0.9,
+      "location": "Enter Kramer",
+      "normalized_location": "enter_kramer"
+    },
+    {
+      "entry_id": 400,
+      "type": "action",
+      "text": "Kramer's with the two bookies from Horse Track Betting",
+      "raw_text": "(Kramer's with the two bookies from Horse Track Betting)"
+    },
+    {
+      "entry_id": 401,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey! Happy Festivus, everyone! (Hugs George, and jumps up and down) Hee, hee, hee!",
+      "raw_text": "Hey! Happy Festivus, everyone! (Hugs George, and jumps up and down) Hee, hee, hee!"
+    },
+    {
+      "entry_id": 402,
+      "type": "dialogue",
+      "speaker": "BOOKIE",
+      "normalized_speaker": "bookie",
+      "text": "Hello again, Miss Benes.",
+      "raw_text": "Hello again, Miss Benes."
+    },
+    {
+      "entry_id": 403,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What are you doing here?",
+      "raw_text": "What are you doing here?"
+    },
+    {
+      "entry_id": 404,
+      "type": "dialogue",
+      "speaker": "BOOKIE",
+      "normalized_speaker": "bookie",
+      "text": "Damnedest thing.. me and Charlie were calling to ask you out, and, uh, we got this bagel place..",
+      "raw_text": "Damnedest thing.. me and Charlie were calling to ask you out, and, uh, we got this bagel place.."
+    },
+    {
+      "entry_id": 405,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "(Finishing the story) I told them I was just about to see you.. It's a Festivus miracle! (Estelle comes through the kitchen door, hitting Kramer as she opens it)",
+      "raw_text": "(Finishing the story) I told them I was just about to see you.. It's a Festivus miracle! (Estelle comes through the kitchen door, hitting Kramer as she opens it)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 406,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Dinner's ready!",
+      "raw_text": "Dinner's ready!"
+    },
+    {
+      "entry_id": 407,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Let's begin. Dr.. Van Nostrand?",
+      "raw_text": "Let's begin. Dr.. Van Nostrand?"
+    },
+    {
+      "entry_id": 408,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Uh.. that's right.",
+      "raw_text": "Uh.. that's right."
+    },
+    {
+      "entry_id": 409,
+      "type": "scene_heading",
+      "text": "[Setting: Cut to Frank]",
+      "raw_text": "(Cut to Frank)",
+      "confidence": 0.9,
+      "location": "Cut to Frank",
+      "normalized_location": "cut_to_frank"
+    },
+    {
+      "entry_id": 410,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Welcome, new comers. The tradition of Festivus begins with the airing of grievances. I got a lot of problems with you people! And now you're gonna hear about it! You, Kruger. My son tells me your company stinks!",
+      "raw_text": "Welcome, new comers. The tradition of Festivus begins with the airing of grievances. I got a lot of problems with you people! And now you're gonna hear about it! You, Kruger. My son tells me your company stinks!"
+    },
+    {
+      "entry_id": 411,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh, God.",
+      "raw_text": "Oh, God."
+    },
+    {
+      "entry_id": 412,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "(To George) Quiet, you'll get yours in a minute. Kruger, you couldn't smooth a silk sheet if you had a hot date with a babe.. I lost my train of thought. (Frank sits down, Jerry gives a face that says \"That's a shame\". Gwen walks in)",
+      "raw_text": "(To George) Quiet, you'll get yours in a minute. Kruger, you couldn't smooth a silk sheet if you had a hot date with a babe.. I lost my train of thought. (Frank sits down, Jerry gives a face that says \"That's a shame\". Gwen walks in)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 413,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "Jerry!",
+      "raw_text": "Jerry!"
+    },
+    {
+      "entry_id": 414,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Gwen! How'd you know I was here?",
+      "raw_text": "Gwen! How'd you know I was here?"
+    },
+    {
+      "entry_id": 415,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "Kramer told me.",
+      "raw_text": "Kramer told me."
+    },
+    {
+      "entry_id": 416,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Another Festivus miracle! (Jerry gives Kramer a death stare. He shuts up. Gwen notices Elaine)",
+      "raw_text": "Another Festivus miracle! (Jerry gives Kramer a death stare. He shuts up. Gwen notices Elaine)"
+    },
+    {
+      "entry_id": 417,
+      "type": "dialogue",
+      "speaker": "GWEN",
+      "normalized_speaker": "gwen",
+      "text": "I guess this is the ugly girl I've been hearing about.",
+      "raw_text": "I guess this is the ugly girl I've been hearing about."
+    },
+    {
+      "entry_id": 418,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hey, I was in a shvitz for 6 hours. Give me a break.",
+      "raw_text": "Hey, I was in a shvitz for 6 hours. Give me a break."
+    },
+    {
+      "entry_id": 419,
+      "type": "scene_heading",
+      "text": "[Setting: Gwen leaves, Jerry follows]",
+      "raw_text": "(Gwen leaves, Jerry follows)",
+      "confidence": 0.9,
+      "location": "Gwen leaves, Jerry follows",
+      "normalized_location": "gwen_leaves_jerry_follows"
+    },
+    {
+      "entry_id": 420,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Gwen. Gwen, wait! Ah! (runs back to his seat) Bad lighting on the porch.",
+      "raw_text": "Gwen. Gwen, wait! Ah! (runs back to his seat) Bad lighting on the porch."
+    },
+    {
+      "entry_id": 421,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hey, how'd my horse do?",
+      "raw_text": "(To bookie) Hey, how'd my horse do?",
+      "parenthetical": "To bookie"
+    },
+    {
+      "entry_id": 422,
+      "type": "dialogue",
+      "speaker": "BOOKIE",
+      "normalized_speaker": "bookie",
+      "text": "He had to be shot.",
+      "raw_text": "He had to be shot."
+    },
+    {
+      "entry_id": 423,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "And now as Festivus rolls on, we come to the feats of strength.",
+      "raw_text": "And now as Festivus rolls on, we come to the feats of strength."
+    },
+    {
+      "entry_id": 424,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Not the feats of strength..",
+      "raw_text": "Not the feats of strength.."
+    },
+    {
+      "entry_id": 425,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "This year, the honor goes to Mr. Kramer.",
+      "raw_text": "This year, the honor goes to Mr. Kramer."
+    },
+    {
+      "entry_id": 426,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Uh-oh. Oh, gee, Frank, I'm sorry. I gotta go. I have to work a double shift at H&H.",
+      "raw_text": "Uh-oh. Oh, gee, Frank, I'm sorry. I gotta go. I have to work a double shift at H&H."
+    },
+    {
+      "entry_id": 427,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I thought you were on strike?",
+      "raw_text": "I thought you were on strike?"
+    },
+    {
+      "entry_id": 428,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, I caved. I mean, I really had to use their bathroom. Frank, no offence, but this holiday is a little (makes a series of noises) out there.",
+      "raw_text": "Well, I caved. I mean, I really had to use their bathroom. Frank, no offence, but this holiday is a little (makes a series of noises) out there."
+    },
+    {
+      "entry_id": 429,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Kramer! You can't go! Who's gonna do the feats of strength?",
+      "raw_text": "Kramer! You can't go! Who's gonna do the feats of strength?"
+    },
+    {
+      "entry_id": 430,
+      "type": "scene_heading",
+      "text": "[Setting: Exit Kramer]",
+      "raw_text": "(Exit Kramer)",
+      "confidence": 0.9,
+      "location": "Exit Kramer",
+      "normalized_location": "exit_kramer"
+    },
+    {
+      "entry_id": 431,
+      "type": "dialogue",
+      "speaker": "KRUGER",
+      "normalized_speaker": "kruger",
+      "text": "How about George?",
+      "raw_text": "(Sipping liquor from a flask) How about George?",
+      "parenthetical": "Sipping liquor from a flask"
+    },
+    {
+      "entry_id": 432,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Good thinking, Kruger. Until you pin me, George, Festivus is not over!",
+      "raw_text": "Good thinking, Kruger. Until you pin me, George, Festivus is not over!"
+    },
+    {
+      "entry_id": 433,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh, please, somebody, stop this!",
+      "raw_text": "Oh, please, somebody, stop this!"
+    },
+    {
+      "entry_id": 434,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Let's rumble!",
+      "raw_text": "(Taking off his sweater) Let's rumble!",
+      "parenthetical": "Taking off his sweater"
+    },
+    {
+      "entry_id": 435,
+      "type": "action",
+      "text": "Cuts to an outside view of the Costanza's house",
+      "raw_text": "(Cuts to an outside view of the Costanza's house)"
+    },
+    {
+      "entry_id": 436,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "I think you can take him, Georgie!",
+      "raw_text": "I think you can take him, Georgie!"
+    },
+    {
+      "entry_id": 437,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh, come on! Be sensible.",
+      "raw_text": "Oh, come on! Be sensible."
+    },
+    {
+      "entry_id": 438,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Stop crying, and fight your father!",
+      "raw_text": "Stop crying, and fight your father!"
+    },
+    {
+      "entry_id": 439,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Ow! .. Ow! I give, I give! Uncle!",
+      "raw_text": "Ow! .. Ow! I give, I give! Uncle!"
+    },
+    {
+      "entry_id": 440,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "This is the best Festivus ever!",
+      "raw_text": "This is the best Festivus ever!"
+    },
+    {
+      "entry_id": 441,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 442,
+      "type": "action",
+      "text": "H&H Bagel Shop) (Kramer is shaping some dough and chewing gum - his gum falls into the dough. He starts looking for the gum, and starts extracting it from the dough. The manger is watching)",
+      "raw_text": "H&H Bagel Shop) (Kramer is shaping some dough and chewing gum - his gum falls into the dough. He starts looking for the gum, and starts extracting it from the dough. The manger is watching)",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 443,
+      "type": "dialogue",
+      "speaker": "MANAGER",
+      "normalized_speaker": "manager",
+      "text": "Alright. That's enough. You're fired.",
+      "raw_text": "Alright. That's enough. You're fired."
+    },
+    {
+      "entry_id": 444,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Thank - you! (Gets his coat, and leaves)",
+      "raw_text": "Thank - you! (Gets his coat, and leaves)"
+    },
+    {
+      "entry_id": 445,
+      "type": "end_marker",
+      "text": "THE END",
+      "raw_text": "THE END"
+    },
+    {
+      "entry_id": 446,
+      "type": "action",
+      "text": ">",
+      "raw_text": ">",
+      "confidence": 0.6
+    }
+  ]
+}

@@ -1,0 +1,2198 @@
+{
+  "episode": {
+    "series_title": "Seinfeld",
+    "episode_number_overall": 36,
+    "title": "The Limo",
+    "season": 3,
+    "episode_number_in_season": 19,
+    "air_date": "1992-02-26",
+    "written_by": [],
+    "directed_by": [],
+    "source_title": "The Limo Script",
+    "source_dataset": "yregelman/unprocessed-seinfeld-scripts"
+  },
+  "entries": [
+    {
+      "entry_id": 1,
+      "type": "scene_heading",
+      "text": "[Setting: Comedy club]",
+      "raw_text": "(Comedy club)",
+      "confidence": 0.9,
+      "location": "Comedy club",
+      "normalized_location": "comedy_club"
+    },
+    {
+      "entry_id": 2,
+      "type": "action",
+      "text": "Do you think that the people at the airport that run the stores have any idea what the prices are every place else in the world? Or do you think they just feel they have their own little country out there and they can charge anything they want? You're hungry? Tuna sandwich is nine dollars. You don't like it; go back to your own country. I think the whole airport airline complex is a huge scam just to sell the tuna sandwiches. I think that profit is what's supporting the whole air travel industry. I mean think about it; the terminals, the airplanes, it's all just a distraction so that you don't notice the beating that you're taking on the tuna. George is at the airport.",
+      "raw_text": "Do you think that the people at the airport that run the stores have any idea what the prices are every place else in the world? Or do you think they just feel they have their own little country out there and they can charge anything they want? You're hungry? Tuna sandwich is nine dollars. You don't like it; go back to your own country. I think the whole airport airline complex is a huge scam just to sell the tuna sandwiches. I think that profit is what's supporting the whole air travel industry. I mean think about it; the terminals, the airplanes, it's all just a distraction so that you don't notice the beating that you're taking on the tuna. George is at the airport.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 3,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "It's all departures. I see nothing but departures. (to the woman beside him) Do you know where the arrivals are? The woman walks away. George addresses the man standing on the other side.",
+      "raw_text": "It's all departures. I see nothing but departures. (to the woman beside him) Do you know where the arrivals are? The woman walks away. George addresses the man standing on the other side."
+    },
+    {
+      "entry_id": 4,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Excuse me, sir, do you have the time?",
+      "raw_text": "Excuse me, sir, do you have the time?"
+    },
+    {
+      "entry_id": 5,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "There's a clock over there.",
+      "raw_text": "There's a clock over there."
+    },
+    {
+      "entry_id": 6,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Where?",
+      "raw_text": "Where?"
+    },
+    {
+      "entry_id": 7,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "There.",
+      "raw_text": "There."
+    },
+    {
+      "entry_id": 8,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "But you have a watch on.",
+      "raw_text": "But you have a watch on."
+    },
+    {
+      "entry_id": 9,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "It's right by the escalator.",
+      "raw_text": "It's right by the escalator."
+    },
+    {
+      "entry_id": 10,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Why don't you just look at your watch?",
+      "raw_text": "Why don't you just look at your watch?"
+    },
+    {
+      "entry_id": 11,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "I told you, it's right over there.",
+      "raw_text": "I told you, it's right over there."
+    },
+    {
+      "entry_id": 12,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Let me see the watch. George grabs the man's wrist.",
+      "raw_text": "Let me see the watch. George grabs the man's wrist."
+    },
+    {
+      "entry_id": 13,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "Hey! What are you, some kind of nut?!",
+      "raw_text": "Hey! What are you, some kind of nut?!"
+    },
+    {
+      "entry_id": 14,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You know we're living in a society! Jerry walks up from the ramp.",
+      "raw_text": "You know we're living in a society! Jerry walks up from the ramp."
+    },
+    {
+      "entry_id": 15,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "George.",
+      "raw_text": "George."
+    },
+    {
+      "entry_id": 16,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Jerry. Jerry.",
+      "raw_text": "Jerry. Jerry."
+    },
+    {
+      "entry_id": 17,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Sorry, the flight was delayed, how long've you been waiting?",
+      "raw_text": "Sorry, the flight was delayed, how long've you been waiting?"
+    },
+    {
+      "entry_id": 18,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I just got here. My car broke down on the Belt Parkway. Jerry, Oh I can't believe-- why don't you get rid of that piece of junk.",
+      "raw_text": "I just got here. My car broke down on the Belt Parkway. Jerry, Oh I can't believe-- why don't you get rid of that piece of junk."
+    },
+    {
+      "entry_id": 19,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "One mile from the exit it starts shaking, really violently shaking, like it's having a nervous breakdown. It completely stopped dead.",
+      "raw_text": "One mile from the exit it starts shaking, really violently shaking, like it's having a nervous breakdown. It completely stopped dead."
+    },
+    {
+      "entry_id": 20,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So you have no car?",
+      "raw_text": "So you have no car?"
+    },
+    {
+      "entry_id": 21,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No.",
+      "raw_text": "No."
+    },
+    {
+      "entry_id": 22,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So what good are you? Jerry looks over towards a chauffer holding a sign that says",
+      "raw_text": "So what good are you? Jerry looks over towards a chauffer holding a sign that says"
+    },
+    {
+      "entry_id": 23,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I'll tell you one thing, this chauffeur's gonna be waiting a while, O'Brien's not showing up.",
+      "raw_text": "I'll tell you one thing, this chauffeur's gonna be waiting a while, O'Brien's not showing up."
+    },
+    {
+      "entry_id": 24,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "How do you know?",
+      "raw_text": "How do you know?"
+    },
+    {
+      "entry_id": 25,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "He was in Chicago, the flight was overbooked, wouldn't let him on the plane. He kept screaming how he had to get to Madison Square Garden.",
+      "raw_text": "He was in Chicago, the flight was overbooked, wouldn't let him on the plane. He kept screaming how he had to get to Madison Square Garden."
+    },
+    {
+      "entry_id": 26,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "We should take his limo.",
+      "raw_text": "We should take his limo."
+    },
+    {
+      "entry_id": 27,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah, right.",
+      "raw_text": "Yeah, right."
+    },
+    {
+      "entry_id": 28,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Wait a second. Think about it. He's not showing up. Wait till you see the line of cabs, its like forty-five minutes long. You said he's in Chicago.",
+      "raw_text": "Wait a second. Think about it. He's not showing up. Wait till you see the line of cabs, its like forty-five minutes long. You said he's in Chicago."
+    },
+    {
+      "entry_id": 29,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "He's definitely in Chicago.",
+      "raw_text": "He's definitely in Chicago."
+    },
+    {
+      "entry_id": 30,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well the guy's just standing there.",
+      "raw_text": "Well the guy's just standing there."
+    },
+    {
+      "entry_id": 31,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "How would we do it?",
+      "raw_text": "How would we do it?"
+    },
+    {
+      "entry_id": 32,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "We just go up to him, we say, \"We're O'Brien.\"",
+      "raw_text": "We just go up to him, we say, \"We're O'Brien.\""
+    },
+    {
+      "entry_id": 33,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Maybe he knows O'Brien?",
+      "raw_text": "Maybe he knows O'Brien?"
+    },
+    {
+      "entry_id": 34,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No, he doesn't know O'Brien, if he knew O'Brien he wouldn't have a sign. Let's just do it.",
+      "raw_text": "No, he doesn't know O'Brien, if he knew O'Brien he wouldn't have a sign. Let's just do it."
+    },
+    {
+      "entry_id": 35,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What if we get caught?",
+      "raw_text": "What if we get caught?"
+    },
+    {
+      "entry_id": 36,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What's gonna happen? They can't kill us.",
+      "raw_text": "What's gonna happen? They can't kill us."
+    },
+    {
+      "entry_id": 37,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Who's gonna be O'Brien?",
+      "raw_text": "Who's gonna be O'Brien?"
+    },
+    {
+      "entry_id": 38,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I'll be O'Brien.",
+      "raw_text": "I'll be O'Brien."
+    },
+    {
+      "entry_id": 39,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Who am I?",
+      "raw_text": "Who am I?"
+    },
+    {
+      "entry_id": 40,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You're you.",
+      "raw_text": "You're you."
+    },
+    {
+      "entry_id": 41,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Just me?",
+      "raw_text": "Just me?"
+    },
+    {
+      "entry_id": 42,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 43,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Okay.",
+      "raw_text": "Okay."
+    },
+    {
+      "entry_id": 44,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What, you don't want to be you?",
+      "raw_text": "What, you don't want to be you?"
+    },
+    {
+      "entry_id": 45,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well if you're gonna be O'Brien, why can't I be somebody?",
+      "raw_text": "Well if you're gonna be O'Brien, why can't I be somebody?"
+    },
+    {
+      "entry_id": 46,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Like who?",
+      "raw_text": "Like who?"
+    },
+    {
+      "entry_id": 47,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Dylan Murphy. George mumbles something.",
+      "raw_text": "Dylan Murphy. George mumbles something."
+    },
+    {
+      "entry_id": 48,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What, now you wanna be Dylan Murphy?",
+      "raw_text": "What, now you wanna be Dylan Murphy?"
+    },
+    {
+      "entry_id": 49,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well I like Dylan.",
+      "raw_text": "Well I like Dylan."
+    },
+    {
+      "entry_id": 50,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You could be Colin.",
+      "raw_text": "You could be Colin."
+    },
+    {
+      "entry_id": 51,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Colin O'Brien.",
+      "raw_text": "Colin O'Brien."
+    },
+    {
+      "entry_id": 52,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I'm Dylan Murphy.",
+      "raw_text": "I'm Dylan Murphy."
+    },
+    {
+      "entry_id": 53,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I'm Colin O'Brien. They walk towards the chauffer.",
+      "raw_text": "I'm Colin O'Brien. They walk towards the chauffer."
+    },
+    {
+      "entry_id": 54,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Are we really doing this?",
+      "raw_text": "Are we really doing this?"
+    },
+    {
+      "entry_id": 55,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Come on,",
+      "raw_text": "Come on,"
+    },
+    {
+      "entry_id": 56,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "Hey, do you have the time?",
+      "raw_text": "Hey, do you have the time?"
+    },
+    {
+      "entry_id": 57,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Clock over there. (to chauffer) O'Brien.",
+      "raw_text": "Clock over there. (to chauffer) O'Brien."
+    },
+    {
+      "entry_id": 58,
+      "type": "dialogue",
+      "speaker": "CHAUFFER",
+      "normalized_speaker": "chauffer",
+      "text": "Yes sir.",
+      "raw_text": "Yes sir."
+    },
+    {
+      "entry_id": 59,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Sorry we're late.",
+      "raw_text": "Sorry we're late."
+    },
+    {
+      "entry_id": 60,
+      "type": "dialogue",
+      "speaker": "CHAUFFER",
+      "normalized_speaker": "chauffer",
+      "text": "Here let me take that for you.",
+      "raw_text": "Here let me take that for you."
+    },
+    {
+      "entry_id": 61,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh thank you.",
+      "raw_text": "Oh thank you."
+    },
+    {
+      "entry_id": 62,
+      "type": "dialogue",
+      "speaker": "CHAUFFER",
+      "normalized_speaker": "chauffer",
+      "text": "I'll get the car and I'll bring it around front.",
+      "raw_text": "I'll get the car and I'll bring it around front."
+    },
+    {
+      "entry_id": 63,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Thank you very much. Dylan?",
+      "raw_text": "Thank you very much. Dylan?"
+    },
+    {
+      "entry_id": 64,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Colin? George and Jerry are in the back of a limo. George is giddy with excitement.",
+      "raw_text": "Colin? George and Jerry are in the back of a limo. George is giddy with excitement."
+    },
+    {
+      "entry_id": 65,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "This is incredible! This is one of the greatest things I've ever done in my life! I'm gonna call my mother.",
+      "raw_text": "This is incredible! This is one of the greatest things I've ever done in my life! I'm gonna call my mother."
+    },
+    {
+      "entry_id": 66,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What for?",
+      "raw_text": "What for?"
+    },
+    {
+      "entry_id": 67,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I dunno, I'm in a limo. (dials) Hello ma? It's me. Guess where I am. In the back of a limo. No, nobody died. It's a long story, I can't tell you now. Because I can't. I said I can't. If I could, I would. Would you stop it? Alright, look, I'm getting off. No, I'm not telling you! How's this? I'm *never* telling you! I don't care! No! Fine! Never!!",
+      "raw_text": "I dunno, I'm in a limo. (dials) Hello ma? It's me. Guess where I am. In the back of a limo. No, nobody died. It's a long story, I can't tell you now. Because I can't. I said I can't. If I could, I would. Would you stop it? Alright, look, I'm getting off. No, I'm not telling you! How's this? I'm *never* telling you! I don't care! No! Fine! Never!!"
+    },
+    {
+      "entry_id": 68,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "She happy for you?",
+      "raw_text": "She happy for you?"
+    },
+    {
+      "entry_id": 69,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Can he hear us?",
+      "raw_text": "Can he hear us?"
+    },
+    {
+      "entry_id": 70,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No. Why?",
+      "raw_text": "No. Why?"
+    },
+    {
+      "entry_id": 71,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I thought I saw him look in the mirror suspiciously.",
+      "raw_text": "I thought I saw him look in the mirror suspiciously."
+    },
+    {
+      "entry_id": 72,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "He can't hear us.",
+      "raw_text": "He can't hear us."
+    },
+    {
+      "entry_id": 73,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Let's test him. Hey, driver. What do you say we stop off, pick up your sister, have a little fun back here? No, he can't hear us.",
+      "raw_text": "Let's test him. Hey, driver. What do you say we stop off, pick up your sister, have a little fun back here? No, he can't hear us."
+    },
+    {
+      "entry_id": 74,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Where's he dropping us? Maybe we can get him to drop us right at my house?",
+      "raw_text": "Where's he dropping us? Maybe we can get him to drop us right at my house?"
+    },
+    {
+      "entry_id": 75,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "We'll ask him. (opens partition) My dear fellow, where are you dropping us?",
+      "raw_text": "We'll ask him. (opens partition) My dear fellow, where are you dropping us?"
+    },
+    {
+      "entry_id": 76,
+      "type": "dialogue",
+      "speaker": "CHAUFFER",
+      "normalized_speaker": "chauffer",
+      "text": "Madison Square Garden, of course. I have the four passes.",
+      "raw_text": "Madison Square Garden, of course. I have the four passes."
+    },
+    {
+      "entry_id": 77,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Of course, the uh, the four passes. (closes partition) Four passes to Madison Square Garden? Wait a minute. Wait a minute! Of course! Chicago! The Knicks are playing the Bulls tonight!",
+      "raw_text": "Of course, the uh, the four passes. (closes partition) Four passes to Madison Square Garden? Wait a minute. Wait a minute! Of course! Chicago! The Knicks are playing the Bulls tonight!"
+    },
+    {
+      "entry_id": 78,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 79,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "We are going to the Knick game! Michael Jordan!",
+      "raw_text": "We are going to the Knick game! Michael Jordan!"
+    },
+    {
+      "entry_id": 80,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "We're going to the Knick game!",
+      "raw_text": "We're going to the Knick game!"
+    },
+    {
+      "entry_id": 81,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Did I tell you?! Did I tell you?!",
+      "raw_text": "Did I tell you?! Did I tell you?!"
+    },
+    {
+      "entry_id": 82,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I can't believe it! You may have hit with this one!",
+      "raw_text": "I can't believe it! You may have hit with this one!"
+    },
+    {
+      "entry_id": 83,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You see, you see? I see things as they are and I say, 'no!' Uh, wait, you see things as they are not and you s- Wait, uh, you see things, do you see things as they are? What do you say when you see things?",
+      "raw_text": "You see, you see? I see things as they are and I say, 'no!' Uh, wait, you see things as they are not and you s- Wait, uh, you see things, do you see things as they are? What do you say when you see things?"
+    },
+    {
+      "entry_id": 84,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Lemme call Elaine and Kramer.",
+      "raw_text": "Lemme call Elaine and Kramer."
+    },
+    {
+      "entry_id": 85,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "If I see things as they are, I would ask 'why' or 'why not?'",
+      "raw_text": "If I see things as they are, I would ask 'why' or 'why not?'"
+    },
+    {
+      "entry_id": 86,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Elaine? It's me. What are you doing tonight? Great. George and I have tickets, four free passes to the Knicks-Bulls game, Madison Square Garden. Can you go? Great, listen, call Kramer, tell him to meet us on the corner at seven o'clock. Alright. We're gonna pick you up in a limo. That's right babydoll. Hey listen, when we pick you up, I'm Murphy and George is O'Brien. I can't tell you now, it's a long story. I am serious. Okay. Okay bye. (opens partition) 'Scuse me, driver, we have to make a little stop first.",
+      "raw_text": "Elaine? It's me. What are you doing tonight? Great. George and I have tickets, four free passes to the Knicks-Bulls game, Madison Square Garden. Can you go? Great, listen, call Kramer, tell him to meet us on the corner at seven o'clock. Alright. We're gonna pick you up in a limo. That's right babydoll. Hey listen, when we pick you up, I'm Murphy and George is O'Brien. I can't tell you now, it's a long story. I am serious. Okay. Okay bye. (opens partition) 'Scuse me, driver, we have to make a little stop first."
+    },
+    {
+      "entry_id": 87,
+      "type": "dialogue",
+      "speaker": "CHAUFFER",
+      "normalized_speaker": "chauffer",
+      "text": "I know.",
+      "raw_text": "I know."
+    },
+    {
+      "entry_id": 88,
+      "type": "dialogue",
+      "speaker": "JERRY AND GEORGE",
+      "normalized_speaker": "jerry_and_george",
+      "text": "He knows?",
+      "raw_text": "He knows?"
+    },
+    {
+      "entry_id": 89,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Where are we going? Why are we pulling off here?",
+      "raw_text": "Where are we going? Why are we pulling off here?"
+    },
+    {
+      "entry_id": 90,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Maybe it's a shortcut.",
+      "raw_text": "Maybe it's a shortcut."
+    },
+    {
+      "entry_id": 91,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "We're on the Grand Central, there's no traffic.",
+      "raw_text": "We're on the Grand Central, there's no traffic."
+    },
+    {
+      "entry_id": 92,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "'Scuse me, driver, why are we getting off this exit?",
+      "raw_text": "(opens partition) 'Scuse me, driver, why are we getting off this exit?",
+      "parenthetical": "opens partition"
+    },
+    {
+      "entry_id": 93,
+      "type": "dialogue",
+      "speaker": "CHAUFFER",
+      "normalized_speaker": "chauffer",
+      "text": "Pick up the other members of your party.",
+      "raw_text": "Pick up the other members of your party."
+    },
+    {
+      "entry_id": 94,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Right. The other members of our party. (closes partition) Other members of our party? What other members of our party? I didn't even know we were in a party. Oh, I'm telling you, the jig is up.",
+      "raw_text": "Right. The other members of our party. (closes partition) Other members of our party? What other members of our party? I didn't even know we were in a party. Oh, I'm telling you, the jig is up."
+    },
+    {
+      "entry_id": 95,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "It was a bad jig to begin with, we never should have started this jig.",
+      "raw_text": "It was a bad jig to begin with, we never should have started this jig."
+    },
+    {
+      "entry_id": 96,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "It was a good jig.",
+      "raw_text": "It was a good jig."
+    },
+    {
+      "entry_id": 97,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "It was a bad jig, a terrible terrible jig. What are we gonna do now? They're gonna know you're not O'Brien.",
+      "raw_text": "It was a bad jig, a terrible terrible jig. What are we gonna do now? They're gonna know you're not O'Brien."
+    },
+    {
+      "entry_id": 98,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "There could be more than one O'Brien on a plane who ordered a limo.",
+      "raw_text": "There could be more than one O'Brien on a plane who ordered a limo."
+    },
+    {
+      "entry_id": 99,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "First of all, you don't look like any O'Brien, period.",
+      "raw_text": "First of all, you don't look like any O'Brien, period."
+    },
+    {
+      "entry_id": 100,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well you should have been O'Brien.",
+      "raw_text": "Well you should have been O'Brien."
+    },
+    {
+      "entry_id": 101,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't want to be Murphy anymore; do I still have to be Murphy?",
+      "raw_text": "I don't want to be Murphy anymore; do I still have to be Murphy?"
+    },
+    {
+      "entry_id": 102,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yes, you have to be Murphy.",
+      "raw_text": "Yes, you have to be Murphy."
+    },
+    {
+      "entry_id": 103,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "It makes no sense now, me being Murphy.",
+      "raw_text": "It makes no sense now, me being Murphy."
+    },
+    {
+      "entry_id": 104,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You're Murphy!",
+      "raw_text": "You're Murphy!"
+    },
+    {
+      "entry_id": 105,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I'm Seinfeld!",
+      "raw_text": "I'm Seinfeld!"
+    },
+    {
+      "entry_id": 106,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You're Murphy!! Look, let's just jump out of the car.",
+      "raw_text": "You're Murphy!! Look, let's just jump out of the car."
+    },
+    {
+      "entry_id": 107,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "We're doing sixty miles an hour!",
+      "raw_text": "We're doing sixty miles an hour!"
+    },
+    {
+      "entry_id": 108,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So we jump and roll, you won't get hurt.",
+      "raw_text": "So we jump and roll, you won't get hurt."
+    },
+    {
+      "entry_id": 109,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Who are you, Mannix?",
+      "raw_text": "Who are you, Mannix?"
+    },
+    {
+      "entry_id": 110,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "We're slowing down. Are those the people?",
+      "raw_text": "We're slowing down. Are those the people?"
+    },
+    {
+      "entry_id": 111,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Alright put your hands up over your face, pretend you're sleeping. The limo pulls over, two people, a man (Tim) and a woman (Eva), get in.",
+      "raw_text": "Alright put your hands up over your face, pretend you're sleeping. The limo pulls over, two people, a man (Tim) and a woman (Eva), get in."
+    },
+    {
+      "entry_id": 112,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "Mr. O'Brien?",
+      "raw_text": "Mr. O'Brien?"
+    },
+    {
+      "entry_id": 113,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No, I'm, uh, Dylan Murphy. Mr. O'Brien had a long trip, he's sleeping.",
+      "raw_text": "No, I'm, uh, Dylan Murphy. Mr. O'Brien had a long trip, he's sleeping."
+    },
+    {
+      "entry_id": 114,
+      "type": "dialogue",
+      "speaker": "EVA",
+      "normalized_speaker": "eva",
+      "text": "Oh, well I don't want to disturb him. We're just rather excited to meet him face to face, finally. We're faithful readers of his newsletter.",
+      "raw_text": "Oh, well I don't want to disturb him. We're just rather excited to meet him face to face, finally. We're faithful readers of his newsletter."
+    },
+    {
+      "entry_id": 115,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Newsletter?",
+      "raw_text": "Newsletter?"
+    },
+    {
+      "entry_id": 116,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "And of course, his great book, \"The Game\".",
+      "raw_text": "And of course, his great book, \"The Game\"."
+    },
+    {
+      "entry_id": 117,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh, yes, he's very proud of his work in the big game. So you've never uh, met him before?",
+      "raw_text": "Oh, yes, he's very proud of his work in the big game. So you've never uh, met him before?"
+    },
+    {
+      "entry_id": 118,
+      "type": "dialogue",
+      "speaker": "EVA",
+      "normalized_speaker": "eva",
+      "text": "No.",
+      "raw_text": "No."
+    },
+    {
+      "entry_id": 119,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Never seen a picture of him?",
+      "raw_text": "Never seen a picture of him?"
+    },
+    {
+      "entry_id": 120,
+      "type": "dialogue",
+      "speaker": "EVA",
+      "normalized_speaker": "eva",
+      "text": "Never.",
+      "raw_text": "Never."
+    },
+    {
+      "entry_id": 121,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Not even on the book jacket?",
+      "raw_text": "Not even on the book jacket?"
+    },
+    {
+      "entry_id": 122,
+      "type": "dialogue",
+      "speaker": "EVA",
+      "normalized_speaker": "eva",
+      "text": "There was no picture on the book jacket.",
+      "raw_text": "There was no picture on the book jacket."
+    },
+    {
+      "entry_id": 123,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey O'Brien, wake up, c'mon, we got company. Wake up.",
+      "raw_text": "Hey O'Brien, wake up, c'mon, we got company. Wake up."
+    },
+    {
+      "entry_id": 124,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hello. I'm O'Brien. Elaine meets Kramer of Jerry's corner.",
+      "raw_text": "Hello. I'm O'Brien. Elaine meets Kramer of Jerry's corner."
+    },
+    {
+      "entry_id": 125,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey!",
+      "raw_text": "Hey!"
+    },
+    {
+      "entry_id": 126,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hey!",
+      "raw_text": "Hey!"
+    },
+    {
+      "entry_id": 127,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What, you took a cab?",
+      "raw_text": "What, you took a cab?"
+    },
+    {
+      "entry_id": 128,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah? So?",
+      "raw_text": "Yeah? So?"
+    },
+    {
+      "entry_id": 129,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "How much do you make?",
+      "raw_text": "How much do you make?"
+    },
+    {
+      "entry_id": 130,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I'm not telling you.",
+      "raw_text": "I'm not telling you."
+    },
+    {
+      "entry_id": 131,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "C'mon.",
+      "raw_text": "C'mon."
+    },
+    {
+      "entry_id": 132,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No!",
+      "raw_text": "No!"
+    },
+    {
+      "entry_id": 133,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I'll tell you how much I make.",
+      "raw_text": "I'll tell you how much I make."
+    },
+    {
+      "entry_id": 134,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I know how much you make. I don't even know why I'm doing this, I don't even like basketball.",
+      "raw_text": "I know how much you make. I don't even know why I'm doing this, I don't even like basketball."
+    },
+    {
+      "entry_id": 135,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You ever seen Michael Jordan?",
+      "raw_text": "You ever seen Michael Jordan?"
+    },
+    {
+      "entry_id": 136,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Just in those commercials.",
+      "raw_text": "Just in those commercials."
+    },
+    {
+      "entry_id": 137,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Maybe you'll see him do one of those three-sixty dunks.",
+      "raw_text": "Maybe you'll see him do one of those three-sixty dunks."
+    },
+    {
+      "entry_id": 138,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What's that?",
+      "raw_text": "What's that?"
+    },
+    {
+      "entry_id": 139,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, it's like this, here, you guard me.",
+      "raw_text": "Oh, it's like this, here, you guard me."
+    },
+    {
+      "entry_id": 140,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Huh?",
+      "raw_text": "Huh?"
+    },
+    {
+      "entry_id": 141,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah. Kramer then drives to 'the hoop' and tumbles headfirst into a bunch of garbage cans. Cut back to 'O'Brien' and 'Murphy' in the limo.",
+      "raw_text": "Yeah. Kramer then drives to 'the hoop' and tumbles headfirst into a bunch of garbage cans. Cut back to 'O'Brien' and 'Murphy' in the limo."
+    },
+    {
+      "entry_id": 142,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't think we're gonna make the tip off.",
+      "raw_text": "I don't think we're gonna make the tip off."
+    },
+    {
+      "entry_id": 143,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "You think someone's been tipped off?",
+      "raw_text": "You think someone's been tipped off?"
+    },
+    {
+      "entry_id": 144,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So, um, you've read \"The Big Game\", have you?",
+      "raw_text": "So, um, you've read \"The Big Game\", have you?"
+    },
+    {
+      "entry_id": 145,
+      "type": "dialogue",
+      "speaker": "EVA",
+      "normalized_speaker": "eva",
+      "text": "Yes I've read it and I've memorized it.",
+      "raw_text": "Yes I've read it and I've memorized it."
+    },
+    {
+      "entry_id": 146,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Tell me your impressions, I would love to hear what a young woman thinks of \"The Big Game\".",
+      "raw_text": "Tell me your impressions, I would love to hear what a young woman thinks of \"The Big Game\"."
+    },
+    {
+      "entry_id": 147,
+      "type": "dialogue",
+      "speaker": "EVA",
+      "normalized_speaker": "eva",
+      "text": "Well, this is sort of embarrassing, but it's changed my life. The way you analyzed the game? The way you identify the major players? Well it left me breathless. You're a brilliant, brilliant man.",
+      "raw_text": "Well, this is sort of embarrassing, but it's changed my life. The way you analyzed the game? The way you identify the major players? Well it left me breathless. You're a brilliant, brilliant man."
+    },
+    {
+      "entry_id": 148,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, it's just a game. Remember that, kids.",
+      "raw_text": "Well, it's just a game. Remember that, kids."
+    },
+    {
+      "entry_id": 149,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "Just a game. He's so humble. Don't forget what you wrote in the epilogue, the fate of the world depends on the outcome of this game.",
+      "raw_text": "Just a game. He's so humble. Don't forget what you wrote in the epilogue, the fate of the world depends on the outcome of this game."
+    },
+    {
+      "entry_id": 150,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, I was exaggerating a bit, just for effect.",
+      "raw_text": "Well, I was exaggerating a bit, just for effect."
+    },
+    {
+      "entry_id": 151,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "He tends to exaggerate.",
+      "raw_text": "He tends to exaggerate."
+    },
+    {
+      "entry_id": 152,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Okay, I mean it's serious but--",
+      "raw_text": "Okay, I mean it's serious but--"
+    },
+    {
+      "entry_id": 153,
+      "type": "dialogue",
+      "speaker": "EVA",
+      "normalized_speaker": "eva",
+      "text": "We are really looking forward to your speech tonight.",
+      "raw_text": "We are really looking forward to your speech tonight."
+    },
+    {
+      "entry_id": 154,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Uh, my speech?",
+      "raw_text": "Uh, my speech?"
+    },
+    {
+      "entry_id": 155,
+      "type": "dialogue",
+      "speaker": "EVA",
+      "normalized_speaker": "eva",
+      "text": "Yes, your secretary faxed me the copy. Would you like to look it over?",
+      "raw_text": "Yes, your secretary faxed me the copy. Would you like to look it over?"
+    },
+    {
+      "entry_id": 156,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well you might as well look it over. Cut back to Kramer and Elaine waiting on the corner.",
+      "raw_text": "Well you might as well look it over. Cut back to Kramer and Elaine waiting on the corner."
+    },
+    {
+      "entry_id": 157,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "So what's going on, how did all this happen?",
+      "raw_text": "So what's going on, how did all this happen?"
+    },
+    {
+      "entry_id": 158,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Jerry and George called me from this limo and they said we're all going to the Knicks-Bulls game.",
+      "raw_text": "Jerry and George called me from this limo and they said we're all going to the Knicks-Bulls game."
+    },
+    {
+      "entry_id": 159,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Limo? I thought that George went to pick him up.",
+      "raw_text": "Limo? I thought that George went to pick him up."
+    },
+    {
+      "entry_id": 160,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "He did.",
+      "raw_text": "He did."
+    },
+    {
+      "entry_id": 161,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well then why would they take a limo from the airport?",
+      "raw_text": "Well then why would they take a limo from the airport?"
+    },
+    {
+      "entry_id": 162,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I don't know.",
+      "raw_text": "I don't know."
+    },
+    {
+      "entry_id": 163,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "That's pretty strange. Did he say anything else?",
+      "raw_text": "That's pretty strange. Did he say anything else?"
+    },
+    {
+      "entry_id": 164,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah. He said, um, he said it's really important that we call them O'Brien and Murphy.",
+      "raw_text": "Yeah. He said, um, he said it's really important that we call them O'Brien and Murphy."
+    },
+    {
+      "entry_id": 165,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "O'Brien. Why would he want to be called O'Brien? Cut back to the limo, George is reading from O'Brien's speech.",
+      "raw_text": "O'Brien. Why would he want to be called O'Brien? Cut back to the limo, George is reading from O'Brien's speech."
+    },
+    {
+      "entry_id": 166,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "...and the Jews steal our money through their Zionist occupied government and use the black man to bring drugs into our oppressed white minority communities.",
+      "raw_text": "...and the Jews steal our money through their Zionist occupied government and use the black man to bring drugs into our oppressed white minority communities."
+    },
+    {
+      "entry_id": 167,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You're not going to open with that, are you?",
+      "raw_text": "You're not going to open with that, are you?"
+    },
+    {
+      "entry_id": 168,
+      "type": "dialogue",
+      "speaker": "EVA",
+      "normalized_speaker": "eva",
+      "text": "What was that you said about the myth of the Holocaust?",
+      "raw_text": "What was that you said about the myth of the Holocaust?"
+    },
+    {
+      "entry_id": 169,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I said so many things. Suddenly they hear a loud bang.",
+      "raw_text": "I said so many things. Suddenly they hear a loud bang."
+    },
+    {
+      "entry_id": 170,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "They're shooting! They're shooting!",
+      "raw_text": "They're shooting! They're shooting!"
+    },
+    {
+      "entry_id": 171,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "Alright, get down! The limo comes to a screeching halt. Tim exits the limo to look around, Eva has fallen on top of George. Eva. Ohhh. I'm ready to die for you.",
+      "raw_text": "Alright, get down! The limo comes to a screeching halt. Tim exits the limo to look around, Eva has fallen on top of George. Eva. Ohhh. I'm ready to die for you."
+    },
+    {
+      "entry_id": 172,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "That's really very nice of you, Eva. Thank you.",
+      "raw_text": "That's really very nice of you, Eva. Thank you."
+    },
+    {
+      "entry_id": 173,
+      "type": "dialogue",
+      "speaker": "EVA",
+      "normalized_speaker": "eva",
+      "text": "But of course you know I would. I would do anything for you. Anything. Tim returns.",
+      "raw_text": "But of course you know I would. I would do anything for you. Anything. Tim returns."
+    },
+    {
+      "entry_id": 174,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "Nothing to worry about, it was just a flat tire. But rest assured, we're prepared to handle anything that might come up. Tim opens a briefcase filled with firearms. Eva grabs one and starts handling it sensually.",
+      "raw_text": "Nothing to worry about, it was just a flat tire. But rest assured, we're prepared to handle anything that might come up. Tim opens a briefcase filled with firearms. Eva grabs one and starts handling it sensually."
+    },
+    {
+      "entry_id": 175,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Nice looking Lugar. Jodi Baskerville, reporting live.",
+      "raw_text": "Nice looking Lugar. Jodi Baskerville, reporting live."
+    },
+    {
+      "entry_id": 176,
+      "type": "dialogue",
+      "speaker": "JODI",
+      "normalized_speaker": "jodi",
+      "text": "I'm standing in front of the Paramount adjacent to Madison Square Garden where a growing number of vociferous and angry demonstrators are gathering to protest the very first public appearance of Donald O'Brien, the leader of the midwestern regional chapter of the Aryan Union, and reputed to be their most charismatic spokesman. The reclusive Mr. O'Brien is an advocate of the violent overthrow of the government. He has openly professed a deep admiration of Adolf Hitler. Even David Duke has denounced him as a dangerous extremist. There is a full house inside awaiting his arrival from the airport. Sources tell me he is in route and should be arriving momentarily. Police have set up barricades, but quite frankly Bill and Jean, I don't think they're any match for the emotional fuse that has been lit here tonight. Reporting from the Paramount, I'm Jodi Baskerville, back to you in the studio. Cut back to Kramer and Elaine on the corner.",
+      "raw_text": "I'm standing in front of the Paramount adjacent to Madison Square Garden where a growing number of vociferous and angry demonstrators are gathering to protest the very first public appearance of Donald O'Brien, the leader of the midwestern regional chapter of the Aryan Union, and reputed to be their most charismatic spokesman. The reclusive Mr. O'Brien is an advocate of the violent overthrow of the government. He has openly professed a deep admiration of Adolf Hitler. Even David Duke has denounced him as a dangerous extremist. There is a full house inside awaiting his arrival from the airport. Sources tell me he is in route and should be arriving momentarily. Police have set up barricades, but quite frankly Bill and Jean, I don't think they're any match for the emotional fuse that has been lit here tonight. Reporting from the Paramount, I'm Jodi Baskerville, back to you in the studio. Cut back to Kramer and Elaine on the corner."
+    },
+    {
+      "entry_id": 177,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Something's very strange. George goes to the airport to pick up Jerry. They come back in a limo with four tickets to the basketball game and wanna be called O'Brien and Murphy? O'Brien. O'Brien, why O'Brien? A group of people approach from the adjacent sidewalk. One of them recognized Elaine.",
+      "raw_text": "Something's very strange. George goes to the airport to pick up Jerry. They come back in a limo with four tickets to the basketball game and wanna be called O'Brien and Murphy? O'Brien. O'Brien, why O'Brien? A group of people approach from the adjacent sidewalk. One of them recognized Elaine."
+    },
+    {
+      "entry_id": 178,
+      "type": "dialogue",
+      "speaker": "DAN",
+      "normalized_speaker": "dan",
+      "text": "Elaine?",
+      "raw_text": "Elaine?"
+    },
+    {
+      "entry_id": 179,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Dan! Oh, hi Dan, how are you?",
+      "raw_text": "Dan! Oh, hi Dan, how are you?"
+    },
+    {
+      "entry_id": 180,
+      "type": "dialogue",
+      "speaker": "DAN",
+      "normalized_speaker": "dan",
+      "text": "Good.",
+      "raw_text": "Good."
+    },
+    {
+      "entry_id": 181,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Um, oh, this is um, Kramer.",
+      "raw_text": "Um, oh, this is um, Kramer."
+    },
+    {
+      "entry_id": 182,
+      "type": "dialogue",
+      "speaker": "DAN",
+      "normalized_speaker": "dan",
+      "text": "Oh, Kramer? They shake hands.",
+      "raw_text": "Oh, Kramer? They shake hands."
+    },
+    {
+      "entry_id": 183,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What's going on?",
+      "raw_text": "What's going on?"
+    },
+    {
+      "entry_id": 184,
+      "type": "dialogue",
+      "speaker": "DAN",
+      "normalized_speaker": "dan",
+      "text": "Oh, we're heading down to protest this big neo-nazi rally. The head of the Aryan Union is speaking, he's in from Chicago. You should come.",
+      "raw_text": "Oh, we're heading down to protest this big neo-nazi rally. The head of the Aryan Union is speaking, he's in from Chicago. You should come."
+    },
+    {
+      "entry_id": 185,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, can't, I'm going to the Knicks-Bulls game.",
+      "raw_text": "Oh, can't, I'm going to the Knicks-Bulls game."
+    },
+    {
+      "entry_id": 186,
+      "type": "dialogue",
+      "speaker": "DAN",
+      "normalized_speaker": "dan",
+      "text": "Oh, well that's where the rally is. The Paramount, right next door.",
+      "raw_text": "Oh, well that's where the rally is. The Paramount, right next door."
+    },
+    {
+      "entry_id": 187,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, well, maybe we'll run into you.",
+      "raw_text": "Oh, well, maybe we'll run into you."
+    },
+    {
+      "entry_id": 188,
+      "type": "dialogue",
+      "speaker": "DAN",
+      "normalized_speaker": "dan",
+      "text": "Yeah, yeah ok. It's really gonna be something, this is the first time he's ever appeared in public, no one even knows what he looks like.",
+      "raw_text": "Yeah, yeah ok. It's really gonna be something, this is the first time he's ever appeared in public, no one even knows what he looks like."
+    },
+    {
+      "entry_id": 189,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Who?",
+      "raw_text": "Who?"
+    },
+    {
+      "entry_id": 190,
+      "type": "dialogue",
+      "speaker": "DAN",
+      "normalized_speaker": "dan",
+      "text": "The head of the Aryan Union; O'Brien. Cut back to the limo. Jerry and George are alone inside.",
+      "raw_text": "The head of the Aryan Union; O'Brien. Cut back to the limo. Jerry and George are alone inside."
+    },
+    {
+      "entry_id": 191,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What's taking him so long out there?",
+      "raw_text": "What's taking him so long out there?"
+    },
+    {
+      "entry_id": 192,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Didja see the way she was looking at me?",
+      "raw_text": "Didja see the way she was looking at me?"
+    },
+    {
+      "entry_id": 193,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "She's a Nazi, George. A Nazi!",
+      "raw_text": "She's a Nazi, George. A Nazi!"
+    },
+    {
+      "entry_id": 194,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I know, I know. Kind of a cute Nazi though.",
+      "raw_text": "I know, I know. Kind of a cute Nazi though."
+    },
+    {
+      "entry_id": 195,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well we gotta make a plan before they come back, what are we gonna do?",
+      "raw_text": "Well we gotta make a plan before they come back, what are we gonna do?"
+    },
+    {
+      "entry_id": 196,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I don't know.",
+      "raw_text": "I don't know."
+    },
+    {
+      "entry_id": 197,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Let's just make a run for it.",
+      "raw_text": "Let's just make a run for it."
+    },
+    {
+      "entry_id": 198,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I can't run, I have a bad hamstring.",
+      "raw_text": "I can't run, I have a bad hamstring."
+    },
+    {
+      "entry_id": 199,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "How'd that happen?",
+      "raw_text": "How'd that happen?"
+    },
+    {
+      "entry_id": 200,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I hurt it in a hotel room. You know where they tuck the covers in real tight in those hotel rooms? I can't sleep like that so I tried to kick it out and I pulled it.",
+      "raw_text": "I hurt it in a hotel room. You know where they tuck the covers in real tight in those hotel rooms? I can't sleep like that so I tried to kick it out and I pulled it."
+    },
+    {
+      "entry_id": 201,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I know, why do they make that bed so tight? You gotta sleep with your feet like that.",
+      "raw_text": "I know, why do they make that bed so tight? You gotta sleep with your feet like that."
+    },
+    {
+      "entry_id": 202,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "For a mental patient. Wait a minute, the phone, we'll call the police. George grabs the phone and dials.",
+      "raw_text": "For a mental patient. Wait a minute, the phone, we'll call the police. George grabs the phone and dials."
+    },
+    {
+      "entry_id": 203,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "9... 1... 1. She said she'd do anything. Hello, police? Uh, yeah listen, we're in the back of a limo in Queens-- Tim re-enters the limo.",
+      "raw_text": "9... 1... 1. She said she'd do anything. Hello, police? Uh, yeah listen, we're in the back of a limo in Queens-- Tim re-enters the limo."
+    },
+    {
+      "entry_id": 204,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "--Astroturf? You know who's responsible for that, don't you?! The Jews! Ah, the Jews hate grass. They always have, they always will.",
+      "raw_text": "--Astroturf? You know who's responsible for that, don't you?! The Jews! Ah, the Jews hate grass. They always have, they always will."
+    },
+    {
+      "entry_id": 205,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "We'll be ready in a minute.",
+      "raw_text": "We'll be ready in a minute."
+    },
+    {
+      "entry_id": 206,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Would you excuse us for a minute Tim boy, we're kind of in the middle of something.",
+      "raw_text": "Would you excuse us for a minute Tim boy, we're kind of in the middle of something."
+    },
+    {
+      "entry_id": 207,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "With all due respect, Mr. O'Brien, we're just about to leave.",
+      "raw_text": "With all due respect, Mr. O'Brien, we're just about to leave."
+    },
+    {
+      "entry_id": 208,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Tim, who's the head of the Aryan Union, you or me?",
+      "raw_text": "Tim, who's the head of the Aryan Union, you or me?"
+    },
+    {
+      "entry_id": 209,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "You are.",
+      "raw_text": "You are."
+    },
+    {
+      "entry_id": 210,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "And who's responsible for making hate mongering and fascism popular again?",
+      "raw_text": "And who's responsible for making hate mongering and fascism popular again?"
+    },
+    {
+      "entry_id": 211,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "You are.",
+      "raw_text": "You are."
+    },
+    {
+      "entry_id": 212,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Good. I think you forgot something.",
+      "raw_text": "Good. I think you forgot something."
+    },
+    {
+      "entry_id": 213,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "I'm sorry.",
+      "raw_text": "I'm sorry."
+    },
+    {
+      "entry_id": 214,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Good. Now get out. Tim leaves.",
+      "raw_text": "Good. Now get out. Tim leaves."
+    },
+    {
+      "entry_id": 215,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Okay, what are we gonna do?",
+      "raw_text": "Okay, what are we gonna do?"
+    },
+    {
+      "entry_id": 216,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't know.",
+      "raw_text": "I don't know."
+    },
+    {
+      "entry_id": 217,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Alright, how's this? We wait till we get to your street corner, we see Elaine and Kramer then we get out. They can't shoot us in the city.",
+      "raw_text": "Alright, how's this? We wait till we get to your street corner, we see Elaine and Kramer then we get out. They can't shoot us in the city."
+    },
+    {
+      "entry_id": 218,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Nah. No one's ever been shot in the city. Cut back to Elaine and Kramer on the corner.",
+      "raw_text": "Nah. No one's ever been shot in the city. Cut back to Elaine and Kramer on the corner."
+    },
+    {
+      "entry_id": 219,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I'm telling you, something's going on. I can feel it, sense it.",
+      "raw_text": "I'm telling you, something's going on. I can feel it, sense it."
+    },
+    {
+      "entry_id": 220,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I'm sure he was just joking around.",
+      "raw_text": "I'm sure he was just joking around."
+    },
+    {
+      "entry_id": 221,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh no no no, this is no joke. O'Brien's coming in from Chicago, Jerry's in a limo, says he's O'Brien? That's not funny. Oh my god. Yes. Yes!",
+      "raw_text": "Oh no no no, this is no joke. O'Brien's coming in from Chicago, Jerry's in a limo, says he's O'Brien? That's not funny. Oh my god. Yes. Yes!"
+    },
+    {
+      "entry_id": 222,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What is it?",
+      "raw_text": "What is it?"
+    },
+    {
+      "entry_id": 223,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Don't you see? There's always been something very strange about Jerry, always so clean and organized. Do I have to spell it out for you? The limo? The name? The rally at Madison Square Garden? Jerry, O'Brien are the same person. Jerry is the leader of the Aryan Union!",
+      "raw_text": "Don't you see? There's always been something very strange about Jerry, always so clean and organized. Do I have to spell it out for you? The limo? The name? The rally at Madison Square Garden? Jerry, O'Brien are the same person. Jerry is the leader of the Aryan Union!"
+    },
+    {
+      "entry_id": 224,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Jerry's a nazi?!",
+      "raw_text": "Jerry's a nazi?!"
+    },
+    {
+      "entry_id": 225,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I can't believe I didn't see it.",
+      "raw_text": "I can't believe I didn't see it."
+    },
+    {
+      "entry_id": 226,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Listen, you idiot! Just calm down! I know Jerry, he's not a nazi.",
+      "raw_text": "Listen, you idiot! Just calm down! I know Jerry, he's not a nazi."
+    },
+    {
+      "entry_id": 227,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You don't think so.",
+      "raw_text": "You don't think so."
+    },
+    {
+      "entry_id": 228,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No, he's just neat. Cut back to the limo.",
+      "raw_text": "No, he's just neat. Cut back to the limo."
+    },
+    {
+      "entry_id": 229,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "You know it's funny. You don't look like an O'Brien.",
+      "raw_text": "You know it's funny. You don't look like an O'Brien."
+    },
+    {
+      "entry_id": 230,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Me?? George and Jerry laugh nervously.",
+      "raw_text": "Me?? George and Jerry laugh nervously."
+    },
+    {
+      "entry_id": 231,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "And you really don't look like a Murphy.",
+      "raw_text": "And you really don't look like a Murphy."
+    },
+    {
+      "entry_id": 232,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I may not look like a Murphy but I act like a Murphy.",
+      "raw_text": "I may not look like a Murphy but I act like a Murphy."
+    },
+    {
+      "entry_id": 233,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "He's extremely Murphy. He's Murphy to a fault.",
+      "raw_text": "He's extremely Murphy. He's Murphy to a fault."
+    },
+    {
+      "entry_id": 234,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "Where are you from?",
+      "raw_text": "Where are you from?"
+    },
+    {
+      "entry_id": 235,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Dublin. Originally. Parents came over here when I was eighteen. Cereal famine. Couldn't get a bowl anywhere. Bad. 'Tis a beautiful country though; lush rolling hills, and the peat, ah the peat.",
+      "raw_text": "Dublin. Originally. Parents came over here when I was eighteen. Cereal famine. Couldn't get a bowl anywhere. Bad. 'Tis a beautiful country though; lush rolling hills, and the peat, ah the peat."
+    },
+    {
+      "entry_id": 236,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "Sounds more like Scottish.",
+      "raw_text": "Sounds more like Scottish."
+    },
+    {
+      "entry_id": 237,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "We were right on the border. Cut back to the street corner.",
+      "raw_text": "We were right on the border. Cut back to the street corner."
+    },
+    {
+      "entry_id": 238,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Maybe he's with the company.",
+      "raw_text": "Maybe he's with the company."
+    },
+    {
+      "entry_id": 239,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 240,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "The CIA! Maybe they placed him in there to infiltrate the organization from within.",
+      "raw_text": "The CIA! Maybe they placed him in there to infiltrate the organization from within."
+    },
+    {
+      "entry_id": 241,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What about his comedy act?",
+      "raw_text": "What about his comedy act?"
+    },
+    {
+      "entry_id": 242,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "That's the perfect cover! All that time on the road? Look Jerry, he's too normal to be a comedian. These comedians, they're sick, neurotic people.",
+      "raw_text": "That's the perfect cover! All that time on the road? Look Jerry, he's too normal to be a comedian. These comedians, they're sick, neurotic people."
+    },
+    {
+      "entry_id": 243,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What about George?",
+      "raw_text": "What about George?"
+    },
+    {
+      "entry_id": 244,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What about him, he's part of it. His whole personality is a disguise. No real person can act the way he does. Elaine, I'm telling you they're with the organization. They're all part of it. He's in there with Helms and Hunt and Liddy, that whole crowd. George and Jerry, they probably know who killed Kennedy!",
+      "raw_text": "What about him, he's part of it. His whole personality is a disguise. No real person can act the way he does. Elaine, I'm telling you they're with the organization. They're all part of it. He's in there with Helms and Hunt and Liddy, that whole crowd. George and Jerry, they probably know who killed Kennedy!"
+    },
+    {
+      "entry_id": 245,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I'll bet they were even in on it.",
+      "raw_text": "I'll bet they were even in on it."
+    },
+    {
+      "entry_id": 246,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Alright, what are we gonna do? I'm not gonna let him hurt you. (grabs and hugs Elaine tightly) I'm not gonna.",
+      "raw_text": "Alright, what are we gonna do? I'm not gonna let him hurt you. (grabs and hugs Elaine tightly) I'm not gonna."
+    },
+    {
+      "entry_id": 247,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Kramer, you're hurting me! Quick cut to the now approaching limo.",
+      "raw_text": "Kramer, you're hurting me! Quick cut to the now approaching limo."
+    },
+    {
+      "entry_id": 248,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Those are my friends I was telling you about. We're gonna talk to them, pull over.",
+      "raw_text": "Those are my friends I was telling you about. We're gonna talk to them, pull over."
+    },
+    {
+      "entry_id": 249,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Get off of me!! The limo pulls over and George and Jerry get out.",
+      "raw_text": "Get off of me!! The limo pulls over and George and Jerry get out."
+    },
+    {
+      "entry_id": 250,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "O'Brien. This attracts the attention of Dan and his friends standing at a nearby bus stop.",
+      "raw_text": "O'Brien. This attracts the attention of Dan and his friends standing at a nearby bus stop."
+    },
+    {
+      "entry_id": 251,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "O'Brien? Is that him? MAN #2 Yeah, that's him. MAN #3 Look there's O'Brien! MAN #4 Filthy nazi bastard!",
+      "raw_text": "O'Brien? Is that him? MAN #2 Yeah, that's him. MAN #3 Look there's O'Brien! MAN #4 Filthy nazi bastard!"
+    },
+    {
+      "entry_id": 252,
+      "type": "dialogue",
+      "speaker": "ALL FOUR",
+      "normalized_speaker": "all_four",
+      "text": "Let's get him!! They begin running full speed towards the gang.",
+      "raw_text": "Let's get him!! They begin running full speed towards the gang."
+    },
+    {
+      "entry_id": 253,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What do I do?! What do I do?!",
+      "raw_text": "What do I do?! What do I do?!"
+    },
+    {
+      "entry_id": 254,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Get in the car! Get in the car! George, Elaine, Jerry and Kramer all jump into the limo which speeds off.",
+      "raw_text": "Get in the car! Get in the car! George, Elaine, Jerry and Kramer all jump into the limo which speeds off."
+    },
+    {
+      "entry_id": 255,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "O'Brien. Long time no see. How's tricks, Murphy?",
+      "raw_text": "O'Brien. Long time no see. How's tricks, Murphy?"
+    },
+    {
+      "entry_id": 256,
+      "type": "dialogue",
+      "speaker": "TIM",
+      "normalized_speaker": "tim",
+      "text": "Why did you call him O'Brien and him Murphy?",
+      "raw_text": "Why did you call him O'Brien and him Murphy?"
+    },
+    {
+      "entry_id": 257,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No, he was talking to me, he's cross-eyed.",
+      "raw_text": "No, he was talking to me, he's cross-eyed."
+    },
+    {
+      "entry_id": 258,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "It could be very confusing. The limo phone rings Kramer answers it.",
+      "raw_text": "It could be very confusing. The limo phone rings Kramer answers it."
+    },
+    {
+      "entry_id": 259,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah? Eva?",
+      "raw_text": "Yeah? Eva?"
+    },
+    {
+      "entry_id": 260,
+      "type": "dialogue",
+      "speaker": "EVA",
+      "normalized_speaker": "eva",
+      "text": "It's for me. (takes phone) Hello? (cups receiver) It's O'Brien.",
+      "raw_text": "It's for me. (takes phone) Hello? (cups receiver) It's O'Brien."
+    },
+    {
+      "entry_id": 261,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "O'Brien? Well that's weird.",
+      "raw_text": "O'Brien? Well that's weird."
+    },
+    {
+      "entry_id": 262,
+      "type": "dialogue",
+      "speaker": "EVA",
+      "normalized_speaker": "eva",
+      "text": "Who are you? George and Jerry begin simultaneous explanations about how George's car broke down when he went to pick Jerry up at the airport. Cut back to Jodi Baskerville, reporting live.",
+      "raw_text": "Who are you? George and Jerry begin simultaneous explanations about how George's car broke down when he went to pick Jerry up at the airport. Cut back to Jodi Baskerville, reporting live."
+    },
+    {
+      "entry_id": 263,
+      "type": "dialogue",
+      "speaker": "JODI",
+      "normalized_speaker": "jodi",
+      "text": "A limousine has just pulled up it's being surrounded by a huge group of protestors, this has the makings of a very ugly scene. Cut back to the limo, Elaine has joined the group explanation, none of the three are intelligible at this point.",
+      "raw_text": "A limousine has just pulled up it's being surrounded by a huge group of protestors, this has the makings of a very ugly scene. Cut back to the limo, Elaine has joined the group explanation, none of the three are intelligible at this point."
+    },
+    {
+      "entry_id": 264,
+      "type": "dialogue",
+      "speaker": "JODI",
+      "normalized_speaker": "jodi",
+      "text": "They are banging on the car, trying to flip it over. The police seem unable or unwilling to control the crowd, I would imagine Mr. O'Brien must be having some very grave doubts if he made the right choice for his first public appearance. Cut back to the limo. The explanations are becoming more heated and less understandable, the limo is rocking violently and Tim and Eva are becoming unnerved.",
+      "raw_text": "They are banging on the car, trying to flip it over. The police seem unable or unwilling to control the crowd, I would imagine Mr. O'Brien must be having some very grave doubts if he made the right choice for his first public appearance. Cut back to the limo. The explanations are becoming more heated and less understandable, the limo is rocking violently and Tim and Eva are becoming unnerved."
+    },
+    {
+      "entry_id": 265,
+      "type": "dialogue",
+      "speaker": "EVA",
+      "normalized_speaker": "eva",
+      "text": "Get out!!",
+      "raw_text": "Get out!!"
+    },
+    {
+      "entry_id": 266,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Look, it's Dan! Hi Dan!",
+      "raw_text": "Look, it's Dan! Hi Dan!"
+    },
+    {
+      "entry_id": 267,
+      "type": "dialogue",
+      "speaker": "DAN",
+      "normalized_speaker": "dan",
+      "text": "Elaine?",
+      "raw_text": "Elaine?"
+    },
+    {
+      "entry_id": 268,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hey! Cut to George in front of a news camera, the on screen graphic says 'DONALD O'BRIEN Leader of the Aryan Union'.",
+      "raw_text": "Hey! Cut to George in front of a news camera, the on screen graphic says 'DONALD O'BRIEN Leader of the Aryan Union'."
+    },
+    {
+      "entry_id": 269,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I am not O'Brien! I am not O'Brien! I'm not O'Brien! Ask anyone! Jerry?! Jerry?!!",
+      "raw_text": "I am not O'Brien! I am not O'Brien! I'm not O'Brien! Ask anyone! Jerry?! Jerry?!!"
+    },
+    {
+      "entry_id": 270,
+      "type": "scene_heading",
+      "text": "[Setting: Comedy club]",
+      "raw_text": "(Comedy club)",
+      "confidence": 0.9,
+      "location": "Comedy club",
+      "normalized_location": "comedy_club"
+    },
+    {
+      "entry_id": 271,
+      "type": "action",
+      "text": "So I was watching this movie the other night, it was a World War Two movie and there was Nazis in the movie and I noticed that the Nazis in those movies always had like two separate heils. They had like the regular heil that they would do and then when they were around the offices they had like this casual heil, remember that one, you ever notice that? They come in, yeah, heil, how are ya, is the kid back with the coffee yet? Come on, are you finished with the copier? Yeah. World domination, Aryan race, whose donuts are those? Yeah, heil, nice to see ya, can I have one of those donuts?",
+      "raw_text": "So I was watching this movie the other night, it was a World War Two movie and there was Nazis in the movie and I noticed that the Nazis in those movies always had like two separate heils. They had like the regular heil that they would do and then when they were around the offices they had like this casual heil, remember that one, you ever notice that? They come in, yeah, heil, how are ya, is the kid back with the coffee yet? Come on, are you finished with the copier? Yeah. World domination, Aryan race, whose donuts are those? Yeah, heil, nice to see ya, can I have one of those donuts?",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 272,
+      "type": "end_marker",
+      "text": "THE END",
+      "raw_text": "THE END"
+    },
+    {
+      "entry_id": 273,
+      "type": "action",
+      "text": ">",
+      "raw_text": ">",
+      "confidence": 0.6
+    }
+  ]
+}

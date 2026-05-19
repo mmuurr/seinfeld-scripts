@@ -1,0 +1,133 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/seinfeld-episode-script.schema.json",
+  "title": "EpisodeScript",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["episode", "entries"],
+  "properties": {
+    "episode": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "series_title",
+        "episode_number_overall",
+        "title",
+        "season",
+        "episode_number_in_season",
+        "air_date",
+        "written_by",
+        "directed_by"
+      ],
+      "properties": {
+        "series_title": {
+          "const": "Seinfeld"
+        },
+        "episode_number_overall": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "season": {
+          "type": ["integer", "null"],
+          "minimum": 1
+        },
+        "episode_number_in_season": {
+          "type": ["integer", "null"],
+          "minimum": 1
+        },
+        "air_date": {
+          "type": ["string", "null"],
+          "format": "date"
+        },
+        "written_by": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "directed_by": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "source_title": {
+          "type": "string"
+        },
+        "source_dataset": {
+          "type": "string"
+        }
+      }
+    },
+    "entries": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["entry_id", "type", "text"],
+        "properties": {
+          "entry_id": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "scene_heading",
+              "action",
+              "dialogue",
+              "transition",
+              "end_marker"
+            ]
+          },
+          "text": {
+            "type": "string",
+            "minLength": 1
+          },
+          "raw_text": {
+            "type": "string",
+            "minLength": 1
+          },
+          "speaker": {
+            "type": "string",
+            "minLength": 1
+          },
+          "normalized_speaker": {
+            "type": "string",
+            "minLength": 1
+          },
+          "parenthetical": {
+            "type": "string",
+            "minLength": 1
+          },
+          "location": {
+            "type": "string",
+            "minLength": 1
+          },
+          "normalized_location": {
+            "type": "string",
+            "minLength": 1
+          },
+          "inference_notes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "confidence": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          }
+        }
+      }
+    }
+  }
+}

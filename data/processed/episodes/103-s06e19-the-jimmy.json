@@ -1,0 +1,2449 @@
+{
+  "episode": {
+    "series_title": "Seinfeld",
+    "episode_number_overall": 103,
+    "title": "The Jimmy",
+    "season": 6,
+    "episode_number_in_season": 19,
+    "air_date": "1995-03-16",
+    "written_by": [],
+    "directed_by": [],
+    "source_title": "The Jimmy Script",
+    "source_dataset": "yregelman/unprocessed-seinfeld-scripts"
+  },
+  "entries": [
+    {
+      "entry_id": 1,
+      "type": "scene_heading",
+      "text": "[Setting: The New York Health Club]",
+      "raw_text": "(The New York Health Club. Jerry, Kramer and George are getting dressed)",
+      "confidence": 0.9,
+      "location": "The New York Health Club",
+      "normalized_location": "the_new_york_health_club",
+      "inference_notes": [
+        "Scene heading and opening action were split from a single parenthetical source line."
+      ]
+    },
+    {
+      "entry_id": 2,
+      "type": "action",
+      "text": "Jerry, Kramer and George are getting dressed",
+      "raw_text": "(The New York Health Club. Jerry, Kramer and George are getting dressed)",
+      "confidence": 0.75
+    },
+    {
+      "entry_id": 3,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "That guy was amazing, he could dunk and he was my height...What was his name again?",
+      "raw_text": "That guy was amazing, he could dunk and he was my height...What was his name again?"
+    },
+    {
+      "entry_id": 4,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Jimmy",
+      "raw_text": "Jimmy"
+    },
+    {
+      "entry_id": 5,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Jimmy, right.",
+      "raw_text": "Jimmy, right."
+    },
+    {
+      "entry_id": 6,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I dunno how you could forget . He kept reffering to himself in the third person. Jimmy's under the boards. Jimmy's in the open. Jimmy makes the shot.",
+      "raw_text": "I dunno how you could forget . He kept reffering to himself in the third person. Jimmy's under the boards. Jimmy's in the open. Jimmy makes the shot."
+    },
+    {
+      "entry_id": 7,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Ah! your just mad 'cause we beat ya.",
+      "raw_text": "Ah! your just mad 'cause we beat ya."
+    },
+    {
+      "entry_id": 8,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Jerry it's my fault .I couldn't make a shot. These losses they stay with me. They (?) Jerry. Now this is gonna plague me.( Puts on aftershave and cries out) OH! Mother!!! Jimmy walks in",
+      "raw_text": "Jerry it's my fault .I couldn't make a shot. These losses they stay with me. They (?) Jerry. Now this is gonna plague me.( Puts on aftershave and cries out) OH! Mother!!! Jimmy walks in"
+    },
+    {
+      "entry_id": 9,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "HEY! JIMMY!!! ha ha ha........Great game.",
+      "raw_text": "HEY! JIMMY!!! ha ha ha........Great game."
+    },
+    {
+      "entry_id": 10,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "OH yeah.......Jimmy played pretty good.",
+      "raw_text": "OH yeah.......Jimmy played pretty good."
+    },
+    {
+      "entry_id": 11,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey you know, I felt we had like a synergy out there, you know, like we were really helping each other.",
+      "raw_text": "Hey you know, I felt we had like a synergy out there, you know, like we were really helping each other."
+    },
+    {
+      "entry_id": 12,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What d'you got there?",
+      "raw_text": "What d'you got there?"
+    },
+    {
+      "entry_id": 13,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "These?",
+      "raw_text": "These?"
+    },
+    {
+      "entry_id": 14,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah",
+      "raw_text": "Yeah"
+    },
+    {
+      "entry_id": 15,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "These are Jimmy's training shoes.",
+      "raw_text": "These are Jimmy's training shoes."
+    },
+    {
+      "entry_id": 16,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah, yeah yeah yeah! I've seen these.....they sorta ..they make your legs..stronger.",
+      "raw_text": "Yeah, yeah yeah yeah! I've seen these.....they sorta ..they make your legs..stronger."
+    },
+    {
+      "entry_id": 17,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Oh yeah! Jimmy couldn't jump at all before he got these. Jimmy was like you (looks at G.)",
+      "raw_text": "Oh yeah! Jimmy couldn't jump at all before he got these. Jimmy was like you (looks at G.)"
+    },
+    {
+      "entry_id": 18,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "They're Plyometric.",
+      "raw_text": "They're Plyometric."
+    },
+    {
+      "entry_id": 19,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Plyometric?",
+      "raw_text": "Plyometric?"
+    },
+    {
+      "entry_id": 20,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah! They isolate the muscles. The muscle has to grow....or die.",
+      "raw_text": "Yeah! They isolate the muscles. The muscle has to grow....or die."
+    },
+    {
+      "entry_id": 21,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Wh...Where d'you get'em?",
+      "raw_text": "(to Jimmy) Wh...Where d'you get'em?",
+      "parenthetical": "to Jimmy"
+    },
+    {
+      "entry_id": 22,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Jimmy sells'em.",
+      "raw_text": "Jimmy sells'em."
+    },
+    {
+      "entry_id": 23,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You sell them?",
+      "raw_text": "You sell them?"
+    },
+    {
+      "entry_id": 24,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Oh yeah! But Jimmy's all out right now. Moving to Manhattan set Jimmy back a bit.",
+      "raw_text": "Oh yeah! But Jimmy's all out right now. Moving to Manhattan set Jimmy back a bit."
+    },
+    {
+      "entry_id": 25,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey listen, let me give you my card. It's got my home number on it. I want to buy the first pair when the next shipment comes in.",
+      "raw_text": "Hey listen, let me give you my card. It's got my home number on it. I want to buy the first pair when the next shipment comes in."
+    },
+    {
+      "entry_id": 26,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "All right",
+      "raw_text": "All right"
+    },
+    {
+      "entry_id": 27,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "All right Jimmy Good talking to ya.",
+      "raw_text": "All right Jimmy Good talking to ya."
+    },
+    {
+      "entry_id": 28,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Jimmy'll see you around. Jimmy leaves.",
+      "raw_text": "Jimmy'll see you around. Jimmy leaves."
+    },
+    {
+      "entry_id": 29,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What day is today?....Aw. ..Tuesday! Damn it. I shouldn't have worked out today. Mr Wilhem has called a big meeting and now I'm gonna be sweating through the whole thing.",
+      "raw_text": "What day is today?....Aw. ..Tuesday! Damn it. I shouldn't have worked out today. Mr Wilhem has called a big meeting and now I'm gonna be sweating through the whole thing."
+    },
+    {
+      "entry_id": 30,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Why. You took a shower?",
+      "raw_text": "Why. You took a shower?"
+    },
+    {
+      "entry_id": 31,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Aahhrgh...it wouldn't take. Ten minutes from now, I'll be sweating all over again, I can feel it. I'm a human heat pump!",
+      "raw_text": "Aahhrgh...it wouldn't take. Ten minutes from now, I'll be sweating all over again, I can feel it. I'm a human heat pump!"
+    },
+    {
+      "entry_id": 32,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You should take cold showers.",
+      "raw_text": "You should take cold showers."
+    },
+    {
+      "entry_id": 33,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Cold showers? They're for psychotics. Kramer Well I take 'em........They give me a Whooooosh.",
+      "raw_text": "Cold showers? They're for psychotics. Kramer Well I take 'em........They give me a Whooooosh."
+    },
+    {
+      "entry_id": 34,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "All right, I'll see you guys later.",
+      "raw_text": "All right, I'll see you guys later."
+    },
+    {
+      "entry_id": 35,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Aw right.",
+      "raw_text": "Aw right."
+    },
+    {
+      "entry_id": 36,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "So, you're heading home?",
+      "raw_text": "So, you're heading home?"
+    },
+    {
+      "entry_id": 37,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No...Got dental appointment.",
+      "raw_text": "No...Got dental appointment."
+    },
+    {
+      "entry_id": 38,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Ah! what.. Tim Whatley?",
+      "raw_text": "Ah! what.. Tim Whatley?"
+    },
+    {
+      "entry_id": 39,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah!",
+      "raw_text": "Yeah!"
+    },
+    {
+      "entry_id": 40,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh yeah.! I got a check up on Thursday.",
+      "raw_text": "Oh yeah.! I got a check up on Thursday."
+    },
+    {
+      "entry_id": 41,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh! How d'you like that?",
+      "raw_text": "Oh! How d'you like that?"
+    },
+    {
+      "entry_id": 42,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You know.. You really shouldn't brush 24 hours before seeing the dentist.",
+      "raw_text": "You know.. You really shouldn't brush 24 hours before seeing the dentist."
+    },
+    {
+      "entry_id": 43,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I think that's eat 24 hours before surgery.",
+      "raw_text": "I think that's eat 24 hours before surgery."
+    },
+    {
+      "entry_id": 44,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh no, you got to eat before surgery, you need your strength. Kramer leaves. Jerry is speechless.",
+      "raw_text": "Oh no, you got to eat before surgery, you need your strength. Kramer leaves. Jerry is speechless."
+    },
+    {
+      "entry_id": 45,
+      "type": "dialogue",
+      "speaker": "SCENE TWO",
+      "normalized_speaker": "scene_two",
+      "text": "Meeting at Yankee Stadium.",
+      "raw_text": "Meeting at Yankee Stadium."
+    },
+    {
+      "entry_id": 46,
+      "type": "dialogue",
+      "speaker": "WILHEM",
+      "normalized_speaker": "wilhem",
+      "text": "I called this meeting because we......have........a problem. For the last few months someone has been stealing equipment from the club. Until recently it's been little things, y'know; bases, batting helmets, donuts, but two nights ago they pulled the big one. The camera goes back and forth from Wilhem to George who keeps pulling on his collar he's sweating.",
+      "raw_text": "I called this meeting because we......have........a problem. For the last few months someone has been stealing equipment from the club. Until recently it's been little things, y'know; bases, batting helmets, donuts, but two nights ago they pulled the big one. The camera goes back and forth from Wilhem to George who keeps pulling on his collar he's sweating."
+    },
+    {
+      "entry_id": 47,
+      "type": "dialogue",
+      "speaker": "WILHEM",
+      "normalized_speaker": "wilhem",
+      "text": "They took a pitching machine, a batting cage ,the in-field tarp and all of Mr Steinbrenner's vitamins.. Now , we have reasons to believe it's an inside job.",
+      "raw_text": "They took a pitching machine, a batting cage ,the in-field tarp and all of Mr Steinbrenner's vitamins.. Now , we have reasons to believe it's an inside job."
+    },
+    {
+      "entry_id": 48,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Whoa!!",
+      "raw_text": "(still puffing)Whoa!!",
+      "parenthetical": "still puffing"
+    },
+    {
+      "entry_id": 49,
+      "type": "dialogue",
+      "speaker": "WILHEM",
+      "normalized_speaker": "wilhem",
+      "text": "If anybody here knows anything about it I recommend strongly that...you come forward. Wilhem looks at George who's sweating so much it seems he's hiding something. Scene cuts to Tim Whatley's dental office.",
+      "raw_text": "If anybody here knows anything about it I recommend strongly that...you come forward. Wilhem looks at George who's sweating so much it seems he's hiding something. Scene cuts to Tim Whatley's dental office."
+    },
+    {
+      "entry_id": 50,
+      "type": "dialogue",
+      "speaker": "RECEPTIONIST",
+      "normalized_speaker": "receptionist",
+      "text": "Dr Whatley's running a little late. If you'd like to take a seat, I'll call you when he's ready.",
+      "raw_text": "Dr Whatley's running a little late. If you'd like to take a seat, I'll call you when he's ready."
+    },
+    {
+      "entry_id": 51,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "All right. Jerry sits down and browses through the magazine on the table and discovers Tim has Penthouse magazines for patients to read. Scene then switches to Jerry's apartment. Elaine is on the phone.",
+      "raw_text": "All right. Jerry sits down and browses through the magazine on the table and discovers Tim has Penthouse magazines for patients to read. Scene then switches to Jerry's apartment. Elaine is on the phone."
+    },
+    {
+      "entry_id": 52,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh! Okay. Right. Thanks Mr Pitt....'kay. ..goodbye.",
+      "raw_text": "Oh! Okay. Right. Thanks Mr Pitt....'kay. ..goodbye."
+    },
+    {
+      "entry_id": 53,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hey ! You want to go see The Velvet Fog.",
+      "raw_text": "(to Jerry) Hey ! You want to go see The Velvet Fog.",
+      "parenthetical": "to Jerry"
+    },
+    {
+      "entry_id": 54,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "The Velvet fog?",
+      "raw_text": "The Velvet fog?"
+    },
+    {
+      "entry_id": 55,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah! Mel Torm\u00e9, That's his nickname.",
+      "raw_text": "Yeah! Mel Torm\u00e9, That's his nickname."
+    },
+    {
+      "entry_id": 56,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What the hell his a velvet fog.",
+      "raw_text": "What the hell his a velvet fog."
+    },
+    {
+      "entry_id": 57,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Do you wanna go or not?",
+      "raw_text": "Do you wanna go or not?"
+    },
+    {
+      "entry_id": 58,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well , where is it?.",
+      "raw_text": "Well , where is it?."
+    },
+    {
+      "entry_id": 59,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "He's performing at this AMCA benefit.",
+      "raw_text": "He's performing at this AMCA benefit."
+    },
+    {
+      "entry_id": 60,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "AMCA?",
+      "raw_text": "AMCA?"
+    },
+    {
+      "entry_id": 61,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Able Mentally Challenged Adults",
+      "raw_text": "Able Mentally Challenged Adults"
+    },
+    {
+      "entry_id": 62,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Naaaaaa...I can't watch a man sing a song.",
+      "raw_text": "Naaaaaa...I can't watch a man sing a song."
+    },
+    {
+      "entry_id": 63,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What are you..crazy?",
+      "raw_text": "What are you..crazy?"
+    },
+    {
+      "entry_id": 64,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "They get all emotional , they sway. It's embarrassing.",
+      "raw_text": "They get all emotional , they sway. It's embarrassing."
+    },
+    {
+      "entry_id": 65,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well, what am I gonna do for a date.?...Oh! do you know that ..hemmm! blond guy who's always at the exercycle at the health club.?",
+      "raw_text": "Well, what am I gonna do for a date.?...Oh! do you know that ..hemmm! blond guy who's always at the exercycle at the health club.?"
+    },
+    {
+      "entry_id": 66,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't think so.",
+      "raw_text": "I don't think so."
+    },
+    {
+      "entry_id": 67,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah yeah! He's really handsome with those...",
+      "raw_text": "Yeah yeah! He's really handsome with those..."
+    },
+    {
+      "entry_id": 68,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Elaine , I really don't...............pay much attention to men`s faces.",
+      "raw_text": "(interrupting) Elaine , I really don't...............pay much attention to men`s faces.",
+      "parenthetical": "interrupting"
+    },
+    {
+      "entry_id": 69,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You can't find beauty in a man?",
+      "raw_text": "You can't find beauty in a man?"
+    },
+    {
+      "entry_id": 70,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No... I find them repugnant and unappealing. Kramer bursts in",
+      "raw_text": "No... I find them repugnant and unappealing. Kramer bursts in"
+    },
+    {
+      "entry_id": 71,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey!",
+      "raw_text": "Hey!"
+    },
+    {
+      "entry_id": 72,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "To wit",
+      "raw_text": "(pointing Kramer) To wit",
+      "parenthetical": "pointing Kramer"
+    },
+    {
+      "entry_id": 73,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 74,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No ,Elaine and I we're just discussing whether I could admit a man is attractive.",
+      "raw_text": "No ,Elaine and I we're just discussing whether I could admit a man is attractive."
+    },
+    {
+      "entry_id": 75,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hmm! Oh! Yeah. I'll tell you who is an attractive man; Gorge Will.",
+      "raw_text": "Hmm! Oh! Yeah. I'll tell you who is an attractive man; Gorge Will."
+    },
+    {
+      "entry_id": 76,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Really!",
+      "raw_text": "Really!"
+    },
+    {
+      "entry_id": 77,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah! He has clean looks, scrubbed and shampooed and....",
+      "raw_text": "Yeah! He has clean looks, scrubbed and shampooed and...."
+    },
+    {
+      "entry_id": 78,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "He's smart....",
+      "raw_text": "He's smart...."
+    },
+    {
+      "entry_id": 79,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "No, no I don't find him all that bright.",
+      "raw_text": "No, no I don't find him all that bright."
+    },
+    {
+      "entry_id": 80,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "So you got any cavities?",
+      "raw_text": "So you got any cavities?"
+    },
+    {
+      "entry_id": 81,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Just one....gotta go back.....Oh but get this. Elaine, you will appreciate this. I'm sitting in Tim Whatley's waiting room...He's got a Penthouse right out on the table.",
+      "raw_text": "Just one....gotta go back.....Oh but get this. Elaine, you will appreciate this. I'm sitting in Tim Whatley's waiting room...He's got a Penthouse right out on the table."
+    },
+    {
+      "entry_id": 82,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Penthouse?",
+      "raw_text": "Penthouse?"
+    },
+    {
+      "entry_id": 83,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah!!! What is that? I mean isn't that sick. I mean , I'd be embarrassed to have that in my apartment.",
+      "raw_text": "Yeah!!! What is that? I mean isn't that sick. I mean , I'd be embarrassed to have that in my apartment."
+    },
+    {
+      "entry_id": 84,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "So what's wrong with that?",
+      "raw_text": "So what's wrong with that?"
+    },
+    {
+      "entry_id": 85,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "He's a doctor!.I mean it's supposed to be like a sterile environment.",
+      "raw_text": "(outraged) He's a doctor!.I mean it's supposed to be like a sterile environment.",
+      "parenthetical": "outraged"
+    },
+    {
+      "entry_id": 86,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "So... Did you take a look?",
+      "raw_text": "So... Did you take a look?"
+    },
+    {
+      "entry_id": 87,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Of course.... But that's got nothing to do with it.",
+      "raw_text": "Of course.... But that's got nothing to do with it."
+    },
+    {
+      "entry_id": 88,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well I'll tell you I'm looking forward to my appointment on Thursday. I might even get there a few minutes early. George comes in. Kramer walks out.",
+      "raw_text": "Well I'll tell you I'm looking forward to my appointment on Thursday. I might even get there a few minutes early. George comes in. Kramer walks out."
+    },
+    {
+      "entry_id": 89,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey",
+      "raw_text": "Hey"
+    },
+    {
+      "entry_id": 90,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hey! Hey! listen ... Do one of you guys know that ..that blond guy who's always on the exercycle at the health club. You know he's just really handsome?..",
+      "raw_text": "Hey! Hey! listen ... Do one of you guys know that ..that blond guy who's always on the exercycle at the health club. You know he's just really handsome?.."
+    },
+    {
+      "entry_id": 91,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I...I wouldn't know",
+      "raw_text": "(head down low) I...I wouldn't know",
+      "parenthetical": "head down low"
+    },
+    {
+      "entry_id": 92,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You know that just admitting a man is handsome doesn't necessarily make you a homosexual.",
+      "raw_text": "You know that just admitting a man is handsome doesn't necessarily make you a homosexual."
+    },
+    {
+      "entry_id": 93,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "It doesn't help",
+      "raw_text": "It doesn't help"
+    },
+    {
+      "entry_id": 94,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "All right, I'm gone",
+      "raw_text": "All right, I'm gone"
+    },
+    {
+      "entry_id": 95,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I'll see you.",
+      "raw_text": "I'll see you."
+    },
+    {
+      "entry_id": 96,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You know those shoes that Jimmy had? I cut a deal with him. We're gonna import a case of them together.",
+      "raw_text": "(to Jerry) You know those shoes that Jimmy had? I cut a deal with him. We're gonna import a case of them together.",
+      "parenthetical": "to Jerry"
+    },
+    {
+      "entry_id": 97,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What are you doing that for, you got a job",
+      "raw_text": "What are you doing that for, you got a job"
+    },
+    {
+      "entry_id": 98,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "There's a lot of money in this.. He's got a proven sales method",
+      "raw_text": "There's a lot of money in this.. He's got a proven sales method"
+    },
+    {
+      "entry_id": 99,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah! What's that.",
+      "raw_text": "Yeah! What's that."
+    },
+    {
+      "entry_id": 100,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "He jumps!",
+      "raw_text": "He jumps!"
+    },
+    {
+      "entry_id": 101,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Jimmy's got a record. Jimmy's jumping for dollars. Jimmt and George are gonna get rich.",
+      "raw_text": "Jimmy's got a record. Jimmy's jumping for dollars. Jimmt and George are gonna get rich."
+    },
+    {
+      "entry_id": 102,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Will you stop with the Jimmies Kramer takes something out of the fridge",
+      "raw_text": "Will you stop with the Jimmies Kramer takes something out of the fridge"
+    },
+    {
+      "entry_id": 103,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey! What's this?",
+      "raw_text": "Hey! What's this?"
+    },
+    {
+      "entry_id": 104,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Kom Pau(sp? Kramer tastes the chicken but realizes too late how hot and spicy it his",
+      "raw_text": "Kom Pau(sp? Kramer tastes the chicken but realizes too late how hot and spicy it his"
+    },
+    {
+      "entry_id": 105,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "......Kom Pau........ Elaine at the health club trying to attract the handsome blond guy's attention.",
+      "raw_text": "(gasp_)......Kom Pau........ Elaine at the health club trying to attract the handsome blond guy's attention.",
+      "parenthetical": "gasp_"
+    },
+    {
+      "entry_id": 106,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Look at me....Look at Mee!. Come on. I'm stretching right in front of you. Heeeey!! ...a smile. Aah! we made contact, all right one more stretch and then go talk to him. Hank leaves as she's ready to make her move. Elaine turns to try to find out where he could be and stops when she takes notice of Jimmy.",
+      "raw_text": "(We hear what she thinks) Look at me....Look at Mee!. Come on. I'm stretching right in front of you. Heeeey!! ...a smile. Aah! we made contact, all right one more stretch and then go talk to him. Hank leaves as she's ready to make her move. Elaine turns to try to find out where he could be and stops when she takes notice of Jimmy.",
+      "parenthetical": "We hear what she thinks"
+    },
+    {
+      "entry_id": 107,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "You know...Jimmy is pretty sweet on you.",
+      "raw_text": "You know...Jimmy is pretty sweet on you."
+    },
+    {
+      "entry_id": 108,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Aaaaaahhh! He is?!",
+      "raw_text": "Aaaaaahhh! He is?!"
+    },
+    {
+      "entry_id": 109,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Oh yeah!. Jimmy's been watching you....you're just Jimmy's type.",
+      "raw_text": "Oh yeah!. Jimmy's been watching you....you're just Jimmy's type."
+    },
+    {
+      "entry_id": 110,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "AAaaaaahhh! Really?(giggles)",
+      "raw_text": "AAaaaaahhh! Really?(giggles)"
+    },
+    {
+      "entry_id": 111,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Jimmy's new in town. Jimmy hem ..doesn't really know anyone.",
+      "raw_text": "Jimmy's new in town. Jimmy hem ..doesn't really know anyone."
+    },
+    {
+      "entry_id": 112,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh! well I'd like, like to get to know him.",
+      "raw_text": "Oh! well I'd like, like to get to know him."
+    },
+    {
+      "entry_id": 113,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Jimmy would like to get to know you.",
+      "raw_text": "Jimmy would like to get to know you."
+    },
+    {
+      "entry_id": 114,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Ha.... Scene cuts to Tim Whatley's office. Kramer is in the chair.",
+      "raw_text": "Ha.... Scene cuts to Tim Whatley's office. Kramer is in the chair."
+    },
+    {
+      "entry_id": 115,
+      "type": "dialogue",
+      "speaker": "WHATLEY",
+      "normalized_speaker": "whatley",
+      "text": "Hey! Kramer",
+      "raw_text": "Hey! Kramer"
+    },
+    {
+      "entry_id": 116,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Boy , you're looking sharp there Tim.",
+      "raw_text": "Boy , you're looking sharp there Tim."
+    },
+    {
+      "entry_id": 117,
+      "type": "dialogue",
+      "speaker": "WHATLEY",
+      "normalized_speaker": "whatley",
+      "text": "Yeah Well....I do what I can. How've you been.",
+      "raw_text": "Yeah Well....I do what I can. How've you been."
+    },
+    {
+      "entry_id": 118,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Euh.. Fine , good , yeah! Just been occupying myself with some of your....hem reading material.",
+      "raw_text": "Euh.. Fine , good , yeah! Just been occupying myself with some of your....hem reading material."
+    },
+    {
+      "entry_id": 119,
+      "type": "dialogue",
+      "speaker": "WHATLEY",
+      "normalized_speaker": "whatley",
+      "text": "So what'ill it be? Novocaine?",
+      "raw_text": "So what'ill it be? Novocaine?"
+    },
+    {
+      "entry_id": 120,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh yes, yes indeed.",
+      "raw_text": "Oh yes, yes indeed."
+    },
+    {
+      "entry_id": 121,
+      "type": "dialogue",
+      "speaker": "WHATLEY",
+      "normalized_speaker": "whatley",
+      "text": "Why don't we just clear a path first.",
+      "raw_text": "Why don't we just clear a path first."
+    },
+    {
+      "entry_id": 122,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "yeah, yeah, lets do that.",
+      "raw_text": "yeah, yeah, lets do that."
+    },
+    {
+      "entry_id": 123,
+      "type": "dialogue",
+      "speaker": "WHATLEY",
+      "normalized_speaker": "whatley",
+      "text": "You remember Mr. Thirsty.",
+      "raw_text": "You remember Mr. Thirsty."
+    },
+    {
+      "entry_id": 124,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "All right euhhm..... Whatley puts the suction device in Kramer's mouth and loud suctions sounds are heard. Scene then cuts back to the health club where Kramer is trying the vertical lift shoes.",
+      "raw_text": "All right euhhm..... Whatley puts the suction device in Kramer's mouth and loud suctions sounds are heard. Scene then cuts back to the health club where Kramer is trying the vertical lift shoes."
+    },
+    {
+      "entry_id": 125,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Ahh! You too with these?",
+      "raw_text": "Ahh! You too with these?"
+    },
+    {
+      "entry_id": 126,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah H'amon board.",
+      "raw_text": "(still under the effects of the Novocaine slurrs his words heavily) Yeah H'amon board.",
+      "parenthetical": "still under the effects of the Novocaine slurrs his words heavily"
+    },
+    {
+      "entry_id": 127,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So what did Tim say?",
+      "raw_text": "So what did Tim say?"
+    },
+    {
+      "entry_id": 128,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Wellhum....He th'aid I gotta cut out the SsssfKittles.",
+      "raw_text": "Wellhum....He th'aid I gotta cut out the SsssfKittles."
+    },
+    {
+      "entry_id": 129,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Looks like he gave you some Novocaine",
+      "raw_text": "Looks like he gave you some Novocaine"
+    },
+    {
+      "entry_id": 130,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Ohhh H'am loaded.",
+      "raw_text": "Ohhh H'am loaded."
+    },
+    {
+      "entry_id": 131,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So what about the Penthouse. Did you ask him?",
+      "raw_text": "So what about the Penthouse. Did you ask him?"
+    },
+    {
+      "entry_id": 132,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well he said that humm.. you know.that it helps his pathients relax",
+      "raw_text": "Well he said that humm.. you know.that it helps his pathients relax"
+    },
+    {
+      "entry_id": 133,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Adults only?",
+      "raw_text": "Adults only?"
+    },
+    {
+      "entry_id": 134,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah!!!",
+      "raw_text": "Yeah!!!"
+    },
+    {
+      "entry_id": 135,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What the hell's going on over there?",
+      "raw_text": "What the hell's going on over there?"
+    },
+    {
+      "entry_id": 136,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well you know its.. great. You know, no kids ..allowed. you don't have to watch your language.",
+      "raw_text": "Well you know its.. great. You know, no kids ..allowed. you don't have to watch your language."
+    },
+    {
+      "entry_id": 137,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You find you need to use a lot of obscenities at the dentist.",
+      "raw_text": "You find you need to use a lot of obscenities at the dentist."
+    },
+    {
+      "entry_id": 138,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "He..he... When they pull that needle out I let the expletives fly. Kramer reaches for a glass of water and drinks but manages to have it spill out on to the floor",
+      "raw_text": "He..he... When they pull that needle out I let the expletives fly. Kramer reaches for a glass of water and drinks but manages to have it spill out on to the floor"
+    },
+    {
+      "entry_id": 139,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey! Hey! Watch it.!... You're drooling all over the floor. How much Novocaine did that guy give you.",
+      "raw_text": "Hey! Hey! Watch it.!... You're drooling all over the floor. How much Novocaine did that guy give you."
+    },
+    {
+      "entry_id": 140,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well.. Aye can't hold the water. Jimmy comes in dribbling.",
+      "raw_text": "Well.. Aye can't hold the water. Jimmy comes in dribbling."
+    },
+    {
+      "entry_id": 141,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Oh yeah!! ... Jimmy's ready.",
+      "raw_text": "Oh yeah!! ... Jimmy's ready."
+    },
+    {
+      "entry_id": 142,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey Jimmy",
+      "raw_text": "Hey Jimmy"
+    },
+    {
+      "entry_id": 143,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Ha..harrr.",
+      "raw_text": "Ha..harrr."
+    },
+    {
+      "entry_id": 144,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Jimmy's got some new moves.",
+      "raw_text": "Jimmy's got some new moves."
+    },
+    {
+      "entry_id": 145,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Go Jimmy",
+      "raw_text": "Go Jimmy"
+    },
+    {
+      "entry_id": 146,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "'Check Jimmy out Jimmy slips on Kramer's puddle and falls on his back",
+      "raw_text": "'Check Jimmy out Jimmy slips on Kramer's puddle and falls on his back"
+    },
+    {
+      "entry_id": 147,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Ooohhh!!!!! JIMMY'S DOWN. Scene cuts then comes back with paramedics and Jimmy on a stretcher. Paramedic (missing a few words) ......was gonna be in traction.",
+      "raw_text": "Ooohhh!!!!! JIMMY'S DOWN. Scene cuts then comes back with paramedics and Jimmy on a stretcher. Paramedic (missing a few words) ......was gonna be in traction."
+    },
+    {
+      "entry_id": 148,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Jimmy might have a compound fracture.. Jimmy's going into shock!!",
+      "raw_text": "Jimmy might have a compound fracture.. Jimmy's going into shock!!"
+    },
+    {
+      "entry_id": 149,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "WHY WEREN'T YOU MORE CAREFUL WITH YOUR DROOL!",
+      "raw_text": "(angrily)WHY WEREN'T YOU MORE CAREFUL WITH YOUR DROOL!",
+      "parenthetical": "angrily"
+    },
+    {
+      "entry_id": 150,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "HEY I'M DOING THE BEST I CAN!!!",
+      "raw_text": "HEY I'M DOING THE BEST I CAN!!!"
+    },
+    {
+      "entry_id": 151,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Why are you taking this so personally? George BECAUSE IF HE CAN'T JUMP. THERE GOES MY SNEAKER BUSINESS!!",
+      "raw_text": "Why are you taking this so personally? George BECAUSE IF HE CAN'T JUMP. THERE GOES MY SNEAKER BUSINESS!!"
+    },
+    {
+      "entry_id": 152,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "WELL I SAID I'M SORRY.",
+      "raw_text": "(cries out) WELL I SAID I'M SORRY.",
+      "parenthetical": "cries out"
+    },
+    {
+      "entry_id": 153,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "JIM....JIMMY",
+      "raw_text": "( as he gets taken out) JIM....JIMMY",
+      "parenthetical": "as he gets taken out"
+    },
+    {
+      "entry_id": 154,
+      "type": "dialogue",
+      "speaker": "BUT I CAN'T FEEL ANYTHING.",
+      "normalized_speaker": "but_i_can_t_feel_anything",
+      "text": "Kramer is seen running down the street with his vertical lift shoes. He's trying to hail a cab.",
+      "raw_text": "Kramer is seen running down the street with his vertical lift shoes. He's trying to hail a cab."
+    },
+    {
+      "entry_id": 155,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "HEY TAXI!!!.....TAXI!! An elderly gentleman is after the same taxi.",
+      "raw_text": "HEY TAXI!!!.....TAXI!! An elderly gentleman is after the same taxi."
+    },
+    {
+      "entry_id": 156,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Go ahead, go ahead you got it......(to the driver) He's got it. The man is looking him up and down, noticing the shoes and the slurred speech. Deensfrei (slowly) Oh! Please, go ahead take it",
+      "raw_text": "Go ahead, go ahead you got it......(to the driver) He's got it. The man is looking him up and down, noticing the shoes and the slurred speech. Deensfrei (slowly) Oh! Please, go ahead take it"
+    },
+    {
+      "entry_id": 157,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "No,No...You were here first. Deensfrei No. No I..I insist. I'll grab the next one.",
+      "raw_text": "No,No...You were here first. Deensfrei No. No I..I insist. I'll grab the next one."
+    },
+    {
+      "entry_id": 158,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Lets share.. we share....Awight Deensfrei Yes ! Splendid. That's a great idea. Kramer bumps his head as he gets into the cab",
+      "raw_text": "Lets share.. we share....Awight Deensfrei Yes ! Splendid. That's a great idea. Kramer bumps his head as he gets into the cab"
+    },
+    {
+      "entry_id": 159,
+      "type": "dialogue",
+      "speaker": "DEANSFREI",
+      "normalized_speaker": "deansfrei",
+      "text": "My name is Arnold Deensfrei. What is your name?",
+      "raw_text": "My name is Arnold Deensfrei. What is your name?"
+    },
+    {
+      "entry_id": 160,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Eh!! Cosmo Kramer. Nice to meet you Deensfrei Very nice to meet you Cosmo. Are you heading home?",
+      "raw_text": "Eh!! Cosmo Kramer. Nice to meet you Deensfrei Very nice to meet you Cosmo. Are you heading home?"
+    },
+    {
+      "entry_id": 161,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah! heading home. Deensfrei Good for you.....You are really independant.",
+      "raw_text": "(like rainman)Yeah! heading home. Deensfrei Good for you.....You are really independant.",
+      "parenthetical": "like rainman"
+    },
+    {
+      "entry_id": 162,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeaheum ... You're not doing too bad yourself In a sporting goods store, George tries to make a sale. He is putting on the shoes.",
+      "raw_text": "Yeaheum ... You're not doing too bad yourself In a sporting goods store, George tries to make a sale. He is putting on the shoes."
+    },
+    {
+      "entry_id": 163,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Argh!!..Anyway...Jimmy couldn't be here today so he asked me to fill in for him, and I'm sure that you'll be impressed at what can be accomplished after only a few short days of training.....yeah! George tries three times to jump but barely lifts a couple of inches off the ground. The store personnel gets uninterested quickly and leave. Scene cuts to Jerry's apartment.",
+      "raw_text": "Argh!!..Anyway...Jimmy couldn't be here today so he asked me to fill in for him, and I'm sure that you'll be impressed at what can be accomplished after only a few short days of training.....yeah! George tries three times to jump but barely lifts a couple of inches off the ground. The store personnel gets uninterested quickly and leave. Scene cuts to Jerry's apartment."
+    },
+    {
+      "entry_id": 164,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "THE VELVET FOG!!!!",
+      "raw_text": "(whose voice has returned to normal)THE VELVET FOG!!!!",
+      "parenthetical": "whose voice has returned to normal"
+    },
+    {
+      "entry_id": 165,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What about the Velvet Fog ?",
+      "raw_text": "What about the Velvet Fog ?"
+    },
+    {
+      "entry_id": 166,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What about the Velvet Fog?",
+      "raw_text": "(as she comes in) What about the Velvet Fog?",
+      "parenthetical": "as she comes in"
+    },
+    {
+      "entry_id": 167,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well...He's singing at a benefit and I'm gonna be sitting at his table.",
+      "raw_text": "Well...He's singing at a benefit and I'm gonna be sitting at his table."
+    },
+    {
+      "entry_id": 168,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I'm going to that!",
+      "raw_text": "I'm going to that!"
+    },
+    {
+      "entry_id": 169,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I'm a guest of honor.",
+      "raw_text": "I'm a guest of honor."
+    },
+    {
+      "entry_id": 170,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What are you talking about?",
+      "raw_text": "What are you talking about?"
+    },
+    {
+      "entry_id": 171,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well this afternoon I shared a cab with this...a hum..Deensfrei.",
+      "raw_text": "Well this afternoon I shared a cab with this...a hum..Deensfrei."
+    },
+    {
+      "entry_id": 172,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah, yeah! Arnold Deensfrei, he runs the AMCA",
+      "raw_text": "Yeah, yeah! Arnold Deensfrei, he runs the AMCA"
+    },
+    {
+      "entry_id": 173,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah! well ..that's the guy .He's organizing the dinner.",
+      "raw_text": "Yeah! well ..that's the guy .He's organizing the dinner."
+    },
+    {
+      "entry_id": 174,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I know that but why are you going?",
+      "raw_text": "I know that but why are you going?"
+    },
+    {
+      "entry_id": 175,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, because we hit it off and he was very impressed with what I do.",
+      "raw_text": "Well, because we hit it off and he was very impressed with what I do."
+    },
+    {
+      "entry_id": 176,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What you do!!. You don't do anything.",
+      "raw_text": "What you do!!. You don't do anything."
+    },
+    {
+      "entry_id": 177,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well apparently I do something 'cause I'm sitting at the head table with Mr. Mel Torm\u00e9 Kramer sits on the couch and puts his feet up on the coffee table.",
+      "raw_text": "Well apparently I do something 'cause I'm sitting at the head table with Mr. Mel Torm\u00e9 Kramer sits on the couch and puts his feet up on the coffee table."
+    },
+    {
+      "entry_id": 178,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What are those?",
+      "raw_text": "(pointing at the shoes) What are those?",
+      "parenthetical": "pointing at the shoes"
+    },
+    {
+      "entry_id": 179,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Ehmm ..These are my vertical leap training shoes.",
+      "raw_text": "Ehmm ..These are my vertical leap training shoes."
+    },
+    {
+      "entry_id": 180,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Wait a second ..Where you wearing those shoes in the cab?",
+      "raw_text": "Wait a second ..Where you wearing those shoes in the cab?"
+    },
+    {
+      "entry_id": 181,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah! yeah! right after I left the Y.",
+      "raw_text": "Yeah! yeah! right after I left the Y."
+    },
+    {
+      "entry_id": 182,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Don't you see what's happened, he couldn't talk , he's wearing these shoes, he's drooling. Kramer. What!!!",
+      "raw_text": "Don't you see what's happened, he couldn't talk , he's wearing these shoes, he's drooling. Kramer. What!!!"
+    },
+    {
+      "entry_id": 183,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "He thinks you're mentally challenged.",
+      "raw_text": "He thinks you're mentally challenged."
+    },
+    {
+      "entry_id": 184,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well...........you know.....",
+      "raw_text": "Well...........you know....."
+    },
+    {
+      "entry_id": 185,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well ,what happens when you show up . He'll see that you're not.?",
+      "raw_text": "Well ,what happens when you show up . He'll see that you're not.?"
+    },
+    {
+      "entry_id": 186,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Not necessarily because..... Scene cuts back to Tim Whatley's dental office. Jerry is sitting in the chair.",
+      "raw_text": "Not necessarily because..... Scene cuts back to Tim Whatley's dental office. Jerry is sitting in the chair."
+    },
+    {
+      "entry_id": 187,
+      "type": "dialogue",
+      "speaker": "WHATLEY",
+      "normalized_speaker": "whatley",
+      "text": "Sheryl, would you ready the Nitro(???) please? Whatley inhales the gas mask before handing it over to Jerry.",
+      "raw_text": "Sheryl, would you ready the Nitro(???) please? Whatley inhales the gas mask before handing it over to Jerry."
+    },
+    {
+      "entry_id": 188,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh! where's Jennifer today?",
+      "raw_text": "Oh! where's Jennifer today?"
+    },
+    {
+      "entry_id": 189,
+      "type": "dialogue",
+      "speaker": "WHATLEY",
+      "normalized_speaker": "whatley",
+      "text": "OH!! She's over at Dr.Cessman's office. We find it fun to swap now and then. Cuts to Yankee Stadium. George is sitting at his desk eating Kam Pau chicken.",
+      "raw_text": "OH!! She's over at Dr.Cessman's office. We find it fun to swap now and then. Cuts to Yankee Stadium. George is sitting at his desk eating Kam Pau chicken."
+    },
+    {
+      "entry_id": 190,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Whhhoooo!!!!(taps on his desk loudly) Phone rings.",
+      "raw_text": "Whhhoooo!!!!(taps on his desk loudly) Phone rings."
+    },
+    {
+      "entry_id": 191,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Arrrrrrgh!! .. It's George.. Oh! Sports wholesaler. yeah. yeah. .. thanks for calling back. No , no , no still got the shoes, still got the shoes. Lots of them. This is.. beautiful athletic gear. Wilhelm enters the office as George is talking on the phone. He seems suspicious.",
+      "raw_text": "Arrrrrrgh!! .. It's George.. Oh! Sports wholesaler. yeah. yeah. .. thanks for calling back. No , no , no still got the shoes, still got the shoes. Lots of them. This is.. beautiful athletic gear. Wilhelm enters the office as George is talking on the phone. He seems suspicious."
+    },
+    {
+      "entry_id": 192,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": ".....Well. I'm sorry. Call you right back.",
+      "raw_text": ".....Well. I'm sorry. Call you right back."
+    },
+    {
+      "entry_id": 193,
+      "type": "dialogue",
+      "speaker": "WILHELM",
+      "normalized_speaker": "wilhelm",
+      "text": "So George. Have you heard anything about the missing equipment?",
+      "raw_text": "So George. Have you heard anything about the missing equipment?"
+    },
+    {
+      "entry_id": 194,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No!...not...nothing.",
+      "raw_text": "No!...not...nothing."
+    },
+    {
+      "entry_id": 195,
+      "type": "dialogue",
+      "speaker": "WILHELM",
+      "normalized_speaker": "wilhelm",
+      "text": "George, there's nothing I hate more than a liar.",
+      "raw_text": "George, there's nothing I hate more than a liar."
+    },
+    {
+      "entry_id": 196,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well...there's no room for someone like that in this organization.",
+      "raw_text": "Well...there's no room for someone like that in this organization."
+    },
+    {
+      "entry_id": 197,
+      "type": "dialogue",
+      "speaker": "WILHELM",
+      "normalized_speaker": "wilhelm",
+      "text": "Are you feeling all right George?",
+      "raw_text": "Are you feeling all right George?"
+    },
+    {
+      "entry_id": 198,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hemmm!.. Fine!",
+      "raw_text": "Hemmm!.. Fine!"
+    },
+    {
+      "entry_id": 199,
+      "type": "dialogue",
+      "speaker": "WILHELM",
+      "normalized_speaker": "wilhelm",
+      "text": "You look a little warm.",
+      "raw_text": "You look a little warm."
+    },
+    {
+      "entry_id": 200,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "...It's the chicken",
+      "raw_text": "...It's the chicken"
+    },
+    {
+      "entry_id": 201,
+      "type": "dialogue",
+      "speaker": "WILHELM",
+      "normalized_speaker": "wilhelm",
+      "text": "You're a terrible liar George. Look at you, you're a wreck!. you're sweating bullets.",
+      "raw_text": "You're a terrible liar George. Look at you, you're a wreck!. you're sweating bullets."
+    },
+    {
+      "entry_id": 202,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "It's the Kom Pau ... George likes his chicken spicy. Back in Tim Whatleys office..Jerry wakes up , his vision blurred. He sees Whatley and Sheryl getting dressed. Scene cuts to Monks. Jerry and Elaine are talking.",
+      "raw_text": "It's the Kom Pau ... George likes his chicken spicy. Back in Tim Whatleys office..Jerry wakes up , his vision blurred. He sees Whatley and Sheryl getting dressed. Scene cuts to Monks. Jerry and Elaine are talking."
+    },
+    {
+      "entry_id": 203,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "....Maybe you were still under the gas.Maybe you were hallucinating you're coming out of the gas but you were still under the gas.",
+      "raw_text": "....Maybe you were still under the gas.Maybe you were hallucinating you're coming out of the gas but you were still under the gas."
+    },
+    {
+      "entry_id": 204,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't think so. I think they were getting dressed and not only that; my shirt was out!!!",
+      "raw_text": "I don't think so. I think they were getting dressed and not only that; my shirt was out!!!"
+    },
+    {
+      "entry_id": 205,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "your shirt was out?",
+      "raw_text": "your shirt was out?"
+    },
+    {
+      "entry_id": 206,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I think so.",
+      "raw_text": "I think so."
+    },
+    {
+      "entry_id": 207,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well, what kind of shirt was it.?",
+      "raw_text": "Well, what kind of shirt was it.?"
+    },
+    {
+      "entry_id": 208,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You know! Like a tennis shirt.",
+      "raw_text": "You know! Like a tennis shirt."
+    },
+    {
+      "entry_id": 209,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh! Well ... You don't tuck those in?",
+      "raw_text": "Oh! Well ... You don't tuck those in?"
+    },
+    {
+      "entry_id": 210,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Sometimes I tuck'em sometimes I don't",
+      "raw_text": "Sometimes I tuck'em sometimes I don't"
+    },
+    {
+      "entry_id": 211,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well. Were you tucked?",
+      "raw_text": "Well. Were you tucked?"
+    },
+    {
+      "entry_id": 212,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I think I was tucked.!",
+      "raw_text": "I think I was tucked.!"
+    },
+    {
+      "entry_id": 213,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "All right then say you were. I mean .. what do you think could have happened.?",
+      "raw_text": "All right then say you were. I mean .. what do you think could have happened.?"
+    },
+    {
+      "entry_id": 214,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't know but I was spitting out and rinsing like there was no tomorrow.",
+      "raw_text": "I don't know but I was spitting out and rinsing like there was no tomorrow."
+    },
+    {
+      "entry_id": 215,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Ughhhh",
+      "raw_text": "Ughhhh"
+    },
+    {
+      "entry_id": 216,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Is this guy a dentist or Caligula?",
+      "raw_text": "Is this guy a dentist or Caligula?"
+    },
+    {
+      "entry_id": 217,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What are you gettin'?",
+      "raw_text": "What are you gettin'?"
+    },
+    {
+      "entry_id": 218,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't think I'm hungry:",
+      "raw_text": "I don't think I'm hungry:"
+    },
+    {
+      "entry_id": 219,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Okay...So you were violated by two people while you were under the gas. So What? You're single.",
+      "raw_text": "Okay...So you were violated by two people while you were under the gas. So What? You're single."
+    },
+    {
+      "entry_id": 220,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "But I'm damaged goods now.",
+      "raw_text": "But I'm damaged goods now."
+    },
+    {
+      "entry_id": 221,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Join the club.",
+      "raw_text": "Join the club."
+    },
+    {
+      "entry_id": 222,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey, by the way, did you ever call that guy from the health club.?",
+      "raw_text": "Hey, by the way, did you ever call that guy from the health club.?"
+    },
+    {
+      "entry_id": 223,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh yeah! Jimmy.",
+      "raw_text": "Oh yeah! Jimmy."
+    },
+    {
+      "entry_id": 224,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Jimmy?",
+      "raw_text": "Jimmy?"
+    },
+    {
+      "entry_id": 225,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Ahum!",
+      "raw_text": "Ahum!"
+    },
+    {
+      "entry_id": 226,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "That's the guy?",
+      "raw_text": "That's the guy?"
+    },
+    {
+      "entry_id": 227,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah!",
+      "raw_text": "Yeah!"
+    },
+    {
+      "entry_id": 228,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Can't believe your going out with him...",
+      "raw_text": "Can't believe your going out with him..."
+    },
+    {
+      "entry_id": 229,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Why?",
+      "raw_text": "Why?"
+    },
+    {
+      "entry_id": 230,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I dunno. He's so strange.'",
+      "raw_text": "I dunno. He's so strange.'"
+    },
+    {
+      "entry_id": 231,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "How so?",
+      "raw_text": "How so?"
+    },
+    {
+      "entry_id": 232,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Did you notice he always refer to himself in the third person. Jimmy can dunk. Jimmy's new in town. Jimmy we'll see you later.",
+      "raw_text": "Did you notice he always refer to himself in the third person. Jimmy can dunk. Jimmy's new in town. Jimmy we'll see you later."
+    },
+    {
+      "entry_id": 233,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No No... That's not him. That's the guy who gave me... Jimmy's number.",
+      "raw_text": "No No... That's not him. That's the guy who gave me... Jimmy's number."
+    },
+    {
+      "entry_id": 234,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "That's Jimmy. That's the way he talks.",
+      "raw_text": "That's Jimmy. That's the way he talks."
+    },
+    {
+      "entry_id": 235,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I'm going to go see Mel Torm\u00e9 with him?",
+      "raw_text": "I'm going to go see Mel Torm\u00e9 with him?"
+    },
+    {
+      "entry_id": 236,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Jimmy's gonna put the moves on Elaine.. George comes in and sits down with them..",
+      "raw_text": "Jimmy's gonna put the moves on Elaine.. George comes in and sits down with them.."
+    },
+    {
+      "entry_id": 237,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I have to go see Steinbrenner later. Mr Wilhelm told him that I was the one responsable for stealing all the merchandise.",
+      "raw_text": "I have to go see Steinbrenner later. Mr Wilhelm told him that I was the one responsable for stealing all the merchandise."
+    },
+    {
+      "entry_id": 238,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Why?",
+      "raw_text": "Why?"
+    },
+    {
+      "entry_id": 239,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "'Cause when he questioned me about it I was sweating from the Kom Pau..",
+      "raw_text": "'Cause when he questioned me about it I was sweating from the Kom Pau.."
+    },
+    {
+      "entry_id": 240,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't know how you can eat that spicy chicken,",
+      "raw_text": "I don't know how you can eat that spicy chicken,"
+    },
+    {
+      "entry_id": 241,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "George likes spicy chicken.",
+      "raw_text": "George likes spicy chicken."
+    },
+    {
+      "entry_id": 242,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What's that?",
+      "raw_text": "What's that?"
+    },
+    {
+      "entry_id": 243,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "....I like spicy chicken",
+      "raw_text": "....I like spicy chicken"
+    },
+    {
+      "entry_id": 244,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No no you said George likes spicy chicken.",
+      "raw_text": "No no you said George likes spicy chicken."
+    },
+    {
+      "entry_id": 245,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No I didn't",
+      "raw_text": "No I didn't"
+    },
+    {
+      "entry_id": 246,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yes you did you said George likes spicy chicken..",
+      "raw_text": "Yes you did you said George likes spicy chicken.."
+    },
+    {
+      "entry_id": 247,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You're turning in to Jimmy.",
+      "raw_text": "You're turning in to Jimmy."
+    },
+    {
+      "entry_id": 248,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "George is getting upset.. Back at the health club Elaine meets Jimmy who is wearing crutches.",
+      "raw_text": "George is getting upset.. Back at the health club Elaine meets Jimmy who is wearing crutches."
+    },
+    {
+      "entry_id": 249,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "So what do you want to see Jimmy about?",
+      "raw_text": "So what do you want to see Jimmy about?"
+    },
+    {
+      "entry_id": 250,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well.... (pointing at him) Jimmy!",
+      "raw_text": "Well.... (pointing at him) Jimmy!"
+    },
+    {
+      "entry_id": 251,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Huh uh...",
+      "raw_text": "Huh uh..."
+    },
+    {
+      "entry_id": 252,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "About tonight hum.. there's been a little misunderstanding.",
+      "raw_text": "About tonight hum.. there's been a little misunderstanding."
+    },
+    {
+      "entry_id": 253,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Ah! ... Jimmy doesn't like misunderstanding.",
+      "raw_text": "Ah! ... Jimmy doesn't like misunderstanding."
+    },
+    {
+      "entry_id": 254,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah. What happened was....",
+      "raw_text": "Yeah. What happened was...."
+    },
+    {
+      "entry_id": 255,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Jimmy and misunderstanding kinda clash.",
+      "raw_text": "Jimmy and misunderstanding kinda clash."
+    },
+    {
+      "entry_id": 256,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You know, I've never heard anyone talk the way you do. It's very unusual.",
+      "raw_text": "(suddenly intrigued) You know, I've never heard anyone talk the way you do. It's very unusual.",
+      "parenthetical": "suddenly intrigued"
+    },
+    {
+      "entry_id": 257,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Well, Jimmy's very unusual.",
+      "raw_text": "Well, Jimmy's very unusual."
+    },
+    {
+      "entry_id": 258,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well anyway hum.... see when I made the date, I thought that Jimmy......",
+      "raw_text": "Well anyway hum.... see when I made the date, I thought that Jimmy......"
+    },
+    {
+      "entry_id": 259,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Hey look. Hank's got a new boyfriend. Jimmy's not threatened by Hanks sexuality ... Jimmy's happy for Hank.",
+      "raw_text": "Hey look. Hank's got a new boyfriend. Jimmy's not threatened by Hanks sexuality ... Jimmy's happy for Hank."
+    },
+    {
+      "entry_id": 260,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Elaine once tried to convert one but Elaine's not going through that again. Scene cuts to The Marriot for the benefit.",
+      "raw_text": "Elaine once tried to convert one but Elaine's not going through that again. Scene cuts to The Marriot for the benefit."
+    },
+    {
+      "entry_id": 261,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I'm going to try and find some candy. You want some?",
+      "raw_text": "I'm going to try and find some candy. You want some?"
+    },
+    {
+      "entry_id": 262,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah!",
+      "raw_text": "Yeah!"
+    },
+    {
+      "entry_id": 263,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What kind?",
+      "raw_text": "What kind?"
+    },
+    {
+      "entry_id": 264,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I don't care: Jimmy walks in",
+      "raw_text": "I don't care: Jimmy walks in"
+    },
+    {
+      "entry_id": 265,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hey Jimmy!!",
+      "raw_text": "Hey Jimmy!!"
+    },
+    {
+      "entry_id": 266,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "I Elaine.",
+      "raw_text": "I Elaine."
+    },
+    {
+      "entry_id": 267,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Elaine got a new dress.",
+      "raw_text": "Elaine got a new dress."
+    },
+    {
+      "entry_id": 268,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Jimmy likes it.",
+      "raw_text": "Jimmy likes it."
+    },
+    {
+      "entry_id": 269,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "There's no candy around here. hey! Jimmy.",
+      "raw_text": "There's no candy around here. hey! Jimmy."
+    },
+    {
+      "entry_id": 270,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Well look who's here.",
+      "raw_text": "Well look who's here."
+    },
+    {
+      "entry_id": 271,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Whooo!",
+      "raw_text": "Whooo!"
+    },
+    {
+      "entry_id": 272,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "That's the guy who sidelined Jimmy.",
+      "raw_text": "That's the guy who sidelined Jimmy."
+    },
+    {
+      "entry_id": 273,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What!",
+      "raw_text": "What!"
+    },
+    {
+      "entry_id": 274,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "That's the guy who took the bread out of Jimmy's mouth. Jimmy's out of work because of you.. Jimmy punches Kramer in the mouth.",
+      "raw_text": "That's the guy who took the bread out of Jimmy's mouth. Jimmy's out of work because of you.. Jimmy punches Kramer in the mouth."
+    },
+    {
+      "entry_id": 275,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "Jimmy wants a piece of Kramer..(fighting ensues and Jimmy gets taken out by hotel security)",
+      "raw_text": "Jimmy wants a piece of Kramer..(fighting ensues and Jimmy gets taken out by hotel security)"
+    },
+    {
+      "entry_id": 276,
+      "type": "dialogue",
+      "speaker": "JIMMY",
+      "normalized_speaker": "jimmy",
+      "text": "JIMMY'S GONNA GET YOU KRAMER!!. HANDS OFF JIMMY!!. DON'T TOUCH JIMMY!! LET GO OF JIMMY!!!",
+      "raw_text": "JIMMY'S GONNA GET YOU KRAMER!!. HANDS OFF JIMMY!!. DON'T TOUCH JIMMY!! LET GO OF JIMMY!!!"
+    },
+    {
+      "entry_id": 277,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah! My lips swollen? Kramer sitting at the head table.",
+      "raw_text": "Yeah! My lips swollen? Kramer sitting at the head table.",
+      "parenthetical": "Keamer's voice starts slurring again"
+    },
+    {
+      "entry_id": 278,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "No No I've been living alone a long time now.",
+      "raw_text": "No No I've been living alone a long time now."
+    },
+    {
+      "entry_id": 279,
+      "type": "dialogue",
+      "speaker": "MEL",
+      "normalized_speaker": "mel",
+      "text": "Well I think that's the tops. We cut back to Yankee stadium in George Steinbrenners office.",
+      "raw_text": "Well I think that's the tops. We cut back to Yankee stadium in George Steinbrenners office."
+    },
+    {
+      "entry_id": 280,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You hem... wanted to see me Mr. Steinbrenner?",
+      "raw_text": "(knocks) You hem... wanted to see me Mr. Steinbrenner?",
+      "parenthetical": "knocks"
+    },
+    {
+      "entry_id": 281,
+      "type": "dialogue",
+      "speaker": "STEIN",
+      "normalized_speaker": "stein",
+      "text": "Yes George, come in ,come in. You know George I've been your biggest supporter around here and thats why I was so disappointed to hear that you been pilfering the equipment.",
+      "raw_text": "Yes George, come in ,come in. You know George I've been your biggest supporter around here and thats why I was so disappointed to hear that you been pilfering the equipment."
+    },
+    {
+      "entry_id": 282,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "George would never do anything like that.",
+      "raw_text": "George would never do anything like that."
+    },
+    {
+      "entry_id": 283,
+      "type": "dialogue",
+      "speaker": "STEIN",
+      "normalized_speaker": "stein",
+      "text": "'No why would I. I own it.",
+      "raw_text": "'No why would I. I own it."
+    },
+    {
+      "entry_id": 284,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Right!",
+      "raw_text": "Right!"
+    },
+    {
+      "entry_id": 285,
+      "type": "dialogue",
+      "speaker": "STEIN",
+      "normalized_speaker": "stein",
+      "text": "So what are you saying?",
+      "raw_text": "So what are you saying?"
+    },
+    {
+      "entry_id": 286,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Why would George steal from the Yankees?",
+      "raw_text": "Why would George steal from the Yankees?"
+    },
+    {
+      "entry_id": 287,
+      "type": "dialogue",
+      "speaker": "STEIN",
+      "normalized_speaker": "stein",
+      "text": "'He wouldn't.",
+      "raw_text": "'He wouldn't."
+    },
+    {
+      "entry_id": 288,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "'course not",
+      "raw_text": "'course not"
+    },
+    {
+      "entry_id": 289,
+      "type": "dialogue",
+      "speaker": "STEIN",
+      "normalized_speaker": "stein",
+      "text": "Exactly..................(mumbles) I don't what the hell's going on here.",
+      "raw_text": "Exactly..................(mumbles) I don't what the hell's going on here."
+    },
+    {
+      "entry_id": 290,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Sir?",
+      "raw_text": "Sir?"
+    },
+    {
+      "entry_id": 291,
+      "type": "dialogue",
+      "speaker": "STEIN",
+      "normalized_speaker": "stein",
+      "text": "Nothing.",
+      "raw_text": "Nothing."
+    },
+    {
+      "entry_id": 292,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well seems it's about time for George's lunch.",
+      "raw_text": "(energetically) Well seems it's about time for George's lunch.",
+      "parenthetical": "energetically"
+    },
+    {
+      "entry_id": 293,
+      "type": "dialogue",
+      "speaker": "STEIN",
+      "normalized_speaker": "stein",
+      "text": "Yes it is. Well lets see what I have today. Darn it It's ham & Cheese again and she forgot the fancy mustard. I told her I like that fancy mustard. You could put that fancy mustard on a shoe and it would taste pretty good to me. oh! she made it up with a cupcake though. Hey look at this . you know I got a new system for eating these things. `I used to peel off the chocolate now I turn them upside down , I eat the cake first and save the frosting for the end. (George stops listening and It's almost like its own dessert............. Scene fades and we go back to the AMCA benefit.",
+      "raw_text": "Yes it is. Well lets see what I have today. Darn it It's ham & Cheese again and she forgot the fancy mustard. I told her I like that fancy mustard. You could put that fancy mustard on a shoe and it would taste pretty good to me. oh! she made it up with a cupcake though. Hey look at this . you know I got a new system for eating these things. `I used to peel off the chocolate now I turn them upside down , I eat the cake first and save the frosting for the end. (George stops listening and It's almost like its own dessert............. Scene fades and we go back to the AMCA benefit."
+    },
+    {
+      "entry_id": 294,
+      "type": "dialogue",
+      "speaker": "MEL",
+      "normalized_speaker": "mel",
+      "text": "Ladies and gentlemen....I want to dedicate this song to a very courageous young man.",
+      "raw_text": "Ladies and gentlemen....I want to dedicate this song to a very courageous young man."
+    },
+    {
+      "entry_id": 295,
+      "type": "action",
+      "text": "starts singing",
+      "raw_text": "(starts singing)"
+    },
+    {
+      "entry_id": 296,
+      "type": "action",
+      "text": "When you're smiling, When you're smiling... The whole world smiles with you... When you're laughin', When you're laughin' The sun comes shining through But when you're crying, You bring on the rain So stop that sign. Be happy again Keep on smiling , 'cause when you're smiling The whole world smiles with yooooouuuuuuu The whole world smiles with (with Kramer)yooooouuuuuuu.. On the street Jerry and Kramer.",
+      "raw_text": "When you're smiling, When you're smiling... The whole world smiles with you... When you're laughin', When you're laughin' The sun comes shining through But when you're crying, You bring on the rain So stop that sign. Be happy again Keep on smiling , 'cause when you're smiling The whole world smiles with yooooouuuuuuu The whole world smiles with (with Kramer)yooooouuuuuuu.. On the street Jerry and Kramer.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 297,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey! Got the new Penthouse",
+      "raw_text": "Hey! Got the new Penthouse"
+    },
+    {
+      "entry_id": 298,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Where's my Mr. Goodbar?",
+      "raw_text": "Where's my Mr. Goodbar?"
+    },
+    {
+      "entry_id": 299,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Ah! here here Listen...Dear Penthouse, I want to tell you about an experience I recently had. As an avid reader I've always wondered if the letters (with Jerry) are I'm a dentist and one afternoon my hygienist and I decided to have a little fun with one of our patients. Of course none of our patients had any idea exactly of what we were up to. I was still wondering what if .........",
+      "raw_text": "Ah! here here Listen...Dear Penthouse, I want to tell you about an experience I recently had. As an avid reader I've always wondered if the letters (with Jerry) are I'm a dentist and one afternoon my hygienist and I decided to have a little fun with one of our patients. Of course none of our patients had any idea exactly of what we were up to. I was still wondering what if ........."
+    },
+    {
+      "entry_id": 300,
+      "type": "action",
+      "text": "Jerry stops and seems bewildered",
+      "raw_text": "(Jerry stops and seems bewildered)"
+    },
+    {
+      "entry_id": 301,
+      "type": "end_marker",
+      "text": "THE END",
+      "raw_text": "THE END"
+    },
+    {
+      "entry_id": 302,
+      "type": "action",
+      "text": ">",
+      "raw_text": ">",
+      "confidence": 0.6
+    }
+  ]
+}

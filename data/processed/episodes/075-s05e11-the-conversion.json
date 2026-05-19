@@ -1,0 +1,2416 @@
+{
+  "episode": {
+    "series_title": "Seinfeld",
+    "episode_number_overall": 75,
+    "title": "The Conversion",
+    "season": 5,
+    "episode_number_in_season": 11,
+    "air_date": "1993-12-16",
+    "written_by": [],
+    "directed_by": [],
+    "source_title": "The Conversion Script",
+    "source_dataset": "yregelman/unprocessed-seinfeld-scripts"
+  },
+  "entries": [
+    {
+      "entry_id": 1,
+      "type": "scene_heading",
+      "text": "[Setting: Comedy club]",
+      "raw_text": "(Comedy club)",
+      "confidence": 0.9,
+      "location": "Comedy club",
+      "normalized_location": "comedy_club"
+    },
+    {
+      "entry_id": 2,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You know doctor is supposed to be such a prestigious occupation. But it's really like one of the only jobs where you have to have your diploma right up there on the wall. It makes them seem so insecure, doesn't it? \"I really am a doctor you know. You think I'm not, just check it out.\" I don't know why they need these little bits of psychological leverage over us all the time. \"Go in that little room, take your pants off, wait 15 minutes, and I'll give you my opinion.\" After that, anyone that comes in with pants on seems like they know what they're talking about. In any difference of opinion, pants always beats no-pants.",
+      "raw_text": "You know doctor is supposed to be such a prestigious occupation. But it's really like one of the only jobs where you have to have your diploma right up there on the wall. It makes them seem so insecure, doesn't it? \"I really am a doctor you know. You think I'm not, just check it out.\" I don't know why they need these little bits of psychological leverage over us all the time. \"Go in that little room, take your pants off, wait 15 minutes, and I'll give you my opinion.\" After that, anyone that comes in with pants on seems like they know what they're talking about. In any difference of opinion, pants always beats no-pants."
+    },
+    {
+      "entry_id": 3,
+      "type": "scene_heading",
+      "text": "[Setting: Commercial]",
+      "raw_text": "(Commercial)",
+      "confidence": 0.9,
+      "location": "Commercial",
+      "normalized_location": "commercial"
+    },
+    {
+      "entry_id": 4,
+      "type": "action",
+      "text": "At a restaurant.",
+      "raw_text": "At a restaurant.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 5,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Can I say one word to you? Lobster. The lobster here is unbelievable. (looks at the menu) Ooh, a little expensive.",
+      "raw_text": "Can I say one word to you? Lobster. The lobster here is unbelievable. (looks at the menu) Ooh, a little expensive."
+    },
+    {
+      "entry_id": 6,
+      "type": "dialogue",
+      "speaker": "GEORGE'S GIRLFRIEND",
+      "normalized_speaker": "george_s_girlfriend",
+      "text": "Twenty five dollars.",
+      "raw_text": "Twenty five dollars."
+    },
+    {
+      "entry_id": 7,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yes, well, you know, I'm not thinking about the price. You know you're the only woman I've never thought about the price. Get the lobster. I beg you to get the lobster. Go for the lobster.",
+      "raw_text": "Yes, well, you know, I'm not thinking about the price. You know you're the only woman I've never thought about the price. Get the lobster. I beg you to get the lobster. Go for the lobster."
+    },
+    {
+      "entry_id": 8,
+      "type": "dialogue",
+      "speaker": "GEORGE'S GIRLFRIEND",
+      "normalized_speaker": "george_s_girlfriend",
+      "text": "George, George, uh, I think we have to talk. I think we have a problem.",
+      "raw_text": "George, George, uh, I think we have to talk. I think we have a problem."
+    },
+    {
+      "entry_id": 9,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "We do?",
+      "raw_text": "We do?"
+    },
+    {
+      "entry_id": 10,
+      "type": "dialogue",
+      "speaker": "GEORGE'S GIRLFRIEND",
+      "normalized_speaker": "george_s_girlfriend",
+      "text": "We can't keep seeing each other.",
+      "raw_text": "We can't keep seeing each other."
+    },
+    {
+      "entry_id": 11,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Why?",
+      "raw_text": "Why?"
+    },
+    {
+      "entry_id": 12,
+      "type": "dialogue",
+      "speaker": "GEORGE'S GIRLFRIEND",
+      "normalized_speaker": "george_s_girlfriend",
+      "text": "Because it's over. *sob, sob, sob* It's my parents, the differences in our religion. Oh George, can you ever forgive me? *sob*",
+      "raw_text": "(crying) Because it's over. *sob, sob, sob* It's my parents, the differences in our religion. Oh George, can you ever forgive me? *sob*",
+      "parenthetical": "crying"
+    },
+    {
+      "entry_id": 13,
+      "type": "dialogue",
+      "speaker": "WAITER",
+      "normalized_speaker": "waiter",
+      "text": "Uh, have you decided yet?",
+      "raw_text": "Uh, have you decided yet?"
+    },
+    {
+      "entry_id": 14,
+      "type": "dialogue",
+      "speaker": "GEORGE'S GIRLFRIEND",
+      "normalized_speaker": "george_s_girlfriend",
+      "text": "Yes. I'll have the lobster.",
+      "raw_text": "(crying) Yes. I'll have the lobster.",
+      "parenthetical": "crying"
+    },
+    {
+      "entry_id": 15,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Um, you know I'm starting to think that maybe lobster isn't the way to go. The hallway outside Jerry's apartment.",
+      "raw_text": "Um, you know I'm starting to think that maybe lobster isn't the way to go. The hallway outside Jerry's apartment."
+    },
+    {
+      "entry_id": 16,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Then he asked you out?",
+      "raw_text": "Then he asked you out?"
+    },
+    {
+      "entry_id": 17,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "We started to talk, and I told him that I jog, and then he put his hand on my heart.",
+      "raw_text": "We started to talk, and I told him that I jog, and then he put his hand on my heart."
+    },
+    {
+      "entry_id": 18,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "On your heart?",
+      "raw_text": "On your heart?"
+    },
+    {
+      "entry_id": 19,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Jerry, the man is a doctor.",
+      "raw_text": "Jerry, the man is a doctor."
+    },
+    {
+      "entry_id": 20,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Doctor? He's a podiatrist.",
+      "raw_text": "Doctor? He's a podiatrist."
+    },
+    {
+      "entry_id": 21,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "It's the same thing.",
+      "raw_text": "It's the same thing."
+    },
+    {
+      "entry_id": 22,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Anyone can get into podiatry school. *George* got into podiatry school.",
+      "raw_text": "Anyone can get into podiatry school. *George* got into podiatry school."
+    },
+    {
+      "entry_id": 23,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Really?",
+      "raw_text": "Really?"
+    },
+    {
+      "entry_id": 24,
+      "type": "dialogue",
+      "speaker": "JERRY'S GIRLFRIEND",
+      "normalized_speaker": "jerry_s_girlfriend",
+      "text": "Hello.",
+      "raw_text": "Hello."
+    },
+    {
+      "entry_id": 25,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh hi.",
+      "raw_text": "Oh hi."
+    },
+    {
+      "entry_id": 26,
+      "type": "dialogue",
+      "speaker": "JERRY'S GIRLFRIEND",
+      "normalized_speaker": "jerry_s_girlfriend",
+      "text": "Are you going to be stopping by later?",
+      "raw_text": "Are you going to be stopping by later?"
+    },
+    {
+      "entry_id": 27,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yes, I'll be stopping. See you later. (to Elaine) Well we can't all be dating podiatrists. They enter Jerry's apartment.",
+      "raw_text": "Yes, I'll be stopping. See you later. (to Elaine) Well we can't all be dating podiatrists. They enter Jerry's apartment."
+    },
+    {
+      "entry_id": 28,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "It's over.",
+      "raw_text": "It's over."
+    },
+    {
+      "entry_id": 29,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 30,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "How did you get in?",
+      "raw_text": "How did you get in?"
+    },
+    {
+      "entry_id": 31,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Kramer.",
+      "raw_text": "Kramer."
+    },
+    {
+      "entry_id": 32,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What's that?",
+      "raw_text": "What's that?"
+    },
+    {
+      "entry_id": 33,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Lobster.",
+      "raw_text": "Lobster."
+    },
+    {
+      "entry_id": 34,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Looks like a swan.",
+      "raw_text": "Looks like a swan."
+    },
+    {
+      "entry_id": 35,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "She says we can't go out anymore.",
+      "raw_text": "She says we can't go out anymore."
+    },
+    {
+      "entry_id": 36,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Why?",
+      "raw_text": "Why?"
+    },
+    {
+      "entry_id": 37,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Because I'm not Latvian Orthodox. Her parents won't let her get involved with anyone who isn't Latvian Orthodox.",
+      "raw_text": "Because I'm not Latvian Orthodox. Her parents won't let her get involved with anyone who isn't Latvian Orthodox."
+    },
+    {
+      "entry_id": 38,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Latvian Orthodox? Mmm, it is lobster.",
+      "raw_text": "Latvian Orthodox? Mmm, it is lobster."
+    },
+    {
+      "entry_id": 39,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "She's limiting herself to Latvian Orthodox? Too bad.",
+      "raw_text": "She's limiting herself to Latvian Orthodox? Too bad."
+    },
+    {
+      "entry_id": 40,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I know. This was the only woman I never lied to. Well that's not entirely true.",
+      "raw_text": "I know. This was the only woman I never lied to. Well that's not entirely true."
+    },
+    {
+      "entry_id": 41,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Mmm, delicious.",
+      "raw_text": "Mmm, delicious."
+    },
+    {
+      "entry_id": 42,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Mmm, succulent.",
+      "raw_text": "Mmm, succulent."
+    },
+    {
+      "entry_id": 43,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "She knew I didn't have a job, she knew I lived at home. Didn't seem to bother her. I think I could have married this woman.",
+      "raw_text": "She knew I didn't have a job, she knew I lived at home. Didn't seem to bother her. I think I could have married this woman."
+    },
+    {
+      "entry_id": 44,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Why don't you just ask her parents?",
+      "raw_text": "Why don't you just ask her parents?"
+    },
+    {
+      "entry_id": 45,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I can't. I met them. They're devout. You know, In the cab on the way over here, I actually thought about converting.",
+      "raw_text": "I can't. I met them. They're devout. You know, In the cab on the way over here, I actually thought about converting."
+    },
+    {
+      "entry_id": 46,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "To Latvian Orthodox?",
+      "raw_text": "To Latvian Orthodox?"
+    },
+    {
+      "entry_id": 47,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Why not? What do I care?",
+      "raw_text": "Why not? What do I care?"
+    },
+    {
+      "entry_id": 48,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You know it's not like changing toothpaste.",
+      "raw_text": "You know it's not like changing toothpaste."
+    },
+    {
+      "entry_id": 49,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I think it would be romantic.",
+      "raw_text": "I think it would be romantic."
+    },
+    {
+      "entry_id": 50,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Really?",
+      "raw_text": "Really?"
+    },
+    {
+      "entry_id": 51,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah, it's like Edward the Eighth abdicating the throne and marrying Mrs. Simpson. Ooh.",
+      "raw_text": "Yeah, it's like Edward the Eighth abdicating the throne and marrying Mrs. Simpson. Ooh."
+    },
+    {
+      "entry_id": 52,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "King Edward. King Edward, Jerry.",
+      "raw_text": "King Edward. King Edward, Jerry."
+    },
+    {
+      "entry_id": 53,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah well King Edward didn't live in Queens with Frank and Estelle Costanza.",
+      "raw_text": "Yeah well King Edward didn't live in Queens with Frank and Estelle Costanza."
+    },
+    {
+      "entry_id": 54,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You know what? I could probably do this. What's the difference.",
+      "raw_text": "You know what? I could probably do this. What's the difference."
+    },
+    {
+      "entry_id": 55,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "George I was just kidding around.",
+      "raw_text": "George I was just kidding around."
+    },
+    {
+      "entry_id": 56,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No. I wouldn't even have to tell her. I could surprise her.",
+      "raw_text": "No. I wouldn't even have to tell her. I could surprise her."
+    },
+    {
+      "entry_id": 57,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "George I wasn't serious.",
+      "raw_text": "George I wasn't serious."
+    },
+    {
+      "entry_id": 58,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "How hard could it be? You make a little contribution, have a ceremony. I am going to think about this. I am *really* going to think about this. George leaves.",
+      "raw_text": "How hard could it be? You make a little contribution, have a ceremony. I am going to think about this. I am *really* going to think about this. George leaves."
+    },
+    {
+      "entry_id": 59,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I guess this one is my fault.",
+      "raw_text": "I guess this one is my fault."
+    },
+    {
+      "entry_id": 60,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh yeah. At Jerry's girlfriend's apartment.",
+      "raw_text": "Oh yeah. At Jerry's girlfriend's apartment."
+    },
+    {
+      "entry_id": 61,
+      "type": "dialogue",
+      "speaker": "JERRY'S GIRLFRIEND",
+      "normalized_speaker": "jerry_s_girlfriend",
+      "text": "*kiss, kiss, kiss* Oh that was nice. Have you always been such a good kisser?",
+      "raw_text": "*kiss, kiss, kiss* Oh that was nice. Have you always been such a good kisser?"
+    },
+    {
+      "entry_id": 62,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh I don't know. Not always. No I uh I had to work at it. When I was a kid all the kids would be out playing, I would be up in my room practicing my kissing.",
+      "raw_text": "Oh I don't know. Not always. No I uh I had to work at it. When I was a kid all the kids would be out playing, I would be up in my room practicing my kissing."
+    },
+    {
+      "entry_id": 63,
+      "type": "dialogue",
+      "speaker": "JERRY'S GIRLFRIEND",
+      "normalized_speaker": "jerry_s_girlfriend",
+      "text": "Well it was worth it. *kiss* I'll be *kiss* right *kiss* back *kiss*. Where are you going?",
+      "raw_text": "Well it was worth it. *kiss* I'll be *kiss* right *kiss* back *kiss*. Where are you going?"
+    },
+    {
+      "entry_id": 64,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "To wash my hands. They're sticky from the orange.",
+      "raw_text": "To wash my hands. They're sticky from the orange."
+    },
+    {
+      "entry_id": 65,
+      "type": "dialogue",
+      "speaker": "JERRY'S GIRLFRIEND",
+      "normalized_speaker": "jerry_s_girlfriend",
+      "text": "Meet you back here?",
+      "raw_text": "Meet you back here?"
+    },
+    {
+      "entry_id": 66,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Right there. Jerry goes into the bathroom and washes his hands. He sees the medicine cabinet open slightly and peeks in.",
+      "raw_text": "Right there. Jerry goes into the bathroom and washes his hands. He sees the medicine cabinet open slightly and peeks in."
+    },
+    {
+      "entry_id": 67,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "\"Fungicide\". Fungus? At Monk's.",
+      "raw_text": "(thinking to himself) \"Fungicide\". Fungus? At Monk's.",
+      "parenthetical": "thinking to himself"
+    },
+    {
+      "entry_id": 68,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Fungicide. I mean what could she have?",
+      "raw_text": "Fungicide. I mean what could she have?"
+    },
+    {
+      "entry_id": 69,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I don't know.",
+      "raw_text": "I don't know."
+    },
+    {
+      "entry_id": 70,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Fungus.",
+      "raw_text": "Fungus."
+    },
+    {
+      "entry_id": 71,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "So what did you say?",
+      "raw_text": "So what did you say?"
+    },
+    {
+      "entry_id": 72,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I said I was coming down with the flu or something and I had to go home.",
+      "raw_text": "I said I was coming down with the flu or something and I had to go home."
+    },
+    {
+      "entry_id": 73,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What were you doing opening her medicine cabinet?",
+      "raw_text": "What were you doing opening her medicine cabinet?"
+    },
+    {
+      "entry_id": 74,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I didn't open it. It was open. I just nudged it a little.",
+      "raw_text": "I didn't open it. It was open. I just nudged it a little."
+    },
+    {
+      "entry_id": 75,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You were snooping.",
+      "raw_text": "You were snooping."
+    },
+    {
+      "entry_id": 76,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I was not snooping. I did not break the seal. There was no breaking and entering. I wouldn't do that.",
+      "raw_text": "I was not snooping. I did not break the seal. There was no breaking and entering. I wouldn't do that."
+    },
+    {
+      "entry_id": 77,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I would. I always open medicine cabinets.",
+      "raw_text": "I would. I always open medicine cabinets."
+    },
+    {
+      "entry_id": 78,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well I trust people not to do that.",
+      "raw_text": "Well I trust people not to do that."
+    },
+    {
+      "entry_id": 79,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Big mistake.",
+      "raw_text": "Big mistake."
+    },
+    {
+      "entry_id": 80,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Why don't you ask that doctor what it is?",
+      "raw_text": "Why don't you ask that doctor what it is?"
+    },
+    {
+      "entry_id": 81,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What? Now he's a doctor? Before he was a podiatrist.",
+      "raw_text": "What? Now he's a doctor? Before he was a podiatrist."
+    },
+    {
+      "entry_id": 82,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "But that's what podiatrists do. They deal in fungus. They're knee- deep in fungus. This guy know fungus.",
+      "raw_text": "But that's what podiatrists do. They deal in fungus. They're knee- deep in fungus. This guy know fungus."
+    },
+    {
+      "entry_id": 83,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I am not going to ask him about funguses.",
+      "raw_text": "I am not going to ask him about funguses."
+    },
+    {
+      "entry_id": 84,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Fungi.",
+      "raw_text": "Fungi."
+    },
+    {
+      "entry_id": 85,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 86,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Fungi. In the priest's office.",
+      "raw_text": "Fungi. In the priest's office."
+    },
+    {
+      "entry_id": 87,
+      "type": "action",
+      "text": "boy, I am *really* bad with names on this episode... ;)",
+      "raw_text": "(boy, I am *really* bad with names on this episode... ;) )"
+    },
+    {
+      "entry_id": 88,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "Why do you want to accept the Latvian Orthodox faith?",
+      "raw_text": "Why do you want to accept the Latvian Orthodox faith?"
+    },
+    {
+      "entry_id": 89,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "*ahem* In this age of uncertainty and confusion, a man begins to ask himself certain questions. How can one even begin to put into words something so um... (trying to think of a word)",
+      "raw_text": "*ahem* In this age of uncertainty and confusion, a man begins to ask himself certain questions. How can one even begin to put into words something so um... (trying to think of a word)"
+    },
+    {
+      "entry_id": 90,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "Enigmatic?",
+      "raw_text": "Enigmatic?"
+    },
+    {
+      "entry_id": 91,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No.",
+      "raw_text": "No."
+    },
+    {
+      "entry_id": 92,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "Vast? (he pronounces it as \"vost\")",
+      "raw_text": "Vast? (he pronounces it as \"vost\")"
+    },
+    {
+      "entry_id": 93,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No not vast (he pronounces it as \"vost\")",
+      "raw_text": "No not vast (he pronounces it as \"vost\")"
+    },
+    {
+      "entry_id": 94,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "Well whatever it is, basically you like the religion.",
+      "raw_text": "Well whatever it is, basically you like the religion."
+    },
+    {
+      "entry_id": 95,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yes.",
+      "raw_text": "Yes."
+    },
+    {
+      "entry_id": 96,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST 2",
+      "normalized_speaker": "father_priest_2",
+      "text": "Is there one aspect of the faith that you find particularly attractive?",
+      "raw_text": "Is there one aspect of the faith that you find particularly attractive?"
+    },
+    {
+      "entry_id": 97,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I think the hats. The hat convey that solemn religious look you want in a faith. Very pious.",
+      "raw_text": "(he thinks) I think the hats. The hat convey that solemn religious look you want in a faith. Very pious.",
+      "parenthetical": "he thinks"
+    },
+    {
+      "entry_id": 98,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "Are you familiar with Orthodox theology?",
+      "raw_text": "Are you familiar with Orthodox theology?"
+    },
+    {
+      "entry_id": 99,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well perhaps, not to the extent that you are. But I know the basic plot. Yeah.",
+      "raw_text": "Well perhaps, not to the extent that you are. But I know the basic plot. Yeah."
+    },
+    {
+      "entry_id": 100,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "Plot?",
+      "raw_text": "Plot?"
+    },
+    {
+      "entry_id": 101,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah, yeah. You know the uh flood, and the uh lepers, and the commandments and all that.",
+      "raw_text": "Yeah, yeah. You know the uh flood, and the uh lepers, and the commandments and all that."
+    },
+    {
+      "entry_id": 102,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST 2",
+      "normalized_speaker": "father_priest_2",
+      "text": "Well it's obvious that you are sincere in your desire.",
+      "raw_text": "Well it's obvious that you are sincere in your desire."
+    },
+    {
+      "entry_id": 103,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh yes I am Father. Incredibly sincere. So, uh, pffft, am I in?",
+      "raw_text": "Oh yes I am Father. Incredibly sincere. So, uh, pffft, am I in?"
+    },
+    {
+      "entry_id": 104,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "The first step would be to familiarize yourself with these texts (brings out a pile of books).",
+      "raw_text": "The first step would be to familiarize yourself with these texts (brings out a pile of books)."
+    },
+    {
+      "entry_id": 105,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Ah hah. You see Father, I'm I'm incredibly anxious to become a member. Um, don't you offer any kind of an express conversion? A quick change? Sister Roberta enters.",
+      "raw_text": "Ah hah. You see Father, I'm I'm incredibly anxious to become a member. Um, don't you offer any kind of an express conversion? A quick change? Sister Roberta enters."
+    },
+    {
+      "entry_id": 106,
+      "type": "dialogue",
+      "speaker": "SISTER ROBERTA",
+      "normalized_speaker": "sister_roberta",
+      "text": "Oh I'm sorry. Father, there's a man waiting in the chapel.",
+      "raw_text": "Oh I'm sorry. Father, there's a man waiting in the chapel."
+    },
+    {
+      "entry_id": 107,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "You may attend to it Sister, oh this is George Costanza. He is interested in joining the church.",
+      "raw_text": "You may attend to it Sister, oh this is George Costanza. He is interested in joining the church."
+    },
+    {
+      "entry_id": 108,
+      "type": "dialogue",
+      "speaker": "SISTER ROBERTA",
+      "normalized_speaker": "sister_roberta",
+      "text": "Oh are you? That's wonderful. Well good luck to you.",
+      "raw_text": "Oh are you? That's wonderful. Well good luck to you."
+    },
+    {
+      "entry_id": 109,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Nice nun.",
+      "raw_text": "Nice nun."
+    },
+    {
+      "entry_id": 110,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "No, Sister Roberta is not a nun. She is what we call a novice.",
+      "raw_text": "No, Sister Roberta is not a nun. She is what we call a novice."
+    },
+    {
+      "entry_id": 111,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST 2",
+      "normalized_speaker": "father_priest_2",
+      "text": "She won't be taking her final vows until next Thursday. In the chapel.",
+      "raw_text": "She won't be taking her final vows until next Thursday. In the chapel."
+    },
+    {
+      "entry_id": 112,
+      "type": "dialogue",
+      "speaker": "SISTER ROBERTA",
+      "normalized_speaker": "sister_roberta",
+      "text": "May I help you?",
+      "raw_text": "May I help you?"
+    },
+    {
+      "entry_id": 113,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh yeah, I'm here to pick up my friend George Costanza.",
+      "raw_text": "Oh yeah, I'm here to pick up my friend George Costanza."
+    },
+    {
+      "entry_id": 114,
+      "type": "dialogue",
+      "speaker": "SISTER ROBERTA",
+      "normalized_speaker": "sister_roberta",
+      "text": "Well he's in with the Father.",
+      "raw_text": "Well he's in with the Father."
+    },
+    {
+      "entry_id": 115,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh yeah.",
+      "raw_text": "Oh yeah."
+    },
+    {
+      "entry_id": 116,
+      "type": "dialogue",
+      "speaker": "SISTER ROBERTA",
+      "normalized_speaker": "sister_roberta",
+      "text": "I'm Sister Roberta.",
+      "raw_text": "I'm Sister Roberta."
+    },
+    {
+      "entry_id": 117,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh. Kramer. Pleasure.",
+      "raw_text": "Oh. Kramer. Pleasure."
+    },
+    {
+      "entry_id": 118,
+      "type": "dialogue",
+      "speaker": "SISTER ROBERTA",
+      "normalized_speaker": "sister_roberta",
+      "text": "Mine. (she smiles at Kramer) At Jerry's apartment.",
+      "raw_text": "Mine. (she smiles at Kramer) At Jerry's apartment."
+    },
+    {
+      "entry_id": 119,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I can't believe how easy it is. I'm virtually Orthodox. All I have to do is read a few books, memorize a few prayers, and I'm in the club.",
+      "raw_text": "I can't believe how easy it is. I'm virtually Orthodox. All I have to do is read a few books, memorize a few prayers, and I'm in the club."
+    },
+    {
+      "entry_id": 120,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "That's all there is to it.",
+      "raw_text": "That's all there is to it."
+    },
+    {
+      "entry_id": 121,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "That's all there is to it. By Christmas day I will be Brother Costanza.",
+      "raw_text": "That's all there is to it. By Christmas day I will be Brother Costanza."
+    },
+    {
+      "entry_id": 122,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "And when is Brother Costanza planning on telling Mother Costanza?",
+      "raw_text": "And when is Brother Costanza planning on telling Mother Costanza?"
+    },
+    {
+      "entry_id": 123,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Brother Costanza will be taking the vow of silence. Kramer enters. He is flinging a slinky.",
+      "raw_text": "Brother Costanza will be taking the vow of silence. Kramer enters. He is flinging a slinky."
+    },
+    {
+      "entry_id": 124,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh a slinky. Where did you get it?",
+      "raw_text": "Oh a slinky. Where did you get it?"
+    },
+    {
+      "entry_id": 125,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Sister Roberta gave it to me.",
+      "raw_text": "Sister Roberta gave it to me."
+    },
+    {
+      "entry_id": 126,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Why did she give you that?",
+      "raw_text": "Why did she give you that?"
+    },
+    {
+      "entry_id": 127,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I think she liked me.",
+      "raw_text": "I think she liked me."
+    },
+    {
+      "entry_id": 128,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What do you mean she liked you?",
+      "raw_text": "What do you mean she liked you?"
+    },
+    {
+      "entry_id": 129,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "*Liked* me.",
+      "raw_text": "*Liked* me."
+    },
+    {
+      "entry_id": 130,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Kramer, they like everybody. They're friendly people.",
+      "raw_text": "Kramer, they like everybody. They're friendly people."
+    },
+    {
+      "entry_id": 131,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "No. I think I picked up on a vibe.",
+      "raw_text": "No. I think I picked up on a vibe."
+    },
+    {
+      "entry_id": 132,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You picked up on a vibe, from a nun.",
+      "raw_text": "You picked up on a vibe, from a nun."
+    },
+    {
+      "entry_id": 133,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, Jerry I'm telling you I have this power. And I have no control over it. Kramer leaves. Jerry's girlfriend appears at the doorway.",
+      "raw_text": "Yeah, Jerry I'm telling you I have this power. And I have no control over it. Kramer leaves. Jerry's girlfriend appears at the doorway."
+    },
+    {
+      "entry_id": 134,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh hi.",
+      "raw_text": "Oh hi."
+    },
+    {
+      "entry_id": 135,
+      "type": "dialogue",
+      "speaker": "JERRY'S GIRLFRIEND",
+      "normalized_speaker": "jerry_s_girlfriend",
+      "text": "I just wanted to stop by and see how you were feeling.",
+      "raw_text": "I just wanted to stop by and see how you were feeling."
+    },
+    {
+      "entry_id": 136,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "A little better. *fake cough*",
+      "raw_text": "(weakly) A little better. *fake cough*",
+      "parenthetical": "weakly"
+    },
+    {
+      "entry_id": 137,
+      "type": "dialogue",
+      "speaker": "JERRY'S GIRLFRIEND",
+      "normalized_speaker": "jerry_s_girlfriend",
+      "text": "If you need anything let me know.",
+      "raw_text": "If you need anything let me know."
+    },
+    {
+      "entry_id": 138,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Okay. All right bye.",
+      "raw_text": "Okay. All right bye."
+    },
+    {
+      "entry_id": 139,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Story.",
+      "raw_text": "Story."
+    },
+    {
+      "entry_id": 140,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "She's subletting Carol's place for a month.",
+      "raw_text": "She's subletting Carol's place for a month."
+    },
+    {
+      "entry_id": 141,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "She likes you.",
+      "raw_text": "She likes you."
+    },
+    {
+      "entry_id": 142,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah but there's a problem. I found a tube of a fungicide in her medicine cabinet.",
+      "raw_text": "Yeah but there's a problem. I found a tube of a fungicide in her medicine cabinet."
+    },
+    {
+      "entry_id": 143,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So?",
+      "raw_text": "So?"
+    },
+    {
+      "entry_id": 144,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So I don't know what she's using it for.",
+      "raw_text": "So I don't know what she's using it for."
+    },
+    {
+      "entry_id": 145,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well how do you even know it's hers? Maybe it belonged to Carol. Did you see a name on the tube?",
+      "raw_text": "Well how do you even know it's hers? Maybe it belonged to Carol. Did you see a name on the tube?"
+    },
+    {
+      "entry_id": 146,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I didn't even think to look.",
+      "raw_text": "I didn't even think to look."
+    },
+    {
+      "entry_id": 147,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well take a look. It might not even belong to her.",
+      "raw_text": "Well take a look. It might not even belong to her."
+    },
+    {
+      "entry_id": 148,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 149,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "People always leave old things in their medicine cabinet.",
+      "raw_text": "People always leave old things in their medicine cabinet."
+    },
+    {
+      "entry_id": 150,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah I've got this old bottle of cough medicine.",
+      "raw_text": "Yeah I've got this old bottle of cough medicine."
+    },
+    {
+      "entry_id": 151,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I still have brill cream. At Jerry's girlfriend's apartment. Jerry knocks on the door *knock, knock, knock*",
+      "raw_text": "I still have brill cream. At Jerry's girlfriend's apartment. Jerry knocks on the door *knock, knock, knock*"
+    },
+    {
+      "entry_id": 152,
+      "type": "dialogue",
+      "speaker": "JERRY'S GIRLFRIEND",
+      "normalized_speaker": "jerry_s_girlfriend",
+      "text": "Hi.",
+      "raw_text": "Hi."
+    },
+    {
+      "entry_id": 153,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hi. Can I use your bathroom? At the doctor's apartment.",
+      "raw_text": "Hi. Can I use your bathroom? At the doctor's apartment."
+    },
+    {
+      "entry_id": 154,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You sure you don't mind?",
+      "raw_text": "You sure you don't mind?"
+    },
+    {
+      "entry_id": 155,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "No of course not. People ask me medical questions all the time.",
+      "raw_text": "No of course not. People ask me medical questions all the time."
+    },
+    {
+      "entry_id": 156,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well the question isn't even for me it's for a friend.",
+      "raw_text": "Well the question isn't even for me it's for a friend."
+    },
+    {
+      "entry_id": 157,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Elaine, I'm used to it. I'm a doctor.",
+      "raw_text": "Elaine, I'm used to it. I'm a doctor."
+    },
+    {
+      "entry_id": 158,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well... podiatrist.",
+      "raw_text": "Well... podiatrist."
+    },
+    {
+      "entry_id": 159,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Huh?",
+      "raw_text": "Huh?"
+    },
+    {
+      "entry_id": 160,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No no, I'm just saying you didn't really go to medical school, you went to podiatry school. Which I'm sure is very grueling in it's own way.",
+      "raw_text": "No no, I'm just saying you didn't really go to medical school, you went to podiatry school. Which I'm sure is very grueling in it's own way."
+    },
+    {
+      "entry_id": 161,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "I went to podiatry school because I like feet. I chose to work with feet.",
+      "raw_text": "I went to podiatry school because I like feet. I chose to work with feet."
+    },
+    {
+      "entry_id": 162,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I like feet too. I'm just saying...",
+      "raw_text": "I like feet too. I'm just saying..."
+    },
+    {
+      "entry_id": 163,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Saying what? In Jerry's girlfriend's apartment. She knocks on the bathroom door. *knock, knock, knock*",
+      "raw_text": "Saying what? In Jerry's girlfriend's apartment. She knocks on the bathroom door. *knock, knock, knock*"
+    },
+    {
+      "entry_id": 164,
+      "type": "dialogue",
+      "speaker": "JERRY'S GIRLFRIEND",
+      "normalized_speaker": "jerry_s_girlfriend",
+      "text": "How are you doing in there?",
+      "raw_text": "How are you doing in there?"
+    },
+    {
+      "entry_id": 165,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Fine all done, just looking for the soap. Jerry is looking around for the bottle of fungicide.",
+      "raw_text": "Fine all done, just looking for the soap. Jerry is looking around for the bottle of fungicide."
+    },
+    {
+      "entry_id": 166,
+      "type": "dialogue",
+      "speaker": "JERRY'S GIRLFRIEND",
+      "normalized_speaker": "jerry_s_girlfriend",
+      "text": "No soap?",
+      "raw_text": "No soap?"
+    },
+    {
+      "entry_id": 167,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No I don't see it. Jerry finds the bottle of fungicide and picks it up. Jerry's girlfriend enters the bathroom with soap. Hastily, Jerry puts the bottle of fungicide in his pocket.",
+      "raw_text": "No I don't see it. Jerry finds the bottle of fungicide and picks it up. Jerry's girlfriend enters the bathroom with soap. Hastily, Jerry puts the bottle of fungicide in his pocket."
+    },
+    {
+      "entry_id": 168,
+      "type": "dialogue",
+      "speaker": "JERRY'S GIRLFRIEND",
+      "normalized_speaker": "jerry_s_girlfriend",
+      "text": "Here you go. At George's parent's house. George is in the bathroom with his Latvian Orthodox books. *knock, knock, knock*",
+      "raw_text": "(giving Jerry the soap) Here you go. At George's parent's house. George is in the bathroom with his Latvian Orthodox books. *knock, knock, knock*",
+      "parenthetical": "giving Jerry the soap"
+    },
+    {
+      "entry_id": 169,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "George what are you doing in there?",
+      "raw_text": "George what are you doing in there?"
+    },
+    {
+      "entry_id": 170,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What? Nothing.",
+      "raw_text": "What? Nothing."
+    },
+    {
+      "entry_id": 171,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "You've been in there an hour.",
+      "raw_text": "You've been in there an hour."
+    },
+    {
+      "entry_id": 172,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "You don't feel well?",
+      "raw_text": "You don't feel well?"
+    },
+    {
+      "entry_id": 173,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I'm fine.",
+      "raw_text": "I'm fine."
+    },
+    {
+      "entry_id": 174,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "I want to know what you're doing in there.",
+      "raw_text": "I want to know what you're doing in there."
+    },
+    {
+      "entry_id": 175,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Nothing.",
+      "raw_text": "Nothing."
+    },
+    {
+      "entry_id": 176,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "George, open the door.",
+      "raw_text": "George, open the door."
+    },
+    {
+      "entry_id": 177,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No.",
+      "raw_text": "No."
+    },
+    {
+      "entry_id": 178,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Georgie.",
+      "raw_text": "Georgie."
+    },
+    {
+      "entry_id": 179,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No! At Kramer's apartment. Sister Roberta is knocking on the door. *knock, knock, knock*",
+      "raw_text": "No! At Kramer's apartment. Sister Roberta is knocking on the door. *knock, knock, knock*"
+    },
+    {
+      "entry_id": 180,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey.",
+      "raw_text": "Hey."
+    },
+    {
+      "entry_id": 181,
+      "type": "dialogue",
+      "speaker": "SISTER ROBERTA",
+      "normalized_speaker": "sister_roberta",
+      "text": "Good evening. I hope I'm not disturbing you, but I found another toy I thought you might like.",
+      "raw_text": "Good evening. I hope I'm not disturbing you, but I found another toy I thought you might like."
+    },
+    {
+      "entry_id": 182,
+      "type": "scene_heading",
+      "text": "[Setting: Commercial]",
+      "raw_text": "(Commercial)",
+      "confidence": 0.9,
+      "location": "Commercial",
+      "normalized_location": "commercial"
+    },
+    {
+      "entry_id": 183,
+      "type": "action",
+      "text": "At Jerry's Apartment.",
+      "raw_text": "At Jerry's Apartment.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 184,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Okay, Latvius was the son of which apostle? And I'll need that in the form of a question.",
+      "raw_text": "Okay, Latvius was the son of which apostle? And I'll need that in the form of a question."
+    },
+    {
+      "entry_id": 185,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I don't know. I can't believe they're making me take this test. Elaine enters.",
+      "raw_text": "I don't know. I can't believe they're making me take this test. Elaine enters."
+    },
+    {
+      "entry_id": 186,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey, did you talk to the doctor?",
+      "raw_text": "Hey, did you talk to the doctor?"
+    },
+    {
+      "entry_id": 187,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No.",
+      "raw_text": "No."
+    },
+    {
+      "entry_id": 188,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "All right, the next time you see him show him this. (He presents the bottle of fungicide.)",
+      "raw_text": "All right, the next time you see him show him this. (He presents the bottle of fungicide.)"
+    },
+    {
+      "entry_id": 189,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You *took* her medicine.",
+      "raw_text": "You *took* her medicine."
+    },
+    {
+      "entry_id": 190,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Not on purpose. I was hoping there would be a name on the tube. When are you seeing him again?",
+      "raw_text": "Not on purpose. I was hoping there would be a name on the tube. When are you seeing him again?"
+    },
+    {
+      "entry_id": 191,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I don't know. We got into this whole thing about how podiatrists aren't real doctors.",
+      "raw_text": "I don't know. We got into this whole thing about how podiatrists aren't real doctors."
+    },
+    {
+      "entry_id": 192,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "How could you say that?",
+      "raw_text": "How could you say that?"
+    },
+    {
+      "entry_id": 193,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "It's you fault. You just got me thinking.",
+      "raw_text": "It's you fault. You just got me thinking."
+    },
+    {
+      "entry_id": 194,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I was merely speaking extemporaneously.",
+      "raw_text": "I was merely speaking extemporaneously."
+    },
+    {
+      "entry_id": 195,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I've got nothing against the foot. I'm pro-foot.",
+      "raw_text": "I've got nothing against the foot. I'm pro-foot."
+    },
+    {
+      "entry_id": 196,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Me too.",
+      "raw_text": "Me too."
+    },
+    {
+      "entry_id": 197,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Do you think I should call him and apologize?",
+      "raw_text": "Do you think I should call him and apologize?"
+    },
+    {
+      "entry_id": 198,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yes. He's a doctor. Elaine starts to leave.",
+      "raw_text": "Yes. He's a doctor. Elaine starts to leave."
+    },
+    {
+      "entry_id": 199,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Wait a second. Jerry puts the bottle of fungicide in Elaine's purse.",
+      "raw_text": "Wait a second. Jerry puts the bottle of fungicide in Elaine's purse."
+    },
+    {
+      "entry_id": 200,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What are you doing?",
+      "raw_text": "(to George) What are you doing?",
+      "parenthetical": "to George"
+    },
+    {
+      "entry_id": 201,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What does it look like I'm doing?",
+      "raw_text": "What does it look like I'm doing?"
+    },
+    {
+      "entry_id": 202,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "\"Matthew, Luke, Paul\", what you're cheating on your conversion chest? Kramer enters.",
+      "raw_text": "\"Matthew, Luke, Paul\", what you're cheating on your conversion chest? Kramer enters.",
+      "parenthetical": "Reading words George wrote on his hand"
+    },
+    {
+      "entry_id": 203,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I told you.",
+      "raw_text": "I told you."
+    },
+    {
+      "entry_id": 204,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 205,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I told you she liked me.",
+      "raw_text": "I told you she liked me."
+    },
+    {
+      "entry_id": 206,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Who?",
+      "raw_text": "Who?"
+    },
+    {
+      "entry_id": 207,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Sister Roberta.",
+      "raw_text": "Sister Roberta."
+    },
+    {
+      "entry_id": 208,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "How do you know?",
+      "raw_text": "How do you know?"
+    },
+    {
+      "entry_id": 209,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "She told me. She said she's never had a man stir up all of these feelings inside of her. She's questioning her faith. She's thinking of leaving the church. Oh, uh, this power. I'm dangerous Jerry, I'm very very dangerous. At the priest's office.",
+      "raw_text": "She told me. She said she's never had a man stir up all of these feelings inside of her. She's questioning her faith. She's thinking of leaving the church. Oh, uh, this power. I'm dangerous Jerry, I'm very very dangerous. At the priest's office."
+    },
+    {
+      "entry_id": 210,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "I must say George, I was somewhat surprised at the results of your conversion test. I don't recall having seen such an impressive performance. You truly must be filled with the spirit of the Lord.",
+      "raw_text": "I must say George, I was somewhat surprised at the results of your conversion test. I don't recall having seen such an impressive performance. You truly must be filled with the spirit of the Lord."
+    },
+    {
+      "entry_id": 211,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh, I'm I'm full of it Father.",
+      "raw_text": "Oh, I'm I'm full of it Father."
+    },
+    {
+      "entry_id": 212,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST 2",
+      "normalized_speaker": "father_priest_2",
+      "text": "...(mumble)... Kramer ...(mumble)...",
+      "raw_text": "(muttering something to Father-Priest 1) ...(mumble)... Kramer ...(mumble)...",
+      "parenthetical": "muttering something to Father-Priest 1"
+    },
+    {
+      "entry_id": 213,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "Yes, yes I see. (To George) I'm sorry something has come up.",
+      "raw_text": "Yes, yes I see. (To George) I'm sorry something has come up."
+    },
+    {
+      "entry_id": 214,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh, I understand. Kramer enters.",
+      "raw_text": "Oh, I understand. Kramer enters."
+    },
+    {
+      "entry_id": 215,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Um, you wanted to see me Father?",
+      "raw_text": "Um, you wanted to see me Father?"
+    },
+    {
+      "entry_id": 216,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "Yes. Please, sit down. Sister Roberta came to see me yesterday.",
+      "raw_text": "Yes. Please, sit down. Sister Roberta came to see me yesterday."
+    },
+    {
+      "entry_id": 217,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I know what this is about Father. I didn't do anything. I just spoke to her innocently for just a few minutes. It's just that, that I have this power.",
+      "raw_text": "I know what this is about Father. I didn't do anything. I just spoke to her innocently for just a few minutes. It's just that, that I have this power."
+    },
+    {
+      "entry_id": 218,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "Yes. Kavorka.",
+      "raw_text": "Yes. Kavorka."
+    },
+    {
+      "entry_id": 219,
+      "type": "scene_heading",
+      "text": "[Setting: I wouldn't mind having \"Kavorka\" myself ;)]",
+      "raw_text": "(I wouldn't mind having \"Kavorka\" myself ;) )",
+      "confidence": 0.9,
+      "location": "I wouldn't mind having \"Kavorka\" myself ;)",
+      "normalized_location": "i_wouldn_t_mind_having_kavorka_myself"
+    },
+    {
+      "entry_id": 220,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Kavorka?",
+      "raw_text": "Kavorka?"
+    },
+    {
+      "entry_id": 221,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "It is a Latvian word which means \"the lure of the animal\".",
+      "raw_text": "It is a Latvian word which means \"the lure of the animal\"."
+    },
+    {
+      "entry_id": 222,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I don't understand.",
+      "raw_text": "I don't understand."
+    },
+    {
+      "entry_id": 223,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "Women are drawn to you. They would give anything to be possessed by you.",
+      "raw_text": "Women are drawn to you. They would give anything to be possessed by you."
+    },
+    {
+      "entry_id": 224,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Help me Father. Help me.",
+      "raw_text": "Help me Father. Help me."
+    },
+    {
+      "entry_id": 225,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "Yes, yes I will help you. Listen very carefully. I want you to buy ten cloves of garlic, three quarts of vinegar, six ounces... The hallway by Jerry's apartment.",
+      "raw_text": "Yes, yes I will help you. Listen very carefully. I want you to buy ten cloves of garlic, three quarts of vinegar, six ounces... The hallway by Jerry's apartment."
+    },
+    {
+      "entry_id": 226,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What is that stench? I got it. (He follows the smell to Kramer's door) Ah hah. *knock, knock, knock* Kramer opens his door. He is wearing a ring of garlics around his neck.",
+      "raw_text": "What is that stench? I got it. (He follows the smell to Kramer's door) Ah hah. *knock, knock, knock* Kramer opens his door. He is wearing a ring of garlics around his neck."
+    },
+    {
+      "entry_id": 227,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey.",
+      "raw_text": "Hey."
+    },
+    {
+      "entry_id": 228,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey. What are you doing?",
+      "raw_text": "Hey. What are you doing?"
+    },
+    {
+      "entry_id": 229,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I've got the Kavorka Jerry.",
+      "raw_text": "I've got the Kavorka Jerry."
+    },
+    {
+      "entry_id": 230,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "The Kavorka? What's that?",
+      "raw_text": "The Kavorka? What's that?"
+    },
+    {
+      "entry_id": 231,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "The lure of the animal. I'm dangerous.",
+      "raw_text": "The lure of the animal. I'm dangerous."
+    },
+    {
+      "entry_id": 232,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What is this thing around your neck?",
+      "raw_text": "What is this thing around your neck?"
+    },
+    {
+      "entry_id": 233,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "The priests they're helping me. I just bathed in vinegar.",
+      "raw_text": "The priests they're helping me. I just bathed in vinegar."
+    },
+    {
+      "entry_id": 234,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You know you're funcifying the whole building.",
+      "raw_text": "You know you're funcifying the whole building."
+    },
+    {
+      "entry_id": 235,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Keep away Jerry. Keep away. He closes his door.",
+      "raw_text": "Keep away Jerry. Keep away. He closes his door."
+    },
+    {
+      "entry_id": 236,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Kramer. *knock, knock, knock* Kramer. +---------------------+ | CONVERSION CEREMONY | | FOR | | GEORGE COSTANZA | | 3 P.M. | | | | | | | +---------------------+ The sign is on a black background with white stick-on letters. A woman reads the sign.",
+      "raw_text": "Kramer. *knock, knock, knock* Kramer. +---------------------+ | CONVERSION CEREMONY | | FOR | | GEORGE COSTANZA | | 3 P.M. | | | | | | | +---------------------+ The sign is on a black background with white stick-on letters. A woman reads the sign."
+    },
+    {
+      "entry_id": 237,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "George Costanza? Estelle's son? At George's parent's house.",
+      "raw_text": "George Costanza? Estelle's son? At George's parent's house."
+    },
+    {
+      "entry_id": 238,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Latvian Orthodox? Why are you doing this?",
+      "raw_text": "Latvian Orthodox? Why are you doing this?"
+    },
+    {
+      "entry_id": 239,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "For a woman.",
+      "raw_text": "For a woman."
+    },
+    {
+      "entry_id": 240,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "A woman? What are you out of your mind?",
+      "raw_text": "A woman? What are you out of your mind?"
+    },
+    {
+      "entry_id": 241,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Why can't you do anything like a normal person?",
+      "raw_text": "Why can't you do anything like a normal person?"
+    },
+    {
+      "entry_id": 242,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Wait. Is this the group that goes around mutilating squirrels?",
+      "raw_text": "Wait. Is this the group that goes around mutilating squirrels?"
+    },
+    {
+      "entry_id": 243,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No it's a regular religion.",
+      "raw_text": "No it's a regular religion."
+    },
+    {
+      "entry_id": 244,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "I'm calling my lawyer. It might not be too late to get out of this.",
+      "raw_text": "I'm calling my lawyer. It might not be too late to get out of this."
+    },
+    {
+      "entry_id": 245,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I don't want to get out of it.",
+      "raw_text": "I don't want to get out of it."
+    },
+    {
+      "entry_id": 246,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "George, you don't know what you're saying. You're under their control.",
+      "raw_text": "George, you don't know what you're saying. You're under their control."
+    },
+    {
+      "entry_id": 247,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "What, they brainwashed you?",
+      "raw_text": "What, they brainwashed you?"
+    },
+    {
+      "entry_id": 248,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No no.",
+      "raw_text": "No no."
+    },
+    {
+      "entry_id": 249,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "You're not performing any rituals in this house.",
+      "raw_text": "You're not performing any rituals in this house."
+    },
+    {
+      "entry_id": 250,
+      "type": "dialogue",
+      "speaker": "ESTELLE",
+      "normalized_speaker": "estelle",
+      "text": "Go back to the psychiatrist. I beg you.",
+      "raw_text": "Go back to the psychiatrist. I beg you."
+    },
+    {
+      "entry_id": 251,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "And stay away from those squirrels. At Jerry's girlfriend's apartment.",
+      "raw_text": "And stay away from those squirrels. At Jerry's girlfriend's apartment."
+    },
+    {
+      "entry_id": 252,
+      "type": "dialogue",
+      "speaker": "JERRY'S GIRLFRIEND",
+      "normalized_speaker": "jerry_s_girlfriend",
+      "text": "Oh how you doing Jerry?",
+      "raw_text": "Oh how you doing Jerry?"
+    },
+    {
+      "entry_id": 253,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Good. What's the matter?",
+      "raw_text": "Good. What's the matter?"
+    },
+    {
+      "entry_id": 254,
+      "type": "dialogue",
+      "speaker": "JERRY'S GIRLFRIEND",
+      "normalized_speaker": "jerry_s_girlfriend",
+      "text": "I'm tired. I hardly slept last night with all this scratching. Bonkers was going crazy.",
+      "raw_text": "I'm tired. I hardly slept last night with all this scratching. Bonkers was going crazy."
+    },
+    {
+      "entry_id": 255,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Bonkers?",
+      "raw_text": "Bonkers?"
+    },
+    {
+      "entry_id": 256,
+      "type": "dialogue",
+      "speaker": "JERRY'S GIRLFRIEND",
+      "normalized_speaker": "jerry_s_girlfriend",
+      "text": "My cat. He's got this weird sort of skin condition. Some type of fungus, I couldn't find his medicine.",
+      "raw_text": "My cat. He's got this weird sort of skin condition. Some type of fungus, I couldn't find his medicine."
+    },
+    {
+      "entry_id": 257,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh it's your cat!",
+      "raw_text": "Oh it's your cat!"
+    },
+    {
+      "entry_id": 258,
+      "type": "dialogue",
+      "speaker": "JERRY'S GIRLFRIEND",
+      "normalized_speaker": "jerry_s_girlfriend",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 259,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Ooh, nothing. At the church.",
+      "raw_text": "Ooh, nothing. At the church."
+    },
+    {
+      "entry_id": 260,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "Are you ready my son?",
+      "raw_text": "Are you ready my son?"
+    },
+    {
+      "entry_id": 261,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yes faddah.",
+      "raw_text": "Yes faddah."
+    },
+    {
+      "entry_id": 262,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "What did you say?",
+      "raw_text": "What did you say?"
+    },
+    {
+      "entry_id": 263,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 264,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "I thought you said faddah.",
+      "raw_text": "I thought you said faddah."
+    },
+    {
+      "entry_id": 265,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I said faddah, I meant Father. Just a little bit nervous. Outside on a sidewalk. A woman is waiting for a cab. Kramer walks up to her.",
+      "raw_text": "I said faddah, I meant Father. Just a little bit nervous. Outside on a sidewalk. A woman is waiting for a cab. Kramer walks up to her."
+    },
+    {
+      "entry_id": 266,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "How you doing?",
+      "raw_text": "How you doing?"
+    },
+    {
+      "entry_id": 267,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "Get away from me you creep. (She walks away.)",
+      "raw_text": "Get away from me you creep. (She walks away.)"
+    },
+    {
+      "entry_id": 268,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yes, Yes. It worked. Sister Roberta I've still got time to catch her. At the church. It is George's conversion ceremony. Church music plays. George is dressed in a white church gown. He walks down the church aisle carrying a candle. Father-priest says some Latvian words. Kramer is running down the street going to the church. The church music is still playing. George takes a drink of some wine. He spills some on his gown. He makes a hand motion on his gown. Kramer is still running to the church. The church music is still playing.",
+      "raw_text": "Yes, Yes. It worked. Sister Roberta I've still got time to catch her. At the church. It is George's conversion ceremony. Church music plays. George is dressed in a white church gown. He walks down the church aisle carrying a candle. Father-priest says some Latvian words. Kramer is running down the street going to the church. The church music is still playing. George takes a drink of some wine. He spills some on his gown. He makes a hand motion on his gown. Kramer is still running to the church. The church music is still playing."
+    },
+    {
+      "entry_id": 269,
+      "type": "dialogue",
+      "speaker": "FATHER-PRIEST",
+      "normalized_speaker": "father_priest",
+      "text": "Congratulations George. Welcome to the faith. Sister Roberta would you please offer the final benediction.",
+      "raw_text": "Congratulations George. Welcome to the faith. Sister Roberta would you please offer the final benediction."
+    },
+    {
+      "entry_id": 270,
+      "type": "dialogue",
+      "speaker": "SISTER ROBERTA",
+      "normalized_speaker": "sister_roberta",
+      "text": "I'm sorry. It's a beautiful religion, but I am not worthy of it. I found something else. Kramer enters the church.",
+      "raw_text": "I'm sorry. It's a beautiful religion, but I am not worthy of it. I found something else. Kramer enters the church.",
+      "parenthetical": "hesitates) I can't. (crowd murmurs"
+    },
+    {
+      "entry_id": 271,
+      "type": "dialogue",
+      "speaker": "SISTER ROBERTA",
+      "normalized_speaker": "sister_roberta",
+      "text": "Him.",
+      "raw_text": "Him."
+    },
+    {
+      "entry_id": 272,
+      "type": "dialogue",
+      "speaker": "CROWD",
+      "normalized_speaker": "crowd",
+      "text": "Kavorka, Kavorka. At Elaine's apartment.",
+      "raw_text": "Kavorka, Kavorka. At Elaine's apartment."
+    },
+    {
+      "entry_id": 273,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "*kiss, kiss* Because I love the foot. I'm a big fan of the foot.",
+      "raw_text": "*kiss, kiss* Because I love the foot. I'm a big fan of the foot."
+    },
+    {
+      "entry_id": 274,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Well it's my fault. I got a little defensive.",
+      "raw_text": "Well it's my fault. I got a little defensive."
+    },
+    {
+      "entry_id": 275,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "And that pinkie toe, come on . How adorable is the pinkie toe.",
+      "raw_text": "And that pinkie toe, come on . How adorable is the pinkie toe."
+    },
+    {
+      "entry_id": 276,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "It's my favorite toe.",
+      "raw_text": "It's my favorite toe."
+    },
+    {
+      "entry_id": 277,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Let's face it, you get a bunion, where are you going? You're not going to the ear guy.",
+      "raw_text": "Let's face it, you get a bunion, where are you going? You're not going to the ear guy."
+    },
+    {
+      "entry_id": 278,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "No you're not. *phone rings*",
+      "raw_text": "No you're not. *phone rings*"
+    },
+    {
+      "entry_id": 279,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I'll be right back.",
+      "raw_text": "I'll be right back."
+    },
+    {
+      "entry_id": 280,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Oh uh, where's the bathroom?",
+      "raw_text": "Oh uh, where's the bathroom?"
+    },
+    {
+      "entry_id": 281,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "It's right down here to the left. I will meet you right back here.",
+      "raw_text": "It's right down here to the left. I will meet you right back here."
+    },
+    {
+      "entry_id": 282,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Elaine it's her cat. Her cat had the fungus. So I need the tube back. The doctor is in Elaine's bathroom. He peeks into the medicine cabinet and finds the tube of fungicide.",
+      "raw_text": "Elaine it's her cat. Her cat had the fungus. So I need the tube back. The doctor is in Elaine's bathroom. He peeks into the medicine cabinet and finds the tube of fungicide."
+    },
+    {
+      "entry_id": 283,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "\"Fungicide\"? Fungus? At the church.",
+      "raw_text": "(Thinking to himself) \"Fungicide\"? Fungus? At the church.",
+      "parenthetical": "Thinking to himself"
+    },
+    {
+      "entry_id": 284,
+      "type": "dialogue",
+      "speaker": "SISTER ROBERTA",
+      "normalized_speaker": "sister_roberta",
+      "text": "Something's wrong. I don't feel the same lure.",
+      "raw_text": "Something's wrong. I don't feel the same lure."
+    },
+    {
+      "entry_id": 285,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You don't?",
+      "raw_text": "You don't?"
+    },
+    {
+      "entry_id": 286,
+      "type": "dialogue",
+      "speaker": "SISTER ROBERTA",
+      "normalized_speaker": "sister_roberta",
+      "text": "What have I...? I must return to the church. By the way you really need to take a bath. You stink.",
+      "raw_text": "What have I...? I must return to the church. By the way you really need to take a bath. You stink."
+    },
+    {
+      "entry_id": 287,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah yeah.",
+      "raw_text": "Yeah yeah."
+    },
+    {
+      "entry_id": 288,
+      "type": "scene_heading",
+      "text": "[Setting: Commercial]",
+      "raw_text": "(Commercial)",
+      "confidence": 0.9,
+      "location": "Commercial",
+      "normalized_location": "commercial"
+    },
+    {
+      "entry_id": 289,
+      "type": "action",
+      "text": "At Monk's",
+      "raw_text": "At Monk's",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 290,
+      "type": "dialogue",
+      "speaker": "GEORGE'S GIRLFRIEND",
+      "normalized_speaker": "george_s_girlfriend",
+      "text": "For me?",
+      "raw_text": "For me?"
+    },
+    {
+      "entry_id": 291,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well I didn't do it for my mother.",
+      "raw_text": "Well I didn't do it for my mother."
+    },
+    {
+      "entry_id": 292,
+      "type": "dialogue",
+      "speaker": "GEORGE'S GIRLFRIEND",
+      "normalized_speaker": "george_s_girlfriend",
+      "text": "I'm really flattered. But I just don't feel ready to make a commitment yet. Maybe when I get back from Latvia.",
+      "raw_text": "I'm really flattered. But I just don't feel ready to make a commitment yet. Maybe when I get back from Latvia."
+    },
+    {
+      "entry_id": 293,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Latvia?",
+      "raw_text": "Latvia?"
+    },
+    {
+      "entry_id": 294,
+      "type": "dialogue",
+      "speaker": "GEORGE'S GIRLFRIEND",
+      "normalized_speaker": "george_s_girlfriend",
+      "text": "Yes. I'm going to stay with some relatives there for a year. Isn't it great?",
+      "raw_text": "Yes. I'm going to stay with some relatives there for a year. Isn't it great?"
+    },
+    {
+      "entry_id": 295,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Enjoy, enjoy.",
+      "raw_text": "Enjoy, enjoy."
+    },
+    {
+      "entry_id": 296,
+      "type": "dialogue",
+      "speaker": "GEORGE'S GIRLFRIEND",
+      "normalized_speaker": "george_s_girlfriend",
+      "text": "Oh George, you are so sweet. Don't ever change.",
+      "raw_text": "Oh George, you are so sweet. Don't ever change."
+    },
+    {
+      "entry_id": 297,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I'd like a doggie bag for this please.",
+      "raw_text": "I'd like a doggie bag for this please."
+    },
+    {
+      "entry_id": 298,
+      "type": "end_marker",
+      "text": "THE END",
+      "raw_text": "THE END"
+    },
+    {
+      "entry_id": 299,
+      "type": "action",
+      "text": ">",
+      "raw_text": ">",
+      "confidence": 0.6
+    }
+  ]
+}

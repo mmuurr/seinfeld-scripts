@@ -1,0 +1,2927 @@
+{
+  "episode": {
+    "series_title": "Seinfeld",
+    "episode_number_overall": 145,
+    "title": "The Comeback",
+    "season": 8,
+    "episode_number_in_season": 13,
+    "air_date": "1997-01-30",
+    "written_by": [],
+    "directed_by": [],
+    "source_title": "The Comeback Script",
+    "source_dataset": "yregelman/unprocessed-seinfeld-scripts"
+  },
+  "entries": [
+    {
+      "entry_id": 1,
+      "type": "scene_heading",
+      "text": "[Setting: Yankee Stadium, Conference Room]",
+      "raw_text": "(Yankee Stadium, Conference Room)",
+      "confidence": 0.9,
+      "location": "Yankee Stadium, Conference Room",
+      "normalized_location": "yankee_stadium_conference_room"
+    },
+    {
+      "entry_id": 2,
+      "type": "action",
+      "text": "A group of staff, including George, are gathered round the table. There's a bunch of food on the table. Most people have a small plate with a few salad leaves on it in front of them. George is picking shrimp off a platter, dipping them in some sort of sauce, and stuffing his face with them, about as fast as he can manage.",
+      "raw_text": "A group of staff, including George, are gathered round the table. There's a bunch of food on the table. Most people have a small plate with a few salad leaves on it in front of them. George is picking shrimp off a platter, dipping them in some sort of sauce, and stuffing his face with them, about as fast as he can manage.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 3,
+      "type": "dialogue",
+      "speaker": "BILL",
+      "normalized_speaker": "bill",
+      "text": "Well, if the big man wants a new scoreboard, I don't wanna be the one to tell him no.",
+      "raw_text": "Well, if the big man wants a new scoreboard, I don't wanna be the one to tell him no."
+    },
+    {
+      "entry_id": 4,
+      "type": "dialogue",
+      "speaker": "REILLY",
+      "normalized_speaker": "reilly",
+      "text": "No-one in the park is gonna be able to see it from there.",
+      "raw_text": "No-one in the park is gonna be able to see it from there."
+    },
+    {
+      "entry_id": 5,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, why don't we just put a monitor in his skybox?",
+      "raw_text": "(through a mouthful of shrimp) Well, why don't we just put a monitor in his skybox?",
+      "parenthetical": "through a mouthful of shrimp"
+    },
+    {
+      "entry_id": 6,
+      "type": "dialogue",
+      "speaker": "REILLY",
+      "normalized_speaker": "reilly",
+      "text": "Hey George, the ocean called. They're running outta shrimp. Everyone at the table starts laughing uproariously at Reilly's joke. George looks upset, and barely forces half a sick smile past his mouthful of seafood.",
+      "raw_text": "Hey George, the ocean called. They're running outta shrimp. Everyone at the table starts laughing uproariously at Reilly's joke. George looks upset, and barely forces half a sick smile past his mouthful of seafood."
+    },
+    {
+      "entry_id": 7,
+      "type": "scene_heading",
+      "text": "[Setting: George's Car]",
+      "raw_text": "(George's Car)",
+      "confidence": 0.9,
+      "location": "George's Car",
+      "normalized_location": "george_s_car"
+    },
+    {
+      "entry_id": 8,
+      "type": "action",
+      "text": "George drives along. He's fuming at Reilly's dig.",
+      "raw_text": "George drives along. He's fuming at Reilly's dig.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 9,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "The ocean called. Running outta shrimp. Outta shrimp! (a thought occurs) Oh! Yes! That's what I shoulda said! (frustrated shout) Dammit!",
+      "raw_text": "(angry, to himself) The ocean called. Running outta shrimp. Outta shrimp! (a thought occurs) Oh! Yes! That's what I shoulda said! (frustrated shout) Dammit!",
+      "parenthetical": "angry, to himself"
+    },
+    {
+      "entry_id": 10,
+      "type": "scene_heading",
+      "text": "[Setting: New York Health & Racquet Club]",
+      "raw_text": "(New York Health & Racquet Club)",
+      "confidence": 0.9,
+      "location": "New York Health & Racquet Club",
+      "normalized_location": "new_york_health_racquet_club"
+    },
+    {
+      "entry_id": 11,
+      "type": "action",
+      "text": "George and Jerry come along a corridor. They're carrying bags and paraphernalia indicating they've been playing tennis.",
+      "raw_text": "George and Jerry come along a corridor. They're carrying bags and paraphernalia indicating they've been playing tennis.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 12,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "'The ocean called, They're running outta shrimp'?",
+      "raw_text": "'The ocean called, They're running outta shrimp'?"
+    },
+    {
+      "entry_id": 13,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah, yeah, yeah. But then, I said to him, 'Oh yeah? Well, the jerk store called, and they're running outta you.' Jerry and George halt at a bench by the entrance to the pro shop. Jerry rummages in his bag, producing an old-fashioned wooden framed tennis racquet.",
+      "raw_text": "Yeah, yeah, yeah. But then, I said to him, 'Oh yeah? Well, the jerk store called, and they're running outta you.' Jerry and George halt at a bench by the entrance to the pro shop. Jerry rummages in his bag, producing an old-fashioned wooden framed tennis racquet."
+    },
+    {
+      "entry_id": 14,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Really? That's great. You said that to him?",
+      "raw_text": "(smiling) Really? That's great. You said that to him?",
+      "parenthetical": "smiling"
+    },
+    {
+      "entry_id": 15,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, actually, I thought it up on the way over here.",
+      "raw_text": "(confessing) Well, actually, I thought it up on the way over here.",
+      "parenthetical": "confessing"
+    },
+    {
+      "entry_id": 16,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh. That's not quite the same.",
+      "raw_text": "Oh. That's not quite the same."
+    },
+    {
+      "entry_id": 17,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No. No it's not. You don't know this guy. It woulda been so sweet.",
+      "raw_text": "No. No it's not. You don't know this guy. It woulda been so sweet."
+    },
+    {
+      "entry_id": 18,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I'm gonna grab a can of balls.",
+      "raw_text": "I'm gonna grab a can of balls."
+    },
+    {
+      "entry_id": 19,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Right. George heads on down the corridor. Jerry walks into the pro shop, carrying his gear. There are a few customers browsing. Milos (East European, tracksuit wearing, slicked back hair with pony tail) comes over to Jerry.",
+      "raw_text": "Right. George heads on down the corridor. Jerry walks into the pro shop, carrying his gear. There are a few customers browsing. Milos (East European, tracksuit wearing, slicked back hair with pony tail) comes over to Jerry."
+    },
+    {
+      "entry_id": 20,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "Hello. My name is Milos. How can I help you.",
+      "raw_text": "Hello. My name is Milos. How can I help you."
+    },
+    {
+      "entry_id": 21,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I need a can of balls. Jerry stands before the counter, holding the old-fashioned racquet. Milos reaches under the counter and pulls out a can of tennis balls.",
+      "raw_text": "I need a can of balls. Jerry stands before the counter, holding the old-fashioned racquet. Milos reaches under the counter and pulls out a can of tennis balls."
+    },
+    {
+      "entry_id": 22,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "Can of balls for the nice guy, alri... Milos stops and stares disapprovingly at Jerry's racquet.",
+      "raw_text": "Can of balls for the nice guy, alri... Milos stops and stares disapprovingly at Jerry's racquet."
+    },
+    {
+      "entry_id": 23,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "...Ahh. You don't plan to hit these balls with that racquet, do you? Jerry looks surprised.",
+      "raw_text": "...Ahh. You don't plan to hit these balls with that racquet, do you? Jerry looks surprised."
+    },
+    {
+      "entry_id": 24,
+      "type": "scene_heading",
+      "text": "[Setting: Champagne Video]",
+      "raw_text": "(Champagne Video)",
+      "confidence": 0.9,
+      "location": "Champagne Video",
+      "normalized_location": "champagne_video"
+    },
+    {
+      "entry_id": 25,
+      "type": "action",
+      "text": "Inside a typical small video rental store, Elaine stands before a rack marked 'Staff Picks'. Individual shelves are labelled 'Elizabeth', 'Gene', and 'Vincent', amongst others. Elaine is reading the back of a video box, when Kramer comes up behind her.",
+      "raw_text": "Inside a typical small video rental store, Elaine stands before a rack marked 'Staff Picks'. Individual shelves are labelled 'Elizabeth', 'Gene', and 'Vincent', amongst others. Elaine is reading the back of a video box, when Kramer comes up behind her.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 26,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Checking out the staff picks, Miss Benes?",
+      "raw_text": "Checking out the staff picks, Miss Benes?"
+    },
+    {
+      "entry_id": 27,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh. (laughs) Ha-ha. Hey. Yeah, yeah. (indicating shelf) This Vincent guy, he is the best. He and I have the exact same taste in movies.",
+      "raw_text": "Oh. (laughs) Ha-ha. Hey. Yeah, yeah. (indicating shelf) This Vincent guy, he is the best. He and I have the exact same taste in movies."
+    },
+    {
+      "entry_id": 28,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, Vincent is an art-house goon. I stick to the Gene rack.",
+      "raw_text": "Oh, Vincent is an art-house goon. I stick to the Gene rack."
+    },
+    {
+      "entry_id": 29,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Gene? Oh, it's so stupid and mainstream.",
+      "raw_text": "Gene? Oh, it's so stupid and mainstream."
+    },
+    {
+      "entry_id": 30,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I've seen all these, so I went with a Kramer pick. Kramer holds up a video for Elaine's inspection.",
+      "raw_text": "(indicates 'Gene' shelf) I've seen all these, so I went with a Kramer pick. Kramer holds up a video for Elaine's inspection.",
+      "parenthetical": "indicates 'Gene' shelf"
+    },
+    {
+      "entry_id": 31,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "'The Other Side Of Darkness'. Huh, I never heard of that one.",
+      "raw_text": "(reading) 'The Other Side Of Darkness'. Huh, I never heard of that one.",
+      "parenthetical": "reading"
+    },
+    {
+      "entry_id": 32,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, went straight to video. Elaine looks upon this as a negative.",
+      "raw_text": "Yeah, went straight to video. Elaine looks upon this as a negative."
+    },
+    {
+      "entry_id": 33,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "That makes me the premiere. Kramer takes his cassette toward the counter.",
+      "raw_text": "(positive) That makes me the premiere. Kramer takes his cassette toward the counter.",
+      "parenthetical": "positive"
+    },
+    {
+      "entry_id": 34,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hah.",
+      "raw_text": "(gets Kramer's point) Hah.",
+      "parenthetical": "gets Kramer's point"
+    },
+    {
+      "entry_id": 35,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's Apartment]",
+      "raw_text": "(Jerry's Apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's Apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 36,
+      "type": "action",
+      "text": "Kramer is talking seriously to Jerry, whilst holding a piece of paper.",
+      "raw_text": "Kramer is talking seriously to Jerry, whilst holding a piece of paper.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 37,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Jerry, have you ever seen the movie The Other Side Of Darkness?",
+      "raw_text": "Jerry, have you ever seen the movie The Other Side Of Darkness?"
+    },
+    {
+      "entry_id": 38,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No. (img src=\"http://tinyurl.com/2rau\")",
+      "raw_text": "No. (img src=\"http://tinyurl.com/2rau\")"
+    },
+    {
+      "entry_id": 39,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "It's about this woman, in a coma. Well, I couldn't finish watching it, so I want you to read this. Kramer hands the piece of paper to Jerry.",
+      "raw_text": "It's about this woman, in a coma. Well, I couldn't finish watching it, so I want you to read this. Kramer hands the piece of paper to Jerry."
+    },
+    {
+      "entry_id": 40,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "'I, Cosmo Kramer, having just seen the movie The Other Side Of Darkness, and not wanting to be in a coma like that lady in the movie, hereby want Jerry Seinfeld to remove my life support, feeding machine, lung-blower, etcetera, etcetera, etcetera.'",
+      "raw_text": "(reading) 'I, Cosmo Kramer, having just seen the movie The Other Side Of Darkness, and not wanting to be in a coma like that lady in the movie, hereby want Jerry Seinfeld to remove my life support, feeding machine, lung-blower, etcetera, etcetera, etcetera.'",
+      "parenthetical": "reading"
+    },
+    {
+      "entry_id": 41,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Can you do that for me, buddy?",
+      "raw_text": "Can you do that for me, buddy?"
+    },
+    {
+      "entry_id": 42,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, I don't if what you have here constitutes a legally binding document.",
+      "raw_text": "Well, I don't if what you have here constitutes a legally binding document."
+    },
+    {
+      "entry_id": 43,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, I'm gonna type it up.",
+      "raw_text": "Well, I'm gonna type it up."
+    },
+    {
+      "entry_id": 44,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yes, well, of course, but, even so, you may wanna talk to a lawyer.",
+      "raw_text": "Yes, well, of course, but, even so, you may wanna talk to a lawyer."
+    },
+    {
+      "entry_id": 45,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, but, Jackie Chiles, he put a restraining order on me. (frustrated) I'm not allowed within two hundred feet of his office. I couldn't even give him his Christmas present. Jerry nods sympathetically. Kramer spots something on the table.",
+      "raw_text": "Yeah, but, Jackie Chiles, he put a restraining order on me. (frustrated) I'm not allowed within two hundred feet of his office. I couldn't even give him his Christmas present. Jerry nods sympathetically. Kramer spots something on the table."
+    },
+    {
+      "entry_id": 46,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, hey, new racquet, huh?",
+      "raw_text": "Oh, hey, new racquet, huh?"
+    },
+    {
+      "entry_id": 47,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah. (hands racquet to Kramer) I wasn't gonna get it, but this guy Milos, who runs the pro shop, he really recommended it. Kramer takes a few practice strokes with the racquet.",
+      "raw_text": "Yeah. (hands racquet to Kramer) I wasn't gonna get it, but this guy Milos, who runs the pro shop, he really recommended it. Kramer takes a few practice strokes with the racquet."
+    },
+    {
+      "entry_id": 48,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "In fact, it's the only racquet he plays with.",
+      "raw_text": "In fact, it's the only racquet he plays with."
+    },
+    {
+      "entry_id": 49,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, you're not gonna need this any more. Kramer deposits the old wooden racquet in Jerry's trash. Jerry notices something about the piece of paper Kramer gave him.",
+      "raw_text": "(picking up Jerry's old racquet) Well, you're not gonna need this any more. Kramer deposits the old wooden racquet in Jerry's trash. Jerry notices something about the piece of paper Kramer gave him.",
+      "parenthetical": "picking up Jerry's old racquet"
+    },
+    {
+      "entry_id": 50,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey, this is the zee page of my address book.",
+      "raw_text": "(accusingly) Hey, this is the zee page of my address book.",
+      "parenthetical": "accusingly"
+    },
+    {
+      "entry_id": 51,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh yeah, I put all your zees on the weights and measures page. Kramer swings the new racquet again, making ball-smashing sound effects.",
+      "raw_text": "(explaining) Oh yeah, I put all your zees on the weights and measures page. Kramer swings the new racquet again, making ball-smashing sound effects.",
+      "parenthetical": "explaining"
+    },
+    {
+      "entry_id": 52,
+      "type": "scene_heading",
+      "text": "[Setting: Elaine's Apartment]",
+      "raw_text": "(Elaine's Apartment)",
+      "confidence": 0.9,
+      "location": "Elaine's Apartment",
+      "normalized_location": "elaine_s_apartment"
+    },
+    {
+      "entry_id": 53,
+      "type": "action",
+      "text": "Elaine sits up in bed, watching her video rental. She dabs a tear from her eye, and sniffs.",
+      "raw_text": "Elaine sits up in bed, watching her video rental. She dabs a tear from her eye, and sniffs.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 54,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh. Oh, bravo, Vincent. Bravo. (sniffs) The phone rings. Elaine reaches over and picks up, not happy at being interrupted.",
+      "raw_text": "(emotional) Oh. Oh, bravo, Vincent. Bravo. (sniffs) The phone rings. Elaine reaches over and picks up, not happy at being interrupted.",
+      "parenthetical": "emotional"
+    },
+    {
+      "entry_id": 55,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 56,
+      "type": "dialogue",
+      "speaker": "VINCENT",
+      "normalized_speaker": "vincent",
+      "text": "Did you enjoy the movie?",
+      "raw_text": "Did you enjoy the movie?"
+    },
+    {
+      "entry_id": 57,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Who is it?",
+      "raw_text": "Who is it?"
+    },
+    {
+      "entry_id": 58,
+      "type": "dialogue",
+      "speaker": "VINCENT",
+      "normalized_speaker": "vincent",
+      "text": "It's Vincent.",
+      "raw_text": "It's Vincent."
+    },
+    {
+      "entry_id": 59,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Of Vincent's picks?",
+      "raw_text": "Of Vincent's picks?"
+    },
+    {
+      "entry_id": 60,
+      "type": "dialogue",
+      "speaker": "VINCENT",
+      "normalized_speaker": "vincent",
+      "text": "The same. Elaine smiles excitedly.",
+      "raw_text": "The same. Elaine smiles excitedly."
+    },
+    {
+      "entry_id": 61,
+      "type": "scene_heading",
+      "text": "[Setting: Tennis Club]",
+      "raw_text": "(Tennis Club)",
+      "confidence": 0.9,
+      "location": "Tennis Club",
+      "normalized_location": "tennis_club"
+    },
+    {
+      "entry_id": 62,
+      "type": "action",
+      "text": "Elaine and Jerry have been playing tennis at a different club from the one we saw earlier. They're packing away their stuff. At another court, behind them, a guy in baseball cap and dark glasses is playing truly awful tennis. He's missing the ball, falling over, flailing wildly with his racquet.",
+      "raw_text": "Elaine and Jerry have been playing tennis at a different club from the one we saw earlier. They're packing away their stuff. At another court, behind them, a guy in baseball cap and dark glasses is playing truly awful tennis. He's missing the ball, falling over, flailing wildly with his racquet.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 63,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "He called you?",
+      "raw_text": "He called you?"
+    },
+    {
+      "entry_id": 64,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "He musta got my number off the computer. We ended up talking for, like, two hours.",
+      "raw_text": "He musta got my number off the computer. We ended up talking for, like, two hours."
+    },
+    {
+      "entry_id": 65,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "To a guy you've never met? (mild sarcasm) Your screening process is getting ever more rigorous. Elaine sticks out her tongue at Jerry.",
+      "raw_text": "To a guy you've never met? (mild sarcasm) Your screening process is getting ever more rigorous. Elaine sticks out her tongue at Jerry."
+    },
+    {
+      "entry_id": 66,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Trying to meet him. He's never at the video store. They said he sets his own hours. A tennis ball bounces by Elaine, and she grabs it. The terrible player from the other court shouts over.",
+      "raw_text": "Trying to meet him. He's never at the video store. They said he sets his own hours. A tennis ball bounces by Elaine, and she grabs it. The terrible player from the other court shouts over."
+    },
+    {
+      "entry_id": 67,
+      "type": "dialogue",
+      "speaker": "PLAYER",
+      "normalized_speaker": "player",
+      "text": "Little help, hey!",
+      "raw_text": "Little help, hey!"
+    },
+    {
+      "entry_id": 68,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah.",
+      "raw_text": "(tossing the ball back) Yeah.",
+      "parenthetical": "tossing the ball back"
+    },
+    {
+      "entry_id": 69,
+      "type": "dialogue",
+      "speaker": "PLAYER",
+      "normalized_speaker": "player",
+      "text": "Thank you. The ball Elaine tossed back eludes the player's grasp, misses his racquet and bounces away past him.",
+      "raw_text": "Thank you. The ball Elaine tossed back eludes the player's grasp, misses his racquet and bounces away past him."
+    },
+    {
+      "entry_id": 70,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh god, that guy's terrible.",
+      "raw_text": "(laughing to Jerry) Oh god, that guy's terrible.",
+      "parenthetical": "laughing to Jerry"
+    },
+    {
+      "entry_id": 71,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Mmm-hmm. The terrible player continues to swing ineffectually at easy balls in the background.",
+      "raw_text": "(pulling on a jacket) Mmm-hmm. The terrible player continues to swing ineffectually at easy balls in the background.",
+      "parenthetical": "pulling on a jacket"
+    },
+    {
+      "entry_id": 72,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hey, how come we played at this crummy place instead of your club?",
+      "raw_text": "Hey, how come we played at this crummy place instead of your club?"
+    },
+    {
+      "entry_id": 73,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "George used up all my guest passes already.",
+      "raw_text": "George used up all my guest passes already."
+    },
+    {
+      "entry_id": 74,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Ah.",
+      "raw_text": "Ah."
+    },
+    {
+      "entry_id": 75,
+      "type": "dialogue",
+      "speaker": "PLAYER",
+      "normalized_speaker": "player",
+      "text": "Ahh. A ball bounces past Elaine, and Jerry grabs it.",
+      "raw_text": "Ahh. A ball bounces past Elaine, and Jerry grabs it."
+    },
+    {
+      "entry_id": 76,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Come on.",
+      "raw_text": "Come on."
+    },
+    {
+      "entry_id": 77,
+      "type": "dialogue",
+      "speaker": "PLAYER",
+      "normalized_speaker": "player",
+      "text": "Thank you. The awful player comes over to get the ball back. As he approaches, he removes his sunglasses and wipes his brow with his forearm.",
+      "raw_text": "Thank you. The awful player comes over to get the ball back. As he approaches, he removes his sunglasses and wipes his brow with his forearm."
+    },
+    {
+      "entry_id": 78,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Here you go. The player catches the ball and raises his head, so we can see his face. It's Milos, the guy who sold Jerry his new racquet.",
+      "raw_text": "(tossing the ball) Here you go. The player catches the ball and raises his head, so we can see his face. It's Milos, the guy who sold Jerry his new racquet.",
+      "parenthetical": "tossing the ball"
+    },
+    {
+      "entry_id": 79,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Milos?",
+      "raw_text": "(disbelief) Milos?",
+      "parenthetical": "disbelief"
+    },
+    {
+      "entry_id": 80,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "Oh, hey. (puts sunglasses back on) How you doing? Milos looks guilty, and shouts across to his playing partner as he walks away from Jerry.",
+      "raw_text": "(shock) Oh, hey. (puts sunglasses back on) How you doing? Milos looks guilty, and shouts across to his playing partner as he walks away from Jerry.",
+      "parenthetical": "shock"
+    },
+    {
+      "entry_id": 81,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "Okay, we should uh, wrap it up here. Milos bounces the ball on the court and tries to hit it over the net. He fails, despite being no more than four feet from the net. Jerry looks down at his new racquet, thoughtfully.",
+      "raw_text": "Okay, we should uh, wrap it up here. Milos bounces the ball on the court and tries to hit it over the net. He fails, despite being no more than four feet from the net. Jerry looks down at his new racquet, thoughtfully."
+    },
+    {
+      "entry_id": 82,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's Apartment]",
+      "raw_text": "(Jerry's Apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's Apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 83,
+      "type": "action",
+      "text": "Elaine and Jerry have just arrived from the tennis club, and are putting their stuff on the table. Elaine is removing her coat.",
+      "raw_text": "Elaine and Jerry have just arrived from the tennis club, and are putting their stuff on the table. Elaine is removing her coat.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 84,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "So he was bad. What d'you care?",
+      "raw_text": "So he was bad. What d'you care?"
+    },
+    {
+      "entry_id": 85,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Elaine, I paid two hundred dollars for this racquet, because he said it's the only one he plays with. He could've played just as well with a log. The door opens and Kramer enters, smartly dressed, with a suit and tie.",
+      "raw_text": "Elaine, I paid two hundred dollars for this racquet, because he said it's the only one he plays with. He could've played just as well with a log. The door opens and Kramer enters, smartly dressed, with a suit and tie."
+    },
+    {
+      "entry_id": 86,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey. Right, I talked to this lawyer guy, Shellbach. Now, he's gonna set me up, but you gotta come with me and be the executor.",
+      "raw_text": "Hey. Right, I talked to this lawyer guy, Shellbach. Now, he's gonna set me up, but you gotta come with me and be the executor."
+    },
+    {
+      "entry_id": 87,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "The executor? Of what?",
+      "raw_text": "The executor? Of what?"
+    },
+    {
+      "entry_id": 88,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Kramer wants to die with dignity.",
+      "raw_text": "Kramer wants to die with dignity."
+    },
+    {
+      "entry_id": 89,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "There's a feather in your cap.",
+      "raw_text": "There's a feather in your cap."
+    },
+    {
+      "entry_id": 90,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I don't wanna be a vegetable, Elaine. I just want out. (snaps fingers) The door opens and George wanders in, looking pleased with himself.",
+      "raw_text": "I don't wanna be a vegetable, Elaine. I just want out. (snaps fingers) The door opens and George wanders in, looking pleased with himself."
+    },
+    {
+      "entry_id": 91,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Sometimes in life, the gods smile upon you, my friends.",
+      "raw_text": "Sometimes in life, the gods smile upon you, my friends."
+    },
+    {
+      "entry_id": 92,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "D'you get someone to take that Canadian quarter?",
+      "raw_text": "D'you get someone to take that Canadian quarter?"
+    },
+    {
+      "entry_id": 93,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I got another meeting with Reilly. A whole new audience, and I bet I can get him to try that line again.",
+      "raw_text": "I got another meeting with Reilly. A whole new audience, and I bet I can get him to try that line again."
+    },
+    {
+      "entry_id": 94,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Who's Reilly?",
+      "raw_text": "Who's Reilly?"
+    },
+    {
+      "entry_id": 95,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "George was scarfing shrimp at this meeting, and this guy says 'Hey, George, the ocean called. They're running outta shrimp.' Elaine laughs, loud and long, causing Jerry and Kramer to smile and laugh.",
+      "raw_text": "George was scarfing shrimp at this meeting, and this guy says 'Hey, George, the ocean called. They're running outta shrimp.' Elaine laughs, loud and long, causing Jerry and Kramer to smile and laugh."
+    },
+    {
+      "entry_id": 96,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Listen to the comeback. (pleased) 'Oh yeah? Well the jerk store called. They're running outta you.' George smiles and looks expectant. The other three just stare at him, with varying levels of confusion in their expressions.",
+      "raw_text": "Listen to the comeback. (pleased) 'Oh yeah? Well the jerk store called. They're running outta you.' George smiles and looks expectant. The other three just stare at him, with varying levels of confusion in their expressions."
+    },
+    {
+      "entry_id": 97,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Wha...You gotta be kidding me?!",
+      "raw_text": "(worked up) Wha...You gotta be kidding me?!",
+      "parenthetical": "worked up"
+    },
+    {
+      "entry_id": 98,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "How 'bout this one? How 'bout, 'Your cranium called. It's got some space to rent.'? Elaine laughs, and Jerry smiles.",
+      "raw_text": "How 'bout this one? How 'bout, 'Your cranium called. It's got some space to rent.'? Elaine laughs, and Jerry smiles."
+    },
+    {
+      "entry_id": 99,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What does that mean?",
+      "raw_text": "(confused) What does that mean?",
+      "parenthetical": "confused"
+    },
+    {
+      "entry_id": 100,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey, here you go. 'Hey, Reilly. The zoo called. You're due back by six.'",
+      "raw_text": "(taps George's chest) Hey, here you go. 'Hey, Reilly. The zoo called. You're due back by six.'",
+      "parenthetical": "taps George's chest"
+    },
+    {
+      "entry_id": 101,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No. No, no, no. You're not helping me.",
+      "raw_text": "(frustrated) No. No, no, no. You're not helping me.",
+      "parenthetical": "frustrated"
+    },
+    {
+      "entry_id": 102,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Look, just tell him you had sex with his wife. That'll kill him.",
+      "raw_text": "Look, just tell him you had sex with his wife. That'll kill him."
+    },
+    {
+      "entry_id": 103,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I'm not looking for another line. I got the line.",
+      "raw_text": "(shouting) I'm not looking for another line. I got the line.",
+      "parenthetical": "shouting"
+    },
+    {
+      "entry_id": 104,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Look, George, just think about it. You know, you're married, how would you feel if somebody says to you that they just had se...",
+      "raw_text": "Look, George, just think about it. You know, you're married, how would you feel if somebody says to you that they just had se..."
+    },
+    {
+      "entry_id": 105,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Alright, alright. You see? This is why I hate writing with a large group. Everybody has their own little opinions, and it all gets homogenised, and you lose the whole edge of it. I'm going with jerk store! Jerk store is the line! Jerk store! Yess! George walks out the door. The other three watch him go. Kramer walks over and looks out the door after George, then returns and spots Jerry's old racquet on a stool.",
+      "raw_text": "(really animated) Alright, alright. You see? This is why I hate writing with a large group. Everybody has their own little opinions, and it all gets homogenised, and you lose the whole edge of it. I'm going with jerk store! Jerk store is the line! Jerk store! Yess! George walks out the door. The other three watch him go. Kramer walks over and looks out the door after George, then returns and spots Jerry's old racquet on a stool.",
+      "parenthetical": "really animated"
+    },
+    {
+      "entry_id": 106,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Did you take this out of the garbage?",
+      "raw_text": "(picking the racquet up) Did you take this out of the garbage?",
+      "parenthetical": "picking the racquet up"
+    },
+    {
+      "entry_id": 107,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah, it's still got some spring in the strings.",
+      "raw_text": "Yeah, it's still got some spring in the strings."
+    },
+    {
+      "entry_id": 108,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, Jerry, this is a piece of junk. (drops racquet in the trash) How are you gonna be the executor of my living will? Jerry retrieves the racquet from the trash.",
+      "raw_text": "Oh, Jerry, this is a piece of junk. (drops racquet in the trash) How are you gonna be the executor of my living will? Jerry retrieves the racquet from the trash."
+    },
+    {
+      "entry_id": 109,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You see? You can't let go.",
+      "raw_text": "(indicating) You see? You can't let go.",
+      "parenthetical": "indicating"
+    },
+    {
+      "entry_id": 110,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Trust me, Kramer. Given the legal opportunity, I will kill you.",
+      "raw_text": "Trust me, Kramer. Given the legal opportunity, I will kill you."
+    },
+    {
+      "entry_id": 111,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I wish I could believe you. Hey, Elaine, do you have some free time tomorrow afternoon?",
+      "raw_text": "I wish I could believe you. Hey, Elaine, do you have some free time tomorrow afternoon?"
+    },
+    {
+      "entry_id": 112,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Me?",
+      "raw_text": "Me?"
+    },
+    {
+      "entry_id": 113,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, because you're perfect. You're a calculating, cold-hearted businesswoman. And when there's dirty work to be done, you don't mind stomping on a few throats.",
+      "raw_text": "Yeah, because you're perfect. You're a calculating, cold-hearted businesswoman. And when there's dirty work to be done, you don't mind stomping on a few throats."
+    },
+    {
+      "entry_id": 114,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, ho, c'mon.",
+      "raw_text": "(smiling, flattered) Oh, ho, c'mon.",
+      "parenthetical": "smiling, flattered"
+    },
+    {
+      "entry_id": 115,
+      "type": "scene_heading",
+      "text": "[Setting: Lawyer's Office]",
+      "raw_text": "(Lawyer's Office)",
+      "confidence": 0.9,
+      "location": "Lawyer's Office",
+      "normalized_location": "lawyer_s_office"
+    },
+    {
+      "entry_id": 116,
+      "type": "action",
+      "text": "Kramer and Elaine sit before a desk, behind which sits Shellbach the lawyer, who has a large list in front of him, from which he's reading. Kramer looks nervous, while Elaine is tapping at a soda can, looking bored.",
+      "raw_text": "Kramer and Elaine sit before a desk, behind which sits Shellbach the lawyer, who has a large list in front of him, from which he's reading. Kramer looks nervous, while Elaine is tapping at a soda can, looking bored.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 117,
+      "type": "dialogue",
+      "speaker": "SHELLBACH",
+      "normalized_speaker": "shellbach",
+      "text": "Situation number four. You're breathing on your own, you're conscious, but with no muscular function.",
+      "raw_text": "Situation number four. You're breathing on your own, you're conscious, but with no muscular function."
+    },
+    {
+      "entry_id": 118,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, would I be able to communicate?",
+      "raw_text": "Well, would I be able to communicate?"
+    },
+    {
+      "entry_id": 119,
+      "type": "dialogue",
+      "speaker": "SHELLBACH",
+      "normalized_speaker": "shellbach",
+      "text": "I don't see how.",
+      "raw_text": "I don't see how."
+    },
+    {
+      "entry_id": 120,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Ach, I don't like the sound of this one.",
+      "raw_text": "Ach, I don't like the sound of this one."
+    },
+    {
+      "entry_id": 121,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Huhh, yeah, let's pull the cord.",
+      "raw_text": "Huhh, yeah, let's pull the cord."
+    },
+    {
+      "entry_id": 122,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yank it like (pops open soda can) you're starting a mower.",
+      "raw_text": "Yank it like (pops open soda can) you're starting a mower."
+    },
+    {
+      "entry_id": 123,
+      "type": "dialogue",
+      "speaker": "SHELLBACH",
+      "normalized_speaker": "shellbach",
+      "text": "Moving on. You have liver, kidneys and gall bladder, but no central nervous system. Kramer looks at Elaine, who gives a double thumbs-down.",
+      "raw_text": "Moving on. You have liver, kidneys and gall bladder, but no central nervous system. Kramer looks at Elaine, who gives a double thumbs-down."
+    },
+    {
+      "entry_id": 124,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, I gotta have a central nervous system.",
+      "raw_text": "Well, I gotta have a central nervous system."
+    },
+    {
+      "entry_id": 125,
+      "type": "dialogue",
+      "speaker": "SHELLBACH",
+      "normalized_speaker": "shellbach",
+      "text": "Okay. One lung, blind and you're eating through a tube.",
+      "raw_text": "Okay. One lung, blind and you're eating through a tube."
+    },
+    {
+      "entry_id": 126,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Naw, that's not my style.",
+      "raw_text": "Naw, that's not my style."
+    },
+    {
+      "entry_id": 127,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Bore-ing.",
+      "raw_text": "Bore-ing."
+    },
+    {
+      "entry_id": 128,
+      "type": "dialogue",
+      "speaker": "SHELLBACH",
+      "normalized_speaker": "shellbach",
+      "text": "Alright, you can eat. But machines do everything else.",
+      "raw_text": "Alright, you can eat. But machines do everything else."
+    },
+    {
+      "entry_id": 129,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Uhm... Kramer looks to Elaine, who nods.",
+      "raw_text": "(hesitant) Uhm... Kramer looks to Elaine, who nods.",
+      "parenthetical": "hesitant"
+    },
+    {
+      "entry_id": 130,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I'd stick.",
+      "raw_text": "I'd stick."
+    },
+    {
+      "entry_id": 131,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, yeah. Stick. (to Elaine) 'Cos I could still go to the coffee shop.",
+      "raw_text": "Yeah, yeah. Stick. (to Elaine) 'Cos I could still go to the coffee shop."
+    },
+    {
+      "entry_id": 132,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "That's right.",
+      "raw_text": "That's right.",
+      "parenthetical": "points to Kramer and smiles in agreement"
+    },
+    {
+      "entry_id": 133,
+      "type": "scene_heading",
+      "text": "[Setting: New York Health & Racquet Club]",
+      "raw_text": "(New York Health & Racquet Club)",
+      "confidence": 0.9,
+      "location": "New York Health & Racquet Club",
+      "normalized_location": "new_york_health_racquet_club"
+    },
+    {
+      "entry_id": 134,
+      "type": "action",
+      "text": "A grim-looking Jerry stalks into the pro shop and over to the counter to be met by a nervous and apologetic Milos.",
+      "raw_text": "A grim-looking Jerry stalks into the pro shop and over to the counter to be met by a nervous and apologetic Milos.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 135,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hello Milos.",
+      "raw_text": "Hello Milos."
+    },
+    {
+      "entry_id": 136,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "Jerry, thank god you got my message. Thank you so much for coming down here. Uhm, listen...",
+      "raw_text": "Jerry, thank god you got my message. Thank you so much for coming down here. Uhm, listen..."
+    },
+    {
+      "entry_id": 137,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You know, I spent two hundred dollars on a racquet because I thought you knew what you were talking about.",
+      "raw_text": "(animated) You know, I spent two hundred dollars on a racquet because I thought you knew what you were talking about.",
+      "parenthetical": "animated"
+    },
+    {
+      "entry_id": 138,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You can't even play.",
+      "raw_text": "You can't even play."
+    },
+    {
+      "entry_id": 139,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "Believe me, it is Milos great shame. But Jerry, I could lose my business if anybody find out. How would you like extra year membership of the club? Free. No charge.",
+      "raw_text": "Believe me, it is Milos great shame. But Jerry, I could lose my business if anybody find out. How would you like extra year membership of the club? Free. No charge."
+    },
+    {
+      "entry_id": 140,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You could do that?",
+      "raw_text": "You could do that?"
+    },
+    {
+      "entry_id": 141,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "Jerry, for you, anything. Jerry looks happier. Milos walks away behind the scenes somewhere. Jerry looks round the store and exchanges smiles with a beautiful woman who's trying on a visor. After a few moments, Milos returns, looking rueful.",
+      "raw_text": "Jerry, for you, anything. Jerry looks happier. Milos walks away behind the scenes somewhere. Jerry looks round the store and exchanges smiles with a beautiful woman who's trying on a visor. After a few moments, Milos returns, looking rueful."
+    },
+    {
+      "entry_id": 142,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Game, set and match, huh Milos?",
+      "raw_text": "(indicating the woman) Game, set and match, huh Milos?",
+      "parenthetical": "indicating the woman"
+    },
+    {
+      "entry_id": 143,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "Hah, Jerry, I am so sorry. they tell me there is no way they can do it. (meek) Is there anything else I can do for you? Anything at all. I refund your money.",
+      "raw_text": "(apologetic) Hah, Jerry, I am so sorry. they tell me there is no way they can do it. (meek) Is there anything else I can do for you? Anything at all. I refund your money.",
+      "parenthetical": "apologetic"
+    },
+    {
+      "entry_id": 144,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You know what Milos, I don't even care about the money. I just feel like I was taken by the worst tennis player I...",
+      "raw_text": "(animated) You know what Milos, I don't even care about the money. I just feel like I was taken by the worst tennis player I...",
+      "parenthetical": "animated"
+    },
+    {
+      "entry_id": 145,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "Shhh-shhh. (whispers) I make it up to you.",
+      "raw_text": "Shhh-shhh. (whispers) I make it up to you."
+    },
+    {
+      "entry_id": 146,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah, you'll make it up to me. Jerry turns away and walks toward the door. As he passes the beautiful woman, he speaks.",
+      "raw_text": "(doubtful) Yeah, you'll make it up to me. Jerry turns away and walks toward the door. As he passes the beautiful woman, he speaks.",
+      "parenthetical": "doubtful"
+    },
+    {
+      "entry_id": 147,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Tennis, anyone? The woman smiles at Jerry's flirtation. Jerry leaves, and Milos looks after him, worried.",
+      "raw_text": "Tennis, anyone? The woman smiles at Jerry's flirtation. Jerry leaves, and Milos looks after him, worried."
+    },
+    {
+      "entry_id": 148,
+      "type": "scene_heading",
+      "text": "[Setting: Champagne Video]",
+      "raw_text": "(Champagne Video)",
+      "confidence": 0.9,
+      "location": "Champagne Video",
+      "normalized_location": "champagne_video"
+    },
+    {
+      "entry_id": 149,
+      "type": "action",
+      "text": "Kramer and Elaine stand before the 'Staff Picks' rack again. Elaine picks a video off the 'Vincent' rack.",
+      "raw_text": "Kramer and Elaine stand before the 'Staff Picks' rack again. Elaine picks a video off the 'Vincent' rack.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 150,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, this is the one Vincent told me about. The Pain And The Yearning. (reads from the box) 'An old woman experiences pain and yearning.' A hundred and ninety-two minutes?",
+      "raw_text": "Oh, this is the one Vincent told me about. The Pain And The Yearning. (reads from the box) 'An old woman experiences pain and yearning.' A hundred and ninety-two minutes?"
+    },
+    {
+      "entry_id": 151,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "That's a lotta yearning, huh?",
+      "raw_text": "That's a lotta yearning, huh?"
+    },
+    {
+      "entry_id": 152,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You know, these movies are great, but they're just so emotionally exhausting.",
+      "raw_text": "You know, these movies are great, but they're just so emotionally exhausting."
+    },
+    {
+      "entry_id": 153,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, well, what you need is some summertime adolescent high jinx.",
+      "raw_text": "Yeah, well, what you need is some summertime adolescent high jinx."
+    },
+    {
+      "entry_id": 154,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Really?",
+      "raw_text": "Really?"
+    },
+    {
+      "entry_id": 155,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "See what doctor Gene prescribes, huh? (pulls down a cassette) Oh, here, look at that. Weekend At Bernies Two. Now, that's an hilarious premise.",
+      "raw_text": "(looking at 'Gene' rack) See what doctor Gene prescribes, huh? (pulls down a cassette) Oh, here, look at that. Weekend At Bernies Two. Now, that's an hilarious premise.",
+      "parenthetical": "looking at 'Gene' rack"
+    },
+    {
+      "entry_id": 156,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well...",
+      "raw_text": "Well...",
+      "parenthetical": "laughs) Huh. (looks from tape to tape"
+    },
+    {
+      "entry_id": 157,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah. (taps the Weekend At Bernie's II box)",
+      "raw_text": "Yeah. (taps the Weekend At Bernie's II box)"
+    },
+    {
+      "entry_id": 158,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah, I could use a chuckle. Elaine returns the 'Vincent' pick to the shelf and walks toward the counter with the Bernie's tape.",
+      "raw_text": "Yeah, I could use a chuckle. Elaine returns the 'Vincent' pick to the shelf and walks toward the counter with the Bernie's tape."
+    },
+    {
+      "entry_id": 159,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah.",
+      "raw_text": "(approving) Yeah.",
+      "parenthetical": "approving"
+    },
+    {
+      "entry_id": 160,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What're you getting?",
+      "raw_text": "What're you getting?"
+    },
+    {
+      "entry_id": 161,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Nothing, I'm gonna finish watching The Other Side Of Darkness.",
+      "raw_text": "Nothing, I'm gonna finish watching The Other Side Of Darkness."
+    },
+    {
+      "entry_id": 162,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh. How much you got left?",
+      "raw_text": "Oh. How much you got left?"
+    },
+    {
+      "entry_id": 163,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, about two hours. Elaine does a double-take at this.",
+      "raw_text": "Yeah, about two hours. Elaine does a double-take at this."
+    },
+    {
+      "entry_id": 164,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, she shot in that coma pretty quick.",
+      "raw_text": "Yeah, she shot in that coma pretty quick."
+    },
+    {
+      "entry_id": 165,
+      "type": "scene_heading",
+      "text": "[Setting: Elaine's Apartment]",
+      "raw_text": "(Elaine's Apartment)",
+      "confidence": 0.9,
+      "location": "Elaine's Apartment",
+      "normalized_location": "elaine_s_apartment"
+    },
+    {
+      "entry_id": 166,
+      "type": "action",
+      "text": "Elaine sits up in bed, watching her video. She's not enjoying it.",
+      "raw_text": "Elaine sits up in bed, watching her video. She's not enjoying it.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 167,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Bernie is dead, you moron! (frustration) Just because he's wearing sunglasses he looks alive?! (picks up video box) Ugh, how long is this weekend, anyway? (reads from label) Ugh! The phone rings, and Elaine picks up, glad of the interruption.",
+      "raw_text": "(at TV screen) Bernie is dead, you moron! (frustration) Just because he's wearing sunglasses he looks alive?! (picks up video box) Ugh, how long is this weekend, anyway? (reads from label) Ugh! The phone rings, and Elaine picks up, glad of the interruption.",
+      "parenthetical": "at TV screen"
+    },
+    {
+      "entry_id": 168,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hello.",
+      "raw_text": "Hello."
+    },
+    {
+      "entry_id": 169,
+      "type": "dialogue",
+      "speaker": "VINCENT",
+      "normalized_speaker": "vincent",
+      "text": "How's the movie. Elaine?",
+      "raw_text": "(accusing) How's the movie. Elaine?",
+      "parenthetical": "accusing"
+    },
+    {
+      "entry_id": 170,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Vincent?",
+      "raw_text": "Vincent?"
+    },
+    {
+      "entry_id": 171,
+      "type": "dialogue",
+      "speaker": "VINCENT",
+      "normalized_speaker": "vincent",
+      "text": "The Gene pick. How could you? I thought we had something special.",
+      "raw_text": "(betrayed) The Gene pick. How could you? I thought we had something special.",
+      "parenthetical": "betrayed"
+    },
+    {
+      "entry_id": 172,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No, it doesn't mean anything. I'm not even gonna rewind it. There is a click as Vincent hangs up.",
+      "raw_text": "(defensive) No, it doesn't mean anything. I'm not even gonna rewind it. There is a click as Vincent hangs up.",
+      "parenthetical": "defensive"
+    },
+    {
+      "entry_id": 173,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Vincent?",
+      "raw_text": "Vincent?"
+    },
+    {
+      "entry_id": 174,
+      "type": "scene_heading",
+      "text": "[Setting: Yankee Stadium, Conference Room]",
+      "raw_text": "(Yankee Stadium, Conference Room)",
+      "confidence": 0.9,
+      "location": "Yankee Stadium, Conference Room",
+      "normalized_location": "yankee_stadium_conference_room"
+    },
+    {
+      "entry_id": 175,
+      "type": "action",
+      "text": "The table is ringed with employees again, and there is more food. George is stuffing his face with shrimp, just as before. There are a couple of empty seats. One more guy (Fred) enters, and moves to sit at the table.",
+      "raw_text": "The table is ringed with employees again, and there is more food. George is stuffing his face with shrimp, just as before. There are a couple of empty seats. One more guy (Fred) enters, and moves to sit at the table.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 176,
+      "type": "dialogue",
+      "speaker": "FRED",
+      "normalized_speaker": "fred",
+      "text": "Alright, let's get to it.",
+      "raw_text": "Alright, let's get to it."
+    },
+    {
+      "entry_id": 177,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Wha..wait a minute, wha..what about Reilly?",
+      "raw_text": "Wha..wait a minute, wha..what about Reilly?"
+    },
+    {
+      "entry_id": 178,
+      "type": "dialogue",
+      "speaker": "FRED",
+      "normalized_speaker": "fred",
+      "text": "Reilly doesn't work here any more.",
+      "raw_text": "Reilly doesn't work here any more."
+    },
+    {
+      "entry_id": 179,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What? I..I didn't hear about that.",
+      "raw_text": "(surprise) What? I..I didn't hear about that.",
+      "parenthetical": "surprise"
+    },
+    {
+      "entry_id": 180,
+      "type": "dialogue",
+      "speaker": "FRED",
+      "normalized_speaker": "fred",
+      "text": "Oh, we only wake you up for the important meetings. Everyone at the table collapses into laughter at George's expense. Again, George do nothing but look upset at the turn of events.",
+      "raw_text": "Oh, we only wake you up for the important meetings. Everyone at the table collapses into laughter at George's expense. Again, George do nothing but look upset at the turn of events."
+    },
+    {
+      "entry_id": 181,
+      "type": "scene_heading",
+      "text": "[Setting: Street]",
+      "raw_text": "(Street)",
+      "confidence": 0.9,
+      "location": "Street",
+      "normalized_location": "street"
+    },
+    {
+      "entry_id": 182,
+      "type": "action",
+      "text": "Jerry is walking along the street, when he encounters the beautiful woman from the pro shop, who appears to have been waiting from him.",
+      "raw_text": "Jerry is walking along the street, when he encounters the beautiful woman from the pro shop, who appears to have been waiting from him.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 183,
+      "type": "dialogue",
+      "speaker": "PATTY",
+      "normalized_speaker": "patty",
+      "text": "Hello.",
+      "raw_text": "Hello."
+    },
+    {
+      "entry_id": 184,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hello. Didn't I see you at the pro shop yesterday?",
+      "raw_text": "Hello. Didn't I see you at the pro shop yesterday?"
+    },
+    {
+      "entry_id": 185,
+      "type": "dialogue",
+      "speaker": "PATTY",
+      "normalized_speaker": "patty",
+      "text": "I think so. I'm Patty. Milos gave me your address. I hope you don't mind me waiting for you here.",
+      "raw_text": "I think so. I'm Patty. Milos gave me your address. I hope you don't mind me waiting for you here."
+    },
+    {
+      "entry_id": 186,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well uh, what shall we do, uhm, care for a cup of coffee?",
+      "raw_text": "Well uh, what shall we do, uhm, care for a cup of coffee?",
+      "parenthetical": "to himself) Hoh, that Milos. (to Patty"
+    },
+    {
+      "entry_id": 187,
+      "type": "dialogue",
+      "speaker": "PATTY",
+      "normalized_speaker": "patty",
+      "text": "Why don't we just go up to your apartment?",
+      "raw_text": "Why don't we just go up to your apartment?"
+    },
+    {
+      "entry_id": 188,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Alright. Patty strolls past Jerry, and indicates he should follow.",
+      "raw_text": "(surprised) Alright. Patty strolls past Jerry, and indicates he should follow.",
+      "parenthetical": "surprised"
+    },
+    {
+      "entry_id": 189,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Gotta be an easier way. Jerry turns to follow Patty.",
+      "raw_text": "(to himself) Gotta be an easier way. Jerry turns to follow Patty.",
+      "parenthetical": "to himself"
+    },
+    {
+      "entry_id": 190,
+      "type": "dialogue",
+      "speaker": "TRANSCRIBED BY",
+      "normalized_speaker": "transcribed_by",
+      "text": "Mark Brockbank Barrow-in-Furness,",
+      "raw_text": "(Mazzy) Mark Brockbank Barrow-in-Furness,",
+      "parenthetical": "Mazzy"
+    },
+    {
+      "entry_id": 191,
+      "type": "dialogue",
+      "speaker": "UK",
+      "normalized_speaker": "uk",
+      "text": "Kramer is playing the rest of The Other Side Of Darkness. The soundtrack can be heard from the TV.",
+      "raw_text": "Kramer is playing the rest of The Other Side Of Darkness. The soundtrack can be heard from the TV.",
+      "parenthetical": "Kramer's Apartment"
+    },
+    {
+      "entry_id": 192,
+      "type": "dialogue",
+      "speaker": "NURSE",
+      "normalized_speaker": "nurse",
+      "text": "Doctor, how's her coma?",
+      "raw_text": "Doctor, how's her coma?"
+    },
+    {
+      "entry_id": 193,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Oh, exactly the same. Kramer enters the room, with a bowl of spaghetti. He sits on the couch to watch the movie, and lifts a big forkful into his mouth.",
+      "raw_text": "Oh, exactly the same. Kramer enters the room, with a bowl of spaghetti. He sits on the couch to watch the movie, and lifts a big forkful into his mouth."
+    },
+    {
+      "entry_id": 194,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Wait a minute, she's coming out of the coma. Kramer stops chewing and stares wide-eyed at the TV screen.",
+      "raw_text": "Wait a minute, she's coming out of the coma. Kramer stops chewing and stares wide-eyed at the TV screen."
+    },
+    {
+      "entry_id": 195,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Mrs Allbright, can you hear me? Are you okay?",
+      "raw_text": "Mrs Allbright, can you hear me? Are you okay?"
+    },
+    {
+      "entry_id": 196,
+      "type": "dialogue",
+      "speaker": "ALLBRIGHT",
+      "normalized_speaker": "allbright",
+      "text": "I feel so rested and refreshed. Get me a toothbrush. Kramer continues to stare at the screen, stunned by the outcome of the movie.",
+      "raw_text": "(bright and cheerful) I feel so rested and refreshed. Get me a toothbrush. Kramer continues to stare at the screen, stunned by the outcome of the movie.",
+      "parenthetical": "bright and cheerful"
+    },
+    {
+      "entry_id": 197,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's Apartment]",
+      "raw_text": "(Jerry's Apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's Apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 198,
+      "type": "action",
+      "text": "Jerry hands a drink to Patty as she stands by the kitchen counter.",
+      "raw_text": "Jerry hands a drink to Patty as she stands by the kitchen counter.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 199,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So, you play tennis?",
+      "raw_text": "So, you play tennis?"
+    },
+    {
+      "entry_id": 200,
+      "type": "dialogue",
+      "speaker": "PATTY",
+      "normalized_speaker": "patty",
+      "text": "Enough talk, Jerry. Patty advances on Jerry, sexily. Jerry looks somewhat surprised.",
+      "raw_text": "Enough talk, Jerry. Patty advances on Jerry, sexily. Jerry looks somewhat surprised.",
+      "parenthetical": "putting the glass down on the counter"
+    },
+    {
+      "entry_id": 201,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Not for me, I love chatting.",
+      "raw_text": "Not for me, I love chatting."
+    },
+    {
+      "entry_id": 202,
+      "type": "dialogue",
+      "speaker": "PATTY",
+      "normalized_speaker": "patty",
+      "text": "Shh. Patty leans toward Jerry, as though to kiss him. Just as she's about to kiss, she breaks away.",
+      "raw_text": "(putting her hand to Jerry's face) Shh. Patty leans toward Jerry, as though to kiss him. Just as she's about to kiss, she breaks away.",
+      "parenthetical": "putting her hand to Jerry's face"
+    },
+    {
+      "entry_id": 203,
+      "type": "dialogue",
+      "speaker": "PATTY",
+      "normalized_speaker": "patty",
+      "text": "No! No, I can't do this. (moving away) I can't go through with it. (sitting on the couch) Not even for him!",
+      "raw_text": "(anguished) No! No, I can't do this. (moving away) I can't go through with it. (sitting on the couch) Not even for him!",
+      "parenthetical": "anguished"
+    },
+    {
+      "entry_id": 204,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Who?",
+      "raw_text": "Who?"
+    },
+    {
+      "entry_id": 205,
+      "type": "dialogue",
+      "speaker": "PATTY",
+      "normalized_speaker": "patty",
+      "text": "Milos. My husband!",
+      "raw_text": "(cries) Milos. My husband!",
+      "parenthetical": "cries"
+    },
+    {
+      "entry_id": 206,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Your husband?! Patty puts her face down on the couch, weeping. Jerry, puts his hands up in the air, in a gesture of total disbelief.",
+      "raw_text": "(shocked) Your husband?! Patty puts her face down on the couch, weeping. Jerry, puts his hands up in the air, in a gesture of total disbelief.",
+      "parenthetical": "shocked"
+    },
+    {
+      "entry_id": 207,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's Apartment]",
+      "raw_text": "(Jerry's Apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's Apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 208,
+      "type": "action",
+      "text": "George sits on the couch, just making sure he's got Jerry's story straight. Jerry listens.",
+      "raw_text": "George sits on the couch, just making sure he's got Jerry's story straight. Jerry listens.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 209,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So concerned was he, that word of his poor tennis skills might leak out, he chose to offer you his wife as some sort of mediaeval sexual payola?",
+      "raw_text": "So concerned was he, that word of his poor tennis skills might leak out, he chose to offer you his wife as some sort of mediaeval sexual payola?"
+    },
+    {
+      "entry_id": 210,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "He's new around here.",
+      "raw_text": "(explanation) He's new around here.",
+      "parenthetical": "explanation"
+    },
+    {
+      "entry_id": 211,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So, details?",
+      "raw_text": "(hopeful) So, details?",
+      "parenthetical": "hopeful"
+    },
+    {
+      "entry_id": 212,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, I didn't sleep with her.",
+      "raw_text": "(walking away) Well, I didn't sleep with her.",
+      "parenthetical": "walking away"
+    },
+    {
+      "entry_id": 213,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Because of society, right?",
+      "raw_text": "Because of society, right?"
+    },
+    {
+      "entry_id": 214,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yes, George, because of society. So how did the big meeting turn out? Jerry is getting some sort of candy bar out of a packet on the counter.",
+      "raw_text": "(weary) Yes, George, because of society. So how did the big meeting turn out? Jerry is getting some sort of candy bar out of a packet on the counter.",
+      "parenthetical": "weary"
+    },
+    {
+      "entry_id": 215,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Reilly is no longer with the club. (getting up) You believe that? George wanders over into the kitchen.",
+      "raw_text": "Reilly is no longer with the club. (getting up) You believe that? George wanders over into the kitchen."
+    },
+    {
+      "entry_id": 216,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Ah, you're better off. Now you can just let it go. George looks in the fridge.",
+      "raw_text": "Ah, you're better off. Now you can just let it go. George looks in the fridge."
+    },
+    {
+      "entry_id": 217,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah, I'm gonna let it go.",
+      "raw_text": "Yeah, I'm gonna let it go."
+    },
+    {
+      "entry_id": 218,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You never really had the right comeback, anyway. George jerks out of the fridge, slamming the door.",
+      "raw_text": "You never really had the right comeback, anyway. George jerks out of the fridge, slamming the door."
+    },
+    {
+      "entry_id": 219,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Are you insane? Jerk store, woulda smoked that guy! Smoked him, I say. George walks back into the living room and picks up a newspaper. The door opens and Kramer enters.",
+      "raw_text": "(animated) Are you insane? Jerk store, woulda smoked that guy! Smoked him, I say. George walks back into the living room and picks up a newspaper. The door opens and Kramer enters.",
+      "parenthetical": "animated"
+    },
+    {
+      "entry_id": 220,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey. Oh, Jerry, listen uh, you know, I saw the rest of that movie, The Other Side Of Darkness? The coma lady wakes up at the end.",
+      "raw_text": "Hey. Oh, Jerry, listen uh, you know, I saw the rest of that movie, The Other Side Of Darkness? The coma lady wakes up at the end."
+    },
+    {
+      "entry_id": 221,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Ohh, I wanted to see that. (waves his arms in frustration) Thanks. Thanks a lot. George stalks away into the bathroom, and slams the door behind him.",
+      "raw_text": "(frustrated) Ohh, I wanted to see that. (waves his arms in frustration) Thanks. Thanks a lot. George stalks away into the bathroom, and slams the door behind him.",
+      "parenthetical": "frustrated"
+    },
+    {
+      "entry_id": 222,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I didn't know it was possible to come out of a coma.",
+      "raw_text": "I didn't know it was possible to come out of a coma."
+    },
+    {
+      "entry_id": 223,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I didn't know it was possible not to know that.",
+      "raw_text": "I didn't know it was possible not to know that."
+    },
+    {
+      "entry_id": 224,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "How was Eric Roberts as the husband?",
+      "raw_text": "(from bathroom) How was Eric Roberts as the husband?",
+      "parenthetical": "from bathroom"
+    },
+    {
+      "entry_id": 225,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, unforgettable.",
+      "raw_text": "(shouting back) Oh, unforgettable.",
+      "parenthetical": "shouting back"
+    },
+    {
+      "entry_id": 226,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oww.",
+      "raw_text": "(disappointed) Oww.",
+      "parenthetical": "disappointed"
+    },
+    {
+      "entry_id": 227,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I gotta find Elaine. Y'know, she's gonna pull my plug. Kramer opens the door and exits hurriedly.",
+      "raw_text": "(nervous) I gotta find Elaine. Y'know, she's gonna pull my plug. Kramer opens the door and exits hurriedly.",
+      "parenthetical": "nervous"
+    },
+    {
+      "entry_id": 228,
+      "type": "scene_heading",
+      "text": "[Setting: Champagne Video]",
+      "raw_text": "(Champagne Video)",
+      "confidence": 0.9,
+      "location": "Champagne Video",
+      "normalized_location": "champagne_video"
+    },
+    {
+      "entry_id": 229,
+      "type": "action",
+      "text": "Elaine walks over the 'Vincent' rack, where she finds nothing but copies of a video called Betrayed.",
+      "raw_text": "Elaine walks over the 'Vincent' rack, where she finds nothing but copies of a video called Betrayed.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 230,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What? Betrayed? Oh, Vincent, I'm so sorry. I... Kramer enters the store and hurries over to Elaine.",
+      "raw_text": "What? Betrayed? Oh, Vincent, I'm so sorry. I... Kramer enters the store and hurries over to Elaine."
+    },
+    {
+      "entry_id": 231,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, listen, uh, Elaine, I've changed my mind about the whole coma thing. (positive) Yeah, I decided I'm up for it.",
+      "raw_text": "Yeah, listen, uh, Elaine, I've changed my mind about the whole coma thing. (positive) Yeah, I decided I'm up for it."
+    },
+    {
+      "entry_id": 232,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Kramer, do you have any idea what you've done? The store manager comes over and squeezes past Elaine.",
+      "raw_text": "Kramer, do you have any idea what you've done? The store manager comes over and squeezes past Elaine."
+    },
+    {
+      "entry_id": 233,
+      "type": "dialogue",
+      "speaker": "MANAGER",
+      "normalized_speaker": "manager",
+      "text": "Excuse me. //tinyurl.com/2rau\") The manager removes the 'Vincent' label from the shelf and replaces it with another name.",
+      "raw_text": "Excuse me. //tinyurl.com/2rau\") The manager removes the 'Vincent' label from the shelf and replaces it with another name."
+    },
+    {
+      "entry_id": 234,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What're you doing? The manager walks back to behind the counter.",
+      "raw_text": "What're you doing? The manager walks back to behind the counter."
+    },
+    {
+      "entry_id": 235,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Wha..wha...?",
+      "raw_text": "Wha..wha...?"
+    },
+    {
+      "entry_id": 236,
+      "type": "dialogue",
+      "speaker": "MANAGER",
+      "normalized_speaker": "manager",
+      "text": "Vincent stopped making picks.",
+      "raw_text": "Vincent stopped making picks."
+    },
+    {
+      "entry_id": 237,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well, how am I gonna know what movies to see?",
+      "raw_text": "(upset) Well, how am I gonna know what movies to see?",
+      "parenthetical": "upset"
+    },
+    {
+      "entry_id": 238,
+      "type": "dialogue",
+      "speaker": "MANAGER",
+      "normalized_speaker": "manager",
+      "text": "We have a wide variety of Gene picks.",
+      "raw_text": "We have a wide variety of Gene picks."
+    },
+    {
+      "entry_id": 239,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Gene's trash.",
+      "raw_text": "(dismissive) Gene's trash.",
+      "parenthetical": "dismissive"
+    },
+    {
+      "entry_id": 240,
+      "type": "dialogue",
+      "speaker": "MANAGER",
+      "normalized_speaker": "manager",
+      "text": "I'm Gene. Elaine looks sick at her error. Kramer smiles and raises his eyebrows.",
+      "raw_text": "I'm Gene. Elaine looks sick at her error. Kramer smiles and raises his eyebrows."
+    },
+    {
+      "entry_id": 241,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hi.",
+      "raw_text": "(forcing a smile) Hi.",
+      "parenthetical": "forcing a smile"
+    },
+    {
+      "entry_id": 242,
+      "type": "scene_heading",
+      "text": "[Setting: New York Health & Racquet Club]",
+      "raw_text": "(New York Health & Racquet Club)",
+      "confidence": 0.9,
+      "location": "New York Health & Racquet Club",
+      "normalized_location": "new_york_health_racquet_club"
+    },
+    {
+      "entry_id": 243,
+      "type": "action",
+      "text": "A subdued Milos is behind the counter, before which stands Jerry.",
+      "raw_text": "A subdued Milos is behind the counter, before which stands Jerry.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 244,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Milos, I can assure you, I had no intention of telling anyone about your unbelievably bad tennis playing.",
+      "raw_text": "Milos, I can assure you, I had no intention of telling anyone about your unbelievably bad tennis playing."
+    },
+    {
+      "entry_id": 245,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "Thank you, but, unfortunately, I have much larger problems to fry. My wife, she has no respect for Milos anymore.",
+      "raw_text": "(not cheered) Thank you, but, unfortunately, I have much larger problems to fry. My wife, she has no respect for Milos anymore.",
+      "parenthetical": "not cheered"
+    },
+    {
+      "entry_id": 246,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I guess that's a risk you run when you dabble in the flesh trade.",
+      "raw_text": "I guess that's a risk you run when you dabble in the flesh trade."
+    },
+    {
+      "entry_id": 247,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "Patty, she, she loves tennis, as much like I do. (hopeful) Wou..would you, wi..will you let me beat you in tennis? That is the only way I can show her I am still a man.",
+      "raw_text": "Patty, she, she loves tennis, as much like I do. (hopeful) Wou..would you, wi..will you let me beat you in tennis? That is the only way I can show her I am still a man."
+    },
+    {
+      "entry_id": 248,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, I'll do it as long as there's no other girls around. I mean, I wanna be a man too.",
+      "raw_text": "(reluctant) Well, I'll do it as long as there's no other girls around. I mean, I wanna be a man too.",
+      "parenthetical": "reluctant"
+    },
+    {
+      "entry_id": 249,
+      "type": "scene_heading",
+      "text": "[Setting: Monk's]",
+      "raw_text": "(Monk's)",
+      "confidence": 0.9,
+      "location": "Monk's",
+      "normalized_location": "monk_s"
+    },
+    {
+      "entry_id": 250,
+      "type": "action",
+      "text": "Jerry and Elaine sit in a booth.",
+      "raw_text": "Jerry and Elaine sit in a booth.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 251,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So you hurt Vincent's feelings?",
+      "raw_text": "So you hurt Vincent's feelings?"
+    },
+    {
+      "entry_id": 252,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Look what came in the mail today.",
+      "raw_text": "(handing Jerry an envelope) Look what came in the mail today.",
+      "parenthetical": "handing Jerry an envelope"
+    },
+    {
+      "entry_id": 253,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Wh..What's this? Jerry opens the envelope and shakes a small object out onto his palm.",
+      "raw_text": "(taking the envelope) Wh..What's this? Jerry opens the envelope and shakes a small object out onto his palm.",
+      "parenthetical": "taking the envelope"
+    },
+    {
+      "entry_id": 254,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "It's the play button, off his VCR.",
+      "raw_text": "It's the play button, off his VCR."
+    },
+    {
+      "entry_id": 255,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Boy, look how far back it goes. It's like a tooth. George enters and strolls over to the booth.",
+      "raw_text": "(examining the button) Boy, look how far back it goes. It's like a tooth. George enters and strolls over to the booth.",
+      "parenthetical": "examining the button"
+    },
+    {
+      "entry_id": 256,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So, guess where Mr 'Ocean phoned' turned up? He's working for Firestone, in Akron, Ohio.",
+      "raw_text": "(sitting) So, guess where Mr 'Ocean phoned' turned up? He's working for Firestone, in Akron, Ohio.",
+      "parenthetical": "sitting"
+    },
+    {
+      "entry_id": 257,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Ohio? Mark's Michelle is a dog.",
+      "raw_text": "Ohio? Mark's Michelle is a dog."
+    },
+    {
+      "entry_id": 258,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yep. I'm leaving first thing tomorrow morning.",
+      "raw_text": "Yep. I'm leaving first thing tomorrow morning."
+    },
+    {
+      "entry_id": 259,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You're flying to Akron, just to zing a guy?",
+      "raw_text": "(nonplused) You're flying to Akron, just to zing a guy?",
+      "parenthetical": "nonplused"
+    },
+    {
+      "entry_id": 260,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Don't you understand? It's not about him. To have a line as perfect as 'jerk store' and to never use it. I, I couldn't live with myself.",
+      "raw_text": "Don't you understand? It's not about him. To have a line as perfect as 'jerk store' and to never use it. I, I couldn't live with myself."
+    },
+    {
+      "entry_id": 261,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "See, there are no jerk stores. It..it's just a little confusing, is all.",
+      "raw_text": "See, there are no jerk stores. It..it's just a little confusing, is all."
+    },
+    {
+      "entry_id": 262,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "It's smart. It's a smart line, and a smart crowd will appreciate it. (shouting) And, I'm not gonna dumb it down for some bonehead mass audience! George realises that everyone in the coffee shop is staring over at him, and has heard his shouts.",
+      "raw_text": "(adamant) It's smart. It's a smart line, and a smart crowd will appreciate it. (shouting) And, I'm not gonna dumb it down for some bonehead mass audience! George realises that everyone in the coffee shop is staring over at him, and has heard his shouts.",
+      "parenthetical": "adamant"
+    },
+    {
+      "entry_id": 263,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Not you.",
+      "raw_text": "(waving apologetically) Not you.",
+      "parenthetical": "waving apologetically"
+    },
+    {
+      "entry_id": 264,
+      "type": "scene_heading",
+      "text": "[Setting: Elaine's Apartment]",
+      "raw_text": "(Elaine's Apartment)",
+      "confidence": 0.9,
+      "location": "Elaine's Apartment",
+      "normalized_location": "elaine_s_apartment"
+    },
+    {
+      "entry_id": 265,
+      "type": "action",
+      "text": "Elaine is again sitting up in bed, watching a video. (My guess is it's The Pain And The Yearning.) The soundtrack can be heard.",
+      "raw_text": "Elaine is again sitting up in bed, watching a video. (My guess is it's The Pain And The Yearning.) The soundtrack can be heard.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 266,
+      "type": "dialogue",
+      "speaker": "OLD WOMAN",
+      "normalized_speaker": "old_woman",
+      "text": "Oh, brittle bones. How I long to be rid of the pain. The phone rings and Elaine picks up.",
+      "raw_text": "Oh, brittle bones. How I long to be rid of the pain. The phone rings and Elaine picks up."
+    },
+    {
+      "entry_id": 267,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hello.",
+      "raw_text": "Hello."
+    },
+    {
+      "entry_id": 268,
+      "type": "dialogue",
+      "speaker": "VINCENT",
+      "normalized_speaker": "vincent",
+      "text": "Elaine? It's Vincent.",
+      "raw_text": "Elaine? It's Vincent."
+    },
+    {
+      "entry_id": 269,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Vincent. (pleading) Where are you? I have to meet you.",
+      "raw_text": "(surprised) Vincent. (pleading) Where are you? I have to meet you.",
+      "parenthetical": "surprised"
+    },
+    {
+      "entry_id": 270,
+      "type": "dialogue",
+      "speaker": "VINCENT",
+      "normalized_speaker": "vincent",
+      "text": "No. I can't bear to have anyone see me.",
+      "raw_text": "No. I can't bear to have anyone see me."
+    },
+    {
+      "entry_id": 271,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Vincent, listen, I won't judge you the way everyone else does. You're, you're strange and beautiful, and sensitive. (blunter) Now, let's have a look at you.",
+      "raw_text": "Vincent, listen, I won't judge you the way everyone else does. You're, you're strange and beautiful, and sensitive. (blunter) Now, let's have a look at you."
+    },
+    {
+      "entry_id": 272,
+      "type": "dialogue",
+      "speaker": "VINCENT",
+      "normalized_speaker": "vincent",
+      "text": "Alright, but, can you bring me few things from the store? I haven't been out in a while.",
+      "raw_text": "(relenting) Alright, but, can you bring me few things from the store? I haven't been out in a while.",
+      "parenthetical": "relenting"
+    },
+    {
+      "entry_id": 273,
+      "type": "scene_heading",
+      "text": "[Setting: Kramer's Car]",
+      "raw_text": "(Kramer's Car)",
+      "confidence": 0.9,
+      "location": "Kramer's Car",
+      "normalized_location": "kramer_s_car"
+    },
+    {
+      "entry_id": 274,
+      "type": "action",
+      "text": "Kramer drives along the street, very slowly. He's got traffic stacked up behind him and horns blare as cars manoeuvre around him. Kramer is hunched over the steering wheel, looking nervous.",
+      "raw_text": "Kramer drives along the street, very slowly. He's got traffic stacked up behind him and horns blare as cars manoeuvre around him. Kramer is hunched over the steering wheel, looking nervous.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 275,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, go around, you bunch of crazies. You maniacs are gonna get us all killed.",
+      "raw_text": "Well, go around, you bunch of crazies. You maniacs are gonna get us all killed.",
+      "parenthetical": "indicating that cars should pass him"
+    },
+    {
+      "entry_id": 276,
+      "type": "scene_heading",
+      "text": "[Setting: Lawyer's Office]",
+      "raw_text": "(Lawyer's Office)",
+      "confidence": 0.9,
+      "location": "Lawyer's Office",
+      "normalized_location": "lawyer_s_office"
+    },
+    {
+      "entry_id": 277,
+      "type": "action",
+      "text": "Kramer stands expectantly in the office. A secretary enters.",
+      "raw_text": "Kramer stands expectantly in the office. A secretary enters.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 278,
+      "type": "dialogue",
+      "speaker": "SECRETARY",
+      "normalized_speaker": "secretary",
+      "text": "Hi, can I help you?",
+      "raw_text": "Hi, can I help you?"
+    },
+    {
+      "entry_id": 279,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, yeah, yeah. I'm Cosmo Kramer. Yeah, I had an appointment to annul my living will.",
+      "raw_text": "Oh, yeah, yeah. I'm Cosmo Kramer. Yeah, I had an appointment to annul my living will."
+    },
+    {
+      "entry_id": 280,
+      "type": "dialogue",
+      "speaker": "SECRETARY",
+      "normalized_speaker": "secretary",
+      "text": "Oh. (looks at her watch) Mr Kramer, you had a ten-thirty appointment. It's two o'clock. Mr Shellbach had a tennis lesson. He's gone for the day. Kramer looks anxious again.",
+      "raw_text": "Oh. (looks at her watch) Mr Kramer, you had a ten-thirty appointment. It's two o'clock. Mr Shellbach had a tennis lesson. He's gone for the day. Kramer looks anxious again."
+    },
+    {
+      "entry_id": 281,
+      "type": "scene_heading",
+      "text": "[Setting: Tennis Club]",
+      "raw_text": "(Tennis Club)",
+      "confidence": 0.9,
+      "location": "Tennis Club",
+      "normalized_location": "tennis_club"
+    },
+    {
+      "entry_id": 282,
+      "type": "action",
+      "text": "Jerry and Milos are playing at the other tennis club. They are watched by a small number of people, including Patty. Milos delivers a weak underarm serve, and Jerry makes no effort to return it, merely wafting his racquet vaguely in the direction of the ball.",
+      "raw_text": "Jerry and Milos are playing at the other tennis club. They are watched by a small number of people, including Patty. Milos delivers a weak underarm serve, and Jerry makes no effort to return it, merely wafting his racquet vaguely in the direction of the ball.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 283,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Too good.",
+      "raw_text": "Too good."
+    },
+    {
+      "entry_id": 284,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "Another game for Milos!! Hahaha! Milos walks to the net to meet Jerry.",
+      "raw_text": "(triumphant shout) Another game for Milos!! Hahaha! Milos walks to the net to meet Jerry.",
+      "parenthetical": "triumphant shout"
+    },
+    {
+      "entry_id": 285,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You're on fire today.",
+      "raw_text": "You're on fire today."
+    },
+    {
+      "entry_id": 286,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "Hey Patty. look at this guy. He's awful! Patty blows Milos a kiss.",
+      "raw_text": "(shouting over) Hey Patty. look at this guy. He's awful! Patty blows Milos a kiss.",
+      "parenthetical": "shouting over"
+    },
+    {
+      "entry_id": 287,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "He's not a man, this Jerry. He's not even married like I am. (laughs) Huhuhuhu.",
+      "raw_text": "(milking it) He's not a man, this Jerry. He's not even married like I am. (laughs) Huhuhuhu.",
+      "parenthetical": "milking it"
+    },
+    {
+      "entry_id": 288,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey, uh, Milos, I don't mind rolling over here, but could you lighten up on the 'not a man' stuff?",
+      "raw_text": "(quietly) Hey, uh, Milos, I don't mind rolling over here, but could you lighten up on the 'not a man' stuff?",
+      "parenthetical": "quietly"
+    },
+    {
+      "entry_id": 289,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "Hey everybody, look! The little chicken girl wants me to ease up. He can't handle this, so he cries like a woman! (laughs evilly) Hahaha! Milos strides away to continue the game, leaving Jerry looking rueful.",
+      "raw_text": "(shouting) Hey everybody, look! The little chicken girl wants me to ease up. He can't handle this, so he cries like a woman! (laughs evilly) Hahaha! Milos strides away to continue the game, leaving Jerry looking rueful.",
+      "parenthetical": "shouting"
+    },
+    {
+      "entry_id": 290,
+      "type": "scene_heading",
+      "text": "[Setting: Outside Vincent's Apartment]",
+      "raw_text": "(Outside Vincent's Apartment)",
+      "confidence": 0.9,
+      "location": "Outside Vincent's Apartment",
+      "normalized_location": "outside_vincent_s_apartment"
+    },
+    {
+      "entry_id": 291,
+      "type": "action",
+      "text": "Elaine walks down a hallway, carrying a large grocery bag. She reads numbers off doors until she spots the one she wants. She gives a smile, flicks her hair a little, and knocks at the door.",
+      "raw_text": "Elaine walks down a hallway, carrying a large grocery bag. She reads numbers off doors until she spots the one she wants. She gives a smile, flicks her hair a little, and knocks at the door.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 292,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hello? Vincent? The door cracks open a few inches, but it's completely dark inside, so the occupant can't be seen.",
+      "raw_text": "Hello? Vincent? The door cracks open a few inches, but it's completely dark inside, so the occupant can't be seen."
+    },
+    {
+      "entry_id": 293,
+      "type": "dialogue",
+      "speaker": "VINCENT",
+      "normalized_speaker": "vincent",
+      "text": "Elaine?",
+      "raw_text": "Elaine?"
+    },
+    {
+      "entry_id": 294,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I got what you asked.",
+      "raw_text": "I got what you asked."
+    },
+    {
+      "entry_id": 295,
+      "type": "dialogue",
+      "speaker": "VINCENT",
+      "normalized_speaker": "vincent",
+      "text": "Just, leave it and go.",
+      "raw_text": "Just, leave it and go."
+    },
+    {
+      "entry_id": 296,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "W..well, can't I come in?",
+      "raw_text": "W..well, can't I come in?"
+    },
+    {
+      "entry_id": 297,
+      "type": "dialogue",
+      "speaker": "VINCENT",
+      "normalized_speaker": "vincent",
+      "text": "No. Go away. Now.",
+      "raw_text": "No. Go away. Now."
+    },
+    {
+      "entry_id": 298,
+      "type": "dialogue",
+      "speaker": "TRANSCRIBED BY",
+      "normalized_speaker": "transcribed_by",
+      "text": "Mark Brockbank Barrow-in-Furness,",
+      "raw_text": "(Mazzy) Mark Brockbank Barrow-in-Furness,",
+      "parenthetical": "Mazzy"
+    },
+    {
+      "entry_id": 299,
+      "type": "dialogue",
+      "speaker": "UK",
+      "normalized_speaker": "uk",
+      "text": "Elaine leans forward so her face is right into the open door.",
+      "raw_text": "Elaine leans forward so her face is right into the open door."
+    },
+    {
+      "entry_id": 300,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No, no. Vincent, I... Don't shut me out. (beseeching) I just, I know you feel what I feel. A woman comes up behind Elaine.",
+      "raw_text": "(pleading) No, no. Vincent, I... Don't shut me out. (beseeching) I just, I know you feel what I feel. A woman comes up behind Elaine.",
+      "parenthetical": "pleading"
+    },
+    {
+      "entry_id": 301,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "Excuse me. Can I help you?",
+      "raw_text": "Excuse me. Can I help you?"
+    },
+    {
+      "entry_id": 302,
+      "type": "dialogue",
+      "speaker": "VINCENT",
+      "normalized_speaker": "vincent",
+      "text": "Aw, dammit!",
+      "raw_text": "Aw, dammit!"
+    },
+    {
+      "entry_id": 303,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Uh, uhm, I'm, I'm here to see Vincent.",
+      "raw_text": "(confused) Uh, uhm, I'm, I'm here to see Vincent.",
+      "parenthetical": "confused"
+    },
+    {
+      "entry_id": 304,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "Well, I'm his mother. (stern) Vincent, what's going on here? The woman pushes the door wide open, revealing Vincent standing there. Vincent is a bespectacled, geeky, teen in a plaid shirt. He throws his hands up to cover his face.",
+      "raw_text": "Well, I'm his mother. (stern) Vincent, what's going on here? The woman pushes the door wide open, revealing Vincent standing there. Vincent is a bespectacled, geeky, teen in a plaid shirt. He throws his hands up to cover his face."
+    },
+    {
+      "entry_id": 305,
+      "type": "dialogue",
+      "speaker": "VINCENT",
+      "normalized_speaker": "vincent",
+      "text": "No, my acne! Vincent darts away from the door into the apartment. Elaine is open-mouthed in surprise.",
+      "raw_text": "(shrieks) No, my acne! Vincent darts away from the door into the apartment. Elaine is open-mouthed in surprise.",
+      "parenthetical": "shrieks"
+    },
+    {
+      "entry_id": 306,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Ahh-cnee.",
+      "raw_text": "Ahh-cnee."
+    },
+    {
+      "entry_id": 307,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "What d'you have here? Vincent's mother grabs the top of the bag and begins to rummage through the contents.",
+      "raw_text": "(regarding the grocery bag) What d'you have here? Vincent's mother grabs the top of the bag and begins to rummage through the contents.",
+      "parenthetical": "regarding the grocery bag"
+    },
+    {
+      "entry_id": 308,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "Vodka, cigarettes, fireworks. (accusing) What kind of a sick woman brings this to a fifteen year old?",
+      "raw_text": "(disapproving) Vodka, cigarettes, fireworks. (accusing) What kind of a sick woman brings this to a fifteen year old?",
+      "parenthetical": "disapproving"
+    },
+    {
+      "entry_id": 309,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "We have the same taste in movies.",
+      "raw_text": "(sick smile) We have the same taste in movies.",
+      "parenthetical": "sick smile"
+    },
+    {
+      "entry_id": 310,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "Did he send you part of our VCR? Elaine smiles and nods, and pulls at a chain she has round her neck. Threaded onto the chain is the VCR button Vincent sent her.",
+      "raw_text": "Did he send you part of our VCR? Elaine smiles and nods, and pulls at a chain she has round her neck. Threaded onto the chain is the VCR button Vincent sent her."
+    },
+    {
+      "entry_id": 311,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah. Vincent's mother holds out her hand, and Elaine pulls the chain over her head and hands it over.",
+      "raw_text": "Yeah. Vincent's mother holds out her hand, and Elaine pulls the chain over her head and hands it over."
+    },
+    {
+      "entry_id": 312,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "Vincent! Elaine reaches into the grocery bag and extracts the bottle of vodka. She drops the rest of the bag on the floor, and strolls away, swinging the bottle like a club.",
+      "raw_text": "(entering the apartment) Vincent! Elaine reaches into the grocery bag and extracts the bottle of vodka. She drops the rest of the bag on the floor, and strolls away, swinging the bottle like a club.",
+      "parenthetical": "entering the apartment"
+    },
+    {
+      "entry_id": 313,
+      "type": "scene_heading",
+      "text": "[Setting: Tennis Club]",
+      "raw_text": "(Tennis Club)",
+      "confidence": 0.9,
+      "location": "Tennis Club",
+      "normalized_location": "tennis_club"
+    },
+    {
+      "entry_id": 314,
+      "type": "action",
+      "text": "Jerry and Milos are still playing. Jerry is still throwing the game, and Milos is still milking it. Jerry puts an easy return straight into the court in front of himself.",
+      "raw_text": "Jerry and Milos are still playing. Jerry is still throwing the game, and Milos is still milking it. Jerry puts an easy return straight into the court in front of himself.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 315,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "Look at the big baby! (laughter) Hehaha. (to Jerry) Hey, big baby, are you wetting yourself? Maybe it is time for you to be changed. (laughter) Hahah. Patty laughs too, with the few other spectators. Jerry looks angry at this constant derision.",
+      "raw_text": "(pointing and shouting) Look at the big baby! (laughter) Hehaha. (to Jerry) Hey, big baby, are you wetting yourself? Maybe it is time for you to be changed. (laughter) Hahah. Patty laughs too, with the few other spectators. Jerry looks angry at this constant derision.",
+      "parenthetical": "pointing and shouting"
+    },
+    {
+      "entry_id": 316,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I told you to cut it out. Jerry delivers a fierce serve which beats Milos, and almost hits him in the face.",
+      "raw_text": "(quietly) I told you to cut it out. Jerry delivers a fierce serve which beats Milos, and almost hits him in the face.",
+      "parenthetical": "quietly"
+    },
+    {
+      "entry_id": 317,
+      "type": "dialogue",
+      "speaker": "MILOS",
+      "normalized_speaker": "milos",
+      "text": "Hey, c'mon, what're you doing? (to his audience) Huhuh. The baby got lucky on that one! Hahah. Jerry walks back to deliver another serve. Kramer enters and looks around for someone. On another court, Shellbach is facing an automatic serving machine.",
+      "raw_text": "(quietly, to Jerry) Hey, c'mon, what're you doing? (to his audience) Huhuh. The baby got lucky on that one! Hahah. Jerry walks back to deliver another serve. Kramer enters and looks around for someone. On another court, Shellbach is facing an automatic serving machine.",
+      "parenthetical": "quietly, to Jerry"
+    },
+    {
+      "entry_id": 318,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Shellbach. Shellbach waves vaguely back to Kramer, who has begun to walk round the room to get to him. Meanwhile, Jerry returns a shot to Milos, with some venom. Milos stretches desperately to try and reach it, but loses his grip on his racquet. The racquet arcs across the hall, watched by Patty, and then spotted by Kramer.",
+      "raw_text": "(waving) Shellbach. Shellbach waves vaguely back to Kramer, who has begun to walk round the room to get to him. Meanwhile, Jerry returns a shot to Milos, with some venom. Milos stretches desperately to try and reach it, but loses his grip on his racquet. The racquet arcs across the hall, watched by Patty, and then spotted by Kramer.",
+      "parenthetical": "waving"
+    },
+    {
+      "entry_id": 319,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Racquet. The racquet plummets from the air and strikes the guy who is operating the automatic serving machine for Shellbach. The guy is knocked unconscious and, as he falls, he pushes against the machine, turning it to point at Kramer. Kramer stands transfixed, as it continues to launch balls at him. Several balls in rapid succession strike him in the head, until he slumps, unconscious, to the floor.",
+      "raw_text": "Racquet. The racquet plummets from the air and strikes the guy who is operating the automatic serving machine for Shellbach. The guy is knocked unconscious and, as he falls, he pushes against the machine, turning it to point at Kramer. Kramer stands transfixed, as it continues to launch balls at him. Several balls in rapid succession strike him in the head, until he slumps, unconscious, to the floor."
+    },
+    {
+      "entry_id": 320,
+      "type": "scene_heading",
+      "text": "[Setting: Insert]",
+      "raw_text": "(Insert)",
+      "confidence": 0.9,
+      "location": "Insert",
+      "normalized_location": "insert"
+    },
+    {
+      "entry_id": 321,
+      "type": "action",
+      "text": "Aeroplane landing, with a caption 'AKRON, OHIO'.",
+      "raw_text": "Aeroplane landing, with a caption 'AKRON, OHIO'.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 322,
+      "type": "scene_heading",
+      "text": "[Setting: Firestone Boardroom, Akron]",
+      "raw_text": "(Firestone Boardroom, Akron)",
+      "confidence": 0.9,
+      "location": "Firestone Boardroom, Akron",
+      "normalized_location": "firestone_boardroom_akron"
+    },
+    {
+      "entry_id": 323,
+      "type": "action",
+      "text": "A boardroom very much like that of the Yankees, but with a Firestone sign on the wall. Several people sit around the table, including Reilly, and George, who is filling his face from a large dish of shrimp.",
+      "raw_text": "A boardroom very much like that of the Yankees, but with a Firestone sign on the wall. Several people sit around the table, including Reilly, and George, who is filling his face from a large dish of shrimp.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 324,
+      "type": "dialogue",
+      "speaker": "REILLY",
+      "normalized_speaker": "reilly",
+      "text": "So, George. You're proposing a snow tyre day at Yankee Stadium?",
+      "raw_text": "So, George. You're proposing a snow tyre day at Yankee Stadium?"
+    },
+    {
+      "entry_id": 325,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Long as they don't throw 'em on the field. (laughs) Huhu. (indicating dish) Help yourself to some shrimp, I brought enough for everybody.",
+      "raw_text": "(through a mouthful) Long as they don't throw 'em on the field. (laughs) Huhu. (indicating dish) Help yourself to some shrimp, I brought enough for everybody.",
+      "parenthetical": "through a mouthful"
+    },
+    {
+      "entry_id": 326,
+      "type": "dialogue",
+      "speaker": "MCADAM",
+      "normalized_speaker": "mcadam",
+      "text": "I have to say this, this proposal doesn't make a whole lot of sense.",
+      "raw_text": "(doubtful) I have to say this, this proposal doesn't make a whole lot of sense.",
+      "parenthetical": "doubtful"
+    },
+    {
+      "entry_id": 327,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, you never know. (picks up more shrimp) Let's see how many I can fit in my mouth. George begins picking up shrimp one by one and stuffing them into his mouth.",
+      "raw_text": "Well, you never know. (picks up more shrimp) Let's see how many I can fit in my mouth. George begins picking up shrimp one by one and stuffing them into his mouth."
+    },
+    {
+      "entry_id": 328,
+      "type": "dialogue",
+      "speaker": "REILLY",
+      "normalized_speaker": "reilly",
+      "text": "You know, George... George looks up, expectantly.",
+      "raw_text": "(leaning forward) You know, George... George looks up, expectantly.",
+      "parenthetical": "leaning forward"
+    },
+    {
+      "entry_id": 329,
+      "type": "dialogue",
+      "speaker": "REILLY",
+      "normalized_speaker": "reilly",
+      "text": "The ocean called. They're running outta shrimp. Everyone around the table laughs. Except for George, who looks triumphant. He swallows, and uses a napkin to clean his fingers.",
+      "raw_text": "The ocean called. They're running outta shrimp. Everyone around the table laughs. Except for George, who looks triumphant. He swallows, and uses a napkin to clean his fingers."
+    },
+    {
+      "entry_id": 330,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, the jerk store called. They're running outta you",
+      "raw_text": "Well, the jerk store called. They're running outta you",
+      "parenthetical": "standing) Oh yeah, Reilly? (smugly"
+    },
+    {
+      "entry_id": 331,
+      "type": "dialogue",
+      "speaker": "REILLY",
+      "normalized_speaker": "reilly",
+      "text": "What's the difference? You're their all-time best seller! Reilly and everyone else laughs even more than they did before. George looks angry and frustrated, even on the verge of tears for a second, then something occurs to him.",
+      "raw_text": "(unperturbed) What's the difference? You're their all-time best seller! Reilly and everyone else laughs even more than they did before. George looks angry and frustrated, even on the verge of tears for a second, then something occurs to him.",
+      "parenthetical": "unperturbed"
+    },
+    {
+      "entry_id": 332,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah? Well, I had sex with your wife. George looks round, smiling arrogantly, expecting laughter. But there is a deep, uncomfortable, silence. Reilly, looks stony-faced. McAdam stands and leans over to speak in George's ear.",
+      "raw_text": "Yeah? Well, I had sex with your wife. George looks round, smiling arrogantly, expecting laughter. But there is a deep, uncomfortable, silence. Reilly, looks stony-faced. McAdam stands and leans over to speak in George's ear."
+    },
+    {
+      "entry_id": 333,
+      "type": "dialogue",
+      "speaker": "MCADAM",
+      "normalized_speaker": "mcadam",
+      "text": "His wife is in a coma. George looks sick.",
+      "raw_text": "His wife is in a coma. George looks sick."
+    },
+    {
+      "entry_id": 334,
+      "type": "scene_heading",
+      "text": "[Setting: Hospital Room]",
+      "raw_text": "(Hospital Room)",
+      "confidence": 0.9,
+      "location": "Hospital Room",
+      "normalized_location": "hospital_room"
+    },
+    {
+      "entry_id": 335,
+      "type": "action",
+      "text": "Kramer lies in bed, asleep. Jerry sits in a chair, reading a newspaper. There's a knock at the door and Elaine enters, carrying a VCR.",
+      "raw_text": "Kramer lies in bed, asleep. Jerry sits in a chair, reading a newspaper. There's a knock at the door and Elaine enters, carrying a VCR.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 336,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hi. (indicating Kramer) How's he doing?",
+      "raw_text": "(to Jerry) Hi. (indicating Kramer) How's he doing?",
+      "parenthetical": "to Jerry"
+    },
+    {
+      "entry_id": 337,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "He's been sleeping a lot. He's still groggy.",
+      "raw_text": "He's been sleeping a lot. He's still groggy."
+    },
+    {
+      "entry_id": 338,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh. (puts the VCR down) I thought a movie might cheer him up. I got him a Gene pick.",
+      "raw_text": "Oh. (puts the VCR down) I thought a movie might cheer him up. I got him a Gene pick."
+    },
+    {
+      "entry_id": 339,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What happened to Vincent?",
+      "raw_text": "What happened to Vincent?"
+    },
+    {
+      "entry_id": 340,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I'm kinda off of him. (looking around) Uh, outlet? Jerry points to the wall beside Kramer's bed.",
+      "raw_text": "(evasive) I'm kinda off of him. (looking around) Uh, outlet? Jerry points to the wall beside Kramer's bed.",
+      "parenthetical": "evasive"
+    },
+    {
+      "entry_id": 341,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Ah. Elaine walks over and sees both sockets are full. She takes hold of one of the plugs and yanks it out of the socket with a grunt. The grunt wakes Kramer, who looks groggily around and sees Elaine standing holding the plug, as if she's just unplugged his life support. He stares, bug-eyed and shrieks in terror.",
+      "raw_text": "Ah. Elaine walks over and sees both sockets are full. She takes hold of one of the plugs and yanks it out of the socket with a grunt. The grunt wakes Kramer, who looks groggily around and sees Elaine standing holding the plug, as if she's just unplugged his life support. He stares, bug-eyed and shrieks in terror."
+    },
+    {
+      "entry_id": 342,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Waahhh!!!",
+      "raw_text": "(screaming) Waahhh!!!",
+      "parenthetical": "screaming"
+    },
+    {
+      "entry_id": 343,
+      "type": "scene_heading",
+      "text": "[Setting: Insert]",
+      "raw_text": "(Insert)",
+      "confidence": 0.9,
+      "location": "Insert",
+      "normalized_location": "insert"
+    },
+    {
+      "entry_id": 344,
+      "type": "action",
+      "text": "A plane landing, with the caption 'NEW YORK, NEW YORK'.",
+      "raw_text": "A plane landing, with the caption 'NEW YORK, NEW YORK'.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 345,
+      "type": "scene_heading",
+      "text": "[Setting: George's Car]",
+      "raw_text": "(George's Car)",
+      "confidence": 0.9,
+      "location": "George's Car",
+      "normalized_location": "george_s_car"
+    },
+    {
+      "entry_id": 346,
+      "type": "action",
+      "text": "Once again, George drives along, frustrated and angry.",
+      "raw_text": "Once again, George drives along, frustrated and angry.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 347,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "'My wife's in a coma.' Yeah? Well, the life support machine called and... He tails off, as he can't think of anywhere to go. Then a look of enlightenment comes to George's face, as he thinks of something.",
+      "raw_text": "'My wife's in a coma.' Yeah? Well, the life support machine called and... He tails off, as he can't think of anywhere to go. Then a look of enlightenment comes to George's face, as he thinks of something."
+    },
+    {
+      "entry_id": 348,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Wait! Yes! That's what I should've said! (frustration) D'ohh! George looks gutted for a second, then a determined expression comes to his face. He swings the car round with a squeal of tires, and heads back towards the airport.",
+      "raw_text": "(shouts) Wait! Yes! That's what I should've said! (frustration) D'ohh! George looks gutted for a second, then a determined expression comes to his face. He swings the car round with a squeal of tires, and heads back towards the airport.",
+      "parenthetical": "shouts"
+    },
+    {
+      "entry_id": 349,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You're meat, Reilly! You just screwed yourself! (laughter) Ha ha!",
+      "raw_text": "You're meat, Reilly! You just screwed yourself! (laughter) Ha ha!",
+      "parenthetical": "cocky laughter) Huh haha! (shouts"
+    },
+    {
+      "entry_id": 350,
+      "type": "end_marker",
+      "text": "THE END",
+      "raw_text": "THE END"
+    },
+    {
+      "entry_id": 351,
+      "type": "action",
+      "text": ">",
+      "raw_text": ">",
+      "confidence": 0.6
+    }
+  ]
+}

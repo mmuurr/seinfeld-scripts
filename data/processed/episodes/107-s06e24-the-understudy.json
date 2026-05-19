@@ -1,0 +1,2229 @@
+{
+  "episode": {
+    "series_title": "Seinfeld",
+    "episode_number_overall": 107,
+    "title": "The Understudy",
+    "season": 6,
+    "episode_number_in_season": 24,
+    "air_date": "1995-05-18",
+    "written_by": [],
+    "directed_by": [],
+    "source_title": "The Understudy Script",
+    "source_dataset": "yregelman/unprocessed-seinfeld-scripts"
+  },
+  "entries": [
+    {
+      "entry_id": 1,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": "(Crying) (sob sob)",
+      "raw_text": "(Crying) (sob sob)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 2,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Now what am I supposed to do here? Shall I go over there? It's not like somebody died. It's \"Beaches\" for god's sake. If she was sitting next to me I'd put my arm around her. I can't be making a big move like going all the way over there. I can't. I won't.",
+      "raw_text": "(To himself) Now what am I supposed to do here? Shall I go over there? It's not like somebody died. It's \"Beaches\" for god's sake. If she was sitting next to me I'd put my arm around her. I can't be making a big move like going all the way over there. I can't. I won't.",
+      "parenthetical": "To himself"
+    },
+    {
+      "entry_id": 3,
+      "type": "scene_heading",
+      "text": "[Setting: Next day, Jerry and George enter Jerry's apartment]",
+      "raw_text": "(Next day, Jerry and George enter Jerry's apartment)",
+      "confidence": 0.9,
+      "location": "Next day, Jerry and George enter Jerry's apartment",
+      "normalized_location": "next_day_jerry_and_george_enter_jerry_s_apartment"
+    },
+    {
+      "entry_id": 4,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "She calls me this morning and tells me she's upset I didn't console her. I mean it was \"Beaches\" for god's sake. What, what do you do in a situation like that?",
+      "raw_text": "She calls me this morning and tells me she's upset I didn't console her. I mean it was \"Beaches\" for god's sake. What, what do you do in a situation like that?"
+    },
+    {
+      "entry_id": 5,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Where were you?",
+      "raw_text": "Where were you?"
+    },
+    {
+      "entry_id": 6,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I was sitting on the chair. She was over here on the couch.",
+      "raw_text": "I was sitting on the chair. She was over here on the couch."
+    },
+    {
+      "entry_id": 7,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well you know, if you were sitting right next to her you'd have to console her no matter what.",
+      "raw_text": "Well you know, if you were sitting right next to her you'd have to console her no matter what."
+    },
+    {
+      "entry_id": 8,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Of course.",
+      "raw_text": "Of course."
+    },
+    {
+      "entry_id": 9,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "When you're talking about a movie like \"Beaches\", moving from the chair to the couch ... that's quite a voyage.",
+      "raw_text": "When you're talking about a movie like \"Beaches\", moving from the chair to the couch ... that's quite a voyage."
+    },
+    {
+      "entry_id": 10,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "yeah,",
+      "raw_text": "yeah,"
+    },
+    {
+      "entry_id": 11,
+      "type": "action",
+      "text": "Kramer enters",
+      "raw_text": "(Kramer enters)"
+    },
+    {
+      "entry_id": 12,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey.",
+      "raw_text": "Hey."
+    },
+    {
+      "entry_id": 13,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey. I gotta go.",
+      "raw_text": "Hey. I gotta go."
+    },
+    {
+      "entry_id": 14,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Where you going?",
+      "raw_text": "Where you going?"
+    },
+    {
+      "entry_id": 15,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "The Improv is playing \"Rochelle Rochelle\" The musical.",
+      "raw_text": "The Improv is playing \"Rochelle Rochelle\" The musical."
+    },
+    {
+      "entry_id": 16,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Really? What is Bette Midler playing? Is she going to be there?",
+      "raw_text": "Really? What is Bette Midler playing? Is she going to be there?"
+    },
+    {
+      "entry_id": 17,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "She might be. She's the star of the show.",
+      "raw_text": "She might be. She's the star of the show."
+    },
+    {
+      "entry_id": 18,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Bette Midler is going to be in the park today? Yeeee. Jerry, don't tease me.",
+      "raw_text": "Bette Midler is going to be in the park today? Yeeee. Jerry, don't tease me."
+    },
+    {
+      "entry_id": 19,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I didn't know you were such a Bette Midler fan.",
+      "raw_text": "I didn't know you were such a Bette Midler fan."
+    },
+    {
+      "entry_id": 20,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "So maybe I'll go down there and watch, uh? She'll be there, ,maybe.",
+      "raw_text": "So maybe I'll go down there and watch, uh? She'll be there, ,maybe."
+    },
+    {
+      "entry_id": 21,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Gennice palying today?",
+      "raw_text": "Gennice palying today?"
+    },
+    {
+      "entry_id": 22,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah, maybe.",
+      "raw_text": "Yeah, maybe."
+    },
+    {
+      "entry_id": 23,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Who's Gennice?",
+      "raw_text": "Who's Gennice?"
+    },
+    {
+      "entry_id": 24,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "That's the understudy. I'm dating her.",
+      "raw_text": "That's the understudy. I'm dating her."
+    },
+    {
+      "entry_id": 25,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, uh, is this uh, Bette Midler's understudy?",
+      "raw_text": "Oh, uh, is this uh, Bette Midler's understudy?"
+    },
+    {
+      "entry_id": 26,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 27,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, understudies are a very shifty bunch. The substitute teachers of the theater world.",
+      "raw_text": "Oh, understudies are a very shifty bunch. The substitute teachers of the theater world."
+    },
+    {
+      "entry_id": 28,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I'm glad she's an understudy. I don't have to avoid going back stage and having to think of something to say.",
+      "raw_text": "I'm glad she's an understudy. I don't have to avoid going back stage and having to think of something to say."
+    },
+    {
+      "entry_id": 29,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Going backstage is the worst. Especially when they stink. You know that's a real problem.",
+      "raw_text": "Going backstage is the worst. Especially when they stink. You know that's a real problem."
+    },
+    {
+      "entry_id": 30,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Just once I would like to tell someone they stink. You know what? I doidn't like the show. I didn't like you. It just really stunk. The whole thing...real bad. Stinkaroo. Thanks for the tickets though.",
+      "raw_text": "Just once I would like to tell someone they stink. You know what? I doidn't like the show. I didn't like you. It just really stunk. The whole thing...real bad. Stinkaroo. Thanks for the tickets though."
+    },
+    {
+      "entry_id": 31,
+      "type": "scene_heading",
+      "text": "[Setting: Ruby's Nail Parlor - Korean language in quotes]",
+      "raw_text": "(Ruby's Nail Parlor - Korean language in quotes)",
+      "confidence": 0.9,
+      "location": "Ruby's Nail Parlor - Korean language in quotes",
+      "normalized_location": "ruby_s_nail_parlor_korean_language_in_quotes"
+    },
+    {
+      "entry_id": 32,
+      "type": "dialogue",
+      "speaker": "RUBY",
+      "normalized_speaker": "ruby",
+      "text": "You late.",
+      "raw_text": "You late."
+    },
+    {
+      "entry_id": 33,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I know I know. I didn't have change for the bus and they don't give change in this city. So they threw me off the bus",
+      "raw_text": "I know I know. I didn't have change for the bus and they don't give change in this city. So they threw me off the bus"
+    },
+    {
+      "entry_id": 34,
+      "type": "dialogue",
+      "speaker": "RUBY",
+      "normalized_speaker": "ruby",
+      "text": "\"That's a shame\". You'll have to wait for Lotus now.",
+      "raw_text": "\"That's a shame\". You'll have to wait for Lotus now."
+    },
+    {
+      "entry_id": 35,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "How long do you think this will take. I have a millllioooon things to do.",
+      "raw_text": "How long do you think this will take. I have a millllioooon things to do."
+    },
+    {
+      "entry_id": 36,
+      "type": "dialogue",
+      "speaker": "RUBY",
+      "normalized_speaker": "ruby",
+      "text": "\"Mustn't keep the princess waiting. Princess in a big hurry.\" \"No change for bus\" \"Poor princess.\"",
+      "raw_text": "\"Mustn't keep the princess waiting. Princess in a big hurry.\" \"No change for bus\" \"Poor princess.\""
+    },
+    {
+      "entry_id": 37,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What?, uh?",
+      "raw_text": "What?, uh?"
+    },
+    {
+      "entry_id": 38,
+      "type": "dialogue",
+      "speaker": "RUBY",
+      "normalized_speaker": "ruby",
+      "text": "Nothing, won't be long.",
+      "raw_text": "Nothing, won't be long."
+    },
+    {
+      "entry_id": 39,
+      "type": "dialogue",
+      "speaker": "LOTUS",
+      "normalized_speaker": "lotus",
+      "text": "\"Princess wants a manicure.\"",
+      "raw_text": "\"Princess wants a manicure.\""
+    },
+    {
+      "entry_id": 40,
+      "type": "dialogue",
+      "speaker": "SUNNY",
+      "normalized_speaker": "sunny",
+      "text": "\"Oh lucky me.\"",
+      "raw_text": "\"Oh lucky me.\""
+    },
+    {
+      "entry_id": 41,
+      "type": "dialogue",
+      "speaker": "LOTUS",
+      "normalized_speaker": "lotus",
+      "text": "\"Oh, you got the princess.\"",
+      "raw_text": "\"Oh, you got the princess.\""
+    },
+    {
+      "entry_id": 42,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What is so funny?",
+      "raw_text": "What is so funny?"
+    },
+    {
+      "entry_id": 43,
+      "type": "dialogue",
+      "speaker": "RUBY",
+      "normalized_speaker": "ruby",
+      "text": "...tell knock-knock joke.",
+      "raw_text": "...tell knock-knock joke."
+    },
+    {
+      "entry_id": 44,
+      "type": "scene_heading",
+      "text": "[Setting: Baseball diamond in the park]",
+      "raw_text": "(Baseball diamond in the park)",
+      "confidence": 0.9,
+      "location": "Baseball diamond in the park",
+      "normalized_location": "baseball_diamond_in_the_park"
+    },
+    {
+      "entry_id": 45,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "The Korean women were talking about me. I think they were calling me a dog.",
+      "raw_text": "The Korean women were talking about me. I think they were calling me a dog."
+    },
+    {
+      "entry_id": 46,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "How would you know? You don't speak Korean.",
+      "raw_text": "How would you know? You don't speak Korean."
+    },
+    {
+      "entry_id": 47,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Because this woman came in with a dog and Ruby called the dog the same word they used when they were pointing at me...ge ge ge",
+      "raw_text": "Because this woman came in with a dog and Ruby called the dog the same word they used when they were pointing at me...ge ge ge"
+    },
+    {
+      "entry_id": 48,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You know, maybe in Korean \"dog\" isn't an insult. Could be like the word \"fox\" to us. Oh, she's a DOG!",
+      "raw_text": "You know, maybe in Korean \"dog\" isn't an insult. Could be like the word \"fox\" to us. Oh, she's a DOG!"
+    },
+    {
+      "entry_id": 49,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Why don't you go to another nail shop?",
+      "raw_text": "Why don't you go to another nail shop?"
+    },
+    {
+      "entry_id": 50,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Because they're the best Jerry, the best. Look. Maybe I'm just being paranoid.",
+      "raw_text": "Because they're the best Jerry, the best. Look. Maybe I'm just being paranoid."
+    },
+    {
+      "entry_id": 51,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What you need is a translator to go in the shop with you and tell you what they're saying.",
+      "raw_text": "What you need is a translator to go in the shop with you and tell you what they're saying."
+    },
+    {
+      "entry_id": 52,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah, who speaks Korean?",
+      "raw_text": "Yeah, who speaks Korean?"
+    },
+    {
+      "entry_id": 53,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You know who speaks Korean?",
+      "raw_text": "You know who speaks Korean?"
+    },
+    {
+      "entry_id": 54,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No, who?",
+      "raw_text": "No, who?"
+    },
+    {
+      "entry_id": 55,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "George's father.",
+      "raw_text": "George's father."
+    },
+    {
+      "entry_id": 56,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You gotta' be kidding me. How does he speak Korean?",
+      "raw_text": "You gotta' be kidding me. How does he speak Korean?"
+    },
+    {
+      "entry_id": 57,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "He used to go there a lot on business.",
+      "raw_text": "He used to go there a lot on business."
+    },
+    {
+      "entry_id": 58,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What did he do?",
+      "raw_text": "What did he do?"
+    },
+    {
+      "entry_id": 59,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "He sold religious articles the statues of Jesus, the virgin Mary, that were manufactured in Korea.",
+      "raw_text": "He sold religious articles the statues of Jesus, the virgin Mary, that were manufactured in Korea."
+    },
+    {
+      "entry_id": 60,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Uh,",
+      "raw_text": "Uh,"
+    },
+    {
+      "entry_id": 61,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "George, does your father speak Korean?",
+      "raw_text": "George, does your father speak Korean?"
+    },
+    {
+      "entry_id": 62,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah, he once bumped into reverend Yung Sun Moon.",
+      "raw_text": "Yeah, he once bumped into reverend Yung Sun Moon."
+    },
+    {
+      "entry_id": 63,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh, hi Gennice.",
+      "raw_text": "Oh, hi Gennice."
+    },
+    {
+      "entry_id": 64,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": "Hi Jerry.",
+      "raw_text": "Hi Jerry."
+    },
+    {
+      "entry_id": 65,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "This is George, this is Kramer.",
+      "raw_text": "This is George, this is Kramer."
+    },
+    {
+      "entry_id": 66,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": "Nice to meet you.",
+      "raw_text": "Nice to meet you."
+    },
+    {
+      "entry_id": 67,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Playing today?",
+      "raw_text": "Playing today?"
+    },
+    {
+      "entry_id": 68,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": "No. I'm on the bench today.",
+      "raw_text": "No. I'm on the bench today."
+    },
+    {
+      "entry_id": 69,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "They really stick to that understudy rule.",
+      "raw_text": "They really stick to that understudy rule."
+    },
+    {
+      "entry_id": 70,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "So she's coming?",
+      "raw_text": "So she's coming?"
+    },
+    {
+      "entry_id": 71,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": "Oh, yeah, she'll be here. . . .(DROPS HOT DOG) Oh no, my frankfurter, my frankfurter fell (sob sob sob sob) . It was really good. I can't believe that I dropped it. (sob sob sob sob)",
+      "raw_text": "Oh, yeah, she'll be here. . . .(DROPS HOT DOG) Oh no, my frankfurter, my frankfurter fell (sob sob sob sob) . It was really good. I can't believe that I dropped it. (sob sob sob sob)"
+    },
+    {
+      "entry_id": 72,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "It's okay...it's just a hot dog, (still sobbing) everything is going to be okay.",
+      "raw_text": "It's okay...it's just a hot dog, (still sobbing) everything is going to be okay."
+    },
+    {
+      "entry_id": 73,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": "No it (sob) was really good.",
+      "raw_text": "No it (sob) was really good."
+    },
+    {
+      "entry_id": 74,
+      "type": "action",
+      "text": "Crowd yelling - Bette arrives",
+      "raw_text": "(Crowd yelling - Bette arrives)"
+    },
+    {
+      "entry_id": 75,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Look it's Bette It's Bette! Ah, Ah, AH, . . . Bette, psst, hi.",
+      "raw_text": "Look it's Bette It's Bette! Ah, Ah, AH, . . . Bette, psst, hi."
+    },
+    {
+      "entry_id": 76,
+      "type": "dialogue",
+      "speaker": "BETTE",
+      "normalized_speaker": "bette",
+      "text": "Hi.",
+      "raw_text": "Hi."
+    },
+    {
+      "entry_id": 77,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Uh, I just want to say I think you're wonderful.",
+      "raw_text": "Uh, I just want to say I think you're wonderful."
+    },
+    {
+      "entry_id": 78,
+      "type": "dialogue",
+      "speaker": "BETTE",
+      "normalized_speaker": "bette",
+      "text": "Uh, thank you.",
+      "raw_text": "Uh, thank you."
+    },
+    {
+      "entry_id": 79,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, I've seen you in everything you've done.",
+      "raw_text": "Yeah, I've seen you in everything you've done."
+    },
+    {
+      "entry_id": 80,
+      "type": "dialogue",
+      "speaker": "BETTE",
+      "normalized_speaker": "bette",
+      "text": "Really?",
+      "raw_text": "Really?"
+    },
+    {
+      "entry_id": 81,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Anything I can get you? Water? They got ice over here.",
+      "raw_text": "Anything I can get you? Water? They got ice over here."
+    },
+    {
+      "entry_id": 82,
+      "type": "dialogue",
+      "speaker": "BETTE",
+      "normalized_speaker": "bette",
+      "text": "What flavours do they have?",
+      "raw_text": "What flavours do they have?"
+    },
+    {
+      "entry_id": 83,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Chocolate, Lemon, and uh, Cherry.",
+      "raw_text": "Chocolate, Lemon, and uh, Cherry."
+    },
+    {
+      "entry_id": 84,
+      "type": "dialogue",
+      "speaker": "BETTE",
+      "normalized_speaker": "bette",
+      "text": "How about Pineapple?",
+      "raw_text": "How about Pineapple?"
+    },
+    {
+      "entry_id": 85,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Pineapple, sure, alright, I'll be right back.",
+      "raw_text": "Pineapple, sure, alright, I'll be right back."
+    },
+    {
+      "entry_id": 86,
+      "type": "scene_heading",
+      "text": "[Setting: First Italian ice cream seller]",
+      "raw_text": "(First Italian ice cream seller)",
+      "confidence": 0.9,
+      "location": "First Italian ice cream seller",
+      "normalized_location": "first_italian_ice_cream_seller"
+    },
+    {
+      "entry_id": 87,
+      "type": "action",
+      "text": "ICE CREAM VENDOR #1 No pineapple. Just Cherry, Lemon and Tutti-Frutti",
+      "raw_text": "ICE CREAM VENDOR #1 No pineapple. Just Cherry, Lemon and Tutti-Frutti",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 88,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, uh, uh. (Leaves)",
+      "raw_text": "Oh, uh, uh. (Leaves)"
+    },
+    {
+      "entry_id": 89,
+      "type": "scene_heading",
+      "text": "[Setting: Monk's]",
+      "raw_text": "(Monk's)",
+      "confidence": 0.9,
+      "location": "Monk's",
+      "normalized_location": "monk_s"
+    },
+    {
+      "entry_id": 90,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Anyway, Mr. Costanza, what I want you to do is to come to the shop with me and tell me what they are saying. You do speak Korean?",
+      "raw_text": "Anyway, Mr. Costanza, what I want you to do is to come to the shop with me and tell me what they are saying. You do speak Korean?"
+    },
+    {
+      "entry_id": 91,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "I once talked to the reverend Yung Son Moon. He bought two Jesus statues from me. He's a hell of a nice guy.",
+      "raw_text": "I once talked to the reverend Yung Son Moon. He bought two Jesus statues from me. He's a hell of a nice guy."
+    },
+    {
+      "entry_id": 92,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "uh, ha.",
+      "raw_text": "uh, ha."
+    },
+    {
+      "entry_id": 93,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Ever see that face on him? Like a Biiig apple pie.",
+      "raw_text": "Ever see that face on him? Like a Biiig apple pie."
+    },
+    {
+      "entry_id": 94,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yeah, yeah. Uh, uh listen Mr. Costanza, if uh, if you do this for me I'll get you a manicure, I'll pay for it. Or you can get a pedicure if you want.",
+      "raw_text": "Yeah, yeah. Uh, uh listen Mr. Costanza, if uh, if you do this for me I'll get you a manicure, I'll pay for it. Or you can get a pedicure if you want."
+    },
+    {
+      "entry_id": 95,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "No one is touching my feet. Between you and me, Elaine, I think I've got a foot odour problem.",
+      "raw_text": "No one is touching my feet. Between you and me, Elaine, I think I've got a foot odour problem."
+    },
+    {
+      "entry_id": 96,
+      "type": "scene_heading",
+      "text": "[Setting: Baseball diamond- Bette at bat]",
+      "raw_text": "(Baseball diamond- Bette at bat)",
+      "confidence": 0.9,
+      "location": "Baseball diamond- Bette at bat",
+      "normalized_location": "baseball_diamond_bette_at_bat"
+    },
+    {
+      "entry_id": 97,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I watched \"Beaches\" on cable last night. ...(wings?) ... Give me a break.",
+      "raw_text": "I watched \"Beaches\" on cable last night. ...(wings?) ... Give me a break."
+    },
+    {
+      "entry_id": 98,
+      "type": "dialogue",
+      "speaker": "BETTE",
+      "normalized_speaker": "bette",
+      "text": "Get some talent then you can mouth off.",
+      "raw_text": "Get some talent then you can mouth off."
+    },
+    {
+      "entry_id": 99,
+      "type": "dialogue",
+      "speaker": "UMPIRE",
+      "normalized_speaker": "umpire",
+      "text": "Strike three.",
+      "raw_text": "Strike three."
+    },
+    {
+      "entry_id": 100,
+      "type": "dialogue",
+      "speaker": "BETTE",
+      "normalized_speaker": "bette",
+      "text": "What? Are you blind?",
+      "raw_text": "What? Are you blind?"
+    },
+    {
+      "entry_id": 101,
+      "type": "dialogue",
+      "speaker": "UMPIRE",
+      "normalized_speaker": "umpire",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 102,
+      "type": "dialogue",
+      "speaker": "BETTE",
+      "normalized_speaker": "bette",
+      "text": "Nothing, nothing.",
+      "raw_text": "Nothing, nothing."
+    },
+    {
+      "entry_id": 103,
+      "type": "scene_heading",
+      "text": "[Setting: Monk's]",
+      "raw_text": "(Monk's)",
+      "confidence": 0.9,
+      "location": "Monk's",
+      "normalized_location": "monk_s"
+    },
+    {
+      "entry_id": 104,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "I had an affair with a Korean woman.",
+      "raw_text": "I had an affair with a Korean woman."
+    },
+    {
+      "entry_id": 105,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Uh, Mr. Costanza, I ...",
+      "raw_text": "Uh, Mr. Costanza, I ..."
+    },
+    {
+      "entry_id": 106,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "No, I feel I need to unburden myself. I loved her very deeply. But the clash of cultures was too much. Her family would not accept me.",
+      "raw_text": "No, I feel I need to unburden myself. I loved her very deeply. But the clash of cultures was too much. Her family would not accept me."
+    },
+    {
+      "entry_id": 107,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Mr. Costanza, I, ...",
+      "raw_text": "Mr. Costanza, I, ..."
+    },
+    {
+      "entry_id": 108,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Maybe it was because I refused to take off my shoes. Again, the foot odour problem. Her father would look at me and say, \" eno enoa juang \". Which means, \"this guy - this is not my kind of guy\".",
+      "raw_text": "Maybe it was because I refused to take off my shoes. Again, the foot odour problem. Her father would look at me and say, \" eno enoa juang \". Which means, \"this guy - this is not my kind of guy\"."
+    },
+    {
+      "entry_id": 109,
+      "type": "scene_heading",
+      "text": "[Setting: On Stree]",
+      "raw_text": "(On Stree)",
+      "confidence": 0.9,
+      "location": "On Stree",
+      "normalized_location": "on_stree"
+    },
+    {
+      "entry_id": 110,
+      "type": "action",
+      "text": "ICE CREAM VENDOR #2 Sure I got Pineapple.",
+      "raw_text": "ICE CREAM VENDOR #2 Sure I got Pineapple.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 111,
+      "type": "action",
+      "text": "Kramer runs back with it",
+      "raw_text": "(Kramer runs back with it)"
+    },
+    {
+      "entry_id": 112,
+      "type": "scene_heading",
+      "text": "[Setting: Baseball diamond - George at bat]",
+      "raw_text": "(Baseball diamond - George at bat)",
+      "confidence": 0.9,
+      "location": "Baseball diamond - George at bat",
+      "normalized_location": "baseball_diamond_george_at_bat"
+    },
+    {
+      "entry_id": 113,
+      "type": "dialogue",
+      "speaker": "BETTE",
+      "normalized_speaker": "bette",
+      "text": "Move it in. Move in everybody. Get your shrimp here. Shrimp on special today!",
+      "raw_text": "Move it in. Move in everybody. Get your shrimp here. Shrimp on special today!"
+    },
+    {
+      "entry_id": 114,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Come on George, just loosen up.",
+      "raw_text": "Come on George, just loosen up."
+    },
+    {
+      "entry_id": 115,
+      "type": "scene_heading",
+      "text": "[Setting: George hits one]",
+      "raw_text": "(George hits one )",
+      "confidence": 0.9,
+      "location": "George hits one",
+      "normalized_location": "george_hits_one"
+    },
+    {
+      "entry_id": 116,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Come on George.",
+      "raw_text": "Come on George."
+    },
+    {
+      "entry_id": 117,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I GOT THE PINEAPPLE. : I GOT THE PINEAPPLE.",
+      "raw_text": "I GOT THE PINEAPPLE. : I GOT THE PINEAPPLE."
+    },
+    {
+      "entry_id": 118,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Keep going.",
+      "raw_text": "(to George) Keep going.",
+      "parenthetical": "to George"
+    },
+    {
+      "entry_id": 119,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Aaaaaah",
+      "raw_text": "Aaaaaah"
+    },
+    {
+      "entry_id": 120,
+      "type": "action",
+      "text": "George runs into Bette (trivia- but misses home plate)",
+      "raw_text": "(George runs into Bette (trivia- but misses home plate))"
+    },
+    {
+      "entry_id": 121,
+      "type": "dialogue",
+      "speaker": "UMPIRE",
+      "normalized_speaker": "umpire",
+      "text": "SAFE!",
+      "raw_text": "SAFE!"
+    },
+    {
+      "entry_id": 122,
+      "type": "action",
+      "text": "Mob gets angry and chases George and Jerry",
+      "raw_text": "(Mob gets angry and chases George and Jerry)"
+    },
+    {
+      "entry_id": 123,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "come on it's just a game.",
+      "raw_text": "come on it's just a game."
+    },
+    {
+      "entry_id": 124,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Don't worry Kramer is going to take care of everything. See,, I got you Pineapple. I saw Beaches last night for the fourth time (sings) \"You are the wind...\"",
+      "raw_text": "(holding bette) Don't worry Kramer is going to take care of everything. See,, I got you Pineapple. I saw Beaches last night for the fourth time (sings) \"You are the wind...\"",
+      "parenthetical": "holding bette"
+    },
+    {
+      "entry_id": 125,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's Apartment]",
+      "raw_text": "(Jerry's Apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's Apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 126,
+      "type": "dialogue",
+      "speaker": "TV",
+      "normalized_speaker": "tv",
+      "text": "the show will go on but not Bette Midler. While playing softball in the park Ms. Midler was injured when another player thoughtlessly rammed her at home plate. All captured on amateur video tape. She will be out for two weeks from her Broadway show; Rochelle Rochelle - The Musical.",
+      "raw_text": "the show will go on but not Bette Midler. While playing softball in the park Ms. Midler was injured when another player thoughtlessly rammed her at home plate. All captured on amateur video tape. She will be out for two weeks from her Broadway show; Rochelle Rochelle - The Musical."
+    },
+    {
+      "entry_id": 127,
+      "type": "action",
+      "text": "Genice enters",
+      "raw_text": "(Genice enters)"
+    },
+    {
+      "entry_id": 128,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": ". . . Thank you. (hugs Jerry and George)",
+      "raw_text": ". . . Thank you. (hugs Jerry and George)"
+    },
+    {
+      "entry_id": 129,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well we...",
+      "raw_text": "Well we..."
+    },
+    {
+      "entry_id": 130,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": "No, please. This is the first time in my life (sobs) that anyone has ever done anything like this for me. I've always had to struggle so hard for everything I ever got. (sobbing) and I know this is going to be my big break. (sobbing)",
+      "raw_text": "No, please. This is the first time in my life (sobs) that anyone has ever done anything like this for me. I've always had to struggle so hard for everything I ever got. (sobbing) and I know this is going to be my big break. (sobbing)"
+    },
+    {
+      "entry_id": 131,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "It's okay. Everything is going to be all right.",
+      "raw_text": "(with no emotion) It's okay. Everything is going to be all right.",
+      "parenthetical": "with no emotion"
+    },
+    {
+      "entry_id": 132,
+      "type": "scene_heading",
+      "text": "[Setting: Knocking at door]",
+      "raw_text": "(Knocking at door)",
+      "confidence": 0.9,
+      "location": "Knocking at door",
+      "normalized_location": "knocking_at_door"
+    },
+    {
+      "entry_id": 133,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Come on Jerry, open up. I KNOW YOU'RE IN THERE!",
+      "raw_text": "Come on Jerry, open up. I KNOW YOU'RE IN THERE!"
+    },
+    {
+      "entry_id": 134,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Come back another time.",
+      "raw_text": "Come back another time."
+    },
+    {
+      "entry_id": 135,
+      "type": "scene_heading",
+      "text": "[Setting: Shot of each lock being opened]",
+      "raw_text": "(Shot of each lock being opened)",
+      "confidence": 0.9,
+      "location": "Shot of each lock being opened",
+      "normalized_location": "shot_of_each_lock_being_opened"
+    },
+    {
+      "entry_id": 136,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "SO...you're all in here together. How convenient. I hope you're all proud of yourselves.",
+      "raw_text": "SO...you're all in here together. How convenient. I hope you're all proud of yourselves."
+    },
+    {
+      "entry_id": 137,
+      "type": "scene_heading",
+      "text": "[Setting: Turning to Genice]",
+      "raw_text": "(Turning to Genice)",
+      "confidence": 0.9,
+      "location": "Turning to Genice",
+      "normalized_location": "turning_to_genice"
+    },
+    {
+      "entry_id": 138,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "So my dear you think you can get to Broadway. Well, let me tell you something. Broadway has no room for people like you. Not the Broadway I know. My Broadway takes people like you and eats them up and spits them out. My Broadway is the Broadway of Merman, and Martin, and Fontaine, and if you think you can build yourself up by knocking other people down... ...GOOD LUCK... (exits)",
+      "raw_text": "So my dear you think you can get to Broadway. Well, let me tell you something. Broadway has no room for people like you. Not the Broadway I know. My Broadway takes people like you and eats them up and spits them out. My Broadway is the Broadway of Merman, and Martin, and Fontaine, and if you think you can build yourself up by knocking other people down... ...GOOD LUCK... (exits)"
+    },
+    {
+      "entry_id": 139,
+      "type": "scene_heading",
+      "text": "[Setting: Nail Parlour]",
+      "raw_text": "(Nail Parlour)",
+      "confidence": 0.9,
+      "location": "Nail Parlour",
+      "normalized_location": "nail_parlour"
+    },
+    {
+      "entry_id": 140,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hi everyone. Um, this is my friend, Frank.",
+      "raw_text": "Hi everyone. Um, this is my friend, Frank."
+    },
+    {
+      "entry_id": 141,
+      "type": "dialogue",
+      "speaker": "RUBY",
+      "normalized_speaker": "ruby",
+      "text": "What would you like today? Manicure, Pedicure?",
+      "raw_text": "What would you like today? Manicure, Pedicure?"
+    },
+    {
+      "entry_id": 142,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "I'll take a manicure. I don't take my shoes off for anyone.",
+      "raw_text": "I'll take a manicure. I don't take my shoes off for anyone."
+    },
+    {
+      "entry_id": 143,
+      "type": "dialogue",
+      "speaker": "RUBY",
+      "normalized_speaker": "ruby",
+      "text": "\"That's the least of his problems.\"",
+      "raw_text": "\"That's the least of his problems.\""
+    },
+    {
+      "entry_id": 144,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "What was that?",
+      "raw_text": "What was that?"
+    },
+    {
+      "entry_id": 145,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What'd they say? What'd they say?",
+      "raw_text": "What'd they say? What'd they say?"
+    },
+    {
+      "entry_id": 146,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "They made a derogatory comment about me.",
+      "raw_text": "They made a derogatory comment about me."
+    },
+    {
+      "entry_id": 147,
+      "type": "dialogue",
+      "speaker": "RUBY",
+      "normalized_speaker": "ruby",
+      "text": "\"She's with a man twice her age.\" \"He doesn't look like he's got much money either.\"",
+      "raw_text": "\"She's with a man twice her age.\" \"He doesn't look like he's got much money either.\""
+    },
+    {
+      "entry_id": 148,
+      "type": "dialogue",
+      "speaker": "LOTUS",
+      "normalized_speaker": "lotus",
+      "text": "\"Check out that sweater\". (all laughing)",
+      "raw_text": "\"Check out that sweater\". (all laughing)"
+    },
+    {
+      "entry_id": 149,
+      "type": "dialogue",
+      "speaker": "RUBY",
+      "normalized_speaker": "ruby",
+      "text": "\"I think I saw a moth fly out of a pocket.\"",
+      "raw_text": "\"I think I saw a moth fly out of a pocket.\""
+    },
+    {
+      "entry_id": 150,
+      "type": "dialogue",
+      "speaker": "LOTUS",
+      "normalized_speaker": "lotus",
+      "text": "\"What happened to his tail?\"",
+      "raw_text": "\"What happened to his tail?\""
+    },
+    {
+      "entry_id": 151,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Okay, THAT'S IT! \"oki on awa\" Where's my tail? I heard every word you said. You got some nerve.",
+      "raw_text": "Okay, THAT'S IT! \"oki on awa\" Where's my tail? I heard every word you said. You got some nerve."
+    },
+    {
+      "entry_id": 152,
+      "type": "scene_heading",
+      "text": "[Setting: Back room]",
+      "raw_text": "(Back room)",
+      "confidence": 0.9,
+      "location": "Back room",
+      "normalized_location": "back_room"
+    },
+    {
+      "entry_id": 153,
+      "type": "dialogue",
+      "speaker": "KIM",
+      "normalized_speaker": "kim",
+      "text": "That voice? It sounds so familiar. It reminds me of when I was ayoung girl in Korea and I met an American businessman. He was a very unusual man. Quick temperd with a strange halting way of speaking. We fell in love but when I brought him home to meet my father? He refused to take his shoes off. And there was a terrible fight.",
+      "raw_text": "That voice? It sounds so familiar. It reminds me of when I was ayoung girl in Korea and I met an American businessman. He was a very unusual man. Quick temperd with a strange halting way of speaking. We fell in love but when I brought him home to meet my father? He refused to take his shoes off. And there was a terrible fight."
+    },
+    {
+      "entry_id": 154,
+      "type": "dialogue",
+      "speaker": "LOTUS",
+      "normalized_speaker": "lotus",
+      "text": "That man also refuses to take his shoes off.",
+      "raw_text": "That man also refuses to take his shoes off."
+    },
+    {
+      "entry_id": 155,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "I never seen people treated like this!",
+      "raw_text": "(from other room) I never seen people treated like this!",
+      "parenthetical": "from other room"
+    },
+    {
+      "entry_id": 156,
+      "type": "dialogue",
+      "speaker": "RUBY",
+      "normalized_speaker": "ruby",
+      "text": "You brought in a spy! . . . Get Out!",
+      "raw_text": "You brought in a spy! . . . Get Out!"
+    },
+    {
+      "entry_id": 157,
+      "type": "dialogue",
+      "speaker": "KIM",
+      "normalized_speaker": "kim",
+      "text": "Frank?",
+      "raw_text": "Frank?"
+    },
+    {
+      "entry_id": 158,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Kim?",
+      "raw_text": "Kim?"
+    },
+    {
+      "entry_id": 159,
+      "type": "scene_heading",
+      "text": "[Setting: Hospital room]",
+      "raw_text": "(Hospital room)",
+      "confidence": 0.9,
+      "location": "Hospital room",
+      "normalized_location": "hospital_room"
+    },
+    {
+      "entry_id": 160,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "A turkey sandwich. A side of slaw, ... you want whit e meat or dark?",
+      "raw_text": "(on phone) A turkey sandwich. A side of slaw, ... you want whit e meat or dark?",
+      "parenthetical": "on phone"
+    },
+    {
+      "entry_id": 161,
+      "type": "dialogue",
+      "speaker": "BETTE",
+      "normalized_speaker": "bette",
+      "text": "White meat.",
+      "raw_text": "White meat."
+    },
+    {
+      "entry_id": 162,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, white meat. And if I see one piece of dark meat on there. It's your ass buster.",
+      "raw_text": "Yeah, white meat. And if I see one piece of dark meat on there. It's your ass buster."
+    },
+    {
+      "entry_id": 163,
+      "type": "dialogue",
+      "speaker": "BETTE",
+      "normalized_speaker": "bette",
+      "text": "Get me one of those Black and White cookies.",
+      "raw_text": "Get me one of those Black and White cookies."
+    },
+    {
+      "entry_id": 164,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "yeah, all right, yeah.... (hangs up) They don't have any. But don't worry I'm going to get you one somewhere.",
+      "raw_text": "yeah, all right, yeah.... (hangs up) They don't have any. But don't worry I'm going to get you one somewhere."
+    },
+    {
+      "entry_id": 165,
+      "type": "dialogue",
+      "speaker": "BETTE",
+      "normalized_speaker": "bette",
+      "text": "Good. Because if I don't get a Black and White cookie I'm not going to be very pleasant to be around.",
+      "raw_text": "Good. Because if I don't get a Black and White cookie I'm not going to be very pleasant to be around."
+    },
+    {
+      "entry_id": 166,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Now that's impossible.",
+      "raw_text": "Now that's impossible."
+    },
+    {
+      "entry_id": 167,
+      "type": "scene_heading",
+      "text": "[Setting: On rainy street at night]",
+      "raw_text": "(On rainy street at night)",
+      "confidence": 0.9,
+      "location": "On rainy street at night",
+      "normalized_location": "on_rainy_street_at_night"
+    },
+    {
+      "entry_id": 168,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "... I don't even know where I'm going.",
+      "raw_text": "... I don't even know where I'm going.",
+      "parenthetical": "sob sob) (bumps into man with an umbrella"
+    },
+    {
+      "entry_id": 169,
+      "type": "dialogue",
+      "speaker": "PETERMAN",
+      "normalized_speaker": "peterman",
+      "text": "That's the best way to get someplace you've never been.",
+      "raw_text": "That's the best way to get someplace you've never been."
+    },
+    {
+      "entry_id": 170,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "yes, (sob) I suppose, ...",
+      "raw_text": "yes, (sob) I suppose, ..."
+    },
+    {
+      "entry_id": 171,
+      "type": "dialogue",
+      "speaker": "PETERMAN",
+      "normalized_speaker": "peterman",
+      "text": "Have you been crying?",
+      "raw_text": "Have you been crying?"
+    },
+    {
+      "entry_id": 172,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yes, (sob) you see this (sob) woman, this manicurist,...",
+      "raw_text": "Yes, (sob) you see this (sob) woman, this manicurist,..."
+    },
+    {
+      "entry_id": 173,
+      "type": "dialogue",
+      "speaker": "PETERMAN",
+      "normalized_speaker": "peterman",
+      "text": "Oh no, that doesn't matter now. That's a very nice jacket.",
+      "raw_text": "Oh no, that doesn't matter now. That's a very nice jacket."
+    },
+    {
+      "entry_id": 174,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Uh, (sob) thanks.",
+      "raw_text": "Uh, (sob) thanks."
+    },
+    {
+      "entry_id": 175,
+      "type": "dialogue",
+      "speaker": "PETERMAN",
+      "normalized_speaker": "peterman",
+      "text": "Very soft, huge button flaps, cargo pockets, draw string waist, deep biswing vents in the back perfect for jumping into a gondola.",
+      "raw_text": "Very soft, huge button flaps, cargo pockets, draw string waist, deep biswing vents in the back perfect for jumping into a gondola."
+    },
+    {
+      "entry_id": 176,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "How do you know all that?",
+      "raw_text": "How do you know all that?"
+    },
+    {
+      "entry_id": 177,
+      "type": "dialogue",
+      "speaker": "PETERMAN",
+      "normalized_speaker": "peterman",
+      "text": "That's my coat.",
+      "raw_text": "That's my coat."
+    },
+    {
+      "entry_id": 178,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You mean..?",
+      "raw_text": "You mean..?"
+    },
+    {
+      "entry_id": 179,
+      "type": "dialogue",
+      "speaker": "PETERMAN",
+      "normalized_speaker": "peterman",
+      "text": "Yes, I'm J. Peterman.",
+      "raw_text": "Yes, I'm J. Peterman."
+    },
+    {
+      "entry_id": 180,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh!",
+      "raw_text": "Oh!"
+    },
+    {
+      "entry_id": 181,
+      "type": "scene_heading",
+      "text": "[Setting: In Taxi]",
+      "raw_text": "(In Taxi)",
+      "confidence": 0.9,
+      "location": "In Taxi",
+      "normalized_location": "in_taxi"
+    },
+    {
+      "entry_id": 182,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't know why I have to go to the hospital. I didn't do anything to Bette Midler. Driver can you stop over here, we're picking somebody up.",
+      "raw_text": "I don't know why I have to go to the hospital. I didn't do anything to Bette Midler. Driver can you stop over here, we're picking somebody up."
+    },
+    {
+      "entry_id": 183,
+      "type": "scene_heading",
+      "text": "[Setting: Crowd yelling]",
+      "raw_text": "(Crowd yelling)",
+      "confidence": 0.9,
+      "location": "Crowd yelling",
+      "normalized_location": "crowd_yelling"
+    },
+    {
+      "entry_id": 184,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": "Hey, I didn't do anything. I was never informed. ... YOU CAN ALL GO STRAIGHT TO HELL.... You see that? You see what I am going through?",
+      "raw_text": "Hey, I didn't do anything. I was never informed. ... YOU CAN ALL GO STRAIGHT TO HELL.... You see that? You see what I am going through?"
+    },
+    {
+      "entry_id": 185,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So what? Somebody dropped an egg on my head as I went into my building last night.",
+      "raw_text": "So what? Somebody dropped an egg on my head as I went into my building last night."
+    },
+    {
+      "entry_id": 186,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey, I'm being heckled on stage. People are yelling out Galloogy.",
+      "raw_text": "Hey, I'm being heckled on stage. People are yelling out Galloogy."
+    },
+    {
+      "entry_id": 187,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": "I'm having a little trouble with all this. I mean all I ever wanted to do is sing. Now I'm the focus of this big media frenzy. (sob) Nobody in the show will even talk to me.",
+      "raw_text": "I'm having a little trouble with all this. I mean all I ever wanted to do is sing. Now I'm the focus of this big media frenzy. (sob) Nobody in the show will even talk to me."
+    },
+    {
+      "entry_id": 188,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Stop your crying will ya?",
+      "raw_text": "Stop your crying will ya?"
+    },
+    {
+      "entry_id": 189,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 190,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You heard him.",
+      "raw_text": "You heard him."
+    },
+    {
+      "entry_id": 191,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": "Oh, don't you you're the reason this whole thing happened.",
+      "raw_text": "Oh, don't you you're the reason this whole thing happened."
+    },
+    {
+      "entry_id": 192,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh, yeah. I read what you said to the papers yesterday. You weren't in on the planing. What planning? YOU THINK WE PLANED THIS? Uh?",
+      "raw_text": "Oh, yeah. I read what you said to the papers yesterday. You weren't in on the planing. What planning? YOU THINK WE PLANED THIS? Uh?"
+    },
+    {
+      "entry_id": 193,
+      "type": "dialogue",
+      "speaker": "CABBIE",
+      "normalized_speaker": "cabbie",
+      "text": "Wait. Wait. I know you. You knocked Bette Midler out of Rochelle Rochelle the Musical. I want you creeps out of my cab.",
+      "raw_text": "Wait. Wait. I know you. You knocked Bette Midler out of Rochelle Rochelle the Musical. I want you creeps out of my cab."
+    },
+    {
+      "entry_id": 194,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey, I had nothing to do with it.",
+      "raw_text": "Hey, I had nothing to do with it."
+    },
+    {
+      "entry_id": 195,
+      "type": "dialogue",
+      "speaker": "CABBIE",
+      "normalized_speaker": "cabbie",
+      "text": "Get out of my cab. You should go to prison. You should be in prison for the rest of your life. Get out, each of you. Each and every one of you get out of my cab.",
+      "raw_text": "Get out of my cab. You should go to prison. You should be in prison for the rest of your life. Get out, each of you. Each and every one of you get out of my cab."
+    },
+    {
+      "entry_id": 196,
+      "type": "scene_heading",
+      "text": "[Setting: Restaurant]",
+      "raw_text": "(Restaurant)",
+      "confidence": 0.9,
+      "location": "Restaurant",
+      "normalized_location": "restaurant"
+    },
+    {
+      "entry_id": 197,
+      "type": "dialogue",
+      "speaker": "PETERMAN",
+      "normalized_speaker": "peterman",
+      "text": "Then in the distance I heard the bulls. I began running as fast as I could. Fortunately I was wearing my Italian Captoe Oxfords. Sophisticated yet different; nothing to make a huge fuss about. Rich dark brown calfskin leather. Matching leather vent. Men's whole and half sizes 7 through 13. Price $135.00. Ex; Oh, that's not too expensive.",
+      "raw_text": "Then in the distance I heard the bulls. I began running as fast as I could. Fortunately I was wearing my Italian Captoe Oxfords. Sophisticated yet different; nothing to make a huge fuss about. Rich dark brown calfskin leather. Matching leather vent. Men's whole and half sizes 7 through 13. Price $135.00. Ex; Oh, that's not too expensive."
+    },
+    {
+      "entry_id": 198,
+      "type": "dialogue",
+      "speaker": "PETERMAN",
+      "normalized_speaker": "peterman",
+      "text": "That shirt. Where did you get it?",
+      "raw_text": "That shirt. Where did you get it?"
+    },
+    {
+      "entry_id": 199,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, this innocent looking shirt has something which isn't innocent at all. Touchability! Heavy, silky Italian cotton, with a fine almost terrycloth like feeling. Five button placket, relaxed fit, innocence and mayhem at once.",
+      "raw_text": "Oh, this innocent looking shirt has something which isn't innocent at all. Touchability! Heavy, silky Italian cotton, with a fine almost terrycloth like feeling. Five button placket, relaxed fit, innocence and mayhem at once."
+    },
+    {
+      "entry_id": 200,
+      "type": "dialogue",
+      "speaker": "PETERMAN",
+      "normalized_speaker": "peterman",
+      "text": "That's NOT bad!",
+      "raw_text": "That's NOT bad!"
+    },
+    {
+      "entry_id": 201,
+      "type": "scene_heading",
+      "text": "[Setting: Frank's car]",
+      "raw_text": "(Frank's car)",
+      "confidence": 0.9,
+      "location": "Frank's car",
+      "normalized_location": "frank_s_car"
+    },
+    {
+      "entry_id": 202,
+      "type": "dialogue",
+      "speaker": "KIM",
+      "normalized_speaker": "kim",
+      "text": "Oh, Frank. So many years. If only you had taken your shoes off.",
+      "raw_text": "Oh, Frank. So many years. If only you had taken your shoes off."
+    },
+    {
+      "entry_id": 203,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "I couldn't because I had a potential foot problem.",
+      "raw_text": "I couldn't because I had a potential foot problem."
+    },
+    {
+      "entry_id": 204,
+      "type": "dialogue",
+      "speaker": "KIM",
+      "normalized_speaker": "kim",
+      "text": "I thought maybe you had a hole in your socks.",
+      "raw_text": "I thought maybe you had a hole in your socks."
+    },
+    {
+      "entry_id": 205,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "I wiped them for two minutes on the mat. I don't know why your father had to make a federal case out of it.",
+      "raw_text": "I wiped them for two minutes on the mat. I don't know why your father had to make a federal case out of it."
+    },
+    {
+      "entry_id": 206,
+      "type": "dialogue",
+      "speaker": "KIM",
+      "normalized_speaker": "kim",
+      "text": "Anyway that is all in the past. We have our whole future ahead of us.",
+      "raw_text": "Anyway that is all in the past. We have our whole future ahead of us."
+    },
+    {
+      "entry_id": 207,
+      "type": "dialogue",
+      "speaker": "FRANK",
+      "normalized_speaker": "frank",
+      "text": "Between you and me I think your country is placing a lot of importance on shoe removal.",
+      "raw_text": "Between you and me I think your country is placing a lot of importance on shoe removal."
+    },
+    {
+      "entry_id": 208,
+      "type": "scene_heading",
+      "text": "[Setting: Screeching of brakes]",
+      "raw_text": "(Screeching of brakes)",
+      "confidence": 0.9,
+      "location": "Screeching of brakes",
+      "normalized_location": "screeching_of_brakes"
+    },
+    {
+      "entry_id": 209,
+      "type": "dialogue",
+      "speaker": "KIM",
+      "normalized_speaker": "kim",
+      "text": "You short stop me? We don't do that in Korea! Take me home. Inever want to see you again.",
+      "raw_text": "You short stop me? We don't do that in Korea! Take me home. Inever want to see you again."
+    },
+    {
+      "entry_id": 210,
+      "type": "action",
+      "text": "Bette's hospital room - Kramer enters",
+      "raw_text": "(Bette's hospital room - Kramer enters)"
+    },
+    {
+      "entry_id": 211,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hi, here. I made this for your. (gives her a pasta statue)",
+      "raw_text": "Hi, here. I made this for your. (gives her a pasta statue)"
+    },
+    {
+      "entry_id": 212,
+      "type": "dialogue",
+      "speaker": "BETTE",
+      "normalized_speaker": "bette",
+      "text": "... What is it?",
+      "raw_text": "... What is it?"
+    },
+    {
+      "entry_id": 213,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "It's macaroni Midler.",
+      "raw_text": "It's macaroni Midler."
+    },
+    {
+      "entry_id": 214,
+      "type": "dialogue",
+      "speaker": "BETTE",
+      "normalized_speaker": "bette",
+      "text": "Macaroni Midler?",
+      "raw_text": "Macaroni Midler?"
+    },
+    {
+      "entry_id": 215,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, see how you're singing?",
+      "raw_text": "Yeah, see how you're singing?"
+    },
+    {
+      "entry_id": 216,
+      "type": "dialogue",
+      "speaker": "BETTE",
+      "normalized_speaker": "bette",
+      "text": "... yeah ...ha ha. Well you made a long journey from Milan to Minsk.",
+      "raw_text": "... yeah ...ha ha. Well you made a long journey from Milan to Minsk."
+    },
+    {
+      "entry_id": 217,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "oh, what's that from?",
+      "raw_text": "oh, what's that from?"
+    },
+    {
+      "entry_id": 218,
+      "type": "dialogue",
+      "speaker": "BETTE",
+      "normalized_speaker": "bette",
+      "text": "Oh, that's one of the songs from my show. Bette sings: \"Well you made a long journey from Milan to Minsk. Rochelle Rochelle. You never stopped hoping. now you're in the Pinsk Rochelle Rochelle When the nay sayers nay you pick up your pace So nothing's going to stop me so get out of my face. I'm having adventures all over the place. Rochelle ROCHELLE!\"",
+      "raw_text": "Oh, that's one of the songs from my show. Bette sings: \"Well you made a long journey from Milan to Minsk. Rochelle Rochelle. You never stopped hoping. now you're in the Pinsk Rochelle Rochelle When the nay sayers nay you pick up your pace So nothing's going to stop me so get out of my face. I'm having adventures all over the place. Rochelle ROCHELLE!\""
+    },
+    {
+      "entry_id": 219,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh You are so freaking talented.",
+      "raw_text": "Oh You are so freaking talented."
+    },
+    {
+      "entry_id": 220,
+      "type": "action",
+      "text": "knock at door - Kramer goes out into hall",
+      "raw_text": "(knock at door - Kramer goes out into hall)"
+    },
+    {
+      "entry_id": 221,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh, so look who's here. What do you want.",
+      "raw_text": "Oh, so look who's here. What do you want."
+    },
+    {
+      "entry_id": 222,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "We just want to talk to her. We want to apologize and tell her the whole thing was an accident.",
+      "raw_text": "We just want to talk to her. We want to apologize and tell her the whole thing was an accident."
+    },
+    {
+      "entry_id": 223,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "No, no. I'm sorry it's out of the question.",
+      "raw_text": "No, no. I'm sorry it's out of the question."
+    },
+    {
+      "entry_id": 224,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 225,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Bette is recuperating right now and I'm not going to allow anything to disturb her.",
+      "raw_text": "Bette is recuperating right now and I'm not going to allow anything to disturb her."
+    },
+    {
+      "entry_id": 226,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Who are you to decide?",
+      "raw_text": "Who are you to decide?"
+    },
+    {
+      "entry_id": 227,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I'm calling the shots around here so there won't be anymore ACCIDENTS!",
+      "raw_text": "I'm calling the shots around here so there won't be anymore ACCIDENTS!"
+    },
+    {
+      "entry_id": 228,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey, look, Kramer,...",
+      "raw_text": "Hey, look, Kramer,..."
+    },
+    {
+      "entry_id": 229,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "AH! I don't want her disturbed.",
+      "raw_text": "AH! I don't want her disturbed."
+    },
+    {
+      "entry_id": 230,
+      "type": "scene_heading",
+      "text": "[Setting: Outside Broadway Theater]",
+      "raw_text": "(Outside Broadway Theater)",
+      "confidence": 0.9,
+      "location": "Outside Broadway Theater",
+      "normalized_location": "outside_broadway_theater"
+    },
+    {
+      "entry_id": 231,
+      "type": "dialogue",
+      "speaker": "RUBY",
+      "normalized_speaker": "ruby",
+      "text": "hello, Elaine.",
+      "raw_text": "hello, Elaine."
+    },
+    {
+      "entry_id": 232,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hello",
+      "raw_text": "Hello"
+    },
+    {
+      "entry_id": 233,
+      "type": "dialogue",
+      "speaker": "LOTUS",
+      "normalized_speaker": "lotus",
+      "text": "We're so excited.",
+      "raw_text": "We're so excited."
+    },
+    {
+      "entry_id": 234,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You're welcome.",
+      "raw_text": "You're welcome."
+    },
+    {
+      "entry_id": 235,
+      "type": "dialogue",
+      "speaker": "RUBY",
+      "normalized_speaker": "ruby",
+      "text": "We'll see you inside.",
+      "raw_text": "We'll see you inside."
+    },
+    {
+      "entry_id": 236,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What happened?",
+      "raw_text": "What happened?"
+    },
+    {
+      "entry_id": 237,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well I felt bad about the spying, so you know, ,I got them tickets to the show.",
+      "raw_text": "Well I felt bad about the spying, so you know, ,I got them tickets to the show."
+    },
+    {
+      "entry_id": 238,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh,, that's nice. Alright, I'll see you later.",
+      "raw_text": "Oh,, that's nice. Alright, I'll see you later."
+    },
+    {
+      "entry_id": 239,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Wait, wait. I didn't get to tell you about my new job.",
+      "raw_text": "Wait, wait. I didn't get to tell you about my new job."
+    },
+    {
+      "entry_id": 240,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Where?",
+      "raw_text": "Where?"
+    },
+    {
+      "entry_id": 241,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Writing for the J. Peterman catalogue.",
+      "raw_text": "Writing for the J. Peterman catalogue."
+    },
+    {
+      "entry_id": 242,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "How did you get that?",
+      "raw_text": "(pushing her) How did you get that?",
+      "parenthetical": "pushing her"
+    },
+    {
+      "entry_id": 243,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I met him.",
+      "raw_text": "I met him."
+    },
+    {
+      "entry_id": 244,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You met J. Peterman?",
+      "raw_text": "You met J. Peterman?"
+    },
+    {
+      "entry_id": 245,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "yeah.",
+      "raw_text": "yeah."
+    },
+    {
+      "entry_id": 246,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What is he like?",
+      "raw_text": "What is he like?"
+    },
+    {
+      "entry_id": 247,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah, I'll see ya'.",
+      "raw_text": "(walking away) Yeah, I'll see ya'.",
+      "parenthetical": "walking away"
+    },
+    {
+      "entry_id": 248,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": ". . . Small, Medium, Large, XL, Double...",
+      "raw_text": ". . . Small, Medium, Large, XL, Double..."
+    },
+    {
+      "entry_id": 249,
+      "type": "scene_heading",
+      "text": "[Setting: Backstage]",
+      "raw_text": "(Backstage)",
+      "confidence": 0.9,
+      "location": "Backstage",
+      "normalized_location": "backstage"
+    },
+    {
+      "entry_id": 250,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, break a leg tonight.",
+      "raw_text": "Well, break a leg tonight."
+    },
+    {
+      "entry_id": 251,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": "I'm really nervous.",
+      "raw_text": "I'm really nervous."
+    },
+    {
+      "entry_id": 252,
+      "type": "dialogue",
+      "speaker": "STAGEHAND",
+      "normalized_speaker": "stagehand",
+      "text": "Here you got a telegram. Well, look who's here.",
+      "raw_text": "Here you got a telegram. Well, look who's here."
+    },
+    {
+      "entry_id": 253,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Listen buddy,",
+      "raw_text": "Listen buddy,"
+    },
+    {
+      "entry_id": 254,
+      "type": "dialogue",
+      "speaker": "STAGEHAND",
+      "normalized_speaker": "stagehand",
+      "text": "What are you going to do? Break my legs? You don't scare me. You or your goons.",
+      "raw_text": "What are you going to do? Break my legs? You don't scare me. You or your goons."
+    },
+    {
+      "entry_id": 255,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": "How do you like this?",
+      "raw_text": "How do you like this?"
+    },
+    {
+      "entry_id": 256,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What is it?",
+      "raw_text": "What is it?"
+    },
+    {
+      "entry_id": 257,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": "My grandmother died.",
+      "raw_text": "My grandmother died."
+    },
+    {
+      "entry_id": 258,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh, I'm so sorry.",
+      "raw_text": "Oh, I'm so sorry."
+    },
+    {
+      "entry_id": 259,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": "Oh, it's okay,",
+      "raw_text": "Oh, it's okay,"
+    },
+    {
+      "entry_id": 260,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So you don't cry when your grandmother dies? But a hotdog makes you lose control?",
+      "raw_text": "So you don't cry when your grandmother dies? But a hotdog makes you lose control?"
+    },
+    {
+      "entry_id": 261,
+      "type": "dialogue",
+      "speaker": "VOICE",
+      "normalized_speaker": "voice",
+      "text": "Places everyone.",
+      "raw_text": "(Off camera) Places everyone.",
+      "parenthetical": "Off camera"
+    },
+    {
+      "entry_id": 262,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": "I gotta go.",
+      "raw_text": "I gotta go."
+    },
+    {
+      "entry_id": 263,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Good luck.",
+      "raw_text": "Good luck."
+    },
+    {
+      "entry_id": 264,
+      "type": "scene_heading",
+      "text": "[Setting: Audience]",
+      "raw_text": "(Audience)",
+      "confidence": 0.9,
+      "location": "Audience",
+      "normalized_location": "audience"
+    },
+    {
+      "entry_id": 265,
+      "type": "dialogue",
+      "speaker": "ANNOUNCER",
+      "normalized_speaker": "announcer",
+      "text": "ladies and gentlemen for this evening's performance the part of Rochelle will be played by Gennice Grant.",
+      "raw_text": "ladies and gentlemen for this evening's performance the part of Rochelle will be played by Gennice Grant."
+    },
+    {
+      "entry_id": 266,
+      "type": "dialogue",
+      "speaker": "LOTUS",
+      "normalized_speaker": "lotus",
+      "text": "Gennice Glant?",
+      "raw_text": "Gennice Glant?"
+    },
+    {
+      "entry_id": 267,
+      "type": "dialogue",
+      "speaker": "RUBY",
+      "normalized_speaker": "ruby",
+      "text": "What happened to Bette Midler?",
+      "raw_text": "What happened to Bette Midler?"
+    },
+    {
+      "entry_id": 268,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, she got hurt.",
+      "raw_text": "Oh, she got hurt."
+    },
+    {
+      "entry_id": 269,
+      "type": "dialogue",
+      "speaker": "RUBY",
+      "normalized_speaker": "ruby",
+      "text": "No Bette Midler? (they talk Korean and all three leave)",
+      "raw_text": "No Bette Midler? (they talk Korean and all three leave)"
+    },
+    {
+      "entry_id": 270,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I, uh, wait..",
+      "raw_text": "I, uh, wait.."
+    },
+    {
+      "entry_id": 271,
+      "type": "scene_heading",
+      "text": "[Setting: On Stage]",
+      "raw_text": "(On Stage)",
+      "confidence": 0.9,
+      "location": "On Stage",
+      "normalized_location": "on_stage"
+    },
+    {
+      "entry_id": 272,
+      "type": "dialogue",
+      "speaker": "GENNICE",
+      "normalized_speaker": "gennice",
+      "text": "\"It's a long journey from Milan to Minsk\" (Shoe lace comes undone) wait wait. Hold it stop, (sob) I'm sorry, I have to start it over, my shoelace. (sob) I can't do it like this. Please let me start over. (sob) Please. (sob) Please....",
+      "raw_text": "(singing and dancing) \"It's a long journey from Milan to Minsk\" (Shoe lace comes undone) wait wait. Hold it stop, (sob) I'm sorry, I have to start it over, my shoelace. (sob) I can't do it like this. Please let me start over. (sob) Please. (sob) Please....",
+      "parenthetical": "singing and dancing"
+    },
+    {
+      "entry_id": 273,
+      "type": "end_marker",
+      "text": "THE END",
+      "raw_text": "THE END"
+    },
+    {
+      "entry_id": 274,
+      "type": "action",
+      "text": ">",
+      "raw_text": ">",
+      "confidence": 0.6
+    }
+  ]
+}

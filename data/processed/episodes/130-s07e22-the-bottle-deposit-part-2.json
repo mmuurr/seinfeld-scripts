@@ -1,0 +1,2520 @@
+{
+  "episode": {
+    "series_title": "Seinfeld",
+    "episode_number_overall": 130,
+    "title": "The Bottle Deposit Part 2",
+    "season": 7,
+    "episode_number_in_season": 22,
+    "air_date": "1996-05-02",
+    "written_by": [],
+    "directed_by": [],
+    "source_title": "The Bottle Deposit Part 2 Script",
+    "source_dataset": "yregelman/unprocessed-seinfeld-scripts"
+  },
+  "entries": [
+    {
+      "entry_id": 1,
+      "type": "scene_heading",
+      "text": "[Setting: Outside Auto Shop]",
+      "raw_text": "(Outside Auto Shop)",
+      "confidence": 0.9,
+      "location": "Outside Auto Shop",
+      "normalized_location": "outside_auto_shop"
+    },
+    {
+      "entry_id": 2,
+      "type": "action",
+      "text": "Jerry and Elaine are outside the autoshop. Jerry is on the payphone.",
+      "raw_text": "Jerry and Elaine are outside the autoshop. Jerry is on the payphone.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 3,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Okay, thank you. (hangs up the phone)",
+      "raw_text": "Okay, thank you. (hangs up the phone)"
+    },
+    {
+      "entry_id": 4,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "So? What'd they say?",
+      "raw_text": "So? What'd they say?"
+    },
+    {
+      "entry_id": 5,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "They're sending a detective to my apartment tomorrow.",
+      "raw_text": "They're sending a detective to my apartment tomorrow."
+    },
+    {
+      "entry_id": 6,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What the hell were you thinking leaving my clubs in that car?!",
+      "raw_text": "What the hell were you thinking leaving my clubs in that car?!"
+    },
+    {
+      "entry_id": 7,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, I didn't count on my mechanic pulling a Mary-Beth Whitehead, did I?",
+      "raw_text": "Well, I didn't count on my mechanic pulling a Mary-Beth Whitehead, did I?"
+    },
+    {
+      "entry_id": 8,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What kind of maniac is this guy?",
+      "raw_text": "What kind of maniac is this guy?"
+    },
+    {
+      "entry_id": 9,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "He's a very special maniac.",
+      "raw_text": "He's a very special maniac."
+    },
+    {
+      "entry_id": 10,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What am I supposed to tell Mr Peterman.",
+      "raw_text": "What am I supposed to tell Mr Peterman."
+    },
+    {
+      "entry_id": 11,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't know.",
+      "raw_text": "I don't know."
+    },
+    {
+      "entry_id": 12,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Why couldn't you take better care of that car?!",
+      "raw_text": "Why couldn't you take better care of that car?!"
+    },
+    {
+      "entry_id": 13,
+      "type": "scene_heading",
+      "text": "[Setting: Elaine's Office]",
+      "raw_text": "(Elaine's Office)",
+      "confidence": 0.9,
+      "location": "Elaine's Office",
+      "normalized_location": "elaine_s_office"
+    },
+    {
+      "entry_id": 14,
+      "type": "action",
+      "text": "Elaine at her desk. Peterman enters.",
+      "raw_text": "Elaine at her desk. Peterman enters.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 15,
+      "type": "dialogue",
+      "speaker": "PETERMAN",
+      "normalized_speaker": "peterman",
+      "text": "Well, are they here?",
+      "raw_text": "Well, are they here?"
+    },
+    {
+      "entry_id": 16,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Mr Peterman, uh... There seems to be a bit of a snag.",
+      "raw_text": "Mr Peterman, uh... There seems to be a bit of a snag."
+    },
+    {
+      "entry_id": 17,
+      "type": "dialogue",
+      "speaker": "PETERMAN",
+      "normalized_speaker": "peterman",
+      "text": "Snag?",
+      "raw_text": "Snag?"
+    },
+    {
+      "entry_id": 18,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "It seems that a psychotic mechanic has absconded with my friend's car.",
+      "raw_text": "It seems that a psychotic mechanic has absconded with my friend's car."
+    },
+    {
+      "entry_id": 19,
+      "type": "dialogue",
+      "speaker": "PETERMAN",
+      "normalized_speaker": "peterman",
+      "text": "What does that have to do with my clubs?",
+      "raw_text": "What does that have to do with my clubs?"
+    },
+    {
+      "entry_id": 20,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "They happened to be in the back seat at the time.",
+      "raw_text": "They happened to be in the back seat at the time."
+    },
+    {
+      "entry_id": 21,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's Apartment]",
+      "raw_text": "(Jerry's Apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's Apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 22,
+      "type": "action",
+      "text": "Jerry is talking with a police detective at his door.",
+      "raw_text": "Jerry is talking with a police detective at his door.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 23,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "What was the suspect wearing at the time of the incident?",
+      "raw_text": "What was the suspect wearing at the time of the incident?"
+    },
+    {
+      "entry_id": 24,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You know, like mechanic's pants, a shirt that said 'Tony'. Lemme ask you something, have you ever seen a case like this before?",
+      "raw_text": "You know, like mechanic's pants, a shirt that said 'Tony'. Lemme ask you something, have you ever seen a case like this before?"
+    },
+    {
+      "entry_id": 25,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "All the time. A mechanic forms an emotional attachment, thinks he'sgonna lose the car, he panics, he does something rash. I'm gonna ask you somepersonal questions. I'm sorry if I touch a nerve, but I think it'll help with the case. Had you been taking good care of the car?",
+      "raw_text": "All the time. A mechanic forms an emotional attachment, thinks he'sgonna lose the car, he panics, he does something rash. I'm gonna ask you somepersonal questions. I'm sorry if I touch a nerve, but I think it'll help with the case. Had you been taking good care of the car?"
+    },
+    {
+      "entry_id": 26,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Had I been taking...?",
+      "raw_text": "Had I been taking...?"
+    },
+    {
+      "entry_id": 27,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "Well, did you leave the A/C on? Do you zip over speed bumps? Do you ride the clutch? Things like that.",
+      "raw_text": "Well, did you leave the A/C on? Do you zip over speed bumps? Do you ride the clutch? Things like that."
+    },
+    {
+      "entry_id": 28,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "W-well, what does it matter? It's my car, I can do whatever I want with it. The detective stares at Jerry.",
+      "raw_text": "W-well, what does it matter? It's my car, I can do whatever I want with it. The detective stares at Jerry."
+    },
+    {
+      "entry_id": 29,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Not that I would think of doing such things.",
+      "raw_text": "Not that I would think of doing such things."
+    },
+    {
+      "entry_id": 30,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "Alright Mr Seinfeld, we'll let you know if we find anything. I gotta be honest with you, these cases never end up well.",
+      "raw_text": "(making a note) Alright Mr Seinfeld, we'll let you know if we find anything. I gotta be honest with you, these cases never end up well.",
+      "parenthetical": "making a note"
+    },
+    {
+      "entry_id": 31,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well uh, whatever you can do. Thanks. George's Office) George sits at his desk, his forehead resting on a folder he has clutched in his hands. Mr Wilhelm enters, looking happy.",
+      "raw_text": "Well uh, whatever you can do. Thanks. George's Office) George sits at his desk, his forehead resting on a folder he has clutched in his hands. Mr Wilhelm enters, looking happy."
+    },
+    {
+      "entry_id": 32,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Uh, Mr Wilhelm. Uh, about the project...",
+      "raw_text": "(hesitant) Uh, Mr Wilhelm. Uh, about the project...",
+      "parenthetical": "hesitant"
+    },
+    {
+      "entry_id": 33,
+      "type": "dialogue",
+      "speaker": "WILHELM",
+      "normalized_speaker": "wilhelm",
+      "text": "That's what I came to talk to you about. Great job George. (shakes George's hand) You really nailed it.",
+      "raw_text": "That's what I came to talk to you about. Great job George. (shakes George's hand) You really nailed it."
+    },
+    {
+      "entry_id": 34,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I did?",
+      "raw_text": "I did?"
+    },
+    {
+      "entry_id": 35,
+      "type": "dialogue",
+      "speaker": "WILHELM",
+      "normalized_speaker": "wilhelm",
+      "text": "Oh yes, I read through it this morning. I couldn't have done it better myself, and I turned it right over to Mr Steinbrenner. Good work George. Wilhelm leaves. George looks stunned and confused.",
+      "raw_text": "Oh yes, I read through it this morning. I couldn't have done it better myself, and I turned it right over to Mr Steinbrenner. Good work George. Wilhelm leaves. George looks stunned and confused."
+    },
+    {
+      "entry_id": 36,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's Apartment]",
+      "raw_text": "(Jerry's Apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's Apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 37,
+      "type": "action",
+      "text": "By now, George is looking much more pleased.",
+      "raw_text": "By now, George is looking much more pleased.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 38,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't get it. He assigns it to you, you don't do it. Somehow it gets done, and now he's telling you what a great job you did.",
+      "raw_text": "I don't get it. He assigns it to you, you don't do it. Somehow it gets done, and now he's telling you what a great job you did."
+    },
+    {
+      "entry_id": 39,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Maybe somebody did it and didn't take credit for it. Maybe it was already done and didn't need doing in the first place. I have no idea who did it, what they did, or how they did it so well. And you know what? Jimmy crack corn and I don't care.",
+      "raw_text": "Maybe somebody did it and didn't take credit for it. Maybe it was already done and didn't need doing in the first place. I have no idea who did it, what they did, or how they did it so well. And you know what? Jimmy crack corn and I don't care."
+    },
+    {
+      "entry_id": 40,
+      "type": "scene_heading",
+      "text": "[Setting: Mr Wilhelm's Home]",
+      "raw_text": "(Mr Wilhelm's Home)",
+      "confidence": 0.9,
+      "location": "Mr Wilhelm's Home",
+      "normalized_location": "mr_wilhelm_s_home"
+    },
+    {
+      "entry_id": 41,
+      "type": "action",
+      "text": "Wilhelm sits on the couch. He has a newspaper and is talking to his wife, who's in another room.",
+      "raw_text": "Wilhelm sits on the couch. He has a newspaper and is talking to his wife, who's in another room.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 42,
+      "type": "dialogue",
+      "speaker": "WILHELM",
+      "normalized_speaker": "wilhelm",
+      "text": "The gardener did a nice job planting the rose bushes, didn't he dear?",
+      "raw_text": "The gardener did a nice job planting the rose bushes, didn't he dear?"
+    },
+    {
+      "entry_id": 43,
+      "type": "dialogue",
+      "speaker": "MRS WILHELM",
+      "normalized_speaker": "mrs_wilhelm",
+      "text": "You planted the rose bushes, dear.",
+      "raw_text": "You planted the rose bushes, dear."
+    },
+    {
+      "entry_id": 44,
+      "type": "dialogue",
+      "speaker": "WILHELM",
+      "normalized_speaker": "wilhelm",
+      "text": "I did?",
+      "raw_text": "I did?"
+    },
+    {
+      "entry_id": 45,
+      "type": "dialogue",
+      "speaker": "MRS WILHELM",
+      "normalized_speaker": "mrs_wilhelm",
+      "text": "Yesterday. You remember.",
+      "raw_text": "Yesterday. You remember."
+    },
+    {
+      "entry_id": 46,
+      "type": "dialogue",
+      "speaker": "WILHELM",
+      "normalized_speaker": "wilhelm",
+      "text": "That's right. (pause) What's for dinner?",
+      "raw_text": "(thinks for a moment) That's right. (pause) What's for dinner?",
+      "parenthetical": "thinks for a moment"
+    },
+    {
+      "entry_id": 47,
+      "type": "dialogue",
+      "speaker": "MRS WILHELM",
+      "normalized_speaker": "mrs_wilhelm",
+      "text": "We just ate. Did you forget to take your medicine? Wilhelm can be seen struggling to recollect.",
+      "raw_text": "We just ate. Did you forget to take your medicine? Wilhelm can be seen struggling to recollect."
+    },
+    {
+      "entry_id": 48,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's Apartment]",
+      "raw_text": "(Jerry's Apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's Apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 49,
+      "type": "action",
+      "text": "A still pleased looking George is fetching a drink from Jerry's fridge.",
+      "raw_text": "A still pleased looking George is fetching a drink from Jerry's fridge.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 50,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "The point is, however it got done, it's done. So, any luck with the car?",
+      "raw_text": "The point is, however it got done, it's done. So, any luck with the car?"
+    },
+    {
+      "entry_id": 51,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No. The police have no leads (sitting on the couch arm) and I just found out today my insurance doesn't cover it.",
+      "raw_text": "No. The police have no leads (sitting on the couch arm) and I just found out today my insurance doesn't cover it."
+    },
+    {
+      "entry_id": 52,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Why not?",
+      "raw_text": "Why not?"
+    },
+    {
+      "entry_id": 53,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "They don't consider it stolen, if you wilfully give the guy the keys. The door opens and Elaine enters.",
+      "raw_text": "They don't consider it stolen, if you wilfully give the guy the keys. The door opens and Elaine enters."
+    },
+    {
+      "entry_id": 54,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hey.",
+      "raw_text": "(to George) Hey.",
+      "parenthetical": "to George"
+    },
+    {
+      "entry_id": 55,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey.",
+      "raw_text": "Hey."
+    },
+    {
+      "entry_id": 56,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hey. What did the detective say?",
+      "raw_text": "(to Jerry) Hey. What did the detective say?",
+      "parenthetical": "to Jerry"
+    },
+    {
+      "entry_id": 57,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "They're looking.",
+      "raw_text": "They're looking."
+    },
+    {
+      "entry_id": 58,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I gotta go. George leaves. The phone rings and Jerry picks up.",
+      "raw_text": "I gotta go. George leaves. The phone rings and Jerry picks up."
+    },
+    {
+      "entry_id": 59,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Y'hello.",
+      "raw_text": "Y'hello."
+    },
+    {
+      "entry_id": 60,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "Mr Seinfeld?",
+      "raw_text": "Mr Seinfeld?"
+    },
+    {
+      "entry_id": 61,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 62,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "It's Detective McMahon... Elaine looks quizzical. Jerry mouths, 'It's the police'",
+      "raw_text": "It's Detective McMahon... Elaine looks quizzical. Jerry mouths, 'It's the police'"
+    },
+    {
+      "entry_id": 63,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "...I'm at the warehouse on Pier 38. Ah, I think you'd better get down here.",
+      "raw_text": "...I'm at the warehouse on Pier 38. Ah, I think you'd better get down here."
+    },
+    {
+      "entry_id": 64,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah, okay. (to Elaine) They may have found the car.",
+      "raw_text": "Yeah, okay. (to Elaine) They may have found the car."
+    },
+    {
+      "entry_id": 65,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Are the clubs in it? Ask him.",
+      "raw_text": "(makes surprise noise) Are the clubs in it? Ask him.",
+      "parenthetical": "makes surprise noise"
+    },
+    {
+      "entry_id": 66,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Are there golf clubs in the back?",
+      "raw_text": "Are there golf clubs in the back?"
+    },
+    {
+      "entry_id": 67,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "We really can't tell. You better bring your service records.",
+      "raw_text": "We really can't tell. You better bring your service records."
+    },
+    {
+      "entry_id": 68,
+      "type": "scene_heading",
+      "text": "[Setting: Pier 38 Warehouse]",
+      "raw_text": "(Pier 38 Warehouse)",
+      "confidence": 0.9,
+      "location": "Pier 38 Warehouse",
+      "normalized_location": "pier_38_warehouse"
+    },
+    {
+      "entry_id": 69,
+      "type": "action",
+      "text": "The interior of the warehouse is gloomy and dank. There are cars and parts of cars arranged round the area, together with tools, welding gear, etc. Detective McMahon stands beside a car-shaped object hidden under a white sheet. Jerry and Elaine are led in by a young patrolman who looks queasy.",
+      "raw_text": "The interior of the warehouse is gloomy and dank. There are cars and parts of cars arranged round the area, together with tools, welding gear, etc. Detective McMahon stands beside a car-shaped object hidden under a white sheet. Jerry and Elaine are led in by a young patrolman who looks queasy.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 70,
+      "type": "dialogue",
+      "speaker": "YOUNG COP",
+      "normalized_speaker": "young_cop",
+      "text": "Watch where you step. There's quite a bit of... grease. Detective, Jerry Seinfeld is here.",
+      "raw_text": "Watch where you step. There's quite a bit of... grease. Detective, Jerry Seinfeld is here."
+    },
+    {
+      "entry_id": 71,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "How d'you do. Thanks for coming down.",
+      "raw_text": "How d'you do. Thanks for coming down."
+    },
+    {
+      "entry_id": 72,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "This is Elaine Benes.",
+      "raw_text": "(indicating) This is Elaine Benes.",
+      "parenthetical": "indicating"
+    },
+    {
+      "entry_id": 73,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "We used to date, but now we're just friends.",
+      "raw_text": "(explaining) We used to date, but now we're just friends.",
+      "parenthetical": "explaining"
+    },
+    {
+      "entry_id": 74,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "I see.",
+      "raw_text": "I see."
+    },
+    {
+      "entry_id": 75,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah.",
+      "raw_text": "Yeah."
+    },
+    {
+      "entry_id": 76,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "I'm sorry to make you go through this, but we need to make sure.",
+      "raw_text": "I'm sorry to make you go through this, but we need to make sure."
+    },
+    {
+      "entry_id": 77,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, what's going on? What is this thing?",
+      "raw_text": "Well, what's going on? What is this thing?"
+    },
+    {
+      "entry_id": 78,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "One of our patrolmen stumbled over this. He lifts the sheet, revealing what's beneath to Jerry and Elaine.",
+      "raw_text": "One of our patrolmen stumbled over this. He lifts the sheet, revealing what's beneath to Jerry and Elaine."
+    },
+    {
+      "entry_id": 79,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "(horrified) Huuh! (she turns away and covers her mouth)",
+      "raw_text": "(horrified) Huuh! (she turns away and covers her mouth)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 80,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh my God! The young patrolman removes his cap out of respect for the victim.",
+      "raw_text": "Oh my God! The young patrolman removes his cap out of respect for the victim."
+    },
+    {
+      "entry_id": 81,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "The block is nearly split apart. We found the overhead cams thirty feet away. We can only hope the body sold for scrap.",
+      "raw_text": "The block is nearly split apart. We found the overhead cams thirty feet away. We can only hope the body sold for scrap."
+    },
+    {
+      "entry_id": 82,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, my God.",
+      "raw_text": "Oh, my God."
+    },
+    {
+      "entry_id": 83,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "And we know it's a Saab. The angle on the Vee-6 is definitely ninety-two. The model is hard to determine because the drive train is all burnt out.",
+      "raw_text": "And we know it's a Saab. The angle on the Vee-6 is definitely ninety-two. The model is hard to determine because the drive train is all burnt out."
+    },
+    {
+      "entry_id": 84,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What is that smell?",
+      "raw_text": "What is that smell?"
+    },
+    {
+      "entry_id": 85,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "Look at the clutch. They look. Jerry and Elaine don't like what they see.",
+      "raw_text": "Look at the clutch. They look. Jerry and Elaine don't like what they see."
+    },
+    {
+      "entry_id": 86,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Uuh. The patrolman cracks and leaves hurriedly, looking nauseous.",
+      "raw_text": "Uuh. The patrolman cracks and leaves hurriedly, looking nauseous."
+    },
+    {
+      "entry_id": 87,
+      "type": "dialogue",
+      "speaker": "YOUNG COP",
+      "normalized_speaker": "young_cop",
+      "text": "Excuse me.",
+      "raw_text": "Excuse me."
+    },
+    {
+      "entry_id": 88,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "Whoever did this didn't just dismantle it. I mean, they took their time, they had fun. They were very systematic. They went out of their way to gouge the sides of every piston, and the turbo was separated from the housing and shoved right up the exhaust pipe.",
+      "raw_text": "Whoever did this didn't just dismantle it. I mean, they took their time, they had fun. They were very systematic. They went out of their way to gouge the sides of every piston, and the turbo was separated from the housing and shoved right up the exhaust pipe."
+    },
+    {
+      "entry_id": 89,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Uhh",
+      "raw_text": "Uhh"
+    },
+    {
+      "entry_id": 90,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Wait a second. Turbo? I didn't have a turbo.",
+      "raw_text": "Wait a second. Turbo? I didn't have a turbo."
+    },
+    {
+      "entry_id": 91,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "Your car's not a turbo?",
+      "raw_text": "Your car's not a turbo?"
+    },
+    {
+      "entry_id": 92,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No, it's a nine-hundred S. (happy) It's a turbo, Elaine, a turbo!",
+      "raw_text": "No, it's a nine-hundred S. (happy) It's a turbo, Elaine, a turbo!"
+    },
+    {
+      "entry_id": 93,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "It's a tu-hur-bo. Elaine and Jerry hug in happiness. In the background, another woman arrives.",
+      "raw_text": "(sobbing happiness) It's a tu-hur-bo. Elaine and Jerry hug in happiness. In the background, another woman arrives.",
+      "parenthetical": "sobbing happiness"
+    },
+    {
+      "entry_id": 94,
+      "type": "dialogue",
+      "speaker": "WOMAN",
+      "normalized_speaker": "woman",
+      "text": "Excuse me, did you say turbo? Saab turbo nine-thousand? Is it... (voice breaking) midnight blue?",
+      "raw_text": "Excuse me, did you say turbo? Saab turbo nine-thousand? Is it... (voice breaking) midnight blue?"
+    },
+    {
+      "entry_id": 95,
+      "type": "dialogue",
+      "speaker": "DETECTIVE",
+      "normalized_speaker": "detective",
+      "text": "Yes ma'am.",
+      "raw_text": "(condolences) Yes ma'am.",
+      "parenthetical": "condolences"
+    },
+    {
+      "entry_id": 96,
+      "type": "scene_heading",
+      "text": "[Setting: Mail Truck]",
+      "raw_text": "(Mail Truck)",
+      "confidence": 0.9,
+      "location": "Mail Truck",
+      "normalized_location": "mail_truck"
+    },
+    {
+      "entry_id": 97,
+      "type": "action",
+      "text": "Newman drives as he and Kramer give voice to their happiness.",
+      "raw_text": "Newman drives as he and Kramer give voice to their happiness.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 98,
+      "type": "dialogue",
+      "speaker": "KRAMER/NEWMAN",
+      "normalized_speaker": "kramer_newman",
+      "text": "Nine thousand, nine hundred and ninety-nine bottle and cans in the trunk, nine thousand, nine hundred and ninety-nine bottles and cans. At ten cents a bottle and ten cents a can, we're pulling in five hundred dollars a man. Nine thousand, nine hundred and ninety-eight bottle and cans in the trunk, nine thousand, nine hundred and ninety-eight bottles and cans. We fill up with gas, we count up our cash!!... Their singing ends shambolically as they lose track of the lyrics. But the pair still look gleeful.",
+      "raw_text": "(singing) Nine thousand, nine hundred and ninety-nine bottle and cans in the trunk, nine thousand, nine hundred and ninety-nine bottles and cans. At ten cents a bottle and ten cents a can, we're pulling in five hundred dollars a man. Nine thousand, nine hundred and ninety-eight bottle and cans in the trunk, nine thousand, nine hundred and ninety-eight bottles and cans. We fill up with gas, we count up our cash!!... Their singing ends shambolically as they lose track of the lyrics. But the pair still look gleeful.",
+      "parenthetical": "singing"
+    },
+    {
+      "entry_id": 99,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's Apartment/Jerry's car]",
+      "raw_text": "(Jerry's Apartment/Jerry's car)",
+      "confidence": 0.9,
+      "location": "Jerry's Apartment/Jerry's car",
+      "normalized_location": "jerry_s_apartment_jerry_s_car"
+    },
+    {
+      "entry_id": 100,
+      "type": "action",
+      "text": "The phone rings in Jerry's apartment. He picks it up.",
+      "raw_text": "The phone rings in Jerry's apartment. He picks it up.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 101,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hello.",
+      "raw_text": "Hello."
+    },
+    {
+      "entry_id": 102,
+      "type": "dialogue",
+      "speaker": "TONY",
+      "normalized_speaker": "tony",
+      "text": "Hey Jerry, it's Tony.",
+      "raw_text": "Hey Jerry, it's Tony."
+    },
+    {
+      "entry_id": 103,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Tony, where are you? The Saab is driving down a quiet country road at night.",
+      "raw_text": "Tony, where are you? The Saab is driving down a quiet country road at night."
+    },
+    {
+      "entry_id": 104,
+      "type": "dialogue",
+      "speaker": "TONY",
+      "normalized_speaker": "tony",
+      "text": "Aw look, I just want you to know that the car is fine. I got her all fixed up. We're in a nice area, no potholes, no traffic. So there's nothing to worry about. Okay? In fact, here, somebody wants to talk to you. Tony holds the phone toward the dash and revs the engine a little. Jerry can hear the engine noise over the phone.",
+      "raw_text": "Aw look, I just want you to know that the car is fine. I got her all fixed up. We're in a nice area, no potholes, no traffic. So there's nothing to worry about. Okay? In fact, here, somebody wants to talk to you. Tony holds the phone toward the dash and revs the engine a little. Jerry can hear the engine noise over the phone."
+    },
+    {
+      "entry_id": 105,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Tony, y-you better bring that car back!",
+      "raw_text": "Tony, y-you better bring that car back!"
+    },
+    {
+      "entry_id": 106,
+      "type": "dialogue",
+      "speaker": "TONY",
+      "normalized_speaker": "tony",
+      "text": "Nobody's giving anything back! You tried to take it from me, I don't forget that.",
+      "raw_text": "(angry) Nobody's giving anything back! You tried to take it from me, I don't forget that.",
+      "parenthetical": "angry"
+    },
+    {
+      "entry_id": 107,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Tony, it is my car, and I want it back!",
+      "raw_text": "Tony, it is my car, and I want it back!"
+    },
+    {
+      "entry_id": 108,
+      "type": "dialogue",
+      "speaker": "TONY",
+      "normalized_speaker": "tony",
+      "text": "Oh, your car. You want your car back!",
+      "raw_text": "Oh, your car. You want your car back!"
+    },
+    {
+      "entry_id": 109,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Tony.",
+      "raw_text": "Tony."
+    },
+    {
+      "entry_id": 110,
+      "type": "dialogue",
+      "speaker": "TONY",
+      "normalized_speaker": "tony",
+      "text": "Listen, that registration may have your name on it, Jerry. But this engine's running on my sweat and my blood. Tony hangs up the phone.",
+      "raw_text": "Listen, that registration may have your name on it, Jerry. But this engine's running on my sweat and my blood. Tony hangs up the phone."
+    },
+    {
+      "entry_id": 111,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Where do I find these guys?",
+      "raw_text": "(exasperated) Where do I find these guys?",
+      "parenthetical": "exasperated"
+    },
+    {
+      "entry_id": 112,
+      "type": "scene_heading",
+      "text": "[Setting: Mail Truck]",
+      "raw_text": "(Mail Truck)",
+      "confidence": 0.9,
+      "location": "Mail Truck",
+      "normalized_location": "mail_truck"
+    },
+    {
+      "entry_id": 113,
+      "type": "action",
+      "text": "Kramer is driving the truck along a highway in daylight.",
+      "raw_text": "Kramer is driving the truck along a highway in daylight.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 114,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "How much gas we got?",
+      "raw_text": "How much gas we got?"
+    },
+    {
+      "entry_id": 115,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Three quarters of a tank. Newman punches the numbers into a calculator.",
+      "raw_text": "Three quarters of a tank. Newman punches the numbers into a calculator."
+    },
+    {
+      "entry_id": 116,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "That's better than we estimated.",
+      "raw_text": "That's better than we estimated."
+    },
+    {
+      "entry_id": 117,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "That is seven dollars and twenty-two cents better. They give a smug little laugh.",
+      "raw_text": "(smugly) That is seven dollars and twenty-two cents better. They give a smug little laugh.",
+      "parenthetical": "smugly"
+    },
+    {
+      "entry_id": 118,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Maybe we could uh, stop for a snack.",
+      "raw_text": "Maybe we could uh, stop for a snack."
+    },
+    {
+      "entry_id": 119,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Ah, no, that's not in the budget.",
+      "raw_text": "Ah, no, that's not in the budget."
+    },
+    {
+      "entry_id": 120,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Yeah well, the budget changed, you know. I mean, it might be a good investment.",
+      "raw_text": "Yeah well, the budget changed, you know. I mean, it might be a good investment."
+    },
+    {
+      "entry_id": 121,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "That's not a good investment, that's a loss. A convertible black Saab passes the mail truck.",
+      "raw_text": "That's not a good investment, that's a loss. A convertible black Saab passes the mail truck."
+    },
+    {
+      "entry_id": 122,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey, d'you see that car? Looks like Jerry's. I'm gonna check out that license plate. He accelerates the mail truck to close on the Saab, and leans forward, straining to make out the plate.",
+      "raw_text": "Hey, d'you see that car? Looks like Jerry's. I'm gonna check out that license plate. He accelerates the mail truck to close on the Saab, and leans forward, straining to make out the plate."
+    },
+    {
+      "entry_id": 123,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, those are New York plates.",
+      "raw_text": "Yeah, those are New York plates."
+    },
+    {
+      "entry_id": 124,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Is that Jerry's number?",
+      "raw_text": "Is that Jerry's number?"
+    },
+    {
+      "entry_id": 125,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I don't know, but that's New York and we're in Ohio. Those are pretty good odds. Kramer reaches under his seat, rummaging for something.",
+      "raw_text": "I don't know, but that's New York and we're in Ohio. Those are pretty good odds. Kramer reaches under his seat, rummaging for something."
+    },
+    {
+      "entry_id": 126,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "What're you doing?",
+      "raw_text": "What're you doing?"
+    },
+    {
+      "entry_id": 127,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I'm calling Jerry.",
+      "raw_text": "I'm calling Jerry."
+    },
+    {
+      "entry_id": 128,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "On what?",
+      "raw_text": "On what?"
+    },
+    {
+      "entry_id": 129,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Brought my phone. He pulls out his mobile and hits the speed dial for Jerry.",
+      "raw_text": "Brought my phone. He pulls out his mobile and hits the speed dial for Jerry."
+    },
+    {
+      "entry_id": 130,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's Apartment/Mail Truck]",
+      "raw_text": "(Jerry's Apartment/Mail Truck)",
+      "confidence": 0.9,
+      "location": "Jerry's Apartment/Mail Truck",
+      "normalized_location": "jerry_s_apartment_mail_truck"
+    },
+    {
+      "entry_id": 131,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Y'hello.",
+      "raw_text": "(answering phone) Y'hello.",
+      "parenthetical": "answering phone"
+    },
+    {
+      "entry_id": 132,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, hey Jerry, what's your licence plate number?",
+      "raw_text": "Yeah, hey Jerry, what's your licence plate number?"
+    },
+    {
+      "entry_id": 133,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Why, what's up?",
+      "raw_text": "Why, what's up?"
+    },
+    {
+      "entry_id": 134,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, well I think I spotted your car.",
+      "raw_text": "Yeah, well I think I spotted your car."
+    },
+    {
+      "entry_id": 135,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh my god, you're kidding. (dives for his wallet) Hang on a second. (reading from his registration) It's JVN 728.",
+      "raw_text": "Oh my god, you're kidding. (dives for his wallet) Hang on a second. (reading from his registration) It's JVN 728."
+    },
+    {
+      "entry_id": 136,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey, that's it! That's it. Hey, uh look, we got him. We're driving right behind him in a truck.",
+      "raw_text": "(checks the car ahead of him) Hey, that's it! That's it. Hey, uh look, we got him. We're driving right behind him in a truck.",
+      "parenthetical": "checks the car ahead of him"
+    },
+    {
+      "entry_id": 137,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh my god. Yeah, yeah, he said he brought it to the country.",
+      "raw_text": "Oh my god. Yeah, yeah, he said he brought it to the country."
+    },
+    {
+      "entry_id": 138,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well we're in the country and we're right on his tail.",
+      "raw_text": "Well we're in the country and we're right on his tail."
+    },
+    {
+      "entry_id": 139,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Good work Kramer, this is incredible.",
+      "raw_text": "Good work Kramer, this is incredible."
+    },
+    {
+      "entry_id": 140,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, don't worry Jerry. We're right on this guy like stink on a monkey! I'll check back with you.",
+      "raw_text": "Yeah, don't worry Jerry. We're right on this guy like stink on a monkey! I'll check back with you."
+    },
+    {
+      "entry_id": 141,
+      "type": "scene_heading",
+      "text": "[Setting: Elaine's Office/Jerry's Apartment]",
+      "raw_text": "(Elaine's Office/Jerry's Apartment)",
+      "confidence": 0.9,
+      "location": "Elaine's Office/Jerry's Apartment",
+      "normalized_location": "elaine_s_office_jerry_s_apartment"
+    },
+    {
+      "entry_id": 142,
+      "type": "action",
+      "text": "The phone rings in Elaine's office. She answers it.",
+      "raw_text": "The phone rings in Elaine's office. She answers it.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 143,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Elaine Benes.",
+      "raw_text": "Elaine Benes."
+    },
+    {
+      "entry_id": 144,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah, it's me. Kramer found the car!",
+      "raw_text": "Yeah, it's me. Kramer found the car!"
+    },
+    {
+      "entry_id": 145,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh my god, where is it?",
+      "raw_text": "Oh my god, where is it?"
+    },
+    {
+      "entry_id": 146,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "It's somewhere in the country, they're following 'em.",
+      "raw_text": "It's somewhere in the country, they're following 'em."
+    },
+    {
+      "entry_id": 147,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Are the clubs there?",
+      "raw_text": "Are the clubs there?"
+    },
+    {
+      "entry_id": 148,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't know. They're tailing him. I'm waiting for them to call me back.",
+      "raw_text": "I don't know. They're tailing him. I'm waiting for them to call me back."
+    },
+    {
+      "entry_id": 149,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Alright, I'm heading over right now.",
+      "raw_text": "Alright, I'm heading over right now."
+    },
+    {
+      "entry_id": 150,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's Apartment]",
+      "raw_text": "(Jerry's Apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's Apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 151,
+      "type": "action",
+      "text": "Elaine enters at a rush.",
+      "raw_text": "Elaine enters at a rush.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 152,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What's the status?",
+      "raw_text": "What's the status?"
+    },
+    {
+      "entry_id": 153,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Last check-in, they were still on him.",
+      "raw_text": "Last check-in, they were still on him."
+    },
+    {
+      "entry_id": 154,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well, have they called the police yet?",
+      "raw_text": "Well, have they called the police yet?"
+    },
+    {
+      "entry_id": 155,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No, they won't call the police.",
+      "raw_text": "No, they won't call the police."
+    },
+    {
+      "entry_id": 156,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What? Why not?",
+      "raw_text": "What? Why not?"
+    },
+    {
+      "entry_id": 157,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "They're afraid they'll get in trouble for misusing a mail truck. Kramer doesn't want a record.",
+      "raw_text": "They're afraid they'll get in trouble for misusing a mail truck. Kramer doesn't want a record."
+    },
+    {
+      "entry_id": 158,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Kramer has a record.",
+      "raw_text": "Kramer has a record."
+    },
+    {
+      "entry_id": 159,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Not a Federal record. The phone rings. Jerry grabs the handset by the couch, Elaine picks up in the kitchen.",
+      "raw_text": "Not a Federal record. The phone rings. Jerry grabs the handset by the couch, Elaine picks up in the kitchen."
+    },
+    {
+      "entry_id": 160,
+      "type": "scene_heading",
+      "text": "[Setting: Mail Truck/Jerry's Apartment]",
+      "raw_text": "(Mail Truck/Jerry's Apartment)",
+      "confidence": 0.9,
+      "location": "Mail Truck/Jerry's Apartment",
+      "normalized_location": "mail_truck_jerry_s_apartment"
+    },
+    {
+      "entry_id": 161,
+      "type": "dialogue",
+      "speaker": "ELAINE/JERRY",
+      "normalized_speaker": "elaine_jerry",
+      "text": "Kramer?",
+      "raw_text": "Kramer?"
+    },
+    {
+      "entry_id": 162,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What's going on?",
+      "raw_text": "What's going on?"
+    },
+    {
+      "entry_id": 163,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, nothing. We're still following him. Ahead of the truck, the black Saab indicates his intention to move onto the off-ramp.",
+      "raw_text": "Yeah, nothing. We're still following him. Ahead of the truck, the black Saab indicates his intention to move onto the off-ramp."
+    },
+    {
+      "entry_id": 164,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Wait a second, he's getting off. Yeah, he's gonna be going south on the one-thirty-five.",
+      "raw_text": "Wait a second, he's getting off. Yeah, he's gonna be going south on the one-thirty-five."
+    },
+    {
+      "entry_id": 165,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Keep following him.",
+      "raw_text": "Keep following him."
+    },
+    {
+      "entry_id": 166,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Alright, alright, I'll follow him.",
+      "raw_text": "Alright, alright, I'll follow him."
+    },
+    {
+      "entry_id": 167,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Hey, we can't follow him, we're going north to Michigan.",
+      "raw_text": "Hey, we can't follow him, we're going north to Michigan."
+    },
+    {
+      "entry_id": 168,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, hey listen, I can't. It's gonna be taking us out of our way.",
+      "raw_text": "Yeah, hey listen, I can't. It's gonna be taking us out of our way."
+    },
+    {
+      "entry_id": 169,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I need those clubs.",
+      "raw_text": "I need those clubs."
+    },
+    {
+      "entry_id": 170,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Kramer, I want my car.",
+      "raw_text": "Kramer, I want my car."
+    },
+    {
+      "entry_id": 171,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, I don't know what to do.",
+      "raw_text": "Well, I don't know what to do."
+    },
+    {
+      "entry_id": 172,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Hey, we got ten thousand deposit bottles here. I mean, this guy could be going to Arkansas.",
+      "raw_text": "Hey, we got ten thousand deposit bottles here. I mean, this guy could be going to Arkansas."
+    },
+    {
+      "entry_id": 173,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Keep following him Kramer. don't let me down.",
+      "raw_text": "Keep following him Kramer. don't let me down."
+    },
+    {
+      "entry_id": 174,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Hey, don't listen to him. I mean, we can't afford a detour. Our budget won't hold it.",
+      "raw_text": "Hey, don't listen to him. I mean, we can't afford a detour. Our budget won't hold it."
+    },
+    {
+      "entry_id": 175,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, I don't know what to do man!",
+      "raw_text": "Well, I don't know what to do man!"
+    },
+    {
+      "entry_id": 176,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Kramer! Stay left. Left, left, left.",
+      "raw_text": "Kramer! Stay left. Left, left, left."
+    },
+    {
+      "entry_id": 177,
+      "type": "dialogue",
+      "speaker": "ELAINE/JERRY",
+      "normalized_speaker": "elaine_jerry",
+      "text": "Right. Go right!/South!",
+      "raw_text": "Right. Go right!/South!"
+    },
+    {
+      "entry_id": 178,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Alright! Alright. I'm getting off! I'm gonna go on the ramp. Kramer swerves onto the off-ramp at the last moment. Tyres squeal and the truck sways.",
+      "raw_text": "Alright! Alright. I'm getting off! I'm gonna go on the ramp. Kramer swerves onto the off-ramp at the last moment. Tyres squeal and the truck sways."
+    },
+    {
+      "entry_id": 179,
+      "type": "scene_heading",
+      "text": "[Setting: Mail Truck]",
+      "raw_text": "(Mail Truck)",
+      "confidence": 0.9,
+      "location": "Mail Truck",
+      "normalized_location": "mail_truck"
+    },
+    {
+      "entry_id": 180,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "I hope you realise what you've done. You've destroyed our whole venture.",
+      "raw_text": "I hope you realise what you've done. You've destroyed our whole venture."
+    },
+    {
+      "entry_id": 181,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "This ramp is steep.",
+      "raw_text": "This ramp is steep."
+    },
+    {
+      "entry_id": 182,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "All my work, my planning, my genius. All for nought.",
+      "raw_text": "All my work, my planning, my genius. All for nought."
+    },
+    {
+      "entry_id": 183,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Alright, look, we're pulling too much weight. He's getting away from us here. (indicating) Take the wheel. Newman reaches across and takes the steering wheel as Kramer gets out of the driving seat.",
+      "raw_text": "Alright, look, we're pulling too much weight. He's getting away from us here. (indicating) Take the wheel. Newman reaches across and takes the steering wheel as Kramer gets out of the driving seat."
+    },
+    {
+      "entry_id": 184,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "What're you doing?",
+      "raw_text": "What're you doing?"
+    },
+    {
+      "entry_id": 185,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I'm gonna get something.",
+      "raw_text": "(climbing though into the back of the truck) I'm gonna get something.",
+      "parenthetical": "climbing though into the back of the truck"
+    },
+    {
+      "entry_id": 186,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Are you crazy? The truck swerves as Newman slides into the driving seat.",
+      "raw_text": "Are you crazy? The truck swerves as Newman slides into the driving seat."
+    },
+    {
+      "entry_id": 187,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Keep your foot on the gas. Kramer shoves his way through the sackloads of bottles and cans.",
+      "raw_text": "Keep your foot on the gas. Kramer shoves his way through the sackloads of bottles and cans."
+    },
+    {
+      "entry_id": 188,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Hey! You're not dumping those bottles back there, are you? Kramer slides open the rear door of the truck.",
+      "raw_text": "Hey! You're not dumping those bottles back there, are you? Kramer slides open the rear door of the truck."
+    },
+    {
+      "entry_id": 189,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Hey Kramer, those have wholesale value! We could cut our losses. Kramer grabs a sack and heaves it out the back of the truck.",
+      "raw_text": "Hey Kramer, those have wholesale value! We could cut our losses. Kramer grabs a sack and heaves it out the back of the truck."
+    },
+    {
+      "entry_id": 190,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Look out below!! Car horns can be heard as the sack lands in the carriageway. Kramer grabs another sack and hurls that out, with another yelled warning. Steinbrenner's Office) Steinbrenner sits behind his desk. He's examining something on his desktop with a large powerful magnifying glass.",
+      "raw_text": "Look out below!! Car horns can be heard as the sack lands in the carriageway. Kramer grabs another sack and hurls that out, with another yelled warning. Steinbrenner's Office) Steinbrenner sits behind his desk. He's examining something on his desktop with a large powerful magnifying glass."
+    },
+    {
+      "entry_id": 191,
+      "type": "dialogue",
+      "speaker": "STEINBRENNER",
+      "normalized_speaker": "steinbrenner",
+      "text": "With this magnifying glass, I feel like a scientist. There is a tap at the door, and George cautiously enters.",
+      "raw_text": "(to himself) With this magnifying glass, I feel like a scientist. There is a tap at the door, and George cautiously enters.",
+      "parenthetical": "to himself"
+    },
+    {
+      "entry_id": 192,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You wanted to see me, sir?",
+      "raw_text": "You wanted to see me, sir?"
+    },
+    {
+      "entry_id": 193,
+      "type": "dialogue",
+      "speaker": "STEINBRENNER",
+      "normalized_speaker": "steinbrenner",
+      "text": "Ah, come in George, come in. George strolls up to Big Stein's desk, looking more confident.",
+      "raw_text": "Ah, come in George, come in. George strolls up to Big Stein's desk, looking more confident."
+    },
+    {
+      "entry_id": 194,
+      "type": "dialogue",
+      "speaker": "STEINBRENNER",
+      "normalized_speaker": "steinbrenner",
+      "text": "Uh, Wilhelm gave me this project you worked on.",
+      "raw_text": "Uh, Wilhelm gave me this project you worked on."
+    },
+    {
+      "entry_id": 195,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yes sir.",
+      "raw_text": "(smiling) Yes sir.",
+      "parenthetical": "smiling"
+    },
+    {
+      "entry_id": 196,
+      "type": "dialogue",
+      "speaker": "STEINBRENNER",
+      "normalized_speaker": "steinbrenner",
+      "text": "Let me ask you something, George. You having any personal problems at home? Girl trouble, love trouble of any kind?",
+      "raw_text": "Let me ask you something, George. You having any personal problems at home? Girl trouble, love trouble of any kind?"
+    },
+    {
+      "entry_id": 197,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No sir.",
+      "raw_text": "(wondering where this is leading) No sir.",
+      "parenthetical": "wondering where this is leading"
+    },
+    {
+      "entry_id": 198,
+      "type": "dialogue",
+      "speaker": "STEINBRENNER",
+      "normalized_speaker": "steinbrenner",
+      "text": "What about drugs? You doing some of that crack cocaine? You on the pipe?",
+      "raw_text": "What about drugs? You doing some of that crack cocaine? You on the pipe?"
+    },
+    {
+      "entry_id": 199,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No sir.",
+      "raw_text": "(worried now) No sir.",
+      "parenthetical": "worried now"
+    },
+    {
+      "entry_id": 200,
+      "type": "dialogue",
+      "speaker": "STEINBRENNER",
+      "normalized_speaker": "steinbrenner",
+      "text": "Are you seeing a psychiatrist? Bcause I got a flash for you young man, you're non compos mentis! You got some bats in the belfry!",
+      "raw_text": "Are you seeing a psychiatrist? Bcause I got a flash for you young man, you're non compos mentis! You got some bats in the belfry!"
+    },
+    {
+      "entry_id": 201,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What're.. What're you talking about?",
+      "raw_text": "What're.. What're you talking about?"
+    },
+    {
+      "entry_id": 202,
+      "type": "dialogue",
+      "speaker": "STEINBRENNER",
+      "normalized_speaker": "steinbrenner",
+      "text": "George, I've read this report. It's very troubling, very troubling indeed. It's a sick mind at work here. Two burly guys who are clearly medical orderlies come into the room behind George.",
+      "raw_text": "George, I've read this report. It's very troubling, very troubling indeed. It's a sick mind at work here. Two burly guys who are clearly medical orderlies come into the room behind George."
+    },
+    {
+      "entry_id": 203,
+      "type": "dialogue",
+      "speaker": "STEINBRENNER",
+      "normalized_speaker": "steinbrenner",
+      "text": "Okay, come on boys, come on in here. George, this is Herb and Dan. George regards the two guys, very nervously as they approach him and stand behind him, one on either shoulder.",
+      "raw_text": "Okay, come on boys, come on in here. George, this is Herb and Dan. George regards the two guys, very nervously as they approach him and stand behind him, one on either shoulder."
+    },
+    {
+      "entry_id": 204,
+      "type": "dialogue",
+      "speaker": "STEINBRENNER",
+      "normalized_speaker": "steinbrenner",
+      "text": "They're gonna take you away to a nice place where you can get some help. They're very friendly people there. My brother-in-law was there for a couple of weeks. The man was obsessed with lactating women. They completely cured him, although he still eats a lot of cheese. Herb and Dan take hold of George's arms. George gets panicky.",
+      "raw_text": "They're gonna take you away to a nice place where you can get some help. They're very friendly people there. My brother-in-law was there for a couple of weeks. The man was obsessed with lactating women. They completely cured him, although he still eats a lot of cheese. Herb and Dan take hold of George's arms. George gets panicky."
+    },
+    {
+      "entry_id": 205,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Ah, see, Mister.. I didn't write that report. That, that's not mine. Herb and Dan begin to drag the struggling George across the office toward the door.",
+      "raw_text": "Ah, see, Mister.. I didn't write that report. That, that's not mine. Herb and Dan begin to drag the struggling George across the office toward the door."
+    },
+    {
+      "entry_id": 206,
+      "type": "dialogue",
+      "speaker": "STEINBRENNER",
+      "normalized_speaker": "steinbrenner",
+      "text": "Of course you didn't George. Of course you didn't write it.",
+      "raw_text": "Of course you didn't George. Of course you didn't write it."
+    },
+    {
+      "entry_id": 207,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I didn't do it! It..It just got done. I don't know how it got done, but it did. As Herb and Dan haul George through the door, George makes his last stand, trying to get a hold on the doorframe with his feet. Eventually he is dragged out into the corridor and vanishes from view.",
+      "raw_text": "I didn't do it! It..It just got done. I don't know how it got done, but it did. As Herb and Dan haul George through the door, George makes his last stand, trying to get a hold on the doorframe with his feet. Eventually he is dragged out into the corridor and vanishes from view."
+    },
+    {
+      "entry_id": 208,
+      "type": "dialogue",
+      "speaker": "STEINBRENNER",
+      "normalized_speaker": "steinbrenner",
+      "text": "Of course. Of course it got done. Things get done all the time, I understand. (as George disappears) Don't worry, your job'll be waiting for you when you get back. (banging his fist on his desk) Get better George. Get better!",
+      "raw_text": "Of course. Of course it got done. Things get done all the time, I understand. (as George disappears) Don't worry, your job'll be waiting for you when you get back. (banging his fist on his desk) Get better George. Get better!"
+    },
+    {
+      "entry_id": 209,
+      "type": "scene_heading",
+      "text": "[Setting: Mail Truck]",
+      "raw_text": "(Mail Truck)",
+      "confidence": 0.9,
+      "location": "Mail Truck",
+      "normalized_location": "mail_truck"
+    },
+    {
+      "entry_id": 210,
+      "type": "action",
+      "text": "The Saab travels down a quiet country road at night, followed by the mail truck. Kramer is driving, Newman looks furious in the passenger seat.",
+      "raw_text": "The Saab travels down a quiet country road at night, followed by the mail truck. Kramer is driving, Newman looks furious in the passenger seat.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 211,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Damn. I don't understand this. I've ditched every bottle and can, and we still can't gain. It's like we're... He looks across at the substantial bulk of Newman and a thought occurs.",
+      "raw_text": "(frustrated) Damn. I don't understand this. I've ditched every bottle and can, and we still can't gain. It's like we're... He looks across at the substantial bulk of Newman and a thought occurs.",
+      "parenthetical": "frustrated"
+    },
+    {
+      "entry_id": 212,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "...sluggish.",
+      "raw_text": "...sluggish."
+    },
+    {
+      "entry_id": 213,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "I went through all those bottles and all those cans, for what? What a waste. And I'm really gonna catch hell for those missing mailbags.",
+      "raw_text": "I went through all those bottles and all those cans, for what? What a waste. And I'm really gonna catch hell for those missing mailbags."
+    },
+    {
+      "entry_id": 214,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Heyy, wasn't that a pie stand back there?",
+      "raw_text": "Heyy, wasn't that a pie stand back there?"
+    },
+    {
+      "entry_id": 215,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "A pie stand? Where?",
+      "raw_text": "(perks up) A pie stand? Where?",
+      "parenthetical": "perks up"
+    },
+    {
+      "entry_id": 216,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh yeah. Home-made pies, two hundred yards back.",
+      "raw_text": "Oh yeah. Home-made pies, two hundred yards back."
+    },
+    {
+      "entry_id": 217,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Aww, c'mon, pull over, pull over will ya. Kramer pulls the truck into the roadside. As it halts, Newman sticks his head out the window to peer back down the road.",
+      "raw_text": "Aww, c'mon, pull over, pull over will ya. Kramer pulls the truck into the roadside. As it halts, Newman sticks his head out the window to peer back down the road."
+    },
+    {
+      "entry_id": 218,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Where? I..I..I don't see it.",
+      "raw_text": "Where? I..I..I don't see it."
+    },
+    {
+      "entry_id": 219,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well open the door, you get a better look. Newman slides back the door and leans out.",
+      "raw_text": "Well open the door, you get a better look. Newman slides back the door and leans out."
+    },
+    {
+      "entry_id": 220,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "I don't see any pie... Kramer plants his foot firmly in Newman's backside and heaves him out of the truck.",
+      "raw_text": "I don't see any pie... Kramer plants his foot firmly in Newman's backside and heaves him out of the truck."
+    },
+    {
+      "entry_id": 221,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "...Aargh! As Newman lands heavily in the verge, Kramer slides the door shut and drives away.",
+      "raw_text": "...Aargh! As Newman lands heavily in the verge, Kramer slides the door shut and drives away."
+    },
+    {
+      "entry_id": 222,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Kramer!!",
+      "raw_text": "Kramer!!"
+    },
+    {
+      "entry_id": 223,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I'm sorry Newman, you were holding us back.",
+      "raw_text": "I'm sorry Newman, you were holding us back."
+    },
+    {
+      "entry_id": 224,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Kramer!! In the mail truck, Kramer picks up his phone and redials.",
+      "raw_text": "(after speeding truck) Kramer!! In the mail truck, Kramer picks up his phone and redials.",
+      "parenthetical": "after speeding truck"
+    },
+    {
+      "entry_id": 225,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Jerry! We've lost the fat man, and we're running lean. We're back on track, buddy!",
+      "raw_text": "(shouting) Jerry! We've lost the fat man, and we're running lean. We're back on track, buddy!",
+      "parenthetical": "shouting"
+    },
+    {
+      "entry_id": 226,
+      "type": "scene_heading",
+      "text": "[Setting: Country Roadside]",
+      "raw_text": "(Country Roadside)",
+      "confidence": 0.9,
+      "location": "Country Roadside",
+      "normalized_location": "country_roadside"
+    },
+    {
+      "entry_id": 227,
+      "type": "action",
+      "text": "Newman wanders forlornly along the roadside at night. He tries to thumb a ride from passing traffic, displaying his uniform insignia to drivers.",
+      "raw_text": "Newman wanders forlornly along the roadside at night. He tries to thumb a ride from passing traffic, displaying his uniform insignia to drivers.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 228,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Federal employee. Federal employee. Aside from a few blaring car horns, he gets no response. He continues his trudge, a sour look on his face.",
+      "raw_text": "Federal employee. Federal employee. Aside from a few blaring car horns, he gets no response. He continues his trudge, a sour look on his face."
+    },
+    {
+      "entry_id": 229,
+      "type": "scene_heading",
+      "text": "[Setting: Countryside]",
+      "raw_text": "(Countryside)",
+      "confidence": 0.9,
+      "location": "Countryside",
+      "normalized_location": "countryside"
+    },
+    {
+      "entry_id": 230,
+      "type": "action",
+      "text": "Newman struggles up a steep slope. Newman pushes his way through a field of crops. He emerges from the vegetation and sees a farmhouse, its lights blazing. His face lights up. He stumbles towards the welcoming lights, tripping and falling, before picking himself up and running up to the building.",
+      "raw_text": "Newman struggles up a steep slope. Newman pushes his way through a field of crops. He emerges from the vegetation and sees a farmhouse, its lights blazing. His face lights up. He stumbles towards the welcoming lights, tripping and falling, before picking himself up and running up to the building.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 231,
+      "type": "scene_heading",
+      "text": "[Setting: Farm]",
+      "raw_text": "(Farm)",
+      "confidence": 0.9,
+      "location": "Farm",
+      "normalized_location": "farm"
+    },
+    {
+      "entry_id": 232,
+      "type": "action",
+      "text": "Newman reaches the steps to the porch and stumbles up them. As he reaches the door, a scent catches his attention. Looking to the window, he sees a pie left out on the window sill to cool. A craftier look comes to his face. He turns back to the door and knocks. After a few seconds, it opens.",
+      "raw_text": "Newman reaches the steps to the porch and stumbles up them. As he reaches the door, a scent catches his attention. Looking to the window, he sees a pie left out on the window sill to cool. A craftier look comes to his face. He turns back to the door and knocks. After a few seconds, it opens.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 233,
+      "type": "dialogue",
+      "speaker": "FARMER",
+      "normalized_speaker": "farmer",
+      "text": "Hello stranger.",
+      "raw_text": "Hello stranger."
+    },
+    {
+      "entry_id": 234,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Ah, look, I..I'm sorry to bother you, but I'm a US postal worker and my mail truck was just ambushed by a band of backwoods mail-hating survivalists.",
+      "raw_text": "(a touch desperate) Ah, look, I..I'm sorry to bother you, but I'm a US postal worker and my mail truck was just ambushed by a band of backwoods mail-hating survivalists.",
+      "parenthetical": "a touch desperate"
+    },
+    {
+      "entry_id": 235,
+      "type": "dialogue",
+      "speaker": "FARMER",
+      "normalized_speaker": "farmer",
+      "text": "Calm down, now. Calm down. Don't worry, we'll take care of you. This farm ain't much, but uh, you're welcome to what we have. Hot bath, hearty meal, clean bed.",
+      "raw_text": "Calm down, now. Calm down. Don't worry, we'll take care of you. This farm ain't much, but uh, you're welcome to what we have. Hot bath, hearty meal, clean bed."
+    },
+    {
+      "entry_id": 236,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Oh, thank you, sir.",
+      "raw_text": "Oh, thank you, sir."
+    },
+    {
+      "entry_id": 237,
+      "type": "dialogue",
+      "speaker": "FARMER",
+      "normalized_speaker": "farmer",
+      "text": "Just have one rule. Keep your hands off my daughter. Just then, the daughter in question slinks up behind the farmer. Blonde, twenty-ish, just one walking temptation.",
+      "raw_text": "Just have one rule. Keep your hands off my daughter. Just then, the daughter in question slinks up behind the farmer. Blonde, twenty-ish, just one walking temptation."
+    },
+    {
+      "entry_id": 238,
+      "type": "scene_heading",
+      "text": "[Setting: Mail Truck/Jerry's Apartment]",
+      "raw_text": "(Mail Truck/Jerry's Apartment)",
+      "confidence": 0.9,
+      "location": "Mail Truck/Jerry's Apartment",
+      "normalized_location": "mail_truck_jerry_s_apartment"
+    },
+    {
+      "entry_id": 239,
+      "type": "action",
+      "text": "Kramer has the mail truck right behind Jerry's Saab as they race along a quiet country road.",
+      "raw_text": "Kramer has the mail truck right behind Jerry's Saab as they race along a quiet country road.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 240,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Jerry, we got 'im. I'm riding his tail. There's no escape. He's running scared, buddy. Jerry and Elaine are sitting on the couch, each with a phone handset.",
+      "raw_text": "Jerry, we got 'im. I'm riding his tail. There's no escape. He's running scared, buddy. Jerry and Elaine are sitting on the couch, each with a phone handset."
+    },
+    {
+      "entry_id": 241,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "How's the gas situation?",
+      "raw_text": "How's the gas situation?"
+    },
+    {
+      "entry_id": 242,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I got enough to get to Memphis. In front of him, Tony reaches into the back seat of the Saab.",
+      "raw_text": "(checks dial) I got enough to get to Memphis. In front of him, Tony reaches into the back seat of the Saab.",
+      "parenthetical": "checks dial"
+    },
+    {
+      "entry_id": 243,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "He's reaching in back. He's grabbing at something. Tony extracts a long, metallic object from behind himself.",
+      "raw_text": "He's reaching in back. He's grabbing at something. Tony extracts a long, metallic object from behind himself."
+    },
+    {
+      "entry_id": 244,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "He's pulling out a gun! He's got a gun, Jerry!!",
+      "raw_text": "He's pulling out a gun! He's got a gun, Jerry!!"
+    },
+    {
+      "entry_id": 245,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Duck, Kramer! Duck! Kramer crouches as far as he can. Tony flings the object at Kramer's mail truck. It crashes against the windshield and bounces away.",
+      "raw_text": "Duck, Kramer! Duck! Kramer crouches as far as he can. Tony flings the object at Kramer's mail truck. It crashes against the windshield and bounces away."
+    },
+    {
+      "entry_id": 246,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "It's a golf club! It's no gun. He threw a golf club at me!",
+      "raw_text": "It's a golf club! It's no gun. He threw a golf club at me!"
+    },
+    {
+      "entry_id": 247,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Those are JFK's golf clubs! Tony hurls another club at the mail truck. Again, it bounces off the windshield, leaving some cracks.",
+      "raw_text": "Those are JFK's golf clubs! Tony hurls another club at the mail truck. Again, it bounces off the windshield, leaving some cracks."
+    },
+    {
+      "entry_id": 248,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey, I'm under fire here. (another club hits) I'm under heavy fire here, boy. (another hit) Jeez! That was a five-iron!",
+      "raw_text": "Hey, I'm under fire here. (another club hits) I'm under heavy fire here, boy. (another hit) Jeez! That was a five-iron!"
+    },
+    {
+      "entry_id": 249,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Stop the truck, Kramer. Pick up the clubs!",
+      "raw_text": "Stop the truck, Kramer. Pick up the clubs!"
+    },
+    {
+      "entry_id": 250,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No, don't stop, Kramer. Keep going, don't let him get away.",
+      "raw_text": "No, don't stop, Kramer. Keep going, don't let him get away."
+    },
+    {
+      "entry_id": 251,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Wait a minute, I think he's done. (peers at the Saab) Oh no, he's taking out the woods! Tony flings a heavy wood at the truck.",
+      "raw_text": "Wait a minute, I think he's done. (peers at the Saab) Oh no, he's taking out the woods! Tony flings a heavy wood at the truck."
+    },
+    {
+      "entry_id": 252,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "The Saab leads the truck down the road, with Tony hurling club after club over his shoulder and into the front of the truck.",
+      "raw_text": "The Saab leads the truck down the road, with Tony hurling club after club over his shoulder and into the front of the truck.",
+      "parenthetical": "noise"
+    },
+    {
+      "entry_id": 253,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "You'll have to do a lot better than that! Tony hurls the golf bag at the truck. It slams solidly against the windshield, Kramer flinches, the truck swerves. The front wheel runs over a club on the tarmac and the tyre bursts.",
+      "raw_text": "(yelling at Tony) You'll have to do a lot better than that! Tony hurls the golf bag at the truck. It slams solidly against the windshield, Kramer flinches, the truck swerves. The front wheel runs over a club on the tarmac and the tyre bursts.",
+      "parenthetical": "yelling at Tony"
+    },
+    {
+      "entry_id": 254,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What's happening! The truck is rattling and lurching as it struggles along the road.",
+      "raw_text": "(hearing the noises) What's happening! The truck is rattling and lurching as it struggles along the road.",
+      "parenthetical": "hearing the noises"
+    },
+    {
+      "entry_id": 255,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "This truck is dying. We're losing him. The Saab easily outpaces the truck and accelerates away. The truck staggers to a halt, giving out a death rattle. A cloud of steam and smoke erupts from under the hood.",
+      "raw_text": "This truck is dying. We're losing him. The Saab easily outpaces the truck and accelerates away. The truck staggers to a halt, giving out a death rattle. A cloud of steam and smoke erupts from under the hood."
+    },
+    {
+      "entry_id": 256,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I think we lost him.",
+      "raw_text": "I think we lost him."
+    },
+    {
+      "entry_id": 257,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Dammit!",
+      "raw_text": "(disappointment) Dammit!",
+      "parenthetical": "disappointment"
+    },
+    {
+      "entry_id": 258,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Can you stop and pick up those clubs Kramer?",
+      "raw_text": "(quietly) Can you stop and pick up those clubs Kramer?",
+      "parenthetical": "quietly"
+    },
+    {
+      "entry_id": 259,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Yeah, yeah, I'll get 'em. Jerry hangs up.",
+      "raw_text": "(subdued) Yeah, yeah, I'll get 'em. Jerry hangs up.",
+      "parenthetical": "subdued"
+    },
+    {
+      "entry_id": 260,
+      "type": "scene_heading",
+      "text": "[Setting: Country]",
+      "raw_text": "(Country)",
+      "confidence": 0.9,
+      "location": "Country",
+      "normalized_location": "country"
+    },
+    {
+      "entry_id": 261,
+      "type": "action",
+      "text": "Kramer climbs out of the truck and looks back down the road. He kicks the deflated tyre. Coming to the front of the truck, he picks a club off the front bumper and pulls the broken shaft of another out of the radiator grille. Kramer walks along the road with the bent and broken clubs. He comes upon the bag and transfers the clubs into it. Slinging it over his shoulder, he continues on his way, picking up more battered golf clubs as he goes.",
+      "raw_text": "Kramer climbs out of the truck and looks back down the road. He kicks the deflated tyre. Coming to the front of the truck, he picks a club off the front bumper and pulls the broken shaft of another out of the radiator grille. Kramer walks along the road with the bent and broken clubs. He comes upon the bag and transfers the clubs into it. Slinging it over his shoulder, he continues on his way, picking up more battered golf clubs as he goes.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 262,
+      "type": "scene_heading",
+      "text": "[Setting: Farm]",
+      "raw_text": "(Farm)",
+      "confidence": 0.9,
+      "location": "Farm",
+      "normalized_location": "farm"
+    },
+    {
+      "entry_id": 263,
+      "type": "action",
+      "text": "Newman, the farmer and the farmer's daughter sit round the kitchen table. They are working their way through a generous meal.",
+      "raw_text": "Newman, the farmer and the farmer's daughter sit round the kitchen table. They are working their way through a generous meal.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 264,
+      "type": "dialogue",
+      "speaker": "FARMER",
+      "normalized_speaker": "farmer",
+      "text": "Enjoy that mutton?",
+      "raw_text": "Enjoy that mutton?"
+    },
+    {
+      "entry_id": 265,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "It's delicious mutton. This is uh, this is outta sight. I would, I would love to get the recipe. It's very good. The farmer's daughter is staring at Newman and toying with her fork, touching it to her lips and teeth. (It's difficult to be arousing with cutlery, but she's giving it a pretty good shot.) Newman notices this and tries to take a nonchalant sip from a glass, but it goes down the wrong way and he splutters.",
+      "raw_text": "(mouth full) It's delicious mutton. This is uh, this is outta sight. I would, I would love to get the recipe. It's very good. The farmer's daughter is staring at Newman and toying with her fork, touching it to her lips and teeth. (It's difficult to be arousing with cutlery, but she's giving it a pretty good shot.) Newman notices this and tries to take a nonchalant sip from a glass, but it goes down the wrong way and he splutters.",
+      "parenthetical": "mouth full"
+    },
+    {
+      "entry_id": 266,
+      "type": "dialogue",
+      "speaker": "FARMER",
+      "normalized_speaker": "farmer",
+      "text": "That cider too strong for you?",
+      "raw_text": "That cider too strong for you?"
+    },
+    {
+      "entry_id": 267,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "No, no. I love strong cider. (for the farmer's daughter's benefit) I'm a big, strong, cider guy. The farmer's daughter licks her lips.",
+      "raw_text": "No, no. I love strong cider. (for the farmer's daughter's benefit) I'm a big, strong, cider guy. The farmer's daughter licks her lips."
+    },
+    {
+      "entry_id": 268,
+      "type": "dialogue",
+      "speaker": "FARMER",
+      "normalized_speaker": "farmer",
+      "text": "Gonna be milking Holsteins in the morning, if you'd like to lend a hand.",
+      "raw_text": "Gonna be milking Holsteins in the morning, if you'd like to lend a hand."
+    },
+    {
+      "entry_id": 269,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "You know, I don't really know that much about uh.. I don't have any.. I don't.. I don't think I know much about that.",
+      "raw_text": "(reluctant) You know, I don't really know that much about uh.. I don't have any.. I don't.. I don't think I know much about that.",
+      "parenthetical": "reluctant"
+    },
+    {
+      "entry_id": 270,
+      "type": "dialogue",
+      "speaker": "FARMER",
+      "normalized_speaker": "farmer",
+      "text": "Ahh, Susie here'll teach you. The farmer's daughter goes wide eyed.",
+      "raw_text": "Ahh, Susie here'll teach you. The farmer's daughter goes wide eyed."
+    },
+    {
+      "entry_id": 271,
+      "type": "dialogue",
+      "speaker": "FARMER",
+      "normalized_speaker": "farmer",
+      "text": "Just gotta pull on the teat a little. Susie and Newman half-laugh nervously.",
+      "raw_text": "Just gotta pull on the teat a little. Susie and Newman half-laugh nervously."
+    },
+    {
+      "entry_id": 272,
+      "type": "dialogue",
+      "speaker": "SUSIE",
+      "normalized_speaker": "susie",
+      "text": "Nice having a big, strong, man around.",
+      "raw_text": "(suggestive) Nice having a big, strong, man around.",
+      "parenthetical": "suggestive"
+    },
+    {
+      "entry_id": 273,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "You know, those mail bags, they get mighty heavy. I uh, I Nautilus, of course. (puffs out his chest) The farmer looks at him oddly.",
+      "raw_text": "You know, those mail bags, they get mighty heavy. I uh, I Nautilus, of course. (puffs out his chest) The farmer looks at him oddly."
+    },
+    {
+      "entry_id": 274,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Can I have some gravy?",
+      "raw_text": "(breaking from his pose) Can I have some gravy?",
+      "parenthetical": "breaking from his pose"
+    },
+    {
+      "entry_id": 275,
+      "type": "scene_heading",
+      "text": "[Setting: Institution]",
+      "raw_text": "(Institution)",
+      "confidence": 0.9,
+      "location": "Institution",
+      "normalized_location": "institution"
+    },
+    {
+      "entry_id": 276,
+      "type": "action",
+      "text": "George is using a payphone in the corner of the room. His free hand is holding the waistband of his trousers. In the background are a couple of inmates and visitors, and an orderly. Notable among them are Pop and Deena Lazzari, previously seen in 'The Gum'.",
+      "raw_text": "George is using a payphone in the corner of the room. His free hand is holding the waistband of his trousers. In the background are a couple of inmates and visitors, and an orderly. Notable among them are Pop and Deena Lazzari, previously seen in 'The Gum'.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 277,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Steinbrenner had me committed! I'm in the nuthouse!",
+      "raw_text": "(desperate) Steinbrenner had me committed! I'm in the nuthouse!",
+      "parenthetical": "desperate"
+    },
+    {
+      "entry_id": 278,
+      "type": "dialogue",
+      "speaker": "DEENA",
+      "normalized_speaker": "deena",
+      "text": "I'll be back same time next week, Pop.",
+      "raw_text": "I'll be back same time next week, Pop."
+    },
+    {
+      "entry_id": 279,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "They took my belt, Jerry. I got nothing to hold my pants up. (listens) Well, you gotta come over here now! Just tell 'em what we talked about, how I, how I, I didn't do the project. Deena spots George as she makes her way out of the room.",
+      "raw_text": "(quieter desperation) They took my belt, Jerry. I got nothing to hold my pants up. (listens) Well, you gotta come over here now! Just tell 'em what we talked about, how I, how I, I didn't do the project. Deena spots George as she makes her way out of the room.",
+      "parenthetical": "quieter desperation"
+    },
+    {
+      "entry_id": 280,
+      "type": "dialogue",
+      "speaker": "DEENA",
+      "normalized_speaker": "deena",
+      "text": "George? George looks like his salvation has arrived. He hangs up the phone.",
+      "raw_text": "George? George looks like his salvation has arrived. He hangs up the phone."
+    },
+    {
+      "entry_id": 281,
+      "type": "dialogue",
+      "speaker": "DEENA",
+      "normalized_speaker": "deena",
+      "text": "I see you're finally getting some help.",
+      "raw_text": "I see you're finally getting some help."
+    },
+    {
+      "entry_id": 282,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Aw, hoh, oh Deena, thank God. (he hugs Deena) Thank God you're here. Listen, you gotta help me. You gotta tell these people that I'm okay. You know that I don't belong in here.",
+      "raw_text": "Aw, hoh, oh Deena, thank God. (he hugs Deena) Thank God you're here. Listen, you gotta help me. You gotta tell these people that I'm okay. You know that I don't belong in here."
+    },
+    {
+      "entry_id": 283,
+      "type": "dialogue",
+      "speaker": "DEENA",
+      "normalized_speaker": "deena",
+      "text": "George, this is the best thing for you.",
+      "raw_text": "George, this is the best thing for you."
+    },
+    {
+      "entry_id": 284,
+      "type": "action",
+      "text": "she walks away",
+      "raw_text": "(she walks away)"
+    },
+    {
+      "entry_id": 285,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yea... (sinks in) What? No, no! As he tries to follow Deena, the orderly grabs hold of him and restrains him.",
+      "raw_text": "Yea... (sinks in) What? No, no! As he tries to follow Deena, the orderly grabs hold of him and restrains him."
+    },
+    {
+      "entry_id": 286,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Deena! Deena, wait a... Deena, help! George is almost in tears and hops from foot to foot in frustration as the orderly holds him. Pop Lazzari wanders over.",
+      "raw_text": "Deena! Deena, wait a... Deena, help! George is almost in tears and hops from foot to foot in frustration as the orderly holds him. Pop Lazzari wanders over."
+    },
+    {
+      "entry_id": 287,
+      "type": "dialogue",
+      "speaker": "POP",
+      "normalized_speaker": "pop",
+      "text": "Is that little Georgie C? How's the folks? You still got that nice little car?",
+      "raw_text": "Is that little Georgie C? How's the folks? You still got that nice little car?"
+    },
+    {
+      "entry_id": 288,
+      "type": "scene_heading",
+      "text": "[Setting: Countryside]",
+      "raw_text": "(Countryside)",
+      "confidence": 0.9,
+      "location": "Countryside",
+      "normalized_location": "countryside"
+    },
+    {
+      "entry_id": 289,
+      "type": "action",
+      "text": "Kramer approaches a familiar farmhouse. As he mounts the steps up to the porch, a commotion erupts inside the place. A gunshot rings out and the farmer's daughter screams. Kramer flinches. The farmer can be heard yelling angrily. The door is flung open and Newman runs out pulling up his trousers.",
+      "raw_text": "Kramer approaches a familiar farmhouse. As he mounts the steps up to the porch, a commotion erupts inside the place. A gunshot rings out and the farmer's daughter screams. Kramer flinches. The farmer can be heard yelling angrily. The door is flung open and Newman runs out pulling up his trousers.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 290,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Aaah!! Aaah!",
+      "raw_text": "(screaming in panic) Aaah!! Aaah!",
+      "parenthetical": "screaming in panic"
+    },
+    {
+      "entry_id": 291,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What you doing?!",
+      "raw_text": "What you doing?!"
+    },
+    {
+      "entry_id": 292,
+      "type": "dialogue",
+      "speaker": "NEWMAN",
+      "normalized_speaker": "newman",
+      "text": "Kramer, help me! Help me! Newman sets off running. From the door of the farmhouse comes the farmer, armed with a shotgun, closely followed by his daughter, whose shirt is undone and hair is dishevelled.",
+      "raw_text": "(pushing past Kramer) Kramer, help me! Help me! Newman sets off running. From the door of the farmhouse comes the farmer, armed with a shotgun, closely followed by his daughter, whose shirt is undone and hair is dishevelled.",
+      "parenthetical": "pushing past Kramer"
+    },
+    {
+      "entry_id": 293,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Jeez!",
+      "raw_text": "Jeez!",
+      "parenthetical": "takes one look and sets off after Newman"
+    },
+    {
+      "entry_id": 294,
+      "type": "dialogue",
+      "speaker": "FARMER",
+      "normalized_speaker": "farmer",
+      "text": "I told you to keep away from my daughter! As Kramer and Newman reach the edge of the crops, the farmer fires a shot. Both Newman and Kramer leap in the air and run into the cover of the crop. Before the farmer can fire again, his daughter pushes the barrel of the shotgun downward, spoiling his aim.",
+      "raw_text": "(taking aim) I told you to keep away from my daughter! As Kramer and Newman reach the edge of the crops, the farmer fires a shot. Both Newman and Kramer leap in the air and run into the cover of the crop. Before the farmer can fire again, his daughter pushes the barrel of the shotgun downward, spoiling his aim.",
+      "parenthetical": "taking aim"
+    },
+    {
+      "entry_id": 295,
+      "type": "dialogue",
+      "speaker": "SUSIE",
+      "normalized_speaker": "susie",
+      "text": "No daddy, you'll hurt him! I love him! (waving after Newman) Goodbye Norman, goodbye.",
+      "raw_text": "No daddy, you'll hurt him! I love him! (waving after Newman) Goodbye Norman, goodbye."
+    },
+    {
+      "entry_id": 296,
+      "type": "scene_heading",
+      "text": "[Setting: Elaine's Office]",
+      "raw_text": "(Elaine's Office)",
+      "confidence": 0.9,
+      "location": "Elaine's Office",
+      "normalized_location": "elaine_s_office"
+    },
+    {
+      "entry_id": 297,
+      "type": "action",
+      "text": "Elaine is sitting with her head in her hands. Peterman enters at a rush.",
+      "raw_text": "Elaine is sitting with her head in her hands. Peterman enters at a rush.",
+      "confidence": 0.6
+    },
+    {
+      "entry_id": 298,
+      "type": "dialogue",
+      "speaker": "PETERMAN",
+      "normalized_speaker": "peterman",
+      "text": "Elaine! You found the clubs. That's wonderful news. Where are they?",
+      "raw_text": "(excited) Elaine! You found the clubs. That's wonderful news. Where are they?",
+      "parenthetical": "excited"
+    },
+    {
+      "entry_id": 299,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Yep. Lemme get 'em for you, Mr Peterman.",
+      "raw_text": "(not the soul of happiness) Yep. Lemme get 'em for you, Mr Peterman.",
+      "parenthetical": "not the soul of happiness"
+    },
+    {
+      "entry_id": 300,
+      "type": "dialogue",
+      "speaker": "PETERMAN",
+      "normalized_speaker": "peterman",
+      "text": "Oh, I'll be inaugrating them this weekend, with none other than Ethel Kennedy. A woman whose triumph in the face of tragedy is exceeded only by her proclivity to procreate. Elaine puts the bag of clubs down beside Peterman. The clubs are, of course, wrecked. Elaine looks like she's expecting a poor reaction. Peterman picks up a club or two, staring in disbelief at the twisted metal.",
+      "raw_text": "Oh, I'll be inaugrating them this weekend, with none other than Ethel Kennedy. A woman whose triumph in the face of tragedy is exceeded only by her proclivity to procreate. Elaine puts the bag of clubs down beside Peterman. The clubs are, of course, wrecked. Elaine looks like she's expecting a poor reaction. Peterman picks up a club or two, staring in disbelief at the twisted metal."
+    },
+    {
+      "entry_id": 301,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "The uh, the letter of, authenticity's in the side pocket there.",
+      "raw_text": "The uh, the letter of, authenticity's in the side pocket there."
+    },
+    {
+      "entry_id": 302,
+      "type": "dialogue",
+      "speaker": "PETERMAN",
+      "normalized_speaker": "peterman",
+      "text": "Elaine. I never knew Kennedy had such a temper.",
+      "raw_text": "Elaine. I never knew Kennedy had such a temper."
+    },
+    {
+      "entry_id": 303,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh. Oh yeah. The only thing worse was his slice. (she laughs nervously)",
+      "raw_text": "Oh. Oh yeah. The only thing worse was his slice. (she laughs nervously)",
+      "parenthetical": "spotting a chance to keep her job"
+    },
+    {
+      "entry_id": 304,
+      "type": "dialogue",
+      "speaker": "PETERMAN",
+      "normalized_speaker": "peterman",
+      "text": "See you on Monday. Peterman picks up the bag and heads for the door.",
+      "raw_text": "See you on Monday. Peterman picks up the bag and heads for the door."
+    },
+    {
+      "entry_id": 305,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Have a good game.",
+      "raw_text": "Have a good game."
+    },
+    {
+      "entry_id": 306,
+      "type": "end_marker",
+      "text": "THE END",
+      "raw_text": "THE END"
+    },
+    {
+      "entry_id": 307,
+      "type": "action",
+      "text": ">",
+      "raw_text": ">",
+      "confidence": 0.6
+    }
+  ]
+}

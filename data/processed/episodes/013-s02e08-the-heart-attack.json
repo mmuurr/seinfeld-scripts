@@ -1,0 +1,2136 @@
+{
+  "episode": {
+    "series_title": "Seinfeld",
+    "episode_number_overall": 13,
+    "title": "The Heart Attack",
+    "season": 2,
+    "episode_number_in_season": 8,
+    "air_date": "1991-04-25",
+    "written_by": [],
+    "directed_by": [],
+    "source_title": "The Heart Attack Script",
+    "source_dataset": "yregelman/unprocessed-seinfeld-scripts"
+  },
+  "entries": [
+    {
+      "entry_id": 1,
+      "type": "scene_heading",
+      "text": "[Setting: Night club]",
+      "raw_text": "(Night club)",
+      "confidence": 0.9,
+      "location": "Night club",
+      "normalized_location": "night_club"
+    },
+    {
+      "entry_id": 2,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You know, I tell ya, I gotta say that I'm enjoying adulthood. For a lot of reasons. And, I'll tell you reason number one: as an adult, if I want a cookie, I have a cookie, okay? I have three cookies or four cookies, or eleven cookies if I want. Many times I will intentionally ruin my entire appetite. Just ruin it. And then, I call my mother up right after to tell her that I did it. \"Hello, Mom? yeah, I just ruined my entire appetite.. cookies.\" So what if you ruin.. See, because as an adult, we understand even if you ruin an appetite, there's another appetite coming right behind it. There's no danger in running out of appetites. I've got millions of them, I'll ruin them whenever I want!",
+      "raw_text": "You know, I tell ya, I gotta say that I'm enjoying adulthood. For a lot of reasons. And, I'll tell you reason number one: as an adult, if I want a cookie, I have a cookie, okay? I have three cookies or four cookies, or eleven cookies if I want. Many times I will intentionally ruin my entire appetite. Just ruin it. And then, I call my mother up right after to tell her that I did it. \"Hello, Mom? yeah, I just ruined my entire appetite.. cookies.\" So what if you ruin.. See, because as an adult, we understand even if you ruin an appetite, there's another appetite coming right behind it. There's no danger in running out of appetites. I've got millions of them, I'll ruin them whenever I want!"
+    },
+    {
+      "entry_id": 3,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 4,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's apartment]",
+      "raw_text": "(Jerry's apartment)",
+      "confidence": 0.9,
+      "location": "Jerry's apartment",
+      "normalized_location": "jerry_s_apartment"
+    },
+    {
+      "entry_id": 5,
+      "type": "action",
+      "text": "Jerry's sitting on his couch in the dark, watching TV",
+      "raw_text": "(Jerry's sitting on his couch in the dark, watching TV)"
+    },
+    {
+      "entry_id": 6,
+      "type": "dialogue",
+      "speaker": "TV VOICE",
+      "normalized_speaker": "tv_voice",
+      "text": "Look, Sigmund. Look in the sky. The planets are on fire. It is just as you prophesied. The planets of our solar system, incinerating. Like flaming globes, Sigmund. Like flaming globes.. Ah, ha, ha, ha..",
+      "raw_text": "(Germanic) Look, Sigmund. Look in the sky. The planets are on fire. It is just as you prophesied. The planets of our solar system, incinerating. Like flaming globes, Sigmund. Like flaming globes.. Ah, ha, ha, ha..",
+      "parenthetical": "Germanic"
+    },
+    {
+      "entry_id": 7,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's now asleep]",
+      "raw_text": "(Jerry's now asleep)",
+      "confidence": 0.9,
+      "location": "Jerry's now asleep",
+      "normalized_location": "jerry_s_now_asleep"
+    },
+    {
+      "entry_id": 8,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 9,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's bedroom]",
+      "raw_text": "(Jerry's bedroom)",
+      "confidence": 0.9,
+      "location": "Jerry's bedroom",
+      "normalized_location": "jerry_s_bedroom"
+    },
+    {
+      "entry_id": 10,
+      "type": "scene_heading",
+      "text": "[Setting: Jerry's laying in his bed]",
+      "raw_text": "(Jerry's laying in his bed. He wakes suddenly, picks up a pen and scribbles something down on a pad. He laughs, shakes his head, then goes back to sleep, laughing to himself)",
+      "confidence": 0.9,
+      "location": "Jerry's laying in his bed",
+      "normalized_location": "jerry_s_laying_in_his_bed",
+      "inference_notes": [
+        "Scene heading and opening action were split from a single parenthetical source line."
+      ]
+    },
+    {
+      "entry_id": 11,
+      "type": "action",
+      "text": "He wakes suddenly, picks up a pen and scribbles something down on a pad. He laughs, shakes his head, then goes back to sleep, laughing to himself",
+      "raw_text": "(Jerry's laying in his bed. He wakes suddenly, picks up a pen and scribbles something down on a pad. He laughs, shakes his head, then goes back to sleep, laughing to himself)",
+      "confidence": 0.75
+    },
+    {
+      "entry_id": 12,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 13,
+      "type": "scene_heading",
+      "text": "[Setting: Coffee shop]",
+      "raw_text": "(Coffee shop)",
+      "confidence": 0.9,
+      "location": "Coffee shop",
+      "normalized_location": "coffee_shop"
+    },
+    {
+      "entry_id": 14,
+      "type": "action",
+      "text": "Jerry looks tired. He's staring at a crumpled piece of note paper. George takes out a cucumber from a bag in his pocket",
+      "raw_text": "(Jerry looks tired. He's staring at a crumpled piece of note paper. George takes out a cucumber from a bag in his pocket)"
+    },
+    {
+      "entry_id": 15,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "What do you got, a cucumber?",
+      "raw_text": "What do you got, a cucumber?"
+    },
+    {
+      "entry_id": 16,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah, so what?",
+      "raw_text": "Yeah, so what?"
+    },
+    {
+      "entry_id": 17,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "You're bringing in an ouside cucumber?",
+      "raw_text": "You're bringing in an ouside cucumber?"
+    },
+    {
+      "entry_id": 18,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "They refuse to put cucumber in the salad. I need cucumber.",
+      "raw_text": "They refuse to put cucumber in the salad. I need cucumber."
+    },
+    {
+      "entry_id": 19,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What have I done? I can't read this! Ful-hel-mo-nen-ter-val? I got up last night, I wrote this down, I thought I had this great bit. (Tries to focus on the paper) Wait a second, wait a second.. \"Fax me some halibut.\" Is that funny? Is that a joke?",
+      "raw_text": "(Trying to read the note) What have I done? I can't read this! Ful-hel-mo-nen-ter-val? I got up last night, I wrote this down, I thought I had this great bit. (Tries to focus on the paper) Wait a second, wait a second.. \"Fax me some halibut.\" Is that funny? Is that a joke?",
+      "parenthetical": "Trying to read the note"
+    },
+    {
+      "entry_id": 20,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "No. Let me see that. (Takes the paper from Jerry) Don't-mess-with-Johnny.\"",
+      "raw_text": "No. Let me see that. (Takes the paper from Jerry) Don't-mess-with-Johnny.\""
+    },
+    {
+      "entry_id": 21,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Johnny? Johnny who? Johnny Carson? Did I insult Johnny on The Tonight Show?",
+      "raw_text": "Johnny? Johnny who? Johnny Carson? Did I insult Johnny on The Tonight Show?"
+    },
+    {
+      "entry_id": 22,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Did you mess with Johnny, Jerry?",
+      "raw_text": "(Joking) Did you mess with Johnny, Jerry?",
+      "parenthetical": "Joking"
+    },
+    {
+      "entry_id": 23,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Let me see that. (Studies the note)",
+      "raw_text": "Let me see that. (Studies the note)"
+    },
+    {
+      "entry_id": 24,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hey, where's Kramer?",
+      "raw_text": "Hey, where's Kramer?"
+    },
+    {
+      "entry_id": 25,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't know. That's like asking \"Where's Waldo?\"",
+      "raw_text": "I don't know. That's like asking \"Where's Waldo?\""
+    },
+    {
+      "entry_id": 26,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I think I'm having a heart attack.",
+      "raw_text": "(Still holding the note) I think I'm having a heart attack.",
+      "parenthetical": "Still holding the note"
+    },
+    {
+      "entry_id": 27,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I don't think that's it.",
+      "raw_text": "I don't think that's it."
+    },
+    {
+      "entry_id": 28,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I'm not kidding.",
+      "raw_text": "I'm not kidding."
+    },
+    {
+      "entry_id": 29,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What does that mean?",
+      "raw_text": "What does that mean?"
+    },
+    {
+      "entry_id": 30,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I think what he's trying to say is that he's having a heart attack.",
+      "raw_text": "I think what he's trying to say is that he's having a heart attack."
+    },
+    {
+      "entry_id": 31,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh, he's having a heart attack.",
+      "raw_text": "Oh, he's having a heart attack."
+    },
+    {
+      "entry_id": 32,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Tightness..",
+      "raw_text": "Tightness.."
+    },
+    {
+      "entry_id": 33,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "C'mon.",
+      "raw_text": "C'mon."
+    },
+    {
+      "entry_id": 34,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Shortness of breath..",
+      "raw_text": "Shortness of breath.."
+    },
+    {
+      "entry_id": 35,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh, this is ridiculous.",
+      "raw_text": "Oh, this is ridiculous."
+    },
+    {
+      "entry_id": 36,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Radiating waves of pain..",
+      "raw_text": "Radiating waves of pain.."
+    },
+    {
+      "entry_id": 37,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I know what this is. You saw that show on PBS last night, Coronary Country. (To Elaine) I saw it in the TV Guide. I called him and told him to make sure and not watch it.",
+      "raw_text": "I know what this is. You saw that show on PBS last night, Coronary Country. (To Elaine) I saw it in the TV Guide. I called him and told him to make sure and not watch it."
+    },
+    {
+      "entry_id": 38,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "There was nothing else on. Oh, the left arm.. the left arm.",
+      "raw_text": "There was nothing else on. Oh, the left arm.. the left arm."
+    },
+    {
+      "entry_id": 39,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "He saw that show on anorexia last year, and ate like an animal for two weeks.",
+      "raw_text": "(To Elaine) He saw that show on anorexia last year, and ate like an animal for two weeks.",
+      "parenthetical": "To Elaine"
+    },
+    {
+      "entry_id": 40,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Why can't I have a heart attack? I'm allowed.",
+      "raw_text": "Why can't I have a heart attack? I'm allowed."
+    },
+    {
+      "entry_id": 41,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "So what do you want? You want me take you to the hospital?",
+      "raw_text": "So what do you want? You want me take you to the hospital?"
+    },
+    {
+      "entry_id": 42,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Manhattan Memorial, less of a line.",
+      "raw_text": "Manhattan Memorial, less of a line."
+    },
+    {
+      "entry_id": 43,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I'll call an ambulance. (Exits) (A waitress approaches. George is dying, but the waitress doesn't seem to notice)",
+      "raw_text": "I'll call an ambulance. (Exits) (A waitress approaches. George is dying, but the waitress doesn't seem to notice)"
+    },
+    {
+      "entry_id": 44,
+      "type": "dialogue",
+      "speaker": "WAITRESS",
+      "normalized_speaker": "waitress",
+      "text": "Is everything alright?",
+      "raw_text": "Is everything alright?"
+    },
+    {
+      "entry_id": 45,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "We'll just take a check. (She leaves the check. George, in all his cheapness, can't help but to review the check. He finds an error) You made a mistake on the..",
+      "raw_text": "We'll just take a check. (She leaves the check. George, in all his cheapness, can't help but to review the check. He finds an error) You made a mistake on the.."
+    },
+    {
+      "entry_id": 46,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "George!",
+      "raw_text": "George!"
+    },
+    {
+      "entry_id": 47,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 48,
+      "type": "scene_heading",
+      "text": "[Setting: Hospital room]",
+      "raw_text": "(Hospital room)",
+      "confidence": 0.9,
+      "location": "Hospital room",
+      "normalized_location": "hospital_room"
+    },
+    {
+      "entry_id": 49,
+      "type": "scene_heading",
+      "text": "[Setting: George lies in the bed]",
+      "raw_text": "(George lies in the bed. He has EKG cups on his chest, a tube up his nose, and an IV in his arm. The man in the neighboring bed seems to be in pain)",
+      "confidence": 0.9,
+      "location": "George lies in the bed",
+      "normalized_location": "george_lies_in_the_bed",
+      "inference_notes": [
+        "Scene heading and opening action were split from a single parenthetical source line."
+      ]
+    },
+    {
+      "entry_id": 50,
+      "type": "action",
+      "text": "He has EKG cups on his chest, a tube up his nose, and an IV in his arm. The man in the neighboring bed seems to be in pain",
+      "raw_text": "(George lies in the bed. He has EKG cups on his chest, a tube up his nose, and an IV in his arm. The man in the neighboring bed seems to be in pain)",
+      "confidence": 0.75
+    },
+    {
+      "entry_id": 51,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "Ooohhh... Argghhh..",
+      "raw_text": "Ooohhh... Argghhh.."
+    },
+    {
+      "entry_id": 52,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Are.. are you okay?",
+      "raw_text": "Are.. are you okay?"
+    },
+    {
+      "entry_id": 53,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "Ooooooohhh..",
+      "raw_text": "Ooooooohhh.."
+    },
+    {
+      "entry_id": 54,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I'm George.. George Costanza.. I've never been in the hospital a day in my life.. except when I had my tonsils out. You know, they never gave me any ice cream. I always felt that-",
+      "raw_text": "I'm George.. George Costanza.. I've never been in the hospital a day in my life.. except when I had my tonsils out. You know, they never gave me any ice cream. I always felt that-"
+    },
+    {
+      "entry_id": 55,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "Shut up! (Scene goes to Jerry. He's standing at the doorway, showing the note to a nurse)",
+      "raw_text": "Shut up! (Scene goes to Jerry. He's standing at the doorway, showing the note to a nurse)"
+    },
+    {
+      "entry_id": 56,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well? What do you think?",
+      "raw_text": "Well? What do you think?"
+    },
+    {
+      "entry_id": 57,
+      "type": "dialogue",
+      "speaker": "NURSE 1",
+      "normalized_speaker": "nurse_1",
+      "text": "\"Salami, salami, bologna.\" Definitely.",
+      "raw_text": "\"Salami, salami, bologna.\" Definitely."
+    },
+    {
+      "entry_id": 58,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "\"Salami salami bologna\"?",
+      "raw_text": "\"Salami salami bologna\"?"
+    },
+    {
+      "entry_id": 59,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Oh, your friend's fine. He didn't have a heart attack. I'll be in - in a few minutes.",
+      "raw_text": "(In a hurry) Oh, your friend's fine. He didn't have a heart attack. I'll be in - in a few minutes.",
+      "parenthetical": "In a hurry"
+    },
+    {
+      "entry_id": 60,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "What a surprise. (Enters George's room overly sympathetic - leading George to think that the Doctor told Jerry something significant) Hey, how ya doin' buddy? You need anything? Do you want me to go out and get you a Superman comic?",
+      "raw_text": "(Sarcastic) What a surprise. (Enters George's room overly sympathetic - leading George to think that the Doctor told Jerry something significant) Hey, how ya doin' buddy? You need anything? Do you want me to go out and get you a Superman comic?",
+      "parenthetical": "Sarcastic"
+    },
+    {
+      "entry_id": 61,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "No, no thanks.",
+      "raw_text": "No, no thanks."
+    },
+    {
+      "entry_id": 62,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You know, I was wondering.. You know that Black Hawks jacket you have?",
+      "raw_text": "(Still going along with the practical joke) You know, I was wondering.. You know that Black Hawks jacket you have?",
+      "parenthetical": "Still going along with the practical joke"
+    },
+    {
+      "entry_id": 63,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh, sure, my Black Hawks jacket. I love my Black Hawks jacket.",
+      "raw_text": "Oh, sure, my Black Hawks jacket. I love my Black Hawks jacket."
+    },
+    {
+      "entry_id": 64,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, you know, I was thinking - if things don't exactly work out..",
+      "raw_text": "Well, you know, I was thinking - if things don't exactly work out.."
+    },
+    {
+      "entry_id": 65,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, it wouldn't fit you. The sleeves are too short.",
+      "raw_text": "Well, it wouldn't fit you. The sleeves are too short."
+    },
+    {
+      "entry_id": 66,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "No, I tried it on. It fits good.",
+      "raw_text": "No, I tried it on. It fits good."
+    },
+    {
+      "entry_id": 67,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, I didn't really think about what I was gonna do with all..",
+      "raw_text": "Well, I didn't really think about what I was gonna do with all.."
+    },
+    {
+      "entry_id": 68,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, you know..",
+      "raw_text": "Well, you know.."
+    },
+    {
+      "entry_id": 69,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, okay.",
+      "raw_text": "(Reluctantly) Well, okay.",
+      "parenthetical": "Reluctantly"
+    },
+    {
+      "entry_id": 70,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Oh, and.. do you think it would be alright if I called Susan Davis?",
+      "raw_text": "Oh, and.. do you think it would be alright if I called Susan Davis?"
+    },
+    {
+      "entry_id": 71,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Susan Davis? (Getting possessive) Hey, wait a second..",
+      "raw_text": "Susan Davis? (Getting possessive) Hey, wait a second.."
+    },
+    {
+      "entry_id": 72,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, it's not like we'd be bumping into you.",
+      "raw_text": "Well, it's not like we'd be bumping into you."
+    },
+    {
+      "entry_id": 73,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I don't know.. you and Susan Davis?",
+      "raw_text": "I don't know.. you and Susan Davis?"
+    },
+    {
+      "entry_id": 74,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You know, if your future was a little more certain..",
+      "raw_text": "You know, if your future was a little more certain.."
+    },
+    {
+      "entry_id": 75,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Okay, go ahead. Call her, get married, have babies, have a great life.. What do I care? I'm finished. (Really depressed) It's all over for me. In fact, let's end it right now. Jerry, kill me, kill me now. I'm begging you. Let's just get it over with. Be a pal.. Just take the pillow and put it over my face.",
+      "raw_text": "Okay, go ahead. Call her, get married, have babies, have a great life.. What do I care? I'm finished. (Really depressed) It's all over for me. In fact, let's end it right now. Jerry, kill me, kill me now. I'm begging you. Let's just get it over with. Be a pal.. Just take the pillow and put it over my face."
+    },
+    {
+      "entry_id": 76,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, ah.. (Takes his pillow) What? Kind of like this? (Violently smothers George with the pillow. George freaks out. He didn't think Jerry would actually do it)",
+      "raw_text": "Well, ah.. (Takes his pillow) What? Kind of like this? (Violently smothers George with the pillow. George freaks out. He didn't think Jerry would actually do it)"
+    },
+    {
+      "entry_id": 77,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What are ya doing?! Whadya, crazy?! (Elaine enters - she gets a clear shot of Jerry's jokingly trying to kill George)",
+      "raw_text": "What are ya doing?! Whadya, crazy?! (Elaine enters - she gets a clear shot of Jerry's jokingly trying to kill George)"
+    },
+    {
+      "entry_id": 78,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Jerry!",
+      "raw_text": "Jerry!"
+    },
+    {
+      "entry_id": 79,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Elaine, what are you doing here? (Takes the pillow off George, and puts it back on his bed)",
+      "raw_text": "Elaine, what are you doing here? (Takes the pillow off George, and puts it back on his bed)",
+      "parenthetical": "Acts like he was cought red-handed"
+    },
+    {
+      "entry_id": 80,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Jerk off.",
+      "raw_text": "(To Jerry) Jerk off.",
+      "parenthetical": "To Jerry"
+    },
+    {
+      "entry_id": 81,
+      "type": "action",
+      "text": "Jerry goes over to Elaine",
+      "raw_text": "(Jerry goes over to Elaine)"
+    },
+    {
+      "entry_id": 82,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "(Whispering) There's nothing wrong with him. I saw the doctor. He's fine. (They both go to George's bed. Elaine decides to go along with Jerry's joke)",
+      "raw_text": "(Whispering) There's nothing wrong with him. I saw the doctor. He's fine. (They both go to George's bed. Elaine decides to go along with Jerry's joke)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 83,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Hi, George. How ya feeling? Is anybody getting your apartment? (Jerry and Elaine both sit down, and have their own conversation. They completely ignore George)",
+      "raw_text": "Hi, George. How ya feeling? Is anybody getting your apartment? (Jerry and Elaine both sit down, and have their own conversation. They completely ignore George)"
+    },
+    {
+      "entry_id": 84,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I'll tell ya, if I ever get out of here, I'm gonna change my life. I'm gonna do a whole Zen thing. Take up yoga, meditate.. I'll eat right. Calm down, lose my anger.. (Sees Jerry and Elaine aren't listening. He snaps) Hey, is anybody listening?! (The doctor enters. Elaine and the doctor exchange an awkward, romantic glance)",
+      "raw_text": "I'll tell ya, if I ever get out of here, I'm gonna change my life. I'm gonna do a whole Zen thing. Take up yoga, meditate.. I'll eat right. Calm down, lose my anger.. (Sees Jerry and Elaine aren't listening. He snaps) Hey, is anybody listening?! (The doctor enters. Elaine and the doctor exchange an awkward, romantic glance)"
+    },
+    {
+      "entry_id": 85,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Uh, hello. (To George) Uh, Mr. Costanza?",
+      "raw_text": "(To Elaine) Uh, hello. (To George) Uh, Mr. Costanza?",
+      "parenthetical": "To Elaine"
+    },
+    {
+      "entry_id": 86,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Uh, yeah. You know, Doctor, I gotta tell you, I feel a lot better.",
+      "raw_text": "(Panicky) Uh, yeah. You know, Doctor, I gotta tell you, I feel a lot better.",
+      "parenthetical": "Panicky"
+    },
+    {
+      "entry_id": 87,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Well, we looked at your EKG's, ran some tests, did a complete work-up.",
+      "raw_text": "Well, we looked at your EKG's, ran some tests, did a complete work-up."
+    },
+    {
+      "entry_id": 88,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh God, Mommy!",
+      "raw_text": "(Getting in a more panicked state) Oh God, Mommy!",
+      "parenthetical": "Getting in a more panicked state"
+    },
+    {
+      "entry_id": 89,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "And you simply haven't had a heart attack.",
+      "raw_text": "And you simply haven't had a heart attack."
+    },
+    {
+      "entry_id": 90,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I haven't? I'm okay? I'm okay? Oh, thank you, thank you, Doctor! I don't know how to thank you.",
+      "raw_text": "(Relieved) I haven't? I'm okay? I'm okay? Oh, thank you, thank you, Doctor! I don't know how to thank you.",
+      "parenthetical": "Relieved"
+    },
+    {
+      "entry_id": 91,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey, that was really fun, George. Can we go home now?",
+      "raw_text": "(Sarcastic) Hey, that was really fun, George. Can we go home now?",
+      "parenthetical": "Sarcastic"
+    },
+    {
+      "entry_id": 92,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "No, actually, we'd like to keep him here overnight for observation, just to be safe.",
+      "raw_text": "No, actually, we'd like to keep him here overnight for observation, just to be safe."
+    },
+    {
+      "entry_id": 93,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh, sure. Sure, anything. Can you believe it? There's nothing wrong with me.",
+      "raw_text": "Oh, sure. Sure, anything. Can you believe it? There's nothing wrong with me."
+    },
+    {
+      "entry_id": 94,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Well, I wouldn't go that far.",
+      "raw_text": "Well, I wouldn't go that far."
+    },
+    {
+      "entry_id": 95,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What? Oh my God. What? Is it meningitis? Scoliosis? Lupis?! Is it Lupis?!",
+      "raw_text": "(Starting to panic again) What? Oh my God. What? Is it meningitis? Scoliosis? Lupis?! Is it Lupis?!",
+      "parenthetical": "Starting to panic again"
+    },
+    {
+      "entry_id": 96,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Have you ever had your tonsils taken out?",
+      "raw_text": "Have you ever had your tonsils taken out?"
+    },
+    {
+      "entry_id": 97,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "My tonsils? Yeah, when I was a kid.",
+      "raw_text": "My tonsils? Yeah, when I was a kid."
+    },
+    {
+      "entry_id": 98,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Well, they've grown back. Your adenoids are swollen too.",
+      "raw_text": "Well, they've grown back. Your adenoids are swollen too."
+    },
+    {
+      "entry_id": 99,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Really?",
+      "raw_text": "Really?"
+    },
+    {
+      "entry_id": 100,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "(Jokingly hits the doctor) Whose tonsils grow back? (Laughs)",
+      "raw_text": "(Jokingly hits the doctor) Whose tonsils grow back? (Laughs)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 101,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "It happens.",
+      "raw_text": "It happens."
+    },
+    {
+      "entry_id": 102,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Yeah, if you've been exposed to gamma rays.",
+      "raw_text": "Yeah, if you've been exposed to gamma rays."
+    },
+    {
+      "entry_id": 103,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I still have my tonsils. Everyone in my family has their tonsils. In fact, we were forbidden to socialize with anyone who didn't have their tonsils.",
+      "raw_text": "I still have my tonsils. Everyone in my family has their tonsils. In fact, we were forbidden to socialize with anyone who didn't have their tonsils."
+    },
+    {
+      "entry_id": 104,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "That's interesting. Because, no one in my family has their tonsils, and we were forbidden to socialize with tonsil people.",
+      "raw_text": "That's interesting. Because, no one in my family has their tonsils, and we were forbidden to socialize with tonsil people."
+    },
+    {
+      "entry_id": 105,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, it's like the Capulets and the Montagues.",
+      "raw_text": "(Sarcastically) Well, it's like the Capulets and the Montagues.",
+      "parenthetical": "Sarcastically"
+    },
+    {
+      "entry_id": 106,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Excuse me!",
+      "raw_text": "(Drawing attention back to him) Excuse me!",
+      "parenthetical": "Drawing attention back to him"
+    },
+    {
+      "entry_id": 107,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Anyway, I strongly recommend they come out.",
+      "raw_text": "Anyway, I strongly recommend they come out."
+    },
+    {
+      "entry_id": 108,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What? You mean with a knife?",
+      "raw_text": "What? You mean with a knife?"
+    },
+    {
+      "entry_id": 109,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Yes. With a knife. You know, snip, snip. Anyway, you'd be completely under, you wouldn't feel a thing. And when you wake up, you can have some ice cream.",
+      "raw_text": "Yes. With a knife. You know, snip, snip. Anyway, you'd be completely under, you wouldn't feel a thing. And when you wake up, you can have some ice cream."
+    },
+    {
+      "entry_id": 110,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yeah, that's what they told me the last time.",
+      "raw_text": "(Angry) Yeah, that's what they told me the last time.",
+      "parenthetical": "Angry"
+    },
+    {
+      "entry_id": 111,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Think about it. (Turns to leave, but runs into Elaine) Excuse me.",
+      "raw_text": "Think about it. (Turns to leave, but runs into Elaine) Excuse me."
+    },
+    {
+      "entry_id": 112,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "I just.. have to ask that doctor one more question. (Leaves)",
+      "raw_text": "I just.. have to ask that doctor one more question. (Leaves)",
+      "parenthetical": "Flustered) Oh, I'm sorry. (Doctor exits"
+    },
+    {
+      "entry_id": 113,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Women go after doctors like men go after models. They want someone with knowledge of the body.. we just want the body.",
+      "raw_text": "Women go after doctors like men go after models. They want someone with knowledge of the body.. we just want the body."
+    },
+    {
+      "entry_id": 114,
+      "type": "action",
+      "text": "Kramer enters, eating off a tray of hospital food",
+      "raw_text": "(Kramer enters, eating off a tray of hospital food)"
+    },
+    {
+      "entry_id": 115,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey.",
+      "raw_text": "Hey."
+    },
+    {
+      "entry_id": 116,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey.",
+      "raw_text": "Hey."
+    },
+    {
+      "entry_id": 117,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Boy, they got a great cafeteria downstairs. Hot food, sandwiches, a salad bar.. It's like a Sizzler's opened up a hospital! (Sits and starts eating) So, how did you have a heart attack? You're a young man. What were you doing? Are they gonna do a zipper job? Oh, they love to do zipper jobs.",
+      "raw_text": "Boy, they got a great cafeteria downstairs. Hot food, sandwiches, a salad bar.. It's like a Sizzler's opened up a hospital! (Sits and starts eating) So, how did you have a heart attack? You're a young man. What were you doing? Are they gonna do a zipper job? Oh, they love to do zipper jobs."
+    },
+    {
+      "entry_id": 118,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Kramer.",
+      "raw_text": "(Trying to shut him up) Kramer.",
+      "parenthetical": "Trying to shut him up"
+    },
+    {
+      "entry_id": 119,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "The really bad thing about the heart is the sex thing. See, you gotta be careful about sex now. You get that heart pumping and suddenly, boom! Next thing you know, you got a hose coming out of your chest attached to a piece of luggage.",
+      "raw_text": "The really bad thing about the heart is the sex thing. See, you gotta be careful about sex now. You get that heart pumping and suddenly, boom! Next thing you know, you got a hose coming out of your chest attached to a piece of luggage."
+    },
+    {
+      "entry_id": 120,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Kramer, George didn't have a heart attack.",
+      "raw_text": "Kramer, George didn't have a heart attack."
+    },
+    {
+      "entry_id": 121,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "No? That's good.",
+      "raw_text": "No? That's good."
+    },
+    {
+      "entry_id": 122,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I have to have my tonsils taken out.",
+      "raw_text": "I have to have my tonsils taken out."
+    },
+    {
+      "entry_id": 123,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh man.. No.. George, we gotta get you outta here. Get out! Right now! They'll kill ya in here.",
+      "raw_text": "Oh man.. No.. George, we gotta get you outta here. Get out! Right now! They'll kill ya in here."
+    },
+    {
+      "entry_id": 124,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "It's routine surgery.",
+      "raw_text": "(Trying to calm George down) It's routine surgery.",
+      "parenthetical": "Trying to calm George down"
+    },
+    {
+      "entry_id": 125,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Oh yeah? My friend, Bob Saccomanno, he came in here for a hernia operation.. Oh yeah, routine surgery.. now he's sittin' around in a chair by a window going, \"My name is Bob\" .. George, whatever you do, don't let 'em cut you. Don't let 'em cut you..",
+      "raw_text": "Oh yeah? My friend, Bob Saccomanno, he came in here for a hernia operation.. Oh yeah, routine surgery.. now he's sittin' around in a chair by a window going, \"My name is Bob\" .. George, whatever you do, don't let 'em cut you. Don't let 'em cut you.."
+    },
+    {
+      "entry_id": 126,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Well, what should I do, Kramer?",
+      "raw_text": "Well, what should I do, Kramer?"
+    },
+    {
+      "entry_id": 127,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, for one think, don't listen to him.",
+      "raw_text": "Well, for one think, don't listen to him."
+    },
+    {
+      "entry_id": 128,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I'll tell you what to do, I'll tell you what to do. You go to Tor Eckman. Tor, Tor, he'll fix you right up. He's a herbalist, a healer, George. He's not just gonna fix the tonsils and the adenoids, he is gonna change the whole way you function - body and mind.",
+      "raw_text": "I'll tell you what to do, I'll tell you what to do. You go to Tor Eckman. Tor, Tor, he'll fix you right up. He's a herbalist, a healer, George. He's not just gonna fix the tonsils and the adenoids, he is gonna change the whole way you function - body and mind."
+    },
+    {
+      "entry_id": 129,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Eckman? I thought he was doing time?",
+      "raw_text": "Eckman? I thought he was doing time?"
+    },
+    {
+      "entry_id": 130,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "No, no, he's out. He got out. See, the medical establishment, see, they tried to frame him. It's all politics. But he's a rebel.",
+      "raw_text": "No, no, he's out. He got out. See, the medical establishment, see, they tried to frame him. It's all politics. But he's a rebel."
+    },
+    {
+      "entry_id": 131,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "A rebel? No. Johnny Yuma was a rebel. Eckman is a nut. George, you want to take care of your tonsils, you do it in a hospital. With a doctor.",
+      "raw_text": "A rebel? No. Johnny Yuma was a rebel. Eckman is a nut. George, you want to take care of your tonsils, you do it in a hospital. With a doctor."
+    },
+    {
+      "entry_id": 132,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "He's holistic, George. He's holistic.",
+      "raw_text": "He's holistic, George. He's holistic."
+    },
+    {
+      "entry_id": 133,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Holistic.. that sounds right.",
+      "raw_text": "Holistic.. that sounds right."
+    },
+    {
+      "entry_id": 134,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "George, you need a medical doctor.",
+      "raw_text": "George, you need a medical doctor."
+    },
+    {
+      "entry_id": 135,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Let me ask you something.. How much do you think it would cost to have tonsils and adenoids removed in the hospital?",
+      "raw_text": "(To Jerry) Let me ask you something.. How much do you think it would cost to have tonsils and adenoids removed in the hospital?",
+      "parenthetical": "To Jerry"
+    },
+    {
+      "entry_id": 136,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Well, an overnight stay in a hospital? Minor surgery? I dunno, four grand.",
+      "raw_text": "Well, an overnight stay in a hospital? Minor surgery? I dunno, four grand."
+    },
+    {
+      "entry_id": 137,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Uh-huh. And how much does the healer charge?",
+      "raw_text": "Uh-huh. And how much does the healer charge?"
+    },
+    {
+      "entry_id": 138,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "First visit? Thirty-eight bucks.",
+      "raw_text": "First visit? Thirty-eight bucks."
+    },
+    {
+      "entry_id": 139,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Oh, yeah? Holistic.. that's what I need. That's the answer.",
+      "raw_text": "Oh, yeah? Holistic.. that's what I need. That's the answer."
+    },
+    {
+      "entry_id": 140,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 141,
+      "type": "scene_heading",
+      "text": "[Setting: Healer's apartment]",
+      "raw_text": "(Healer's apartment)",
+      "confidence": 0.9,
+      "location": "Healer's apartment",
+      "normalized_location": "healer_s_apartment"
+    },
+    {
+      "entry_id": 142,
+      "type": "action",
+      "text": "Jerry and George are sitting on huge pillows on the apartment floor. Kramers fiddling with an acupuncture model",
+      "raw_text": "(Jerry and George are sitting on huge pillows on the apartment floor. Kramers fiddling with an acupuncture model)"
+    },
+    {
+      "entry_id": 143,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "So, how do you like the way I talked you into comin' down here?",
+      "raw_text": "So, how do you like the way I talked you into comin' down here?"
+    },
+    {
+      "entry_id": 144,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Don't flatter yourself, my friend. I'm here strictly for material, and I have a feeling this is a potential gold mine.. I still think you're nuts, though.",
+      "raw_text": "Don't flatter yourself, my friend. I'm here strictly for material, and I have a feeling this is a potential gold mine.. I still think you're nuts, though."
+    },
+    {
+      "entry_id": 145,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "All I know is I've been going to doctors all my life. What has it gotten me? I'm thirty-three years old. I haven't outgrown the problems of puberty, I'm already facing the problems of old age. I completely skipped healthy adulthood. I went from having orgasms immediately to taking forever. You could do your taxes in the time it takes me to have an orgasm. I've never had a normal, medium orgasm.",
+      "raw_text": "All I know is I've been going to doctors all my life. What has it gotten me? I'm thirty-three years old. I haven't outgrown the problems of puberty, I'm already facing the problems of old age. I completely skipped healthy adulthood. I went from having orgasms immediately to taking forever. You could do your taxes in the time it takes me to have an orgasm. I've never had a normal, medium orgasm."
+    },
+    {
+      "entry_id": 146,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I've never had a really good pickle.",
+      "raw_text": "(Jokingly making fun of George) I've never had a really good pickle.",
+      "parenthetical": "Jokingly making fun of George"
+    },
+    {
+      "entry_id": 147,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Besides, what's it gonna cost me? Thirty-eight bucks? (Tor enters. He hugs Kramer for a long time, then walks over to Jerry and George)",
+      "raw_text": "Besides, what's it gonna cost me? Thirty-eight bucks? (Tor enters. He hugs Kramer for a long time, then walks over to Jerry and George)"
+    },
+    {
+      "entry_id": 148,
+      "type": "dialogue",
+      "speaker": "TOR",
+      "normalized_speaker": "tor",
+      "text": "Would you not put your foot on that please?",
+      "raw_text": "(To Jerry) Would you not put your foot on that please?",
+      "parenthetical": "To Jerry"
+    },
+    {
+      "entry_id": 149,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Sorry.",
+      "raw_text": "Sorry."
+    },
+    {
+      "entry_id": 150,
+      "type": "action",
+      "text": "Tor sits down, and turns tward George",
+      "raw_text": "(Tor sits down, and turns tward George)"
+    },
+    {
+      "entry_id": 151,
+      "type": "dialogue",
+      "speaker": "TOR",
+      "normalized_speaker": "tor",
+      "text": "What month were you born?",
+      "raw_text": "What month were you born?"
+    },
+    {
+      "entry_id": 152,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "April.",
+      "raw_text": "April."
+    },
+    {
+      "entry_id": 153,
+      "type": "dialogue",
+      "speaker": "TOR",
+      "normalized_speaker": "tor",
+      "text": "You should have been born in August. Your parents would have been well-advised to wait.",
+      "raw_text": "You should have been born in August. Your parents would have been well-advised to wait."
+    },
+    {
+      "entry_id": 154,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Really?",
+      "raw_text": "Really?"
+    },
+    {
+      "entry_id": 155,
+      "type": "dialogue",
+      "speaker": "TOR",
+      "normalized_speaker": "tor",
+      "text": "Do you use hot water in the shower?",
+      "raw_text": "Do you use hot water in the shower?"
+    },
+    {
+      "entry_id": 156,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yes.",
+      "raw_text": "Yes."
+    },
+    {
+      "entry_id": 157,
+      "type": "dialogue",
+      "speaker": "TOR",
+      "normalized_speaker": "tor",
+      "text": "Stop using it.",
+      "raw_text": "Stop using it."
+    },
+    {
+      "entry_id": 158,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "..Okay.",
+      "raw_text": "..Okay."
+    },
+    {
+      "entry_id": 159,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "I'm off hot water.",
+      "raw_text": "I'm off hot water."
+    },
+    {
+      "entry_id": 160,
+      "type": "dialogue",
+      "speaker": "TOR",
+      "normalized_speaker": "tor",
+      "text": "Kramer tells me that you are interested in an alternative to surgery.",
+      "raw_text": "Kramer tells me that you are interested in an alternative to surgery."
+    },
+    {
+      "entry_id": 161,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Yes, yes I am.",
+      "raw_text": "Yes, yes I am."
+    },
+    {
+      "entry_id": 162,
+      "type": "dialogue",
+      "speaker": "TOR",
+      "normalized_speaker": "tor",
+      "text": "I think we can help you. See, unfortunately, the medical establishment is a business like any other business. And business needs customers. And, they want to sell you their most expensive item which is unnecessary surgery.",
+      "raw_text": "(Blows into George's face) I think we can help you. See, unfortunately, the medical establishment is a business like any other business. And business needs customers. And, they want to sell you their most expensive item which is unnecessary surgery.",
+      "parenthetical": "Blows into George's face"
+    },
+    {
+      "entry_id": 163,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Can I use hot water on my face?",
+      "raw_text": "(Still on the showers) Can I use hot water on my face?",
+      "parenthetical": "Still on the showers"
+    },
+    {
+      "entry_id": 164,
+      "type": "dialogue",
+      "speaker": "TOR",
+      "normalized_speaker": "tor",
+      "text": "No. You know, I am not a business man. I'm a holistic healer. It's a calling, it's a gift. You see, it's in the best interest of the medical profession that you remain sick. You see, that insures good business. You're not a patient. You're a customer.",
+      "raw_text": "No. You know, I am not a business man. I'm a holistic healer. It's a calling, it's a gift. You see, it's in the best interest of the medical profession that you remain sick. You see, that insures good business. You're not a patient. You're a customer."
+    },
+    {
+      "entry_id": 165,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "And you're not a doctor, but you play one in real life.",
+      "raw_text": "(He thinks this, the audience can hear his thoughts) And you're not a doctor, but you play one in real life.",
+      "parenthetical": "He thinks this, the audience can hear his thoughts"
+    },
+    {
+      "entry_id": 166,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "What about shaving?",
+      "raw_text": "(Still on the hot water) What about shaving?",
+      "parenthetical": "Still on the hot water"
+    },
+    {
+      "entry_id": 167,
+      "type": "dialogue",
+      "speaker": "TOR",
+      "normalized_speaker": "tor",
+      "text": "(To Jerry) You're eating too much dairy. (To George) May I? (Reaches over, and touches George's face)",
+      "raw_text": "(To Jerry) You're eating too much dairy. (To George) May I? (Reaches over, and touches George's face)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 168,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I guess so.",
+      "raw_text": "I guess so."
+    },
+    {
+      "entry_id": 169,
+      "type": "dialogue",
+      "speaker": "TOR",
+      "normalized_speaker": "tor",
+      "text": "You see, you are in disharmony. The throat is the gateway to the lung. Tonsillitis, adenoiditis, is, in Chinese medical terms, and invasion of heat and wind.",
+      "raw_text": "(Feeling George's face) You see, you are in disharmony. The throat is the gateway to the lung. Tonsillitis, adenoiditis, is, in Chinese medical terms, and invasion of heat and wind.",
+      "parenthetical": "Feeling George's face"
+    },
+    {
+      "entry_id": 170,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "There's some hot air blowing in here..",
+      "raw_text": "(Again, we hear his thoughts) There's some hot air blowing in here..",
+      "parenthetical": "Again, we hear his thoughts"
+    },
+    {
+      "entry_id": 171,
+      "type": "dialogue",
+      "speaker": "TOR",
+      "normalized_speaker": "tor",
+      "text": "You know, I lived with the Eskimos many years ago, and they used to plunge their faces into the snow.",
+      "raw_text": "You know, I lived with the Eskimos many years ago, and they used to plunge their faces into the snow."
+    },
+    {
+      "entry_id": 172,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Could it be lukewarm?",
+      "raw_text": "(Once again, still on the shower) Could it be lukewarm?",
+      "parenthetical": "Once again, still on the shower"
+    },
+    {
+      "entry_id": 173,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Too much dairy? You really think I'm eating too much dairy?",
+      "raw_text": "Too much dairy? You really think I'm eating too much dairy?"
+    },
+    {
+      "entry_id": 174,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 175,
+      "type": "scene_heading",
+      "text": "[Setting: Doctor's car]",
+      "raw_text": "(Doctor's car)",
+      "confidence": 0.9,
+      "location": "Doctor's car",
+      "normalized_location": "doctor_s_car"
+    },
+    {
+      "entry_id": 176,
+      "type": "action",
+      "text": "The Doctor and Elaine are almost done with their date. the doctor is speaking seductively to Elaine while holding out her tongue",
+      "raw_text": "(The Doctor and Elaine are almost done with their date. the doctor is speaking seductively to Elaine while holding out her tongue)"
+    },
+    {
+      "entry_id": 177,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "..The tongue.. yes, the tongue.. or, in medical terms, the glossa. It's a muscular organ.. Consists of two parts.. the body, and the root.. You see, it's covered by this mucous membrane.. These little raised projections are the papillae, which give it that furry appearance. Very tactile..",
+      "raw_text": "..The tongue.. yes, the tongue.. or, in medical terms, the glossa. It's a muscular organ.. Consists of two parts.. the body, and the root.. You see, it's covered by this mucous membrane.. These little raised projections are the papillae, which give it that furry appearance. Very tactile.."
+    },
+    {
+      "entry_id": 178,
+      "type": "scene_heading",
+      "text": "[Setting: The Doctor is still holding her tongue]",
+      "raw_text": "(The Doctor is still holding her tongue)",
+      "confidence": 0.9,
+      "location": "The Doctor is still holding her tongue",
+      "normalized_location": "the_doctor_is_still_holding_her_tongue"
+    },
+    {
+      "entry_id": 179,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Uh-huh.",
+      "raw_text": "Uh-huh."
+    },
+    {
+      "entry_id": 180,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 181,
+      "type": "scene_heading",
+      "text": "[Setting: Healer's apartment]",
+      "raw_text": "(Healer's apartment)",
+      "confidence": 0.9,
+      "location": "Healer's apartment",
+      "normalized_location": "healer_s_apartment"
+    },
+    {
+      "entry_id": 182,
+      "type": "dialogue",
+      "speaker": "TOR",
+      "normalized_speaker": "tor",
+      "text": "Your tea is ready now. This will solve your so-called tonsil problem. It's a special concoction. It contains crampbark.",
+      "raw_text": "(Pouring tea) Your tea is ready now. This will solve your so-called tonsil problem. It's a special concoction. It contains crampbark.",
+      "parenthetical": "Pouring tea"
+    },
+    {
+      "entry_id": 183,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I love crampbark.",
+      "raw_text": "I love crampbark."
+    },
+    {
+      "entry_id": 184,
+      "type": "dialogue",
+      "speaker": "TOR",
+      "normalized_speaker": "tor",
+      "text": "Cleavers.",
+      "raw_text": "Cleavers."
+    },
+    {
+      "entry_id": 185,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Cleaver, I once had cleaver as a kid. I was able to lift a car.",
+      "raw_text": "Cleaver, I once had cleaver as a kid. I was able to lift a car."
+    },
+    {
+      "entry_id": 186,
+      "type": "dialogue",
+      "speaker": "TOR",
+      "normalized_speaker": "tor",
+      "text": "And some couchgrass.",
+      "raw_text": "And some couchgrass."
+    },
+    {
+      "entry_id": 187,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Couchgrass and crampbark? You know, I think that's what killed Curly. (Tor hands George the tea. George isn't willing to drink it right away. Jerry looks skeptical, Kramer, on the other hand, is enthusiastic)",
+      "raw_text": "Couchgrass and crampbark? You know, I think that's what killed Curly. (Tor hands George the tea. George isn't willing to drink it right away. Jerry looks skeptical, Kramer, on the other hand, is enthusiastic)"
+    },
+    {
+      "entry_id": 188,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Go ahead, drink it, George.",
+      "raw_text": "Go ahead, drink it, George."
+    },
+    {
+      "entry_id": 189,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Excuse me, Tor. May I ask you a question? You have intuitive abilities. You're in touch with a lot of this cosmic kind of things.. I have this note I can't read. I was wondering if-",
+      "raw_text": "Excuse me, Tor. May I ask you a question? You have intuitive abilities. You're in touch with a lot of this cosmic kind of things.. I have this note I can't read. I was wondering if-"
+    },
+    {
+      "entry_id": 190,
+      "type": "dialogue",
+      "speaker": "TOR",
+      "normalized_speaker": "tor",
+      "text": "(Takes the note, then laughs when he reads it) Oh, yes.. yes.. \"Cleveland 117, San Antonio 109.. (Hands note back to Jerry)",
+      "raw_text": "(Takes the note, then laughs when he reads it) Oh, yes.. yes.. \"Cleveland 117, San Antonio 109.. (Hands note back to Jerry)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 191,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Go ahead, drink it, George.",
+      "raw_text": "Go ahead, drink it, George."
+    },
+    {
+      "entry_id": 192,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Hey, it's not too bad..",
+      "raw_text": "(Takes a sip) Hey, it's not too bad..",
+      "parenthetical": "Takes a sip"
+    },
+    {
+      "entry_id": 193,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 194,
+      "type": "scene_heading",
+      "text": "[Setting: Ambulance]",
+      "raw_text": "(Ambulance)",
+      "confidence": 0.9,
+      "location": "Ambulance",
+      "normalized_location": "ambulance"
+    },
+    {
+      "entry_id": 195,
+      "type": "scene_heading",
+      "text": "[Setting: George's strapped down on a gurney]",
+      "raw_text": "(George's strapped down on a gurney. His face is purple, and he's screaming. Jerry and Kramer are trying to calm him down. The driver and the assistant in the back are having a huge fight)",
+      "confidence": 0.9,
+      "location": "George's strapped down on a gurney",
+      "normalized_location": "george_s_strapped_down_on_a_gurney",
+      "inference_notes": [
+        "Scene heading and opening action were split from a single parenthetical source line."
+      ]
+    },
+    {
+      "entry_id": 196,
+      "type": "action",
+      "text": "His face is purple, and he's screaming. Jerry and Kramer are trying to calm him down. The driver and the assistant in the back are having a huge fight",
+      "raw_text": "(George's strapped down on a gurney. His face is purple, and he's screaming. Jerry and Kramer are trying to calm him down. The driver and the assistant in the back are having a huge fight)",
+      "confidence": 0.75
+    },
+    {
+      "entry_id": 197,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "I'm an eggplant! I'm an eggplant! I'm a minstrel man!",
+      "raw_text": "(In a state of hysteria) I'm an eggplant! I'm an eggplant! I'm a minstrel man!",
+      "parenthetical": "In a state of hysteria"
+    },
+    {
+      "entry_id": 198,
+      "type": "dialogue",
+      "speaker": "DRIVER",
+      "normalized_speaker": "driver",
+      "text": "I didn't take your Chuckle, man!",
+      "raw_text": "(To Assistant) I didn't take your Chuckle, man!",
+      "parenthetical": "To Assistant"
+    },
+    {
+      "entry_id": 199,
+      "type": "dialogue",
+      "speaker": "ASSISTANT",
+      "normalized_speaker": "assistant",
+      "text": "I had five Chuckles. I ate a green one, and the yellow one, and the red one is missing!",
+      "raw_text": "I had five Chuckles. I ate a green one, and the yellow one, and the red one is missing!"
+    },
+    {
+      "entry_id": 200,
+      "type": "dialogue",
+      "speaker": "DRIVER",
+      "normalized_speaker": "driver",
+      "text": "I don't even like Chuckles!",
+      "raw_text": "I don't even like Chuckles!"
+    },
+    {
+      "entry_id": 201,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Maybe he doesn't like them. That's possible.",
+      "raw_text": "(To Assistant) Maybe he doesn't like them. That's possible.",
+      "parenthetical": "To Assistant"
+    },
+    {
+      "entry_id": 202,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "My face! My face! Get me to the hospital!",
+      "raw_text": "My face! My face! Get me to the hospital!"
+    },
+    {
+      "entry_id": 203,
+      "type": "dialogue",
+      "speaker": "ASSISTANT",
+      "normalized_speaker": "assistant",
+      "text": "I want that Chuckle! You hear me?!",
+      "raw_text": "I want that Chuckle! You hear me?!"
+    },
+    {
+      "entry_id": 204,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I'll get you a Chuckle. You want me to get you a Chuckle?",
+      "raw_text": "(To Assistant) I'll get you a Chuckle. You want me to get you a Chuckle?",
+      "parenthetical": "To Assistant"
+    },
+    {
+      "entry_id": 205,
+      "type": "dialogue",
+      "speaker": "ASSISTANT",
+      "normalized_speaker": "assistant",
+      "text": "Pull over!",
+      "raw_text": "(Angry, to Driver) Pull over!",
+      "parenthetical": "Angry, to Driver"
+    },
+    {
+      "entry_id": 206,
+      "type": "dialogue",
+      "speaker": "DRIVER",
+      "normalized_speaker": "driver",
+      "text": "Pull over? Did you say pull over?! You want a piece of me?!",
+      "raw_text": "Pull over? Did you say pull over?! You want a piece of me?!"
+    },
+    {
+      "entry_id": 207,
+      "type": "dialogue",
+      "speaker": "ASSISTANT",
+      "normalized_speaker": "assistant",
+      "text": "Yeah!",
+      "raw_text": "Yeah!"
+    },
+    {
+      "entry_id": 208,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You're gonna fight?",
+      "raw_text": "You're gonna fight?"
+    },
+    {
+      "entry_id": 209,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "Now?! I'm a mutant!",
+      "raw_text": "Now?! I'm a mutant!"
+    },
+    {
+      "entry_id": 210,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey, let me drive.",
+      "raw_text": "(To Driver) Hey, let me drive.",
+      "parenthetical": "To Driver"
+    },
+    {
+      "entry_id": 211,
+      "type": "dialogue",
+      "speaker": "ASSISTANT",
+      "normalized_speaker": "assistant",
+      "text": "Come on, man. Pull over!",
+      "raw_text": "Come on, man. Pull over!"
+    },
+    {
+      "entry_id": 212,
+      "type": "dialogue",
+      "speaker": "DRIVER",
+      "normalized_speaker": "driver",
+      "text": "Alright! I'm gonna mess you up, man! (Ambulance comes to a screeching halt. Driver gets out, and the assistant heads for the back door)",
+      "raw_text": "Alright! I'm gonna mess you up, man! (Ambulance comes to a screeching halt. Driver gets out, and the assistant heads for the back door)"
+    },
+    {
+      "entry_id": 213,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Really, gentlemen, please.",
+      "raw_text": "(Pleading) Really, gentlemen, please.",
+      "parenthetical": "Pleading"
+    },
+    {
+      "entry_id": 214,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "My heart! My heart! (To Assistant) Where you going? Are you crazy?!",
+      "raw_text": "My heart! My heart! (To Assistant) Where you going? Are you crazy?!"
+    },
+    {
+      "entry_id": 215,
+      "type": "dialogue",
+      "speaker": "ASSISTANT",
+      "normalized_speaker": "assistant",
+      "text": "I'm gonna kick his ass.",
+      "raw_text": "I'm gonna kick his ass."
+    },
+    {
+      "entry_id": 216,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Hey, you have keys?",
+      "raw_text": "(To Assistant) Hey, you have keys?",
+      "parenthetical": "To Assistant"
+    },
+    {
+      "entry_id": 217,
+      "type": "dialogue",
+      "speaker": "GEORGE",
+      "normalized_speaker": "george",
+      "text": "You can't leave! This is an ambulance! This is an emergency! (The Assistant leaves. Jerry, Kramer, and George watch the two fight)",
+      "raw_text": "You can't leave! This is an ambulance! This is an emergency! (The Assistant leaves. Jerry, Kramer, and George watch the two fight)"
+    },
+    {
+      "entry_id": 218,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "All this for a Chuckle.",
+      "raw_text": "All this for a Chuckle."
+    },
+    {
+      "entry_id": 219,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "What's a Chuckle?",
+      "raw_text": "What's a Chuckle?"
+    },
+    {
+      "entry_id": 220,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "It's a jelly candy. it comes in five flavors.",
+      "raw_text": "It's a jelly candy. it comes in five flavors."
+    },
+    {
+      "entry_id": 221,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 222,
+      "type": "scene_heading",
+      "text": "[Setting: Doctor's car]",
+      "raw_text": "(Doctor's car)",
+      "confidence": 0.9,
+      "location": "Doctor's car",
+      "normalized_location": "doctor_s_car"
+    },
+    {
+      "entry_id": 223,
+      "type": "scene_heading",
+      "text": "[Setting: He's still holding Elaine's tongue]",
+      "raw_text": "(He's still holding Elaine's tongue)",
+      "confidence": 0.9,
+      "location": "He's still holding Elaine's tongue",
+      "normalized_location": "he_s_still_holding_elaine_s_tongue"
+    },
+    {
+      "entry_id": 224,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "You see, taste buds run on grooves along the surfaces.",
+      "raw_text": "You see, taste buds run on grooves along the surfaces."
+    },
+    {
+      "entry_id": 225,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Can you let go of my tongue now?",
+      "raw_text": "Can you let go of my tongue now?"
+    },
+    {
+      "entry_id": 226,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "What?",
+      "raw_text": "What?"
+    },
+    {
+      "entry_id": 227,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Let go of my tongue!",
+      "raw_text": "Let go of my tongue!"
+    },
+    {
+      "entry_id": 228,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "Oh, sorry.",
+      "raw_text": "(Lets go) Oh, sorry.",
+      "parenthetical": "Lets go"
+    },
+    {
+      "entry_id": 229,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Well, I should get going.. (The Doctor leans in for a kiss. Elaine stops him) What are you doing?",
+      "raw_text": "Well, I should get going.. (The Doctor leans in for a kiss. Elaine stops him) What are you doing?"
+    },
+    {
+      "entry_id": 230,
+      "type": "dialogue",
+      "speaker": "DOCTOR",
+      "normalized_speaker": "doctor",
+      "text": "I was going to kiss you good night.",
+      "raw_text": "I was going to kiss you good night."
+    },
+    {
+      "entry_id": 231,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "A kiss? With the tongue? The glossa with the bumps and the papillae? ..Yech, I don't think so. (Leaves)",
+      "raw_text": "A kiss? With the tongue? The glossa with the bumps and the papillae? ..Yech, I don't think so. (Leaves)"
+    },
+    {
+      "entry_id": 232,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 233,
+      "type": "scene_heading",
+      "text": "[Setting: Ambulance]",
+      "raw_text": "(Ambulance)",
+      "confidence": 0.9,
+      "location": "Ambulance",
+      "normalized_location": "ambulance"
+    },
+    {
+      "entry_id": 234,
+      "type": "scene_heading",
+      "text": "[Setting: It's now moving]",
+      "raw_text": "(It's now moving. The driver's behind the wheel, but the assistant is nowhere in sight)",
+      "confidence": 0.9,
+      "location": "It's now moving",
+      "normalized_location": "it_s_now_moving",
+      "inference_notes": [
+        "Scene heading and opening action were split from a single parenthetical source line."
+      ]
+    },
+    {
+      "entry_id": 235,
+      "type": "action",
+      "text": "The driver's behind the wheel, but the assistant is nowhere in sight",
+      "raw_text": "(It's now moving. The driver's behind the wheel, but the assistant is nowhere in sight)",
+      "confidence": 0.75
+    },
+    {
+      "entry_id": 236,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "You just can't leave him out there.",
+      "raw_text": "You just can't leave him out there."
+    },
+    {
+      "entry_id": 237,
+      "type": "dialogue",
+      "speaker": "DRIVER",
+      "normalized_speaker": "driver",
+      "text": "I told him I was gonna mess him up.",
+      "raw_text": "I told him I was gonna mess him up."
+    },
+    {
+      "entry_id": 238,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "Well, can you call him an ambulance?",
+      "raw_text": "Well, can you call him an ambulance?"
+    },
+    {
+      "entry_id": 239,
+      "type": "dialogue",
+      "speaker": "DRIVER",
+      "normalized_speaker": "driver",
+      "text": "I told him I didn't take his Chuckle. I don't eat that gooey crap!",
+      "raw_text": "I told him I didn't take his Chuckle. I don't eat that gooey crap!"
+    },
+    {
+      "entry_id": 240,
+      "type": "dialogue",
+      "speaker": "KRAMER",
+      "normalized_speaker": "kramer",
+      "text": "hey, watch the road! Watch the road, man!",
+      "raw_text": "hey, watch the road! Watch the road, man!"
+    },
+    {
+      "entry_id": 241,
+      "type": "dialogue",
+      "speaker": "DRIVER",
+      "normalized_speaker": "driver",
+      "text": "Hey, man, you want some of what he got?!",
+      "raw_text": "(Turns back, facing Kramer) Hey, man, you want some of what he got?!",
+      "parenthetical": "Turns back, facing Kramer"
+    },
+    {
+      "entry_id": 242,
+      "type": "dialogue",
+      "speaker": "JERRY AND KRAMER",
+      "normalized_speaker": "jerry_and_kramer",
+      "text": "Watch out!",
+      "raw_text": "Watch out!"
+    },
+    {
+      "entry_id": 243,
+      "type": "scene_heading",
+      "text": "[Setting: The Ambulance crashes into something]",
+      "raw_text": "(The Ambulance crashes into something)",
+      "confidence": 0.9,
+      "location": "The Ambulance crashes into something",
+      "normalized_location": "the_ambulance_crashes_into_something"
+    },
+    {
+      "entry_id": 244,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 245,
+      "type": "scene_heading",
+      "text": "[Setting: Hospital room]",
+      "raw_text": "(Hospital room)",
+      "confidence": 0.9,
+      "location": "Hospital room",
+      "normalized_location": "hospital_room"
+    },
+    {
+      "entry_id": 246,
+      "type": "action",
+      "text": "George is in the bed, watching TV, wearing a neck brace. Jerry enters limping and wearing a neck brace, also. He talks to George, but George can't respond verbally",
+      "raw_text": "(George is in the bed, watching TV, wearing a neck brace. Jerry enters limping and wearing a neck brace, also. He talks to George, but George can't respond verbally)"
+    },
+    {
+      "entry_id": 247,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "How ya doing? (George nods) Can't talk? (George shakes his head. Jerry gestures to his brace) Hey, how'd you get the plastic one? (George raises his eyebrows) I like that. (George sticks his tongue out) So how's life without tonsils? (George quickly indicates with his arm that he wants ice cream) What? What's that? ..So, how much is this thing gonna cost you now? Like, five, six thousand?.. (George signals that it's more) Well, live and learn.. at least we lived. Kramer went to Eckman.. He feels better alreadyy.. (George motions for ice cream again) What are you doing?",
+      "raw_text": "How ya doing? (George nods) Can't talk? (George shakes his head. Jerry gestures to his brace) Hey, how'd you get the plastic one? (George raises his eyebrows) I like that. (George sticks his tongue out) So how's life without tonsils? (George quickly indicates with his arm that he wants ice cream) What? What's that? ..So, how much is this thing gonna cost you now? Like, five, six thousand?.. (George signals that it's more) Well, live and learn.. at least we lived. Kramer went to Eckman.. He feels better alreadyy.. (George motions for ice cream again) What are you doing?"
+    },
+    {
+      "entry_id": 248,
+      "type": "action",
+      "text": "Elaine enters",
+      "raw_text": "(Elaine enters)"
+    },
+    {
+      "entry_id": 249,
+      "type": "dialogue",
+      "speaker": "ELAINE",
+      "normalized_speaker": "elaine",
+      "text": "Oh, poor George. Oh, I'm sorry, but I can't stay long. I don't want to run into Doctor Tongue.. Here, I brought you something. (Takes out a pint of ice cream. George gets excited) Oh, please, come on.. it was nothing.",
+      "raw_text": "Oh, poor George. Oh, I'm sorry, but I can't stay long. I don't want to run into Doctor Tongue.. Here, I brought you something. (Takes out a pint of ice cream. George gets excited) Oh, please, come on.. it was nothing."
+    },
+    {
+      "entry_id": 250,
+      "type": "action",
+      "text": "Nurse enters",
+      "raw_text": "(Nurse enters)"
+    },
+    {
+      "entry_id": 251,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "Hey, check the TV. (The TV is showing the same exact movie Jerry was watching at the start of the show)",
+      "raw_text": "Hey, check the TV. (The TV is showing the same exact movie Jerry was watching at the start of the show)"
+    },
+    {
+      "entry_id": 252,
+      "type": "dialogue",
+      "speaker": "TV VOICE",
+      "normalized_speaker": "tv_voice",
+      "text": "It's just as you prophesied. The planets of our solar system, incinerating. Like flaming globes, Sigmond. Like flaming globes. Ah, ha, ha, ha..",
+      "raw_text": "(Germanic) It's just as you prophesied. The planets of our solar system, incinerating. Like flaming globes, Sigmond. Like flaming globes. Ah, ha, ha, ha..",
+      "parenthetical": "Germanic"
+    },
+    {
+      "entry_id": 253,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "(Pulls the note out of his pocket) That's it! That's it! Flaming globes of Sigmond! Flaming Globes of Sigmond! That's my note! tha'ts what I thought was so funny?! ..That's not funny.. There's nothing funny about that. (George throws the whole carton of ice cream over the separating curtan)",
+      "raw_text": "(Pulls the note out of his pocket) That's it! That's it! Flaming globes of Sigmond! Flaming Globes of Sigmond! That's my note! tha'ts what I thought was so funny?! ..That's not funny.. There's nothing funny about that. (George throws the whole carton of ice cream over the separating curtan)",
+      "confidence": 0.5,
+      "inference_notes": [
+        "Speaker line was followed only by a parenthetical in the source."
+      ]
+    },
+    {
+      "entry_id": 254,
+      "type": "dialogue",
+      "speaker": "MAN",
+      "normalized_speaker": "man",
+      "text": "Aaahhhgggg!",
+      "raw_text": "Aaahhhgggg!"
+    },
+    {
+      "entry_id": 255,
+      "type": "transition",
+      "text": "Scene ends",
+      "raw_text": "(Scene ends)"
+    },
+    {
+      "entry_id": 256,
+      "type": "scene_heading",
+      "text": "[Setting: Night club]",
+      "raw_text": "(Night club)",
+      "confidence": 0.9,
+      "location": "Night club",
+      "normalized_location": "night_club"
+    },
+    {
+      "entry_id": 257,
+      "type": "dialogue",
+      "speaker": "JERRY",
+      "normalized_speaker": "jerry",
+      "text": "I have a friend who's a hypochondriac, always thinks he's sick - never is. And they, you have another type of person, always thinks they're well, not matter how bad they really are. You know this type of person? Very annoying. \"Feel great.. like being on the respirator.. intravenous heart/lung machine. I never felt better in my life.\" Medical science is making advances every day in control health problems. In fact, it's probably only a matter of time before a heart attack, you know, becomes like, a head ache. We'll just see people on TV going, \"I had a heart attack this big (Holds out hands, gesturing bigness) ..but, I gave myself one of these. Clear! (Puts imaginary electrode panels to his chest) Brrhht.. and it's gone!\"",
+      "raw_text": "I have a friend who's a hypochondriac, always thinks he's sick - never is. And they, you have another type of person, always thinks they're well, not matter how bad they really are. You know this type of person? Very annoying. \"Feel great.. like being on the respirator.. intravenous heart/lung machine. I never felt better in my life.\" Medical science is making advances every day in control health problems. In fact, it's probably only a matter of time before a heart attack, you know, becomes like, a head ache. We'll just see people on TV going, \"I had a heart attack this big (Holds out hands, gesturing bigness) ..but, I gave myself one of these. Clear! (Puts imaginary electrode panels to his chest) Brrhht.. and it's gone!\""
+    },
+    {
+      "entry_id": 258,
+      "type": "end_marker",
+      "text": "THE END",
+      "raw_text": "THE END"
+    },
+    {
+      "entry_id": 259,
+      "type": "action",
+      "text": ">",
+      "raw_text": ">",
+      "confidence": 0.6
+    }
+  ]
+}
