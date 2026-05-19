@@ -214,3 +214,5 @@ python3 tools/generate_archive.py
   - Splitting the entry into three entries: `dialogue: "foo bar"`, `action (or maybe "direction"?): George gets irritated`, `dialogue: "baz qux"`
   - Add another 'action'-like prop to dialogue entries and strip the action/direction from the dialogue?
   - Or just ignore ... look through all dialogue parenthetical text blocks and if they are always direction, then they can be removed from `text` (while retaining in `raw_text`).
+- The Hugging Face dataset has 'addressed character' entries for dialogue. There's no description for how this is inferred, though I think with scene breaks we can *most of the time* assume it's all other characters in the scene, except for asides (typically indicated with the parens, mentioned above). Should I propagate this value through? My instinct says not to and do my own inference if that ever becomes data that I think could be useful (which my instinct also says is unlikely).
+
